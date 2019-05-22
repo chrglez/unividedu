@@ -1,0 +1,16 @@
+---
+title: 'Introducción a la programación lineal con LINGO'
+author: 'mateet ulpgc_2'
+date: 2018-05-02
+slug: introducción-a-la-programación-lineal-con-lingo
+categories:
+  - ULPGC
+  - matemáticas
+tags:
+  - programación
+  - LINGO
+banner: img/banners/banner-mat2-ulpgc.jpg
+---
+Some introductorial text
+
+{{< youtube w7Ft2ymGmfc >}}

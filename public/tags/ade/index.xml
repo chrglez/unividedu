@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ADE on Univideduc</title>
+    <link>/tags/ade/</link>
+    <description>Recent content in ADE on Univideduc</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 12 May 2011 15:06:15 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/ade/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>GRADO ADE - Lección: cálculo integral - Matemáticas economía - UNIR</title>
+      <link>/blog/2011/05/12/grado-ade-leccion-calculo-integral-matematicas-economia-unir-1/</link>
+      <pubDate>Thu, 12 May 2011 15:06:15 +0000</pubDate>
+      
+      <guid>/blog/2011/05/12/grado-ade-leccion-calculo-integral-matematicas-economia-unir-1/</guid>
+      <description>http://www.unir.net/grado-ade-administracion-direccion-empresas.aspx Nociones del cálculo integral. Profesor Ángel Ruíz Cueva. Matemática para la Economía ADE. Universidad Internacional de La Rioja
+  </description>
+    </item>
+    
+  </channel>
+</rss>

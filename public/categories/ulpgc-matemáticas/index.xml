@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ULPGC, matemáticas on Univideduc</title>
+    <link>/categories/ulpgc-matem%C3%A1ticas/</link>
+    <description>Recent content in ULPGC, matemáticas on Univideduc</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 10 Oct 2017 13:07:31 +0200</lastBuildDate>
+    
+	<atom:link href="/categories/ulpgc-matem%C3%A1ticas/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Introducción a la programación lineal</title>
+      <link>/blog/2017/10/10/introducci%C3%B3n-a-la-programaci%C3%B3n-lineal-con-lingo/</link>
+      <pubDate>Tue, 10 Oct 2017 13:07:31 +0200</pubDate>
+      
+      <guid>/blog/2017/10/10/introducci%C3%B3n-a-la-programaci%C3%B3n-lineal-con-lingo/</guid>
+      <description>   </description>
+    </item>
+    
+  </channel>
+</rss>

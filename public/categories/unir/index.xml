@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UNIR on Univideduc</title>
+    <link>/categories/unir/</link>
+    <description>Recent content in UNIR on Univideduc</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 13 Jul 2011 08:50:02 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/unir/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>UNIR - ¿Qué es la investigación cuantitativa-cualitativa?, Técnicas Investigación. España, 2013</title>
+      <link>/blog/2011/07/13/unir-que-es-la-investigacion-cuantitativa-cualitativa/</link>
+      <pubDate>Wed, 13 Jul 2011 08:50:02 +0000</pubDate>
+      
+      <guid>/blog/2011/07/13/unir-que-es-la-investigacion-cuantitativa-cualitativa/</guid>
+      <description>Técnicas de investigación social Ciencias Políticas y Gestión Pública UNIR http://www.unir.net
+  </description>
+    </item>
+    
+    <item>
+      <title>GRADO ADE - Lección: cálculo integral - Matemáticas economía - UNIR</title>
+      <link>/blog/2011/05/12/grado-ade-leccion-calculo-integral-matematicas-economia-unir-1/</link>
+      <pubDate>Thu, 12 May 2011 15:06:15 +0000</pubDate>
+      
+      <guid>/blog/2011/05/12/grado-ade-leccion-calculo-integral-matematicas-economia-unir-1/</guid>
+      <description>http://www.unir.net/grado-ade-administracion-direccion-empresas.aspx Nociones del cálculo integral. Profesor Ángel Ruíz Cueva. Matemática para la Economía ADE. Universidad Internacional de La Rioja
+  </description>
+    </item>
+    
+  </channel>
+</rss>
