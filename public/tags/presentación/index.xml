@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Presentación on Uvide</title>
+    <link>/tags/presentaci%C3%B3n/</link>
+    <description>Recent content in Presentación on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 16 Feb 2016 09:24:33 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/presentaci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lec002.1 Sacándole Partido al RStudio (umh1480)</title>
+      <link>/blog/2016/02/16/lec0021-sacandole-partido-al-rstudio-umh1480/</link>
+      <pubDate>Tue, 16 Feb 2016 09:24:33 +0000</pubDate>
+      
+      <guid>/blog/2016/02/16/lec0021-sacandole-partido-al-rstudio-umh1480/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/20XaPkS
+Sacándole Partido al RStudio. Asignatura: Técnicas Estadísticas en Investigación de Mercados. Grado en Estadística Empresarial. Profesor: Xavier Barber i Vallés. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE. Universidad Miguel Hernández de Elche.
+Vídeo donde se demustra las grandes posibilidades del RStudio, desde crear un documento Markdown y obtener un documento tipo Microsoft Word &amp;copy; hasta una aplicación interactiva Web con Shiny.</description>
+    </item>
+    
+    <item>
+      <title>Presentacion MOOC Estadística para investigadores: Todo lo que quiso saber y nunca...</title>
+      <link>/blog/2013/11/07/presentacion-mooc-estadistica-para-investigadores-todo-lo-que-quiso-saber-y-nunca/</link>
+      <pubDate>Thu, 07 Nov 2013 21:22:32 +0000</pubDate>
+      
+      <guid>/blog/2013/11/07/presentacion-mooc-estadistica-para-investigadores-todo-lo-que-quiso-saber-y-nunca/</guid>
+      <description>Titulo curso: Estadística para investigadores, todo lo que siempre quiso saber y no se atrevió a preguntar
+Cursos Online Masivos y Abiertos de la Universidad de Salamanca.
+Breve info: Si alguna vez has tenido problemas con la estadística, este curso está hecho para ti. Es ideal para investigadores y alumnos que se encuentran cursando trabajos fin de grado, trabajos fin de máster o realizando la tesis y que quieren realizar un análisis cuantitativo en sus estudios.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Esquema multiplicativo on Uvide</title>
+    <link>/tags/esquema-multiplicativo/</link>
+    <description>Recent content in Esquema multiplicativo on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 22 Feb 2013 14:18:53 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/esquema-multiplicativo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Practica - Series Temporales - 08/12 - Representación gráfica (esquema multiplicativo)</title>
+      <link>/blog/2013/02/22/practica-series-temporales-08-12-representacio%CC%81n-gra%CC%81fica-esquema-multiplicativo/</link>
+      <pubDate>Fri, 22 Feb 2013 14:18:53 +0000</pubDate>
+      
+      <guid>/blog/2013/02/22/practica-series-temporales-08-12-representacio%CC%81n-gra%CC%81fica-esquema-multiplicativo/</guid>
+      <description>Tutorial de Excel para la representación gráfica de una serie temporal y sus componentes cuando sigue un esquema multiplicativo.
+  </description>
+    </item>
+    
+    <item>
+      <title>Practica - Series Temporales - 06/12 - Calculo de la componente estacional (esquema multiplicativo)</title>
+      <link>/blog/2013/01/22/practica-series-temporales-06-12-calculo-de-la-componente-estacional-esquema-multiplicativo/</link>
+      <pubDate>Tue, 22 Jan 2013 17:23:43 +0000</pubDate>
+      
+      <guid>/blog/2013/01/22/practica-series-temporales-06-12-calculo-de-la-componente-estacional-esquema-multiplicativo/</guid>
+      <description>Tutorial de Excel para el cálculo de la componente estacional por el método de las medias móviles de una serie temporal que sigue un esquema multiplicativo.
+  </description>
+    </item>
+    
+    <item>
+      <title>Practica - Series Temporales - 07/12 - Desestacionalización (esquema multiplicativo)</title>
+      <link>/blog/2013/01/22/practica-series-temporales-07-12-desestacionalizacio%CC%81n-esquema-multiplicativo/</link>
+      <pubDate>Tue, 22 Jan 2013 17:22:29 +0000</pubDate>
+      
+      <guid>/blog/2013/01/22/practica-series-temporales-07-12-desestacionalizacio%CC%81n-esquema-multiplicativo/</guid>
+      <description>Tutorial de Excel para la desestacionalización por medias móviles de una serie temporal que sigue un esquema multiplicativo.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

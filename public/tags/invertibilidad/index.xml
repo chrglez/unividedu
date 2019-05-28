@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Invertibilidad on Uvide</title>
+    <link>/tags/invertibilidad/</link>
+    <description>Recent content in Invertibilidad on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 10 Apr 2013 12:58:01 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/invertibilidad/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>(Econometría) Validacion: 1.Condiciones parámetros</title>
+      <link>/blog/2013/04/10/econometria-validacion-1condiciones-para%CC%81metros/</link>
+      <pubDate>Wed, 10 Apr 2013 12:58:01 +0000</pubDate>
+      
+      <guid>/blog/2013/04/10/econometria-validacion-1condiciones-para%CC%81metros/</guid>
+      <description>En este tutorial de EViews se explica cómo comprobar las condiciones que deben cumplir los parámetros del modelo estimado, para superar la fase de validación.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>programación lineal on Uvide</title>
+    <link>/tags/programaci%C3%B3n-lineal/</link>
+    <description>Recent content in programación lineal on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 10 Mar 2014 17:47:23 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/programaci%C3%B3n-lineal/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Programación lineal con ayuda del complemento solver (hojas de cálculo). Caso práctico.</title>
+      <link>/blog/2014/03/10/programacion-lineal-con-ayuda-del-complemento-solver-hojas-de-calculo-caso-practico/</link>
+      <pubDate>Mon, 10 Mar 2014 17:47:23 +0000</pubDate>
+      
+      <guid>/blog/2014/03/10/programacion-lineal-con-ayuda-del-complemento-solver-hojas-de-calculo-caso-practico/</guid>
+      <description>Nota: Poner en formato HD para una mejor visualización pinchando sobre el icono de configuración del vídeo (engranaje). Resolución de este tipo de problemas con ayuda del complemento solver de las hojas de cálculo. Profesor: Fco. David de la Peña Esteban. Universidad a Distancia de Madrid. Udima.
+  </description>
+    </item>
+    
+    <item>
+      <title>Introducción a la programación lineal con LINGO</title>
+      <link>/blog/2013/05/02/introduccion-a-la-programacion-lineal-con-lingo/</link>
+      <pubDate>Thu, 02 May 2013 12:48:34 +0000</pubDate>
+      
+      <guid>/blog/2013/05/02/introduccion-a-la-programacion-lineal-con-lingo/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Introducción a la programación lineal con DERIVE</title>
+      <link>/blog/2013/05/01/introduccion-a-la-programacion-lineal-con-derive/</link>
+      <pubDate>Wed, 01 May 2013 00:11:09 +0000</pubDate>
+      
+      <guid>/blog/2013/05/01/introduccion-a-la-programacion-lineal-con-derive/</guid>
+      <description>   </description>
+    </item>
+    
+  </channel>
+</rss>

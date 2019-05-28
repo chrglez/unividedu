@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Regresión Lineal on Uvide</title>
+    <link>/tags/regresi%C3%B3n-lineal/</link>
+    <description>Recent content in Regresión Lineal on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 17 Mar 2017 13:04:15 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/regresi%C3%B3n-lineal/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Unidad 02: Los Modelos Lineales clásicos. El concepto de “El mejor Modelo” para mi empresa</title>
+      <link>/blog/2017/03/17/unidad-02-los-modelos-lineales-clasicos-el-concepto-de-el-mejor-modelo-para-mi-empresa/</link>
+      <pubDate>Fri, 17 Mar 2017 13:04:15 +0000</pubDate>
+      
+      <guid>/blog/2017/03/17/unidad-02-los-modelos-lineales-clasicos-el-concepto-de-el-mejor-modelo-para-mi-empresa/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/20XaPkS
+Los Modelos Lineales clásicos. El concepto de “El mejor Modelo” para mi empresa. Asignatura: Técnicas Estadísticas en Investigación de Mercados. Grado en Estadística Empresarial. Profesor: Xavier Barber i Vallés. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE. Universidad Miguel Hernández de Elche.
+Los Modelos Lineales clásicos. El concepto de “El mejor Modelo” para mi empresa.</description>
+    </item>
+    
+    <item>
+      <title>Lec004.1 Repaso a los Modelos Lineales (umh1480)</title>
+      <link>/blog/2016/02/29/lec0041-repaso-a-los-modelos-lineales-umh1480/</link>
+      <pubDate>Mon, 29 Feb 2016 14:30:35 +0000</pubDate>
+      
+      <guid>/blog/2016/02/29/lec0041-repaso-a-los-modelos-lineales-umh1480/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/20XaPkS
+Repaso a los Modelos Lineales. Asignatura: Técnicas Estadísticas en Investigación de Mercados. Grado en Estadística Empresarial. Profesor: Xavier Barber i Vallés. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE. Universidad Miguel Hernández de Elche.
+Breve repaso al concepto de Modelos Lineales: Regresión Lienal, ANOVA y ANCOVA
+web asignatura: http://umh1480.edu.umh.es/ web: http://umh.es
+  </description>
+    </item>
+    
+    <item>
+      <title>Practica - Series Temporales - 09/12 - Calculo de la tendencia (método analítico)</title>
+      <link>/blog/2013/02/22/practica-series-temporales-09-12-calculo-de-la-tendencia-me%CC%81todo-anali%CC%81tico/</link>
+      <pubDate>Fri, 22 Feb 2013 14:19:01 +0000</pubDate>
+      
+      <guid>/blog/2013/02/22/practica-series-temporales-09-12-calculo-de-la-tendencia-me%CC%81todo-anali%CC%81tico/</guid>
+      <description>Tutorial de Excel para el cálculo de la tendencia de una serie temporal por el método analítico.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

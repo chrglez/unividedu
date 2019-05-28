@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>5 on Uvide</title>
+    <link>/tags/5/</link>
+    <description>Recent content in 5 on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 18 Dec 2012 11:59:21 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/5/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Curso R - Análisis de datos</title>
+      <link>/blog/2012/12/18/curso-r-analisis-de-datos/</link>
+      <pubDate>Tue, 18 Dec 2012 11:59:21 +0000</pubDate>
+      
+      <guid>/blog/2012/12/18/curso-r-analisis-de-datos/</guid>
+      <description>   </description>
+    </item>
+    
+  </channel>
+</rss>

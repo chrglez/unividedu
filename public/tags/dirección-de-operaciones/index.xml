@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dirección de Operaciones on Uvide</title>
+    <link>/tags/direcci%C3%B3n-de-operaciones/</link>
+    <description>Recent content in Dirección de Operaciones on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 20 Mar 2015 10:42:50 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/direcci%C3%B3n-de-operaciones/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Job Shop. Caso práctico.</title>
+      <link>/blog/2015/03/20/job-shop-caso-practico/</link>
+      <pubDate>Fri, 20 Mar 2015 10:42:50 +0000</pubDate>
+      
+      <guid>/blog/2015/03/20/job-shop-caso-practico/</guid>
+      <description>Caso práctico de Job Shop. N máquinas, rutas aleatorias y plazos de entrega. David de la Peña Esteban. Universidad a Distancia de Madrid, Udima.
+  </description>
+    </item>
+    
+    <item>
+      <title>Localización de instalaciones con cobertura. Caso práctico.</title>
+      <link>/blog/2014/02/17/localizacio%CC%81n-de-instalaciones-con-cobertura-caso-practico/</link>
+      <pubDate>Mon, 17 Feb 2014 10:40:32 +0000</pubDate>
+      
+      <guid>/blog/2014/02/17/localizacio%CC%81n-de-instalaciones-con-cobertura-caso-practico/</guid>
+      <description>Profesor: David de la Peña Esteban Udima, Universidad a Distancia de Madrid.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

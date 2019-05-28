@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open edx on Uvide</title>
+    <link>/tags/open-edx/</link>
+    <description>Recent content in Open edx on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 23 Mar 2017 10:52:38 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/open-edx/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>URJCx-MOOC BIG DATA. La muestra en investigación: diseño muestral</title>
+      <link>/blog/2017/03/23/urjcx-mooc-big-data-la-muestra-en-investigacion-diseno-muestral/</link>
+      <pubDate>Thu, 23 Mar 2017 10:52:38 +0000</pubDate>
+      
+      <guid>/blog/2017/03/23/urjcx-mooc-big-data-la-muestra-en-investigacion-diseno-muestral/</guid>
+      <description>URJCx-MOOC Técnicas de Análisis de Datos y Big Data - URJCx-MOOC BIG DATA. La muestra en investigación: diseño muestral Tema 1: Análisis y visualización de datos univariantes Se explica cómo obtener el tamaño de muestreo tanto para el caso discreto como para el caso contiguo. Vídeo disponible en: https://tv.urjc.es/video/58d37c3ed68b14654b8b470c
+  </description>
+    </item>
+    
+  </channel>
+</rss>

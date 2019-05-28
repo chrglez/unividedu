@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>organización de la producción on Uvide</title>
+    <link>/tags/organizaci%C3%B3n-de-la-producci%C3%B3n/</link>
+    <description>Recent content in organización de la producción on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 22 Apr 2016 11:18:34 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/organizaci%C3%B3n-de-la-producci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Asignación de carga a talleres: método de los índices</title>
+      <link>/blog/2016/04/22/asignacion-de-carga-a-talleres-metodo-de-los-indices/</link>
+      <pubDate>Fri, 22 Apr 2016 11:18:34 +0000</pubDate>
+      
+      <guid>/blog/2016/04/22/asignacion-de-carga-a-talleres-metodo-de-los-indices/</guid>
+      <description>Caso práctico. Profesor: David de la Peña Esteban. Udima, Universidad a Distancia de Madrid
+  </description>
+    </item>
+    
+    <item>
+      <title>Caso práctico Inventarios: Aprovisionamiento y consumo simultáneos.</title>
+      <link>/blog/2015/03/20/caso-practico-inventarios-aprovisionamiento-y-consumo-simultaneos/</link>
+      <pubDate>Fri, 20 Mar 2015 10:47:33 +0000</pubDate>
+      
+      <guid>/blog/2015/03/20/caso-practico-inventarios-aprovisionamiento-y-consumo-simultaneos/</guid>
+      <description>Caso práctico Inventarios: Aprovisionamiento y consumo simultáneos. David de la Peña Esteban. Universidad a Distancia de Madrid, Udima.
+  </description>
+    </item>
+    
+    <item>
+      <title>Job Shop. Caso práctico.</title>
+      <link>/blog/2015/03/20/job-shop-caso-practico/</link>
+      <pubDate>Fri, 20 Mar 2015 10:42:50 +0000</pubDate>
+      
+      <guid>/blog/2015/03/20/job-shop-caso-practico/</guid>
+      <description>Caso práctico de Job Shop. N máquinas, rutas aleatorias y plazos de entrega. David de la Peña Esteban. Universidad a Distancia de Madrid, Udima.
+  </description>
+    </item>
+    
+    <item>
+      <title>Localización de instalaciones con cobertura. Caso práctico.</title>
+      <link>/blog/2014/02/17/localizacio%CC%81n-de-instalaciones-con-cobertura-caso-practico/</link>
+      <pubDate>Mon, 17 Feb 2014 10:40:32 +0000</pubDate>
+      
+      <guid>/blog/2014/02/17/localizacio%CC%81n-de-instalaciones-con-cobertura-caso-practico/</guid>
+      <description>Profesor: David de la Peña Esteban Udima, Universidad a Distancia de Madrid.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

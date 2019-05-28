@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tabla on Uvide</title>
+    <link>/tags/tabla/</link>
+    <description>Recent content in Tabla on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 07 Mar 2013 08:19:35 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/tabla/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>umh1263 2012-13 Lec005. Práctica ED1-Descriptiva para variables nominales</title>
+      <link>/blog/2013/03/07/umh1263-2012-13-lec005-practica-ed1-descriptiva-para-variables-nominales/</link>
+      <pubDate>Thu, 07 Mar 2013 08:19:35 +0000</pubDate>
+      
+      <guid>/blog/2013/03/07/umh1263-2012-13-lec005-practica-ed1-descriptiva-para-variables-nominales/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/15vMRE0
+Práctica ED1. Descriptiva para variables nominales. Asignatura: Análisis Exploratorio de Datos. Grado en Administración y Dirección de Empresas (Elche). Profesora: Mª Asunción Martínez Mayoral. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE 2013. Universidad Miguel Hernández de Elche.
+Cálculo de tablas de frecuencias para datos relativos a variables nominales. Gráficos de barras y sectores.</description>
+    </item>
+    
+    <item>
+      <title>umh1263 2012-13 Lec006. Práctica ED2-Descriptiva para variables ordinales</title>
+      <link>/blog/2013/03/07/umh1263-2012-13-lec006-practica-ed2-descriptiva-para-variables-ordinales/</link>
+      <pubDate>Thu, 07 Mar 2013 08:15:15 +0000</pubDate>
+      
+      <guid>/blog/2013/03/07/umh1263-2012-13-lec006-practica-ed2-descriptiva-para-variables-ordinales/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/15vMRE0
+Práctica ED2. Descriptiva para variables ordinales. Asignatura: Análisis Exploratorio de Datos. Grado en Administración y Dirección de Empresas (Elche). Profesora: Mª Asunción Martínez Mayoral. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE 2013. Universidad Miguel Hernández de Elche.
+Tablas de frecuencias para variables ordinales. Codificación numérica. Gráficos relativos y acumulados.
+web asignatura: http://umh1263.edu.umh.es web: http://umh.</description>
+    </item>
+    
+    <item>
+      <title>Practica   Variable unidimensional discreta   01/07  Tabla de distribucion de frecuencias</title>
+      <link>/blog/2013/01/21/practica-variable-unidimensional-discreta-01-07-tabla-de-distribucion-de-frecuencias/</link>
+      <pubDate>Mon, 21 Jan 2013 14:59:57 +0000</pubDate>
+      
+      <guid>/blog/2013/01/21/practica-variable-unidimensional-discreta-01-07-tabla-de-distribucion-de-frecuencias/</guid>
+      <description>Tutorial de Excel para el cálculo de una tabla de distribución de frecuencias.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

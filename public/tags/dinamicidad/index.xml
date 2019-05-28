@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dinamicidad on Uvide</title>
+    <link>/tags/dinamicidad/</link>
+    <description>Recent content in Dinamicidad on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 29 Sep 2017 13:41:56 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/dinamicidad/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>5. Modelo de Consumo: Re-especificación y Predicción. Introducción a la Econometría V (VRLR)</title>
+      <link>/blog/2017/09/29/5-modelo-de-consumo-re-especificacion-y-prediccion-introduccion-a-la-econometria-v-vrlr/</link>
+      <pubDate>Fri, 29 Sep 2017 13:41:56 +0000</pubDate>
+      
+      <guid>/blog/2017/09/29/5-modelo-de-consumo-re-especificacion-y-prediccion-introduccion-a-la-econometria-v-vrlr/</guid>
+      <description>V Vídeo de la Serie de Introducción a la Econometría del Prof. Víctor Raúl López Ruiz (VRLR) en donde se mejora el modelo de Consumo inicial y se aplica con una predicción para 2017.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

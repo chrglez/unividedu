@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Analisis de varianza on Uvide</title>
+    <link>/tags/analisis-de-varianza/</link>
+    <description>Recent content in Analisis de varianza on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Sat, 12 Oct 2013 03:51:57 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/analisis-de-varianza/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ANOVA. Introducción |  | UPV</title>
+      <link>/blog/2013/10/12/anova-introduccion-upv-1/</link>
+      <pubDate>Sat, 12 Oct 2013 03:51:57 +0000</pubDate>
+      
+      <guid>/blog/2013/10/12/anova-introduccion-upv-1/</guid>
+      <description>Título: ANOVA. Introducción
+Descripción: sobre un ejemplo intuitivo se explica el fundamento en el cual se basa el analisis de varianza
+Autor/a: Cabrera García Suitberto
+ Universitat Politècnica de València UPV: https://www.upv.es Más vídeos en: https://www.youtube.com/valenciaupv Accede a nuestros MOOC: https://upvx.es    </description>
+    </item>
+    
+    <item>
+      <title>ANOVA. Introducción |  | UPV</title>
+      <link>/blog/2013/10/12/anova-introduccion-upv/</link>
+      <pubDate>Sat, 12 Oct 2013 03:51:57 +0000</pubDate>
+      
+      <guid>/blog/2013/10/12/anova-introduccion-upv/</guid>
+      <description>Título: ANOVA. Introducción
+Descripción: sobre un ejemplo intuitivo se explica el fundamento en el cual se basa el analisis de varianza
+Autor/a: Cabrera García Suitberto
+ Universitat Politècnica de València UPV: https://www.upv.es Más vídeos en: https://www.youtube.com/valenciaupv Accede a nuestros MOOC: https://upvx.es    </description>
+    </item>
+    
+  </channel>
+</rss>

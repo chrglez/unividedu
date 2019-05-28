@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SARIMA on Uvide</title>
+    <link>/tags/sarima/</link>
+    <description>Recent content in SARIMA on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 06 May 2013 14:37:23 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/sarima/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>(Econometría) Predicción a futuro en Eviews</title>
+      <link>/blog/2013/05/06/econometria-prediccio%CC%81n-a-futuro-en-eviews/</link>
+      <pubDate>Mon, 06 May 2013 14:37:23 +0000</pubDate>
+      
+      <guid>/blog/2013/05/06/econometria-prediccio%CC%81n-a-futuro-en-eviews/</guid>
+      <description>En este tutorial de EViews se explica cómo abordar la fase de predicción extramuestral mediante un modelo SARIMA que ha pasado todas las fases de validación.
+  </description>
+    </item>
+    
+    <item>
+      <title>(Econometría) Predicción: 3. Evaluación de la capacidad predictiva</title>
+      <link>/blog/2013/04/24/econometria-prediccio%CC%81n-3-evaluacion-de-la-capacidad-predictiva/</link>
+      <pubDate>Wed, 24 Apr 2013 12:19:18 +0000</pubDate>
+      
+      <guid>/blog/2013/04/24/econometria-prediccio%CC%81n-3-evaluacion-de-la-capacidad-predictiva/</guid>
+      <description>En este tutorial de EViews se explica cómo evaluar la capacidad productiva de una modelización dinámica realizada a partir de un modelo SARIMA.
+  </description>
+    </item>
+    
+    <item>
+      <title>(Econometría) Predicción: 4. Elección del modelo para predecir</title>
+      <link>/blog/2013/04/24/econometria-prediccio%CC%81n-4-eleccion-del-modelo-para-predecir/</link>
+      <pubDate>Wed, 24 Apr 2013 12:08:20 +0000</pubDate>
+      
+      <guid>/blog/2013/04/24/econometria-prediccio%CC%81n-4-eleccion-del-modelo-para-predecir/</guid>
+      <description>En este tutorial de EViews se explica cómo decantarnos por uno de los modelos SARIMA estimados, en función de su capacidad predictiva.
+  </description>
+    </item>
+    
+    <item>
+      <title>(Econometría) Predicción: 2. Predicción dinámica de últimos datos</title>
+      <link>/blog/2013/04/24/econometria-prediccio%CC%81n-2-prediccion-dinamica-de-ultimos-datos/</link>
+      <pubDate>Wed, 24 Apr 2013 11:40:07 +0000</pubDate>
+      
+      <guid>/blog/2013/04/24/econometria-prediccio%CC%81n-2-prediccion-dinamica-de-ultimos-datos/</guid>
+      <description>En este tutorial de EViews se explica cómo se realiza una predicción dinámica de una serie temporal, mediante un modelo SARIMA.
+  </description>
+    </item>
+    
+    <item>
+      <title>(Econometría) Predicción: 1. Estimación sin últimos datos</title>
+      <link>/blog/2013/04/24/econometria-prediccio%CC%81n-1-estimacion-sin-ultimos-datos/</link>
+      <pubDate>Wed, 24 Apr 2013 11:24:01 +0000</pubDate>
+      
+      <guid>/blog/2013/04/24/econometria-prediccio%CC%81n-1-estimacion-sin-ultimos-datos/</guid>
+      <description>En este tutorial de EViews se explica cómo se comienza a validar la capacidad predictiva de un modelo SARIMA. Para ellos se eliminan los últimos 12 datos de la serie y se comprueba que el SARIMA estimado mantiene sus propiedades.
+  </description>
+    </item>
+    
+    <item>
+      <title>(Econometría) Identificacion y estimacion: 4. Segundo modelo</title>
+      <link>/blog/2013/04/03/econometria-identificacion-y-estimacion-4-segundo-modelo/</link>
+      <pubDate>Wed, 03 Apr 2013 09:42:11 +0000</pubDate>
+      
+      <guid>/blog/2013/04/03/econometria-identificacion-y-estimacion-4-segundo-modelo/</guid>
+      <description>Mediante este tutorial de EViews se explica cómo se puede identificar y estimar un posible modelo SARIMA, a partir del análisis de los correlogramas, consiguiendo finalmente que los residuos estén incorrelacionados.
+  </description>
+    </item>
+    
+    <item>
+      <title>(Econometría) Identificacion y estimacion: 3. Buscando el segundo modelo</title>
+      <link>/blog/2013/04/02/econometria-identificacion-y-estimacion-3-buscando-el-segundo-modelo/</link>
+      <pubDate>Tue, 02 Apr 2013 22:30:22 +0000</pubDate>
+      
+      <guid>/blog/2013/04/02/econometria-identificacion-y-estimacion-3-buscando-el-segundo-modelo/</guid>
+      <description>Mediante este tutorial de EViews se explica cómo, en ocasiones, intentando identificar un segundo modelo SARIMA alternativo, nos damos cuenta de que la variable endógena que estamos utilizando no tiene el número de diferencias que debería.
+  </description>
+    </item>
+    
+    <item>
+      <title>(Econometría) Identificacion y estimacion: 2. Primer modelo</title>
+      <link>/blog/2013/04/02/econometria-identificacion-y-estimacion-2-primer-modelo/</link>
+      <pubDate>Tue, 02 Apr 2013 22:09:13 +0000</pubDate>
+      
+      <guid>/blog/2013/04/02/econometria-identificacion-y-estimacion-2-primer-modelo/</guid>
+      <description>Mediante este tutorial de EViews se explica cómo se puede identificar y estimar un posible modelo SARIMA, a partir del análisis de los correlogramas, consiguiendo finalmente que los residuos de dicho modelo estén incorrelacionados.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

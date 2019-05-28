@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tutorial on Uvide</title>
+    <link>/tags/tutorial/</link>
+    <description>Recent content in Tutorial on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 07 Mar 2014 12:28:40 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Teoría de juegos de suma cero con estrategias mixtas con hojas de cálculo. Caso práctico.</title>
+      <link>/blog/2014/03/07/teoria-de-juegos-de-suma-cero-con-estrategias-mixtas-con-hojas-de-calculo-caso-practico/</link>
+      <pubDate>Fri, 07 Mar 2014 12:28:40 +0000</pubDate>
+      
+      <guid>/blog/2014/03/07/teoria-de-juegos-de-suma-cero-con-estrategias-mixtas-con-hojas-de-calculo-caso-practico/</guid>
+      <description>Nota: Poner en formato HD para una mejor visualización pinchando sobre el icono de configuración del vídeo (engranaje). Resolución de este tipo de problemas con ayuda del complemento solver de las hojas de cálculo. Profesor: Fco. David de la Peña Esteban. Universidad a Distancia de Madrid. Udima.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

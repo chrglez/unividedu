@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Distribución marginal on Uvide</title>
+    <link>/tags/distribuci%C3%B3n-marginal/</link>
+    <description>Recent content in Distribución marginal on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 22 Feb 2013 14:20:33 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/distribuci%C3%B3n-marginal/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Practica - Variable bidimensional - 02/05 - Medias y varianzas de distribuciones marginales</title>
+      <link>/blog/2013/02/22/practica-variable-bidimensional-02-05-medias-y-varianzas-de-distribuciones-marginales/</link>
+      <pubDate>Fri, 22 Feb 2013 14:20:33 +0000</pubDate>
+      
+      <guid>/blog/2013/02/22/practica-variable-bidimensional-02-05-medias-y-varianzas-de-distribuciones-marginales/</guid>
+      <description>Tutorial de Excel para calcular medias y varianzas de distribuciones marginales a partir de una tabla de frecuencias de doble entrada.
+  </description>
+    </item>
+    
+    <item>
+      <title>Teoria - Estadistica Basica - Introduccion - Bivariante</title>
+      <link>/blog/2013/02/22/teoria-estadistica-basica-introduccion-bivariante/</link>
+      <pubDate>Fri, 22 Feb 2013 14:18:09 +0000</pubDate>
+      
+      <guid>/blog/2013/02/22/teoria-estadistica-basica-introduccion-bivariante/</guid>
+      <description>En este vídeo se abordan los siguientes aspectos relacionados con el análisis conjunto de 2 variables estadísticas: - tabla de distribución de frecuencias de doble entrada - distribuciones marginales - distribuciones condicionadas
+  </description>
+    </item>
+    
+    <item>
+      <title>Practica - Variable bidimensional - 01/05 - Distribuciones marginales</title>
+      <link>/blog/2013/01/22/practica-variable-bidimensional-01-05-distribuciones-marginales/</link>
+      <pubDate>Tue, 22 Jan 2013 11:24:16 +0000</pubDate>
+      
+      <guid>/blog/2013/01/22/practica-variable-bidimensional-01-05-distribuciones-marginales/</guid>
+      <description>Tutorial de Excel para obtener las distribuciones marginales a partir de una tabla de doble entrada.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

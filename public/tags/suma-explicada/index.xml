@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Suma Explicada on Uvide</title>
+    <link>/tags/suma-explicada/</link>
+    <description>Recent content in Suma Explicada on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 13 Nov 2018 19:13:04 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/suma-explicada/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>V. Consulta sobre estimadores y sumas cuadráticas a Víctor R López</title>
+      <link>/blog/2018/11/13/v-consulta-sobre-estimadores-y-sumas-cuadraticas-a-victor-r-lopez/</link>
+      <pubDate>Tue, 13 Nov 2018 19:13:04 +0000</pubDate>
+      
+      <guid>/blog/2018/11/13/v-consulta-sobre-estimadores-y-sumas-cuadraticas-a-victor-r-lopez/</guid>
+      <description>V: Consultas al Profesor Víctor Raúl López Ruiz en Econometría sobre comparación de estimadores MCO y MV, y la relación entre ST, SE y SCR planteada por Irene y Mireya.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

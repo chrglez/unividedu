@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>especificidad on Uvide</title>
+    <link>/tags/especificidad/</link>
+    <description>Recent content in especificidad on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 10 May 2017 06:25:40 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/especificidad/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Unidad 3.2: Vender o no Vender. Capacidad predictiva del modelo logístico</title>
+      <link>/blog/2017/05/10/unidad-32-vender-o-no-vender-capacidad-predictiva-del-modelo-logistico/</link>
+      <pubDate>Wed, 10 May 2017 06:25:40 +0000</pubDate>
+      
+      <guid>/blog/2017/05/10/unidad-32-vender-o-no-vender-capacidad-predictiva-del-modelo-logistico/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/20XaPkS
+Vender o no Vender. Capacidad predictiva del modelo logístico. Asignatura: Técnicas Estadísticas en Investigación de Mercados. Grado en Estadística Empresarial. Profesor: Xavier Barber i Vallés. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE. Universidad Miguel Hernández de Elche.
+Vídeo en el que se muestra cómo comprobar la bondad de ajuste de un modelo, así como la capacidad predictiva.</description>
+    </item>
+    
+  </channel>
+</rss>

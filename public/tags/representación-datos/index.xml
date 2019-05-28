@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>representación datos on Uvide</title>
+    <link>/tags/representaci%C3%B3n-datos/</link>
+    <description>Recent content in representación datos on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 07 Nov 2013 21:22:50 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/representaci%C3%B3n-datos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Estadística Descriptiva: Tablas estadísticas y Tratamiento gráfico. Módulo 1</title>
+      <link>/blog/2013/11/07/estadistica-descriptiva-tablas-estadisticas-y-tratamiento-grafico-modulo-1/</link>
+      <pubDate>Thu, 07 Nov 2013 21:22:50 +0000</pubDate>
+      
+      <guid>/blog/2013/11/07/estadistica-descriptiva-tablas-estadisticas-y-tratamiento-grafico-modulo-1/</guid>
+      <description>USAL MOOC Cursos Online Masivos y Abiertos de la Universidad de Salamanca.
+Titulo curso: Estadística para investigadores, todo lo que siempre quiso saber y no se atrevió a preguntar
+Breve info: Si alguna vez has tenido problemas con la estadística, este curso está hecho para ti. Es ideal para
+investigadores y alumnos que se encuentran cursando trabajos fin de grado, trabajos fin de máster o realizando la
+tesis y que quieren realizar un análisis cuantitativo en sus estudios.</description>
+    </item>
+    
+  </channel>
+</rss>

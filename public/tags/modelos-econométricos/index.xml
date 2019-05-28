@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Modelos econométricos on Uvide</title>
+    <link>/tags/modelos-econom%C3%A9tricos/</link>
+    <description>Recent content in Modelos econométricos on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Sun, 15 Oct 2017 10:21:21 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/modelos-econom%C3%A9tricos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>7. Re-especificación y Predicción, (E-views 2). Introducción a la Econometría VII (VRLR)</title>
+      <link>/blog/2017/10/15/7-re-especificacion-y-prediccion/</link>
+      <pubDate>Sun, 15 Oct 2017 10:21:21 +0000</pubDate>
+      
+      <guid>/blog/2017/10/15/7-re-especificacion-y-prediccion/</guid>
+      <description>VII Vídeo de la colección de Introducción a la Econometría del Profesor Víctor Raúl López Ruiz (VRLR) donde se reespecifica el modelo de consumo en una versión dinámica, estima y utiliza para predicción, todo bajo E-views
+  </description>
+    </item>
+    
+    <item>
+      <title>3.Modelo de Consumo: La Estimación. Introducción a la Econometría III (VRLR)</title>
+      <link>/blog/2017/09/21/3modelo-de-consumo-la-estimacion-introduccion-a-la-econometria-iii-vrlr/</link>
+      <pubDate>Thu, 21 Sep 2017 17:09:00 +0000</pubDate>
+      
+      <guid>/blog/2017/09/21/3modelo-de-consumo-la-estimacion-introduccion-a-la-econometria-iii-vrlr/</guid>
+      <description>III Video-tutorial de la colección Introducción a la Econometría en el que se realiza la estimación MCO de los parámetros y residuos para una versión inicial del modelo con un template en Excel. Por Prof. Víctor Raúl López Ruiz (VRLR)
+  </description>
+    </item>
+    
+    <item>
+      <title>2.Modelo de Consumo: Los Datos. Introducción a la Econometría II (VRLR)</title>
+      <link>/blog/2017/09/18/2modelo-de-consumo-los-datos-introduccion-a-la-econometria-ii-vrlr/</link>
+      <pubDate>Mon, 18 Sep 2017 16:50:26 +0000</pubDate>
+      
+      <guid>/blog/2017/09/18/2modelo-de-consumo-los-datos-introduccion-a-la-econometria-ii-vrlr/</guid>
+      <description>Trabajo con Modelos. Tutorial para desarrollo del modelo de Consumo para España. Los Datos II vídeo colección Introducción a la Econometría por el Prof. Víctor Raúl López Ruiz (VRLR)
+  </description>
+    </item>
+    
+  </channel>
+</rss>

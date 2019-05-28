@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2009 on Uvide</title>
+    <link>/tags/2009/</link>
+    <description>Recent content in 2009 on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 07 Dec 2009 00:33:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/2009/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Encuentro en la UIMP sobre estadística y agricultura</title>
+      <link>/blog/2009/12/07/encuentro-en-la-uimp-sobre-estadistica-y-agricultura/</link>
+      <pubDate>Mon, 07 Dec 2009 00:33:00 +0000</pubDate>
+      
+      <guid>/blog/2009/12/07/encuentro-en-la-uimp-sobre-estadistica-y-agricultura/</guid>
+      <description>Fin de los Cursos de Otoño de la UIMP en Sevilla.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

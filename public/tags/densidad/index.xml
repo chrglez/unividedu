@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Densidad on Uvide</title>
+    <link>/tags/densidad/</link>
+    <description>Recent content in Densidad on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 22 Jan 2013 10:17:40 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/densidad/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Practica   Variable unidimensional continua   01/06  Tabla de distribucion de frecuencias</title>
+      <link>/blog/2013/01/22/practica-variable-unidimensional-continua-01-06-tabla-de-distribucion-de-frecuencias/</link>
+      <pubDate>Tue, 22 Jan 2013 10:17:40 +0000</pubDate>
+      
+      <guid>/blog/2013/01/22/practica-variable-unidimensional-continua-01-06-tabla-de-distribucion-de-frecuencias/</guid>
+      <description>Tutorial de Excel para el cálculo de la tabla de distribución de frecuencias con una variable continua.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>adjuntos on Uvide</title>
+    <link>/tags/adjuntos/</link>
+    <description>Recent content in adjuntos on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 25 Jun 2014 22:05:36 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/adjuntos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Calculo de matrices inversas | 13/14 | UPV</title>
+      <link>/blog/2014/06/25/calculo-de-matrices-inversas-13-14-upv/</link>
+      <pubDate>Wed, 25 Jun 2014 22:05:36 +0000</pubDate>
+      
+      <guid>/blog/2014/06/25/calculo-de-matrices-inversas-13-14-upv/</guid>
+      <description>Título: Calculo de matrices inversas
+Autor/a: Herrero Debón Alicia
+Curso: Este vídeo es el 13&amp;frasl;14 del curso MOOC Bases Matemáticas: Álgebra | Universitat Politècnica de València (UPV). https://www.youtube.com/playlist?list=PL6kQim6ljTJtkMNu8kOYKCUhUdd_jDbMD
+Inscríbete en: https://upvx.es/courses/course-v1:edxorg+bases-matematicas-algebra+bma101x/about
+ Universitat Politècnica de València UPV: https://www.upv.es Más vídeos en: https://www.youtube.com/valenciaupv Accede a nuestros MOOC: https://upvx.es    </description>
+    </item>
+    
+  </channel>
+</rss>

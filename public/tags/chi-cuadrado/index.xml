@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>chi cuadrado on Uvide</title>
+    <link>/tags/chi-cuadrado/</link>
+    <description>Recent content in chi cuadrado on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 06 Nov 2014 21:36:24 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/chi-cuadrado/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Distribuciones continuas de probabilidad con Statgraphics |  | UPV</title>
+      <link>/blog/2014/11/06/distribuciones-continuas-de-probabilidad-con-statgraphics-upv/</link>
+      <pubDate>Thu, 06 Nov 2014 21:36:24 +0000</pubDate>
+      
+      <guid>/blog/2014/11/06/distribuciones-continuas-de-probabilidad-con-statgraphics-upv/</guid>
+      <description>Título: Distribuciones continuas de probabilidad con Statgraphics
+Descripción: En este objeto se muestra cómo utilizar el programa Statgraphics para obtener información sobre las varaables aleatorias continuas, en particular, de la distribución normal, la t-Student y la Chi-cuadrado. Se indica cómo calcular probabilidades y valores críticos con la ayuda del programa.
+Autor/a: Monreal Mengual Llucía
+ Universitat Politècnica de València UPV: https://www.upv.es Más vídeos en: https://www.youtube.com/valenciaupv Accede a nuestros MOOC: https://upvx.es    </description>
+    </item>
+    
+    <item>
+      <title>Tablas de contingencia y Chi-Cuadrado</title>
+      <link>/blog/2014/06/11/tablas-de-contingencia-y-chi-cuadrado/</link>
+      <pubDate>Wed, 11 Jun 2014 11:03:56 +0000</pubDate>
+      
+      <guid>/blog/2014/06/11/tablas-de-contingencia-y-chi-cuadrado/</guid>
+      <description>Autor:Serra Añó, Pilar; Ponce Darós, María José; López Bueno, Laura; González Moreno, Luis Millán; García Massó, Xavier; Fecha:2014 Resumen: Organización de tablas de contingencia y ejecución de la prueba Chi-Cuadrado para establecer la asociación entre variables en el área de las Ciencias de la Salud. Producción:SFPIE (www.uv.es/sfpie)-VLC Campus
+  </description>
+    </item>
+    
+    <item>
+      <title>Análisis de la relación entre dos variables cualitativas. Chi cuadrado: significación Módulo 4</title>
+      <link>/blog/2013/11/07/analisis-de-la-relacion-entre-dos-variables-cualitativas-chi-cuadrado-significacion-modulo-4/</link>
+      <pubDate>Thu, 07 Nov 2013 21:24:08 +0000</pubDate>
+      
+      <guid>/blog/2013/11/07/analisis-de-la-relacion-entre-dos-variables-cualitativas-chi-cuadrado-significacion-modulo-4/</guid>
+      <description>Titulo curso: Estadística para investigadores, todo lo que siempre quiso saber y no se atrevió a preguntar
+Cursos Online Masivos y Abiertos de la Universidad de Salamanca.
+Breve info: Si alguna vez has tenido problemas con la estadística, este curso está hecho para ti. Es ideal para investigadores y alumnos que se encuentran cursando trabajos fin de grado, trabajos fin de máster o realizando la tesis y que quieren realizar un análisis cuantitativo en sus estudios.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MCO on Uvide</title>
+    <link>/tags/mco/</link>
+    <description>Recent content in MCO on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 26 Sep 2017 18:40:48 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/mco/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>4. Modelo de Consumo: Contraste y Validación. Introducción a la Econometría IV (VRLR)</title>
+      <link>/blog/2017/09/26/4-modelo-de-consumo-contraste-y-validacion-introduccion-a-la-econometria-iv-vrlr/</link>
+      <pubDate>Tue, 26 Sep 2017 18:40:48 +0000</pubDate>
+      
+      <guid>/blog/2017/09/26/4-modelo-de-consumo-contraste-y-validacion-introduccion-a-la-econometria-iv-vrlr/</guid>
+      <description>IV video de la colección de Introducción a la Econometría por Víctor Raúl López Ruiz (VRLR) en el que se aplican medidas de contraste y validación al Modelo de Consumo.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

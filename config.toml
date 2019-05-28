@@ -1,5 +1,5 @@
 baseurl = "/"
-title = "Univideduc"
+title = "Uvide"
 theme = "hugo-universal-theme"
 languageCode = "es"
 # Site language. Available translations in the theme's `/i18n` directory.
@@ -68,7 +68,7 @@ paginate = 15
 
 [params]
     viewMorePostLink = "/blog/"
-    author = "univideduc"
+    author = "uvide"
     defaultKeywords = ["vídeo", "universidad"]
     defaultDescription = "Plataforma de enlaces a vídeos educativos producidos poruniverisdades españolas"
 
@@ -104,7 +104,7 @@ paginate = 15
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
 
-    logo = "img/ulpgc-logo.jpg"
+    logo = "img/ulpgc-logo.png"
     logo_small = "img/ulpgc-small.png"
     #address = """<p><strong>Universal Ltd.</strong>
     #    <br>13/25 New Avenue

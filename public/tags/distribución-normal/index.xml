@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Distribución normal on Uvide</title>
+    <link>/tags/distribuci%C3%B3n-normal/</link>
+    <description>Recent content in Distribución normal on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 07 May 2013 21:18:42 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/distribuci%C3%B3n-normal/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Teorema Central del Límite 01/04</title>
+      <link>/blog/2013/05/07/teorema-central-del-li%CC%81mite-01-04/</link>
+      <pubDate>Tue, 07 May 2013 21:18:42 +0000</pubDate>
+      
+      <guid>/blog/2013/05/07/teorema-central-del-li%CC%81mite-01-04/</guid>
+      <description>En este vídeo se explica, mediante el uso del Excel, cómo la función de cuantía de una Distribución Binomial se aproxima a la forma de campana de Gauss de una Distribución Normal a medida que aumenta el tamaño muestral &amp;ldquo;n&amp;rdquo;.
+  </description>
+    </item>
+    
+    <item>
+      <title>Distribución normal |  | UPV</title>
+      <link>/blog/2011/09/26/distribucion-normal-upv-1/</link>
+      <pubDate>Mon, 26 Sep 2011 23:33:58 +0000</pubDate>
+      
+      <guid>/blog/2011/09/26/distribucion-normal-upv-1/</guid>
+      <description>Título: Distribución normal
+Descripción: En este objeto se explican brevemente los aspectos más destacados de la distribución normal: interés y ámbito de aplicación, principales características y cálculo de probabilidades asociado a una variable aleatoria que sigue una distribución normal.
+Autor/a: Trujillo Guillen Macarena
+ Universitat Politècnica de València UPV: https://www.upv.es Más vídeos en: https://www.youtube.com/valenciaupv Accede a nuestros MOOC: https://upvx.es    </description>
+    </item>
+    
+  </channel>
+</rss>

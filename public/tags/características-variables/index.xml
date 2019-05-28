@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>características variables on Uvide</title>
+    <link>/tags/caracter%C3%ADsticas-variables/</link>
+    <description>Recent content in características variables on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 03 Jun 2014 13:41:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/caracter%C3%ADsticas-variables/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SPSS v19.0: Introducción de datos</title>
+      <link>/blog/2014/06/03/spss-v190-introduccion-de-datos/</link>
+      <pubDate>Tue, 03 Jun 2014 13:41:00 +0000</pubDate>
+      
+      <guid>/blog/2014/06/03/spss-v190-introduccion-de-datos/</guid>
+      <description>Autor: Serra Añó, Pilar; Ponce Darós, María José; López Bueno, Laura; González Moreno, Luis Millán; García Massó, Xavier; Data: 2014; Resum:Se presentan los procedimientos para la introducción de datos en el programa SPSS v19.0 Producció:SFPIE (www.uv.es/sfpie)-VLC Campus
+  </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recursivo on Uvide</title>
+    <link>/tags/recursivo/</link>
+    <description>Recent content in Recursivo on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 10 Oct 2018 18:14:08 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/recursivo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>II. Consulta al Profesor: Simultaneidad</title>
+      <link>/blog/2018/10/10/ii-consulta-al-profesor-simultaneidad/</link>
+      <pubDate>Wed, 10 Oct 2018 18:14:08 +0000</pubDate>
+      
+      <guid>/blog/2018/10/10/ii-consulta-al-profesor-simultaneidad/</guid>
+      <description>II. Diferencias entre Modelos Multiecuacionales y Simultáneos y clasificación, respuestas del profesor Víctor R. López a cuestiones del alumno: Roque
+  </description>
+    </item>
+    
+  </channel>
+</rss>

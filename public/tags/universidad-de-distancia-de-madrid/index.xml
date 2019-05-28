@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Universidad de Distancia de Madrid on Uvide</title>
+    <link>/tags/universidad-de-distancia-de-madrid/</link>
+    <description>Recent content in Universidad de Distancia de Madrid on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 01 Dec 2016 16:02:15 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/universidad-de-distancia-de-madrid/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Programación dinámica. Problema de la Mochila.</title>
+      <link>/blog/2016/12/01/programacion-dinamica-problema-de-la-mochila/</link>
+      <pubDate>Thu, 01 Dec 2016 16:02:15 +0000</pubDate>
+      
+      <guid>/blog/2016/12/01/programacion-dinamica-problema-de-la-mochila/</guid>
+      <description>Asignatura: Investigación Operativa. Profesor: Fco. David de la Peña Esteban. Universidad de Distancia de Madrid, Udima.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

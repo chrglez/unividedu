@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Variable estadística discreta on Uvide</title>
+    <link>/tags/variable-estad%C3%ADstica-discreta/</link>
+    <description>Recent content in Variable estadística discreta on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 22 Feb 2013 14:17:02 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/variable-estad%C3%ADstica-discreta/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ejemplo - Estadística Básica - Univariante - 05/07 - Gráfico para var. cuantitativa discreta</title>
+      <link>/blog/2013/02/22/ejemplo-estadi%CC%81stica-ba%CC%81sica-univariante-05-07-gra%CC%81fico-para-var-cuantitativa-discreta/</link>
+      <pubDate>Fri, 22 Feb 2013 14:17:02 +0000</pubDate>
+      
+      <guid>/blog/2013/02/22/ejemplo-estadi%CC%81stica-ba%CC%81sica-univariante-05-07-gra%CC%81fico-para-var-cuantitativa-discreta/</guid>
+      <description>Confección de los gráficos para una variable cuantitativa discreta
+  </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>comandos on Uvide</title>
+    <link>/tags/comandos/</link>
+    <description>Recent content in comandos on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 26 Mar 2013 23:01:56 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/comandos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>umh3067 2012-13 Lec001 El proyecto R</title>
+      <link>/blog/2013/03/26/umh3067-2012-13-lec001-el-proyecto-r/</link>
+      <pubDate>Tue, 26 Mar 2013 23:01:56 +0000</pubDate>
+      
+      <guid>/blog/2013/03/26/umh3067-2012-13-lec001-el-proyecto-r/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/11QEbpF
+El Proyecto R. Asignatura: Econometría. Curso de Adaptación Grado en Administración y Dirección de Empresas. Profesor: Juan Aparicio Baeza. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE 2013. Universidad Miguel Hernández de Elche.
+Primeros pasos con el programa de ordenador R.
+web asignatura: http://umh3067.edu.umh.es web: http://umh.es
+  </description>
+    </item>
+    
+  </channel>
+</rss>

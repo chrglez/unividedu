@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>VIU on Uvide</title>
+    <link>/categories/viu/</link>
+    <description>Recent content in VIU on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 29 Dec 2015 12:09:25 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/viu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>VIU - Usos de la estadística en la vida práctica ¿Cómo aplicarla en el &#34;running?</title>
+      <link>/blog/2015/12/29/viu-usos-de-la-estadistica-en-la-vida-practica-como-aplicarla-en-el-running/</link>
+      <pubDate>Tue, 29 Dec 2015 12:09:25 +0000</pubDate>
+      
+      <guid>/blog/2015/12/29/viu-usos-de-la-estadistica-en-la-vida-practica-como-aplicarla-en-el-running/</guid>
+      <description>Más información en: http://www.viu.es/grado-economia/
+En este fragmento del vídeo docente perteneciente a la asignatura de &amp;ldquo;Estadística II&amp;rdquo; del Grado Online en Economía de la Universidad Internacional de Valencia (VIU), Patricia Carracedo, consultora VIU y Francisco Puig, doctor en Ciencias Económicas hablan de distintas aplicaciones prácticas de la ciencia estadística.
+  </description>
+    </item>
+    
+    <item>
+      <title>VIU - Ajuste y optimización en ADE</title>
+      <link>/blog/2014/07/01/viu-ajuste-y-optimizacion-en-ade/</link>
+      <pubDate>Tue, 01 Jul 2014 07:40:07 +0000</pubDate>
+      
+      <guid>/blog/2014/07/01/viu-ajuste-y-optimizacion-en-ade/</guid>
+      <description>http://www.viu.es/
+El consultor Alfonso Martínez explica a los alumnos las bondades del ajuste y la optimización en la Administración de Empresas.
+Grado en ADE http://www.viu.es/grado-administracion-direccion-empresas-ade/
+  </description>
+    </item>
+    
+  </channel>
+</rss>

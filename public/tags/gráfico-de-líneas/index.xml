@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gráfico de líneas on Uvide</title>
+    <link>/tags/gr%C3%A1fico-de-l%C3%ADneas/</link>
+    <description>Recent content in Gráfico de líneas on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 13 Mar 2013 00:17:21 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/gr%C3%A1fico-de-l%C3%ADneas/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>(Econometría) Estacionariedad en media: 1. Método Gráfico</title>
+      <link>/blog/2013/03/13/econometria-estacionariedad-en-media-1-metodo-grafico/</link>
+      <pubDate>Wed, 13 Mar 2013 00:17:21 +0000</pubDate>
+      
+      <guid>/blog/2013/03/13/econometria-estacionariedad-en-media-1-metodo-grafico/</guid>
+      <description>En este tutorial se explica cómo analizar la estacionariedad en media de una serie temporal, a través del análisis de su gráfico de líneas, mediante el paquete estadístico EViews.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Statgraphics on Uvide</title>
+    <link>/tags/statgraphics/</link>
+    <description>Recent content in Statgraphics on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 06 Nov 2014 21:41:43 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/statgraphics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Estadistica descriptiva con Statgraphics |  | UPV</title>
+      <link>/blog/2014/11/06/estadistica-descriptiva-con-statgraphics-upv/</link>
+      <pubDate>Thu, 06 Nov 2014 21:41:43 +0000</pubDate>
+      
+      <guid>/blog/2014/11/06/estadistica-descriptiva-con-statgraphics-upv/</guid>
+      <description>Título: Estadistica descriptiva con Statgraphics
+Descripción: En este objeto se muestra cómo utilizar el programa Statgraphics para hacer estadísitica descriptiva. Se indica cómo obtener tablas de frecuencia e histogramas, y cómo calcular los parámetros estadísitcos más usuales.
+Autor/a: Monreal Mengual Llucía
+ Universitat Politècnica de València UPV: https://www.upv.es Más vídeos en: https://www.youtube.com/valenciaupv Accede a nuestros MOOC: https://upvx.es    </description>
+    </item>
+    
+    <item>
+      <title>Archivos de datos con Statgraphics |  | UPV</title>
+      <link>/blog/2014/11/06/archivos-de-datos-con-statgraphics-upv/</link>
+      <pubDate>Thu, 06 Nov 2014 21:40:14 +0000</pubDate>
+      
+      <guid>/blog/2014/11/06/archivos-de-datos-con-statgraphics-upv/</guid>
+      <description>Título: Archivos de datos con Statgraphics
+Descripción: En este vídeo se muestra cómo gestionar bases de datos con ayuda del programa Statgraphics: introducir datos, generar nuevos datos a partir de los existentes, exportar/importar datos a/desde otros formatos, etc.
+Autor/a: Monreal Mengual Llucía
+ Universitat Politècnica de València UPV: https://www.upv.es Más vídeos en: https://www.youtube.com/valenciaupv Accede a nuestros MOOC: https://upvx.es    </description>
+    </item>
+    
+    <item>
+      <title>Distribuciones continuas de probabilidad con Statgraphics |  | UPV</title>
+      <link>/blog/2014/11/06/distribuciones-continuas-de-probabilidad-con-statgraphics-upv/</link>
+      <pubDate>Thu, 06 Nov 2014 21:36:24 +0000</pubDate>
+      
+      <guid>/blog/2014/11/06/distribuciones-continuas-de-probabilidad-con-statgraphics-upv/</guid>
+      <description>Título: Distribuciones continuas de probabilidad con Statgraphics
+Descripción: En este objeto se muestra cómo utilizar el programa Statgraphics para obtener información sobre las varaables aleatorias continuas, en particular, de la distribución normal, la t-Student y la Chi-cuadrado. Se indica cómo calcular probabilidades y valores críticos con la ayuda del programa.
+Autor/a: Monreal Mengual Llucía
+ Universitat Politècnica de València UPV: https://www.upv.es Más vídeos en: https://www.youtube.com/valenciaupv Accede a nuestros MOOC: https://upvx.es    </description>
+    </item>
+    
+    <item>
+      <title>Distribuciones de probabilidad con Statgraphics |  | UPV</title>
+      <link>/blog/2014/11/06/distribuciones-de-probabilidad-con-statgraphics-upv/</link>
+      <pubDate>Thu, 06 Nov 2014 21:34:17 +0000</pubDate>
+      
+      <guid>/blog/2014/11/06/distribuciones-de-probabilidad-con-statgraphics-upv/</guid>
+      <description>Título: Distribuciones de probabilidad con Statgraphics
+Descripción: En este objeto se muestra cómo utilizar el programa Statgraphics para obtener información de las principales distribuciones discretas, en particular, de las distribuciones Binomial y Poisson.Se indica cómo obtener probabilidades y valores críticos con dichas distribuciones.
+Autor/a: Monreal Mengual Llucía
+ Universitat Politècnica de València UPV: https://www.upv.es Más vídeos en: https://www.youtube.com/valenciaupv Accede a nuestros MOOC: https://upvx.es    </description>
+    </item>
+    
+    <item>
+      <title>Regresion y correlacion con Statgraphics |  | UPV</title>
+      <link>/blog/2014/11/06/regresion-y-correlacion-con-statgraphics-upv-1/</link>
+      <pubDate>Thu, 06 Nov 2014 21:31:07 +0000</pubDate>
+      
+      <guid>/blog/2014/11/06/regresion-y-correlacion-con-statgraphics-upv-1/</guid>
+      <description>Título: Regresion y correlacion con Statgraphics
+Descripción: En este objeto se muestra cómo utilizar el programa Statgraphics para hacer regresión y correlación. Se indica cómo obtener el ajuste de dos variables a distintos modelos, obteniendo los parámetros del ajuste, comparándolos con el fin de elegir el mejor.
+Autor/a: Monreal Mengual Llucía
+ Universitat Politècnica de València UPV: https://www.upv.es Más vídeos en: https://www.youtube.com/valenciaupv Accede a nuestros MOOC: https://upvx.es    </description>
+    </item>
+    
+    <item>
+      <title>Regresion y correlacion con Statgraphics |  | UPV</title>
+      <link>/blog/2014/11/06/regresion-y-correlacion-con-statgraphics-upv/</link>
+      <pubDate>Thu, 06 Nov 2014 21:31:07 +0000</pubDate>
+      
+      <guid>/blog/2014/11/06/regresion-y-correlacion-con-statgraphics-upv/</guid>
+      <description>Título: Regresion y correlacion con Statgraphics
+Descripción: En este objeto se muestra cómo utilizar el programa Statgraphics para hacer regresión y correlación. Se indica cómo obtener el ajuste de dos variables a distintos modelos, obteniendo los parámetros del ajuste, comparándolos con el fin de elegir el mejor.
+Autor/a: Monreal Mengual Llucía
+ Universitat Politècnica de València UPV: https://www.upv.es Más vídeos en: https://www.youtube.com/valenciaupv Accede a nuestros MOOC: https://upvx.es    </description>
+    </item>
+    
+  </channel>
+</rss>

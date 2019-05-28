@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>derive on Univideduc</title>
+    <title>DERIVE on Uvide</title>
     <link>/tags/derive/</link>
-    <description>Recent content in derive on Univideduc</description>
+    <description>Recent content in DERIVE on Uvide</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Thu, 08 Oct 2015 22:11:21 +0000</lastBuildDate>
@@ -13,11 +13,151 @@
     
     <item>
       <title>Operaciones con polinomios</title>
-      <link>/blog/2015/10/08/banner-oper-poli-1/</link>
+      <link>/blog/2015/10/08/operaciones-con-polinomios/</link>
       <pubDate>Thu, 08 Oct 2015 22:11:21 +0000</pubDate>
       
-      <guid>/blog/2015/10/08/banner-oper-poli-1/</guid>
-      <description>Operaciones con polinomios   </description>
+      <guid>/blog/2015/10/08/operaciones-con-polinomios/</guid>
+      <description>Operaciones con polinomios
+  </description>
+    </item>
+    
+    <item>
+      <title>Operaciones con fracciones.</title>
+      <link>/blog/2015/10/06/operaciones-con-fracciones/</link>
+      <pubDate>Tue, 06 Oct 2015 23:17:12 +0000</pubDate>
+      
+      <guid>/blog/2015/10/06/operaciones-con-fracciones/</guid>
+      <description>Operaciones con fracciones.
+  </description>
+    </item>
+    
+    <item>
+      <title>Factorización polinomios grado 3 con soluciones no enteras</title>
+      <link>/blog/2015/10/06/factorizacion-polinomios-grado-3-con-soluciones-no-enteras/</link>
+      <pubDate>Tue, 06 Oct 2015 01:25:41 +0000</pubDate>
+      
+      <guid>/blog/2015/10/06/factorizacion-polinomios-grado-3-con-soluciones-no-enteras/</guid>
+      <description>Factorización polinomios grado 3 con soluciones no enteras
+  </description>
+    </item>
+    
+    <item>
+      <title>Factorización de polinomios de grado 2</title>
+      <link>/blog/2015/10/05/factorizacion-de-polinomios-de-grado-2/</link>
+      <pubDate>Mon, 05 Oct 2015 00:54:44 +0000</pubDate>
+      
+      <guid>/blog/2015/10/05/factorizacion-de-polinomios-de-grado-2/</guid>
+      <description>Factorización de polinomios de grado 2
+  </description>
+    </item>
+    
+    <item>
+      <title>Puntos de una recta</title>
+      <link>/blog/2015/10/04/puntos-de-una-recta/</link>
+      <pubDate>Sun, 04 Oct 2015 21:32:58 +0000</pubDate>
+      
+      <guid>/blog/2015/10/04/puntos-de-una-recta/</guid>
+      <description>Puntos de una recta
+  </description>
+    </item>
+    
+    <item>
+      <title>Producto de polinomios</title>
+      <link>/blog/2015/10/04/producto-de-polinomios/</link>
+      <pubDate>Sun, 04 Oct 2015 19:02:53 +0000</pubDate>
+      
+      <guid>/blog/2015/10/04/producto-de-polinomios/</guid>
+      <description>Producto de polinomios. productos notables
+  </description>
+    </item>
+    
+    <item>
+      <title>Operaciones con potencias</title>
+      <link>/blog/2015/10/04/operaciones-con-potencias/</link>
+      <pubDate>Sun, 04 Oct 2015 18:59:57 +0000</pubDate>
+      
+      <guid>/blog/2015/10/04/operaciones-con-potencias/</guid>
+      <description>Operaciones con potencias y fracciones
+  </description>
+    </item>
+    
+    <item>
+      <title>Límites de funciones de varias variables con DERIVE</title>
+      <link>/blog/2014/02/15/limites-de-funciones-de-varias-variables-con-derive/</link>
+      <pubDate>Sat, 15 Feb 2014 20:16:25 +0000</pubDate>
+      
+      <guid>/blog/2014/02/15/limites-de-funciones-de-varias-variables-con-derive/</guid>
+      <description>Límites de funciones de varias variables con DERIVE
+  </description>
+    </item>
+    
+    <item>
+      <title>Conjuntos y Bolas en R2 con DERIVE</title>
+      <link>/blog/2014/02/07/conjuntos-y-bolas-en-r2-con-derive/</link>
+      <pubDate>Fri, 07 Feb 2014 20:08:46 +0000</pubDate>
+      
+      <guid>/blog/2014/02/07/conjuntos-y-bolas-en-r2-con-derive/</guid>
+      <description>Gráfica de conjuntos y bolas en R2. Resolución analítica y gráfica a ejercicios sobre bolas en R2.
+  </description>
+    </item>
+    
+    <item>
+      <title>Introducción a la programación lineal con DERIVE</title>
+      <link>/blog/2013/05/01/introduccion-a-la-programacion-lineal-con-derive/</link>
+      <pubDate>Wed, 01 May 2013 00:11:09 +0000</pubDate>
+      
+      <guid>/blog/2013/05/01/introduccion-a-la-programacion-lineal-con-derive/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Resolución analítica en optimización restringida de funciones de varias variables en DERIVE.</title>
+      <link>/blog/2013/04/20/resolucion-analitica-en-optimizacion-restringida-de-funciones-de-varias-variables-en-derive/</link>
+      <pubDate>Sat, 20 Apr 2013 17:13:52 +0000</pubDate>
+      
+      <guid>/blog/2013/04/20/resolucion-analitica-en-optimizacion-restringida-de-funciones-de-varias-variables-en-derive/</guid>
+      <description>Optimización de funciones de varias variables con una restricción de igualdad. Resolución gráfica
+  </description>
+    </item>
+    
+    <item>
+      <title>Resolución gráfica en optimización restringida de funciones de varias variables en DERIVE.</title>
+      <link>/blog/2013/04/15/resolucion-grafica-en-optimizacion-restringida-de-funciones-de-varias-variables-en-derive/</link>
+      <pubDate>Mon, 15 Apr 2013 12:01:13 +0000</pubDate>
+      
+      <guid>/blog/2013/04/15/resolucion-grafica-en-optimizacion-restringida-de-funciones-de-varias-variables-en-derive/</guid>
+      <description>Optimización de funciones de varias variables con una restricción de igualdad. Resolución gráfica
+  </description>
+    </item>
+    
+    <item>
+      <title>Funciones de varias variables en DERIVE</title>
+      <link>/blog/2013/03/16/funciones-de-varias-variables-en-derive/</link>
+      <pubDate>Sat, 16 Mar 2013 14:10:26 +0000</pubDate>
+      
+      <guid>/blog/2013/03/16/funciones-de-varias-variables-en-derive/</guid>
+      <description>En este vídeo trabajaremos con los conceptos de dominio y curvas de nivel en DERIVE
+  </description>
+    </item>
+    
+    <item>
+      <title>Introducción al DERIVE</title>
+      <link>/blog/2013/03/15/introduccion-al-derive/</link>
+      <pubDate>Fri, 15 Mar 2013 18:20:50 +0000</pubDate>
+      
+      <guid>/blog/2013/03/15/introduccion-al-derive/</guid>
+      <description>Vídeo introductorio que detalla las instrucciones básicas para su uso en DERIVE
+  </description>
+    </item>
+    
+    <item>
+      <title>Cálculo en funciones de varias variables en DERIVE. Derivadas</title>
+      <link>/blog/2013/03/01/calculo-en-funciones-de-varias-variables-en-derive-derivadas/</link>
+      <pubDate>Fri, 01 Mar 2013 20:01:11 +0000</pubDate>
+      
+      <guid>/blog/2013/03/01/calculo-en-funciones-de-varias-variables-en-derive-derivadas/</guid>
+      <description>Tratamiento de las derivadas en funciones de varias variables empleando DERIVE.
+  </description>
     </item>
     
   </channel>

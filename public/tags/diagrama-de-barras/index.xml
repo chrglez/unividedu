@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Diagrama de barras on Uvide</title>
+    <link>/tags/diagrama-de-barras/</link>
+    <description>Recent content in Diagrama de barras on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 22 Feb 2013 14:17:19 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/diagrama-de-barras/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ejemplo - Estadística Básica - Univariante - 03/07 - Gráficos para datos cualitativos</title>
+      <link>/blog/2013/02/22/ejemplo-estadi%CC%81stica-ba%CC%81sica-univariante-03-07-gra%CC%81ficos-para-datos-cualitativos/</link>
+      <pubDate>Fri, 22 Feb 2013 14:17:19 +0000</pubDate>
+      
+      <guid>/blog/2013/02/22/ejemplo-estadi%CC%81stica-ba%CC%81sica-univariante-03-07-gra%CC%81ficos-para-datos-cualitativos/</guid>
+      <description>Confección en Excel de los gráficos para una variable cualitativa.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Números índice on Uvide</title>
+    <link>/tags/n%C3%BAmeros-%C3%ADndice/</link>
+    <description>Recent content in Números índice on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 22 Feb 2013 14:18:21 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/n%C3%BAmeros-%C3%ADndice/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Teoría   Estadística Básica   Introducción   Números índice</title>
+      <link>/blog/2013/02/22/teori%CC%81a-estadi%CC%81stica-ba%CC%81sica-introduccio%CC%81n-nu%CC%81meros-i%CC%81ndice/</link>
+      <pubDate>Fri, 22 Feb 2013 14:18:21 +0000</pubDate>
+      
+      <guid>/blog/2013/02/22/teori%CC%81a-estadi%CC%81stica-ba%CC%81sica-introduccio%CC%81n-nu%CC%81meros-i%CC%81ndice/</guid>
+      <description>En este vídeo se abordan los siguientes aspectos relacionados con los números índices: - Definición - Clasificación (Simples, Complejos) - Propiedades - IPC - Cambio de base y enlace - Deflación
+  </description>
+    </item>
+    
+    <item>
+      <title>Práctica - Números Índice - 03/03 - Índices complejos ponderados</title>
+      <link>/blog/2013/01/22/pra%CC%81ctica-nu%CC%81meros-i%CC%81ndice-03-03-i%CC%81ndices-complejos-ponderados/</link>
+      <pubDate>Tue, 22 Jan 2013 16:53:48 +0000</pubDate>
+      
+      <guid>/blog/2013/01/22/pra%CC%81ctica-nu%CC%81meros-i%CC%81ndice-03-03-i%CC%81ndices-complejos-ponderados/</guid>
+      <description>Tutorial de Excel para el cálculo de índices complejos ponderados.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

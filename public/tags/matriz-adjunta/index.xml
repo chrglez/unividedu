@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matriz adjunta on Uvide</title>
+    <link>/tags/matriz-adjunta/</link>
+    <description>Recent content in Matriz adjunta on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 12 Mar 2014 11:09:03 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/matriz-adjunta/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Resolución de una Matriz Inversa por Adjuntos</title>
+      <link>/blog/2014/03/12/resolucion-de-una-matriz-inversa-por-adjuntos/</link>
+      <pubDate>Wed, 12 Mar 2014 11:09:03 +0000</pubDate>
+      
+      <guid>/blog/2014/03/12/resolucion-de-una-matriz-inversa-por-adjuntos/</guid>
+      <description>Profesora: Vanessa Fernández Chamorro
+  </description>
+    </item>
+    
+  </channel>
+</rss>

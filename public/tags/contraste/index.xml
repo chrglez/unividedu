@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contraste on Uvide</title>
+    <link>/tags/contraste/</link>
+    <description>Recent content in Contraste on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 26 Sep 2017 18:40:48 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/contraste/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>4. Modelo de Consumo: Contraste y Validación. Introducción a la Econometría IV (VRLR)</title>
+      <link>/blog/2017/09/26/4-modelo-de-consumo-contraste-y-validacion-introduccion-a-la-econometria-iv-vrlr/</link>
+      <pubDate>Tue, 26 Sep 2017 18:40:48 +0000</pubDate>
+      
+      <guid>/blog/2017/09/26/4-modelo-de-consumo-contraste-y-validacion-introduccion-a-la-econometria-iv-vrlr/</guid>
+      <description>IV video de la colección de Introducción a la Econometría por Víctor Raúl López Ruiz (VRLR) en el que se aplican medidas de contraste y validación al Modelo de Consumo.
+  </description>
+    </item>
+    
+    <item>
+      <title>(Econometría) Estacionariedad en media: 3. Contraste de Dickey y Fuller</title>
+      <link>/blog/2013/03/13/econometria-estacionariedad-en-media-3-contraste-de-dickey-y-fuller/</link>
+      <pubDate>Wed, 13 Mar 2013 01:06:17 +0000</pubDate>
+      
+      <guid>/blog/2013/03/13/econometria-estacionariedad-en-media-3-contraste-de-dickey-y-fuller/</guid>
+      <description>En este tutorial se explica cómo analizar la estacionariedad en media de una serie temporal, a través del contraste de Dickey y Fuller, mediante el paquete estadístico EViews.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

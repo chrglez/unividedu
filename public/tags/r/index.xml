@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R on Uvide</title>
+    <link>/tags/r/</link>
+    <description>Recent content in R on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 18 Dec 2012 11:59:21 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/r/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Curso R - Análisis de datos</title>
+      <link>/blog/2012/12/18/curso-r-analisis-de-datos/</link>
+      <pubDate>Tue, 18 Dec 2012 11:59:21 +0000</pubDate>
+      
+      <guid>/blog/2012/12/18/curso-r-analisis-de-datos/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Curso R - Tipos y estructuras de datos</title>
+      <link>/blog/2012/12/18/curso-r-tipos-y-estructuras-de-datos/</link>
+      <pubDate>Tue, 18 Dec 2012 11:49:18 +0000</pubDate>
+      
+      <guid>/blog/2012/12/18/curso-r-tipos-y-estructuras-de-datos/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Curso R - Importar y Exportar</title>
+      <link>/blog/2012/12/18/curso-r-importar-y-exportar/</link>
+      <pubDate>Tue, 18 Dec 2012 11:30:16 +0000</pubDate>
+      
+      <guid>/blog/2012/12/18/curso-r-importar-y-exportar/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Curso R - Infraestructura</title>
+      <link>/blog/2012/12/18/curso-r-infraestructura/</link>
+      <pubDate>Tue, 18 Dec 2012 11:28:35 +0000</pubDate>
+      
+      <guid>/blog/2012/12/18/curso-r-infraestructura/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Curso R - Introducción</title>
+      <link>/blog/2012/12/18/curso-r-introduccion/</link>
+      <pubDate>Tue, 18 Dec 2012 11:14:58 +0000</pubDate>
+      
+      <guid>/blog/2012/12/18/curso-r-introduccion/</guid>
+      <description>   </description>
+    </item>
+    
+  </channel>
+</rss>

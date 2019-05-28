@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Regla de Ruffini on Uvide</title>
+    <link>/tags/regla-de-ruffini/</link>
+    <description>Recent content in Regla de Ruffini on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 25 Jun 2014 20:40:47 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/regla-de-ruffini/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ecuaciones algebraicas con una incógnita. Regla de Ruffini. | 2/14 | UPV</title>
+      <link>/blog/2014/06/25/ecuaciones-algebraicas-con-una-incognita-regla-de-ruffini-2-14-upv/</link>
+      <pubDate>Wed, 25 Jun 2014 20:40:47 +0000</pubDate>
+      
+      <guid>/blog/2014/06/25/ecuaciones-algebraicas-con-una-incognita-regla-de-ruffini-2-14-upv/</guid>
+      <description>Título: Ecuaciones algebraicas con una incógnita. Regla de Ruffini.
+Descripción: Se presentan las ecuaciones algebraicas, el significado de solución de una ecuación de este tipo. Se resuelven las ecuaciones de grado uno y dos y se muestra como aplicar la regla de Ruffini para la resolución de ecuaciones algebraicas de grado superior a dos.
+Autor/a: Herrero Debón Alicia
+Curso: Este vídeo es el 2&amp;frasl;14 del curso MOOC Bases Matemáticas: Álgebra | Universitat Politècnica de València (UPV).</description>
+    </item>
+    
+  </channel>
+</rss>

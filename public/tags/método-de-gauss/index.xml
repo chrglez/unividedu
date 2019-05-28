@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Método de Gauss on Uvide</title>
+    <link>/tags/m%C3%A9todo-de-gauss/</link>
+    <description>Recent content in Método de Gauss on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 25 Jun 2014 21:19:47 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/m%C3%A9todo-de-gauss/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ejemplos de sistemas de ecuaciones lineales con parámetros por el método de Gauss. | 6/14 | UPV</title>
+      <link>/blog/2014/06/25/ejemplos-de-sistemas-de-ecuaciones-lineales-con-parametros-por-el-metodo-de-gauss-6-14-upv/</link>
+      <pubDate>Wed, 25 Jun 2014 21:19:47 +0000</pubDate>
+      
+      <guid>/blog/2014/06/25/ejemplos-de-sistemas-de-ecuaciones-lineales-con-parametros-por-el-metodo-de-gauss-6-14-upv/</guid>
+      <description>Título: Ejemplos de sistemas de ecuaciones lineales con parámetros por el método de Gauss.
+Descripción: En este objeto se muestran ejemplos de cómo resolver sistemas de ecuaciones lineales donde todos los coeficientes no son conocidos (dependen de uno o más parámetros) utilizando el método de Gauss.
+Autor/a: Herrero Debón Alicia
+Curso: Este vídeo es el 6&amp;frasl;14 del curso MOOC Bases Matemáticas: Álgebra | Universitat Politècnica de València (UPV). https://www.youtube.com/playlist?list=PL6kQim6ljTJtkMNu8kOYKCUhUdd_jDbMD
+Inscríbete en: https://upvx.</description>
+    </item>
+    
+  </channel>
+</rss>

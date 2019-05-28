@@ -1,15 +1,147 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ADE on Univideduc</title>
+    <title>ADE on Uvide</title>
     <link>/tags/ade/</link>
-    <description>Recent content in ADE on Univideduc</description>
+    <description>Recent content in ADE on Uvide</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Thu, 12 May 2011 15:06:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Nov 2017 12:56:16 +0000</lastBuildDate>
     
 	<atom:link href="/tags/ade/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Grado en ADE para Emprendedores - Inferencia Estadística - Alicia Gómez</title>
+      <link>/blog/2017/11/15/grado-en-ade-para-emprendedores-inferencia-estadistica-alicia-gomez/</link>
+      <pubDate>Wed, 15 Nov 2017 12:56:16 +0000</pubDate>
+      
+      <guid>/blog/2017/11/15/grado-en-ade-para-emprendedores-inferencia-estadistica-alicia-gomez/</guid>
+      <description>(03-10-17).- Alicia Gómez explica los principales contenidos de la asignatura que imparte en 2º del Grado en ADE para Emprendedores de EDEM, &amp;ldquo;Inferencia Estadística&amp;rdquo;.
+  </description>
+    </item>
+    
+    <item>
+      <title>VIU - Ajuste y optimización en ADE</title>
+      <link>/blog/2014/07/01/viu-ajuste-y-optimizacion-en-ade/</link>
+      <pubDate>Tue, 01 Jul 2014 07:40:07 +0000</pubDate>
+      
+      <guid>/blog/2014/07/01/viu-ajuste-y-optimizacion-en-ade/</guid>
+      <description>http://www.viu.es/
+El consultor Alfonso Martínez explica a los alumnos las bondades del ajuste y la optimización en la Administración de Empresas.
+Grado en ADE http://www.viu.es/grado-administracion-direccion-empresas-ade/
+  </description>
+    </item>
+    
+    <item>
+      <title>Optimización de funciones de varias variables. Optimización sin restricciones en DERIVE</title>
+      <link>/blog/2013/04/08/optimizacion-de-funciones-de-varias-variables-optimizacion-sin-restricciones-en-derive/</link>
+      <pubDate>Mon, 08 Apr 2013 10:54:10 +0000</pubDate>
+      
+      <guid>/blog/2013/04/08/optimizacion-de-funciones-de-varias-variables-optimizacion-sin-restricciones-en-derive/</guid>
+      <description>Resolución de un problema de optimización de dos variables con DERIVE
+  </description>
+    </item>
+    
+    <item>
+      <title>ÁLGEBRA: Examen 2 - 4ª parte (2d)</title>
+      <link>/blog/2012/12/11/%C3%A1lgebra-examen-2-4%C2%AA-parte-2d/</link>
+      <pubDate>Tue, 11 Dec 2012 16:10:28 +0000</pubDate>
+      
+      <guid>/blog/2012/12/11/%C3%A1lgebra-examen-2-4%C2%AA-parte-2d/</guid>
+      <description>4ª parte: Examen (2) de la UNED (ADE) en cinco vídeos.
+  </description>
+    </item>
+    
+    <item>
+      <title>ÁLGEBRA: Examen 2 - 3ª parte (2c)</title>
+      <link>/blog/2012/12/11/%C3%A1lgebra-examen-2-3%C2%AA-parte-2c/</link>
+      <pubDate>Tue, 11 Dec 2012 15:34:27 +0000</pubDate>
+      
+      <guid>/blog/2012/12/11/%C3%A1lgebra-examen-2-3%C2%AA-parte-2c/</guid>
+      <description>3ª parte: Examen (2) de la UNED (ADE) en cinco vídeos.
+  </description>
+    </item>
+    
+    <item>
+      <title>ÁLGEBRA: Examen 2 - 5ª parte (2e)</title>
+      <link>/blog/2012/12/11/%C3%A1lgebra-examen-2-5%C2%AA-parte-2e/</link>
+      <pubDate>Tue, 11 Dec 2012 15:01:17 +0000</pubDate>
+      
+      <guid>/blog/2012/12/11/%C3%A1lgebra-examen-2-5%C2%AA-parte-2e/</guid>
+      <description>5ª parte: Examen (2) de la UNED (ADE) en cinco vídeos.
+  </description>
+    </item>
+    
+    <item>
+      <title>ÁLGEBRA: Examen 2 - 1ª parte (2a)</title>
+      <link>/blog/2012/12/11/%C3%A1lgebra-examen-2-1%C2%AA-parte-2a/</link>
+      <pubDate>Tue, 11 Dec 2012 14:52:07 +0000</pubDate>
+      
+      <guid>/blog/2012/12/11/%C3%A1lgebra-examen-2-1%C2%AA-parte-2a/</guid>
+      <description>1ª parte: Examen (2) de la UNED (ADE) en cinco vídeos.
+  </description>
+    </item>
+    
+    <item>
+      <title>ÁLGEBRA: Examen 1 - 5ª parte (1e)</title>
+      <link>/blog/2012/12/11/%C3%A1lgebra-examen-1-5%C2%AA-parte-1e/</link>
+      <pubDate>Tue, 11 Dec 2012 13:57:02 +0000</pubDate>
+      
+      <guid>/blog/2012/12/11/%C3%A1lgebra-examen-1-5%C2%AA-parte-1e/</guid>
+      <description>5ª parte: Examen de la UNED (ADE) en cinco vídeos.
+  </description>
+    </item>
+    
+    <item>
+      <title>ÁLGEBRA: Examen 2 - 2ª parte (2b)</title>
+      <link>/blog/2012/12/11/%C3%A1lgebra-examen-2-2%C2%AA-parte-2b/</link>
+      <pubDate>Tue, 11 Dec 2012 13:31:28 +0000</pubDate>
+      
+      <guid>/blog/2012/12/11/%C3%A1lgebra-examen-2-2%C2%AA-parte-2b/</guid>
+      <description>2ª parte: Examen (2) de la UNED (ADE) en cinco vídeos.
+  </description>
+    </item>
+    
+    <item>
+      <title>GRADO ADE - Lección: convenciones de fechas en finanzas - Matemáticas economía - UNIR 2014</title>
+      <link>/blog/2011/05/12/grado-ade-leccion-convenciones-de-fechas-en-finanzas-matematicas-economia-unir-2014-1/</link>
+      <pubDate>Thu, 12 May 2011 15:10:46 +0000</pubDate>
+      
+      <guid>/blog/2011/05/12/grado-ade-leccion-convenciones-de-fechas-en-finanzas-matematicas-economia-unir-2014-1/</guid>
+      <description>Convenciones de fechas en finanzas UNIR, grado en ADE http://www.unir.net/grado-ade-administracion-direccion-empresas.aspx
+  </description>
+    </item>
+    
+    <item>
+      <title>GRADO ADE - Lección: convenciones de fechas en finanzas - Matemáticas economía - UNIR 2014</title>
+      <link>/blog/2011/05/12/grado-ade-leccion-convenciones-de-fechas-en-finanzas-matematicas-economia-unir-2014/</link>
+      <pubDate>Thu, 12 May 2011 15:10:46 +0000</pubDate>
+      
+      <guid>/blog/2011/05/12/grado-ade-leccion-convenciones-de-fechas-en-finanzas-matematicas-economia-unir-2014/</guid>
+      <description>Convenciones de fechas en finanzas UNIR, grado en ADE http://www.unir.net/grado-ade-administracion-direccion-empresas.aspx
+  </description>
+    </item>
+    
+    <item>
+      <title>GRADO ADE - Lección: el valor temporal del dinero - Matemáticas economía - UNIR 2014</title>
+      <link>/blog/2011/05/12/grado-ade-leccion-el-valor-temporal-del-dinero-matematicas-economia-unir-2014-1/</link>
+      <pubDate>Thu, 12 May 2011 15:08:19 +0000</pubDate>
+      
+      <guid>/blog/2011/05/12/grado-ade-leccion-el-valor-temporal-del-dinero-matematicas-economia-unir-2014-1/</guid>
+      <description>El valor temporal del dinero
+  </description>
+    </item>
+    
+    <item>
+      <title>GRADO ADE - Lección: el valor temporal del dinero - Matemáticas economía - UNIR 2014</title>
+      <link>/blog/2011/05/12/grado-ade-leccion-el-valor-temporal-del-dinero-matematicas-economia-unir-2014/</link>
+      <pubDate>Thu, 12 May 2011 15:08:19 +0000</pubDate>
+      
+      <guid>/blog/2011/05/12/grado-ade-leccion-el-valor-temporal-del-dinero-matematicas-economia-unir-2014/</guid>
+      <description>El valor temporal del dinero
+  </description>
+    </item>
     
     <item>
       <title>GRADO ADE - Lección: cálculo integral - Matemáticas economía - UNIR</title>
@@ -17,6 +149,16 @@
       <pubDate>Thu, 12 May 2011 15:06:15 +0000</pubDate>
       
       <guid>/blog/2011/05/12/grado-ade-leccion-calculo-integral-matematicas-economia-unir-1/</guid>
+      <description>http://www.unir.net/grado-ade-administracion-direccion-empresas.aspx Nociones del cálculo integral. Profesor Ángel Ruíz Cueva. Matemática para la Economía ADE. Universidad Internacional de La Rioja
+  </description>
+    </item>
+    
+    <item>
+      <title>GRADO ADE - Lección: cálculo integral - Matemáticas economía - UNIR</title>
+      <link>/blog/2011/05/12/grado-ade-leccion-calculo-integral-matematicas-economia-unir/</link>
+      <pubDate>Thu, 12 May 2011 15:06:15 +0000</pubDate>
+      
+      <guid>/blog/2011/05/12/grado-ade-leccion-calculo-integral-matematicas-economia-unir/</guid>
       <description>http://www.unir.net/grado-ade-administracion-direccion-empresas.aspx Nociones del cálculo integral. Profesor Ángel Ruíz Cueva. Matemática para la Economía ADE. Universidad Internacional de La Rioja
   </description>
     </item>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gestión de inventario on Uvide</title>
+    <link>/tags/gesti%C3%B3n-de-inventario/</link>
+    <description>Recent content in Gestión de inventario on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 20 Mar 2015 11:03:33 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/gesti%C3%B3n-de-inventario/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Gestión de inventarios con descuentos por cantidad. Caso práctico.</title>
+      <link>/blog/2015/03/20/gestion-de-inventarios-con-descuentos-por-cantidad-caso-practico/</link>
+      <pubDate>Fri, 20 Mar 2015 11:03:33 +0000</pubDate>
+      
+      <guid>/blog/2015/03/20/gestion-de-inventarios-con-descuentos-por-cantidad-caso-practico/</guid>
+      <description>Caso práctico inventarios con descuentos por cantidad. David de la Peña Esteban. Universidad a Distancia de Madrid, Udima.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

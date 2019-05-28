@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>EAPM on Uvide</title>
+    <link>/tags/eapm/</link>
+    <description>Recent content in EAPM on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 24 Apr 2013 12:19:18 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/eapm/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>(Econometría) Predicción: 3. Evaluación de la capacidad predictiva</title>
+      <link>/blog/2013/04/24/econometria-prediccio%CC%81n-3-evaluacion-de-la-capacidad-predictiva/</link>
+      <pubDate>Wed, 24 Apr 2013 12:19:18 +0000</pubDate>
+      
+      <guid>/blog/2013/04/24/econometria-prediccio%CC%81n-3-evaluacion-de-la-capacidad-predictiva/</guid>
+      <description>En este tutorial de EViews se explica cómo evaluar la capacidad productiva de una modelización dinámica realizada a partir de un modelo SARIMA.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

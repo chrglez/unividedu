@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>estadística para investigadores on Uvide</title>
+    <link>/tags/estad%C3%ADstica-para-investigadores/</link>
+    <description>Recent content in estadística para investigadores on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 26 Jul 2013 09:16:32 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/estad%C3%ADstica-para-investigadores/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>USALMOOC. Estadística para investigadores: todo lo que quiso saber y nunca se atrevió a preguntar.</title>
+      <link>/blog/2013/07/26/usalmooc-estadistica-para-investigadores-todo-lo-que-quiso-saber-y-nunca-se-atrevio-a-preguntar/</link>
+      <pubDate>Fri, 26 Jul 2013 09:16:32 +0000</pubDate>
+      
+      <guid>/blog/2013/07/26/usalmooc-estadistica-para-investigadores-todo-lo-que-quiso-saber-y-nunca-se-atrevio-a-preguntar/</guid>
+      <description>MOOC (Curso online Masivo abierto) sobre estadística básica de la Universidad de Salamanca. Dra. Purificación Galindo Villardón. Departamento de Estadística de la Facultad de Medicina de la Universidad de Salamanca. Para más información: http://diarium.usal.es/mooc/estadistica-para-investigadores/
+  </description>
+    </item>
+    
+  </channel>
+</rss>

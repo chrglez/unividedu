@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>universidad miguel hernández on Uvide</title>
+    <link>/tags/universidad-miguel-hern%C3%A1ndez/</link>
+    <description>Recent content in universidad miguel hernández on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 02 Mar 2016 12:44:42 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/universidad-miguel-hern%C3%A1ndez/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lec005.2 Markdow-Rstudio y la Estadística Descriptiva (umh1480)</title>
+      <link>/blog/2016/03/02/lec0052-markdow-rstudio-y-la-estadistica-descriptiva-umh1480/</link>
+      <pubDate>Wed, 02 Mar 2016 12:44:42 +0000</pubDate>
+      
+      <guid>/blog/2016/03/02/lec0052-markdow-rstudio-y-la-estadistica-descriptiva-umh1480/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/20XaPkS
+Markdow-Rstudio y la Estadística Descriptiva. Asignatura: Técnicas Estadísticas en Investigación de Mercados. Grado en Estadística Empresarial. Profesor: Xavier Barber i Vallés. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE. Universidad Miguel Hernández de Elche.
+Breve introducción al concepto de Markdown y la estadística descriptiva desde RStudio.
+web asignatura: http://umh1480.edu.umh.es/ web: http://umh.es
+  </description>
+    </item>
+    
+    <item>
+      <title>Lec005.1 LaTeX-RStudio-Sweave (umh1480)</title>
+      <link>/blog/2016/03/02/lec0051-latex-rstudio-sweave-umh1480/</link>
+      <pubDate>Wed, 02 Mar 2016 11:32:35 +0000</pubDate>
+      
+      <guid>/blog/2016/03/02/lec0051-latex-rstudio-sweave-umh1480/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/20XaPkS
+LaTeX-RStudio-Sweave. Asignatura: Técnicas Estadísticas en Investigación de Mercados. Grado en Estadística Empresarial. Profesor: Xavier Barber i Vallés. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE. Universidad Miguel Hernández de Elche.
+Introducción al lenguaje Sweave dentro de RStudio: una mezcla de LaTeX y R.
+web asignatura: http://umh1480.edu.umh.es/ web: http://umh.es
+  </description>
+    </item>
+    
+    <item>
+      <title>Lec004.1 Repaso a los Modelos Lineales (umh1480)</title>
+      <link>/blog/2016/02/29/lec0041-repaso-a-los-modelos-lineales-umh1480/</link>
+      <pubDate>Mon, 29 Feb 2016 14:30:35 +0000</pubDate>
+      
+      <guid>/blog/2016/02/29/lec0041-repaso-a-los-modelos-lineales-umh1480/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/20XaPkS
+Repaso a los Modelos Lineales. Asignatura: Técnicas Estadísticas en Investigación de Mercados. Grado en Estadística Empresarial. Profesor: Xavier Barber i Vallés. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE. Universidad Miguel Hernández de Elche.
+Breve repaso al concepto de Modelos Lineales: Regresión Lienal, ANOVA y ANCOVA
+web asignatura: http://umh1480.edu.umh.es/ web: http://umh.es
+  </description>
+    </item>
+    
+    <item>
+      <title>Lec004.2 Validación de un Modelo Lineal (umh1480)</title>
+      <link>/blog/2016/02/19/lec0042-validacion-de-un-modelo-lineal-umh1480/</link>
+      <pubDate>Fri, 19 Feb 2016 08:50:30 +0000</pubDate>
+      
+      <guid>/blog/2016/02/19/lec0042-validacion-de-un-modelo-lineal-umh1480/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/20XaPkS
+Validación de un Modelo Lineal. Asignatura: Técnicas Estadísticas en Investigación de Mercados. Grado en Estadística Empresarial. Profesor: Xavier Barber i Vallés. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE. Universidad Miguel Hernández de Elche.
+Pasos para estudiar la bondad del ajuste y la validación de un modelo lineal.
+web asignatura: http://umh1480.edu.umh.es/ web: http://umh.es
+  </description>
+    </item>
+    
+    <item>
+      <title>Lec003 Describiendo mis datos (umh1480)</title>
+      <link>/blog/2016/02/16/lec003-describiendo-mis-datos-umh1480/</link>
+      <pubDate>Tue, 16 Feb 2016 11:05:27 +0000</pubDate>
+      
+      <guid>/blog/2016/02/16/lec003-describiendo-mis-datos-umh1480/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/20XaPkS
+Describiendo mis datos. Asignatura: Técnicas Estadísticas en Investigación de Mercados. Grado en Estadística Empresarial. Profesor: Xavier Barber i Vallés. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE. Universidad Miguel Hernández de Elche.
+Video donde se describe cómo describir un banco de datos utilizando la librería dplyr del R.
+web asignatura: http://umh1480.edu.umh.es/ web: http://umh.es
+  </description>
+    </item>
+    
+    <item>
+      <title>Lec001 El análisis Multivariante y el Marketing (umh1480)</title>
+      <link>/blog/2016/02/16/lec001-el-analisis-multivariante-y-el-marketing-umh1480/</link>
+      <pubDate>Tue, 16 Feb 2016 11:01:11 +0000</pubDate>
+      
+      <guid>/blog/2016/02/16/lec001-el-analisis-multivariante-y-el-marketing-umh1480/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/20XaPkS
+El análisis Multivariante y el Marketing. Asignatura: Técnicas Estadísticas en Investigación de Mercados. Grado en Estadística Empresarial. Profesor: Xavier Barber i Vallés. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE. Universidad Miguel Hernández de Elche.
+Primer tema de la asignatura Técnicas Estadísticas para el Análisis de Mercados. Un pequeño repaso al concepto de Mercados/Marketing y al Análisis Multivariante.</description>
+    </item>
+    
+    <item>
+      <title>Lec002.1 Sacándole Partido al RStudio (umh1480)</title>
+      <link>/blog/2016/02/16/lec0021-sacandole-partido-al-rstudio-umh1480/</link>
+      <pubDate>Tue, 16 Feb 2016 09:24:33 +0000</pubDate>
+      
+      <guid>/blog/2016/02/16/lec0021-sacandole-partido-al-rstudio-umh1480/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/20XaPkS
+Sacándole Partido al RStudio. Asignatura: Técnicas Estadísticas en Investigación de Mercados. Grado en Estadística Empresarial. Profesor: Xavier Barber i Vallés. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE. Universidad Miguel Hernández de Elche.
+Vídeo donde se demustra las grandes posibilidades del RStudio, desde crear un documento Markdown y obtener un documento tipo Microsoft Word &amp;copy; hasta una aplicación interactiva Web con Shiny.</description>
+    </item>
+    
+    <item>
+      <title>Lec000 Presentación de Técnicas Estadísticas para la Investigación de Mercados (umh1480)</title>
+      <link>/blog/2016/02/11/lec000-presentacion-de-tecnicas-estadisticas-para-la-investigacion-de-mercados-umh1480/</link>
+      <pubDate>Thu, 11 Feb 2016 11:06:00 +0000</pubDate>
+      
+      <guid>/blog/2016/02/11/lec000-presentacion-de-tecnicas-estadisticas-para-la-investigacion-de-mercados-umh1480/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/20XaPkS
+Presentación de Técnicas Estadísticas para la Investigación de Mercados. Asignatura: Técnicas Estadísticas en Investigación de Mercados. Grado en Estadística Empresarial. Profesor: Xavier Barber i Vallés. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE. Universidad Miguel Hernández de Elche.
+Presentación de la asignatura Técnicas Estadística en Análisis de Mercados.
+web asignatura: http://umh1480.edu.umh.es/ web: http://umh.es
+  </description>
+    </item>
+    
+    <item>
+      <title>umh3067 2012-13 Lec002 Modelos de RLS</title>
+      <link>/blog/2013/03/26/umh3067-2012-13-lec002-modelos-de-rls/</link>
+      <pubDate>Tue, 26 Mar 2013 23:16:15 +0000</pubDate>
+      
+      <guid>/blog/2013/03/26/umh3067-2012-13-lec002-modelos-de-rls/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/11QEbpF
+Modelos de RLS. Asignatura: Econometría. Curso de Adaptación Grado en Administración y Dirección de Empresas. Profesor: Juan Aparicio Baeza. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE 2013. Universidad Miguel Hernández de Elche.
+Teoría y práctica del Modelo de Regresión Lineal Simple usando R.
+web asignatura: http://umh3067.edu.umh.es web: http://umh.es
+  </description>
+    </item>
+    
+  </channel>
+</rss>

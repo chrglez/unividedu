@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shiny on Uvide</title>
+    <link>/tags/shiny/</link>
+    <description>Recent content in Shiny on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 02 May 2017 07:44:48 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/shiny/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Práctica Transversal: Crear un Blog e insertar aplicaciones Shiny</title>
+      <link>/blog/2017/05/02/practica-transversal-crear-un-blog-e-insertar-aplicaciones-shiny/</link>
+      <pubDate>Tue, 02 May 2017 07:44:48 +0000</pubDate>
+      
+      <guid>/blog/2017/05/02/practica-transversal-crear-un-blog-e-insertar-aplicaciones-shiny/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/20XaPkS
+Práctica Transversal: Crear un Blog e insertar aplicaciones Shiny. Asignatura: Técnicas Estadísticas en Investigación de Mercados. Grado en Estadística Empresarial. Profesor: Xavier Barber i Vallés. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE. Universidad Miguel Hernández de Elche.
+En este video se explica las dos actividades a realizar en el próximo mes de mayo por los alumnos de la asignatura.</description>
+    </item>
+    
+    <item>
+      <title>Lec002.1 Sacándole Partido al RStudio (umh1480)</title>
+      <link>/blog/2016/02/16/lec0021-sacandole-partido-al-rstudio-umh1480/</link>
+      <pubDate>Tue, 16 Feb 2016 09:24:33 +0000</pubDate>
+      
+      <guid>/blog/2016/02/16/lec0021-sacandole-partido-al-rstudio-umh1480/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/20XaPkS
+Sacándole Partido al RStudio. Asignatura: Técnicas Estadísticas en Investigación de Mercados. Grado en Estadística Empresarial. Profesor: Xavier Barber i Vallés. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE. Universidad Miguel Hernández de Elche.
+Vídeo donde se demustra las grandes posibilidades del RStudio, desde crear un documento Markdown y obtener un documento tipo Microsoft Word &amp;copy; hasta una aplicación interactiva Web con Shiny.</description>
+    </item>
+    
+  </channel>
+</rss>

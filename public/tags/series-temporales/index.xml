@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Series Temporales on Uvide</title>
+    <link>/tags/series-temporales/</link>
+    <description>Recent content in Series Temporales on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 26 Feb 2013 21:27:01 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/series-temporales/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>(Econometría) Estacionariedad en varianza: 1. Método Gráfico</title>
+      <link>/blog/2013/02/26/econometria-estacionariedad-en-varianza-1-metodo-grafico/</link>
+      <pubDate>Tue, 26 Feb 2013 21:27:01 +0000</pubDate>
+      
+      <guid>/blog/2013/02/26/econometria-estacionariedad-en-varianza-1-metodo-grafico/</guid>
+      <description>En este tutorial se explica cómo analizar la estacionariedad en varianza de una serie temporal, a través del análisis de su gráfico de líneas, mediante el paquete estadístico EViews.
+  </description>
+    </item>
+    
+    <item>
+      <title>(Econometría) Importar datos a EViews</title>
+      <link>/blog/2013/02/26/econometria-importar-datos-a-eviews/</link>
+      <pubDate>Tue, 26 Feb 2013 14:07:52 +0000</pubDate>
+      
+      <guid>/blog/2013/02/26/econometria-importar-datos-a-eviews/</guid>
+      <description>En este tutorial se explica como importar datos de una serie temporal desde la hoja de cálculo Excel hasta el programa estadístico EViews.
+  </description>
+    </item>
+    
+    <item>
+      <title>Teoría - Estadística Básica - Introducción - Series temporales</title>
+      <link>/blog/2013/02/22/teori%CC%81a-estadi%CC%81stica-ba%CC%81sica-introduccio%CC%81n-series-temporales/</link>
+      <pubDate>Fri, 22 Feb 2013 14:17:59 +0000</pubDate>
+      
+      <guid>/blog/2013/02/22/teori%CC%81a-estadi%CC%81stica-ba%CC%81sica-introduccio%CC%81n-series-temporales/</guid>
+      <description>En este vídeo se abordan los siguientes aspectos relacionados con las series temporales: - Cálculo de la tendencia por medias móviles - Eliminación de la tendencia por medias móviles - Cálculo de la estacionalidad por medias móviles - Eliminación de la estacionalidad por medias móviles
+  </description>
+    </item>
+    
+    <item>
+      <title>Practica - Series Temporales - 04/12 - Representación gráfica (esquema aditivo)</title>
+      <link>/blog/2013/01/22/practica-series-temporales-04-12-representacio%CC%81n-gra%CC%81fica-esquema-aditivo/</link>
+      <pubDate>Tue, 22 Jan 2013 16:46:18 +0000</pubDate>
+      
+      <guid>/blog/2013/01/22/practica-series-temporales-04-12-representacio%CC%81n-gra%CC%81fica-esquema-aditivo/</guid>
+      <description>Tutorial de Excel para la representación gráfica de series temporales.
+  </description>
+    </item>
+    
+    <item>
+      <title>Practica - Series Temporales - 03/12 - Desestacionalización (esquema aditivo)</title>
+      <link>/blog/2013/01/22/practica-series-temporales-03-12-desestacionalizacio%CC%81n-esquema-aditivo/</link>
+      <pubDate>Tue, 22 Jan 2013 16:44:40 +0000</pubDate>
+      
+      <guid>/blog/2013/01/22/practica-series-temporales-03-12-desestacionalizacio%CC%81n-esquema-aditivo/</guid>
+      <description>Tutorial de Excel para la desestacionalización por medias móviles de una serie temporal que sigue un esquema aditivo.
+  </description>
+    </item>
+    
+    <item>
+      <title>Practica - Series Temporales - 11/12 - Eliminación de la estacionalidad por diferencias</title>
+      <link>/blog/2013/01/22/practica-series-temporales-11-12-eliminacio%CC%81n-de-la-estacionalidad-por-diferencias/</link>
+      <pubDate>Tue, 22 Jan 2013 16:42:49 +0000</pubDate>
+      
+      <guid>/blog/2013/01/22/practica-series-temporales-11-12-eliminacio%CC%81n-de-la-estacionalidad-por-diferencias/</guid>
+      <description>Tutorial de Excel para la eliminación de la estacionalidad de una serie temporal por el método de las diferencias.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>importar datos on Uvide</title>
+    <link>/tags/importar-datos/</link>
+    <description>Recent content in importar datos on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 06 Oct 2017 16:37:43 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/importar-datos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>6. Captura de Datos y Estimación (E-views 1). Introducción a la Econometría VI (VRLR)</title>
+      <link>/blog/2017/10/06/6-captura-de-datos-y-estimacion-e-views-1-introduccion-a-la-econometria-vi-vrlr-1/</link>
+      <pubDate>Fri, 06 Oct 2017 16:37:43 +0000</pubDate>
+      
+      <guid>/blog/2017/10/06/6-captura-de-datos-y-estimacion-e-views-1-introduccion-a-la-econometria-vi-vrlr-1/</guid>
+      <description>Sexto vídeo de la colección de Introducción a la Econometría por el Profesor Víctor Raúl López Ruiz (VRLR) donde se explica la captura de datos o importación y Estimación con E-views.
+  </description>
+    </item>
+    
+    <item>
+      <title>6. Captura de Datos y Estimación (E-views 1). Introducción a la Econometría VI (VRLR)</title>
+      <link>/blog/2017/10/06/6-captura-de-datos-y-estimacion-e-views-1-introduccion-a-la-econometria-vi-vrlr/</link>
+      <pubDate>Fri, 06 Oct 2017 16:37:43 +0000</pubDate>
+      
+      <guid>/blog/2017/10/06/6-captura-de-datos-y-estimacion-e-views-1-introduccion-a-la-econometria-vi-vrlr/</guid>
+      <description>Sexto vídeo de la colección de Introducción a la Econometría por el Profesor Víctor Raúl López Ruiz (VRLR) donde se explica la captura de datos o importación y Estimación con E-views.
+  </description>
+    </item>
+    
+    <item>
+      <title>SPSS v19.0: Importar y exportar datos</title>
+      <link>/blog/2014/06/11/spss-v190-importar-y-exportar-datos/</link>
+      <pubDate>Wed, 11 Jun 2014 11:19:15 +0000</pubDate>
+      
+      <guid>/blog/2014/06/11/spss-v190-importar-y-exportar-datos/</guid>
+      <description>Autor: Serra Añó, Pilar; Ponce Darós, María José; López Bueno, Laura; González Moreno, Luis Millán; García Massó, Xavier; Data: 2014; Resum:Se presentan los procedimientos para importar y exportar datos en el programa SPSS v19.0 Producció:SFPIE (www.uv.es/sfpie)-VLC Campus
+  </description>
+    </item>
+    
+  </channel>
+</rss>

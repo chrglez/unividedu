@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Identificación on Uvide</title>
+    <link>/tags/identificaci%C3%B3n/</link>
+    <description>Recent content in Identificación on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 03 Apr 2013 09:42:11 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/identificaci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>(Econometría) Identificacion y estimacion: 4. Segundo modelo</title>
+      <link>/blog/2013/04/03/econometria-identificacion-y-estimacion-4-segundo-modelo/</link>
+      <pubDate>Wed, 03 Apr 2013 09:42:11 +0000</pubDate>
+      
+      <guid>/blog/2013/04/03/econometria-identificacion-y-estimacion-4-segundo-modelo/</guid>
+      <description>Mediante este tutorial de EViews se explica cómo se puede identificar y estimar un posible modelo SARIMA, a partir del análisis de los correlogramas, consiguiendo finalmente que los residuos estén incorrelacionados.
+  </description>
+    </item>
+    
+    <item>
+      <title>(Econometría) Identificacion y estimacion: 3. Buscando el segundo modelo</title>
+      <link>/blog/2013/04/02/econometria-identificacion-y-estimacion-3-buscando-el-segundo-modelo/</link>
+      <pubDate>Tue, 02 Apr 2013 22:30:22 +0000</pubDate>
+      
+      <guid>/blog/2013/04/02/econometria-identificacion-y-estimacion-3-buscando-el-segundo-modelo/</guid>
+      <description>Mediante este tutorial de EViews se explica cómo, en ocasiones, intentando identificar un segundo modelo SARIMA alternativo, nos damos cuenta de que la variable endógena que estamos utilizando no tiene el número de diferencias que debería.
+  </description>
+    </item>
+    
+    <item>
+      <title>(Econometría) Identificacion y estimacion: 1. Serie a identificar</title>
+      <link>/blog/2013/04/02/econometria-identificacion-y-estimacion-1-serie-a-identificar/</link>
+      <pubDate>Tue, 02 Apr 2013 19:57:15 +0000</pubDate>
+      
+      <guid>/blog/2013/04/02/econometria-identificacion-y-estimacion-1-serie-a-identificar/</guid>
+      <description>En este tutorial de EViews se explica cómo elegir cuál debe ser la endógena del modelo a estimar una vez finalizado el contraste de Dickey-Fuller.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

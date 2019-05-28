@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rango-Media on Uvide</title>
+    <link>/tags/rango-media/</link>
+    <description>Recent content in Rango-Media on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 26 Feb 2013 21:58:57 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/rango-media/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>(Econometría) Estacionariedad en varianza: 2. Rango Media</title>
+      <link>/blog/2013/02/26/econometria-estacionariedad-en-varianza-2-rango-media/</link>
+      <pubDate>Tue, 26 Feb 2013 21:58:57 +0000</pubDate>
+      
+      <guid>/blog/2013/02/26/econometria-estacionariedad-en-varianza-2-rango-media/</guid>
+      <description>En este tutorial se explica cómo analizar la estacionariedad en varianza de una serie temporal, a través de la realización y el análisis del gráfico Rango-Media, mediante el paquete estadístico EViews.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

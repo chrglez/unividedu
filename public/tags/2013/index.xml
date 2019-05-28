@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2013 on Uvide</title>
+    <link>/tags/2013/</link>
+    <description>Recent content in 2013 on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 01 Aug 2013 12:28:37 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/2013/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Determinación de n para estimar la media de una población Normal con varianza conocida.</title>
+      <link>/blog/2013/08/01/determinacion-de-n-para-estimar-la-media-de-una-poblacion-normal-con-varianza-conocida/</link>
+      <pubDate>Thu, 01 Aug 2013 12:28:37 +0000</pubDate>
+      
+      <guid>/blog/2013/08/01/determinacion-de-n-para-estimar-la-media-de-una-poblacion-normal-con-varianza-conocida/</guid>
+      <description>En la siguiente presentación se determina en primer lugar el tamaño muestral, n, para estimar la media de una población normal con varianza conocida, realizando en segundo lugar una aplicación a un caso.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

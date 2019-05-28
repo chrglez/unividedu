@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>verano on Uvide</title>
+    <link>/tags/verano/</link>
+    <description>Recent content in verano on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 21 Jul 2015 12:13:05 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/verano/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>El tratamiento de datos con Excel. Tablas dinámicas y power pivot</title>
+      <link>/blog/2015/07/21/el-tratamiento-de-datos-con-excel-tablas-dinamicas-y-power-pivot/</link>
+      <pubDate>Tue, 21 Jul 2015 12:13:05 +0000</pubDate>
+      
+      <guid>/blog/2015/07/21/el-tratamiento-de-datos-con-excel-tablas-dinamicas-y-power-pivot/</guid>
+      <description>Realizamos un tratamiento de la información contable en Excel de tal forma que nos permita comparar datos reales con presupuestados, así como el tratamiento y preparación de los datos para que, partiendo de un libro diario, podamos obtener los estados financieros de la empresa. Encuentra más cursos sobre Excel en: http://www.cef.es/cursos-excel.html?web_origen=youtube
+  </description>
+    </item>
+    
+  </channel>
+</rss>

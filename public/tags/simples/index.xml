@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Simples on Uvide</title>
+    <link>/tags/simples/</link>
+    <description>Recent content in Simples on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 11 Mar 2013 13:40:40 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/simples/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>umh1263 2012-13 Lec008. Números índice. Introducción y conceptos básicos</title>
+      <link>/blog/2013/03/11/umh1263-2012-13-lec008-numeros-indice-introduccion-y-conceptos-basicos/</link>
+      <pubDate>Mon, 11 Mar 2013 13:40:40 +0000</pubDate>
+      
+      <guid>/blog/2013/03/11/umh1263-2012-13-lec008-numeros-indice-introduccion-y-conceptos-basicos/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/15vMRE0
+Números Índice: Introducción y Conceptos Básicos. Asignatura: Análisis Exploratorio de Datos. Grado en Administración y Dirección de Empresas (Elche). Profesora: Mª Asunción Martínez Mayoral. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE 2013. Universidad Miguel Hernández de Elche.
+Introducción a los números índice. Números índice simples, tasas de variación, tasa de crecimiento promedio, índices encadenados.</description>
+    </item>
+    
+    <item>
+      <title>Teoría   Estadística Básica   Introducción   Números índice</title>
+      <link>/blog/2013/02/22/teori%CC%81a-estadi%CC%81stica-ba%CC%81sica-introduccio%CC%81n-nu%CC%81meros-i%CC%81ndice/</link>
+      <pubDate>Fri, 22 Feb 2013 14:18:21 +0000</pubDate>
+      
+      <guid>/blog/2013/02/22/teori%CC%81a-estadi%CC%81stica-ba%CC%81sica-introduccio%CC%81n-nu%CC%81meros-i%CC%81ndice/</guid>
+      <description>En este vídeo se abordan los siguientes aspectos relacionados con los números índices: - Definición - Clasificación (Simples, Complejos) - Propiedades - IPC - Cambio de base y enlace - Deflación
+  </description>
+    </item>
+    
+    <item>
+      <title>Práctica - Números Índice - 01/03 - Índices Simples</title>
+      <link>/blog/2013/01/22/pra%CC%81ctica-nu%CC%81meros-i%CC%81ndice-01-03-i%CC%81ndices-simples/</link>
+      <pubDate>Tue, 22 Jan 2013 16:53:28 +0000</pubDate>
+      
+      <guid>/blog/2013/01/22/pra%CC%81ctica-nu%CC%81meros-i%CC%81ndice-01-03-i%CC%81ndices-simples/</guid>
+      <description>Tutorial de Excel para el cálculo de Números índices simples.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

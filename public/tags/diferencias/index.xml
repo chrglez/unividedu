@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Diferencias on Uvide</title>
+    <link>/tags/diferencias/</link>
+    <description>Recent content in Diferencias on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 22 Feb 2013 14:19:08 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/diferencias/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Practica - Series Temporales - 10/12 - Eliminación de la tendencia por diferencias</title>
+      <link>/blog/2013/02/22/practica-series-temporales-10-12-eliminacio%CC%81n-de-la-tendencia-por-diferencias/</link>
+      <pubDate>Fri, 22 Feb 2013 14:19:08 +0000</pubDate>
+      
+      <guid>/blog/2013/02/22/practica-series-temporales-10-12-eliminacio%CC%81n-de-la-tendencia-por-diferencias/</guid>
+      <description>Tutorial de Excel para la eliminación de la tendencia por el método de las diferencias.
+  </description>
+    </item>
+    
+    <item>
+      <title>Practica - Series Temporales - 11/12 - Eliminación de la estacionalidad por diferencias</title>
+      <link>/blog/2013/01/22/practica-series-temporales-11-12-eliminacio%CC%81n-de-la-estacionalidad-por-diferencias/</link>
+      <pubDate>Tue, 22 Jan 2013 16:42:49 +0000</pubDate>
+      
+      <guid>/blog/2013/01/22/practica-series-temporales-11-12-eliminacio%CC%81n-de-la-estacionalidad-por-diferencias/</guid>
+      <description>Tutorial de Excel para la eliminación de la estacionalidad de una serie temporal por el método de las diferencias.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

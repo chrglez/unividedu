@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R^2 on Uvide</title>
+    <link>/tags/r2/</link>
+    <description>Recent content in R^2 on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 19 Feb 2016 08:50:30 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/r2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lec004.2 Validación de un Modelo Lineal (umh1480)</title>
+      <link>/blog/2016/02/19/lec0042-validacion-de-un-modelo-lineal-umh1480/</link>
+      <pubDate>Fri, 19 Feb 2016 08:50:30 +0000</pubDate>
+      
+      <guid>/blog/2016/02/19/lec0042-validacion-de-un-modelo-lineal-umh1480/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/20XaPkS
+Validación de un Modelo Lineal. Asignatura: Técnicas Estadísticas en Investigación de Mercados. Grado en Estadística Empresarial. Profesor: Xavier Barber i Vallés. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE. Universidad Miguel Hernández de Elche.
+Pasos para estudiar la bondad del ajuste y la validación de un modelo lineal.
+web asignatura: http://umh1480.edu.umh.es/ web: http://umh.es
+  </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>carlos iii on Uvide</title>
+    <link>/tags/carlos-iii/</link>
+    <description>Recent content in carlos iii on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 23 Nov 2015 22:44:11 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/carlos-iii/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Parcial 3-Matemáticas I UC3M (I)</title>
+      <link>/blog/2015/11/23/parcial-3-matematicas-i-uc3m-i/</link>
+      <pubDate>Mon, 23 Nov 2015 22:44:11 +0000</pubDate>
+      
+      <guid>/blog/2015/11/23/parcial-3-matematicas-i-uc3m-i/</guid>
+      <description>Ejercicio de Límites, Relga de L&amp;rsquo;hopital
+  </description>
+    </item>
+    
+    <item>
+      <title>Jornada de la Estadística 2013 UC3M</title>
+      <link>/blog/2013/06/14/jornada-de-la-estadistica-2013-uc3m/</link>
+      <pubDate>Fri, 14 Jun 2013 11:44:44 +0000</pubDate>
+      
+      <guid>/blog/2013/06/14/jornada-de-la-estadistica-2013-uc3m/</guid>
+      <description>El Aula Magna del campus de Getafe de la UC3M acogió el pasado 23 de abril una jornada sobre Estadística enmarcada en el programa de actividades que conmemoran el Año Internacional de la Estadística. Daniel Peña, Catedrático de Estadística y Rector de la UC3M, inauguró esta jornada con la charla &amp;ldquo;Fisher y Box: la Estadística como herramienta fundamental para el conocimiento&amp;rdquo;.
+Más información: http://www.uc3m.es/portal/page/portal/repositorio_noticias/noticias_generales/DAEFEFA056444294E04075A36FB04D43?_template=/SHARED/pl_noticias_detalle_pub
+  </description>
+    </item>
+    
+  </channel>
+</rss>

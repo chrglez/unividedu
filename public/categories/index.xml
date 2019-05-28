@@ -1,58 +1,184 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Univideduc</title>
+    <title>Categories on Uvide</title>
     <link>/categories/</link>
-    <description>Recent content in Categories on Univideduc</description>
+    <description>Recent content in Categories on Uvide</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Sun, 02 Oct 2016 22:34:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Nov 2018 19:13:04 +0000</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>UCL</title>
+      <link>/categories/ucl/</link>
+      <pubDate>Tue, 13 Nov 2018 19:13:04 +0000</pubDate>
+      
+      <guid>/categories/ucl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EDEM</title>
+      <link>/categories/edem/</link>
+      <pubDate>Wed, 26 Sep 2018 15:09:36 +0000</pubDate>
+      
+      <guid>/categories/edem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NA</title>
+      <link>/categories/na/</link>
+      <pubDate>Tue, 30 May 2017 06:06:28 +0000</pubDate>
+      
+      <guid>/categories/na/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>URJC</title>
+      <link>/categories/urjc/</link>
+      <pubDate>Thu, 23 Mar 2017 10:52:38 +0000</pubDate>
+      
+      <guid>/categories/urjc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UPV</title>
+      <link>/categories/upv/</link>
+      <pubDate>Mon, 13 Mar 2017 08:18:55 +0000</pubDate>
+      
+      <guid>/categories/upv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UNIR</title>
+      <link>/categories/unir/</link>
+      <pubDate>Fri, 24 Feb 2017 11:35:24 +0000</pubDate>
+      
+      <guid>/categories/unir/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>UC3M</title>
       <link>/categories/uc3m/</link>
-      <pubDate>Sun, 02 Oct 2016 22:34:16 +0000</pubDate>
+      <pubDate>Tue, 17 Jan 2017 19:59:01 +0000</pubDate>
       
       <guid>/categories/uc3m/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>UFV</title>
+      <link>/categories/ufv/</link>
+      <pubDate>Sun, 04 Dec 2016 10:11:52 +0000</pubDate>
+      
+      <guid>/categories/ufv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UDIMA</title>
+      <link>/categories/udima/</link>
+      <pubDate>Thu, 01 Dec 2016 16:02:15 +0000</pubDate>
+      
+      <guid>/categories/udima/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>UIB</title>
       <link>/categories/uib/</link>
-      <pubDate>Thu, 22 Sep 2016 12:48:24 +0000</pubDate>
+      <pubDate>Thu, 22 Sep 2016 12:53:17 +0000</pubDate>
       
       <guid>/categories/uib/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>UMA</title>
+      <link>/categories/uma/</link>
+      <pubDate>Wed, 20 Jul 2016 11:44:02 +0000</pubDate>
+      
+      <guid>/categories/uma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VIU</title>
+      <link>/categories/viu/</link>
+      <pubDate>Tue, 29 Dec 2015 12:09:25 +0000</pubDate>
+      
+      <guid>/categories/viu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UAM</title>
+      <link>/categories/uam/</link>
+      <pubDate>Fri, 27 Nov 2015 10:27:03 +0000</pubDate>
+      
+      <guid>/categories/uam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>ULPGC</title>
       <link>/categories/ulpgc/</link>
-      <pubDate>Thu, 08 Oct 2015 22:11:21 +0000</pubDate>
+      <pubDate>Thu, 12 Nov 2015 09:40:02 +0000</pubDate>
       
       <guid>/categories/ulpgc/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>UOC</title>
-      <link>/categories/uoc/</link>
-      <pubDate>Thu, 05 Mar 2015 04:55:02 +0000</pubDate>
+      <title>USAL</title>
+      <link>/categories/usal/</link>
+      <pubDate>Wed, 11 Feb 2015 10:19:15 +0000</pubDate>
       
-      <guid>/categories/uoc/</guid>
+      <guid>/categories/usal/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>UCAM</title>
-      <link>/categories/ucam/</link>
-      <pubDate>Mon, 17 Mar 2014 08:07:24 +0000</pubDate>
+      <title>UBU</title>
+      <link>/categories/ubu/</link>
+      <pubDate>Wed, 16 Jul 2014 10:56:04 +0000</pubDate>
       
-      <guid>/categories/ucam/</guid>
+      <guid>/categories/ubu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UV</title>
+      <link>/categories/uv/</link>
+      <pubDate>Thu, 12 Jun 2014 17:04:05 +0000</pubDate>
+      
+      <guid>/categories/uv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UPF</title>
+      <link>/categories/upf/</link>
+      <pubDate>Fri, 20 Jul 2012 06:26:31 +0000</pubDate>
+      
+      <guid>/categories/upf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UIMP</title>
+      <link>/categories/uimp/</link>
+      <pubDate>Tue, 22 Nov 2011 09:15:54 +0000</pubDate>
+      
+      <guid>/categories/uimp/</guid>
       <description></description>
     </item>
     

@@ -1,24 +1,118 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>derivada on Univideduc</title>
+    <title>derivada on Uvide</title>
     <link>/tags/derivada/</link>
-    <description>Recent content in derivada on Univideduc</description>
+    <description>Recent content in derivada on Uvide</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Thu, 05 Mar 2015 04:55:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 31 Jul 2014 00:00:10 +0000</lastBuildDate>
     
 	<atom:link href="/tags/derivada/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Cálculo I: Introducción a la derivada</title>
-      <link>/blog/2015/03/05/calculo-i-introduccion-a-la-derivada/</link>
-      <pubDate>Thu, 05 Mar 2015 04:55:02 +0000</pubDate>
+      <title>Ejemplo optimizacion 2 | 28/28 | UPV</title>
+      <link>/blog/2014/07/31/ejemplo-optimizacion-2-28-28-upv/</link>
+      <pubDate>Thu, 31 Jul 2014 00:00:10 +0000</pubDate>
       
-      <guid>/blog/2015/03/05/calculo-i-introduccion-a-la-derivada/</guid>
-      <description>En este vídeo ofrecemos una introducción a la derivada muy intuitiva: a partir de la ley de los números imapres de Galileo. Analizamos el salto que damos desde la velocidad media a una expresión algebraica obtenida a partir del cálculo infinitesimal. Admeás, repasamos las diferentes maneras de expresar la derivada, y concluimos con un ejemplo aplicado a la distancia recorrida y la velocidad de un avión al despegar.
-Aquí tenemos el índice del vídeo:</description>
+      <guid>/blog/2014/07/31/ejemplo-optimizacion-2-28-28-upv/</guid>
+      <description>Título: Ejemplo optimizacion 2
+Autor/a: Moll López Santiago Emmanuel
+Curso: Este vídeo es el 28&amp;frasl;28 del curso MOOC Bases Matematicas: Derivadas | Universitat Politècnica de València (UPV). https://www.youtube.com/playlist?list=PL6kQim6ljTJukL1_HYPvQx_08MqXnj44O
+Inscríbete en: https://upvx.es/courses/course-v1:edxorg+bases-matematicas-derivadas+bmd101x-0/about
+ Universitat Politècnica de València UPV: https://www.upv.es Más vídeos en: https://www.youtube.com/valenciaupv Accede a nuestros MOOC: https://upvx.es    </description>
+    </item>
+    
+    <item>
+      <title>Ejemplo optimizacion 1 | 27/28 | UPV</title>
+      <link>/blog/2014/07/30/ejemplo-optimizacion-1-27-28-upv/</link>
+      <pubDate>Wed, 30 Jul 2014 23:57:35 +0000</pubDate>
+      
+      <guid>/blog/2014/07/30/ejemplo-optimizacion-1-27-28-upv/</guid>
+      <description>Título: Ejemplo optimizacion 1
+Autor/a: Moll López Santiago Emmanuel
+Curso: Este vídeo es el 27&amp;frasl;28 del curso MOOC Bases Matematicas: Derivadas | Universitat Politècnica de València (UPV). https://www.youtube.com/playlist?list=PL6kQim6ljTJukL1_HYPvQx_08MqXnj44O
+Inscríbete en: https://upvx.es/courses/course-v1:edxorg+bases-matematicas-derivadas+bmd101x-0/about
+ Universitat Politècnica de València UPV: https://www.upv.es Más vídeos en: https://www.youtube.com/valenciaupv Accede a nuestros MOOC: https://upvx.es    </description>
+    </item>
+    
+    <item>
+      <title>Derivadas sucesivas y polinomio de Taylor 2 | 19/28 | UPV</title>
+      <link>/blog/2014/07/30/derivadas-sucesivas-y-polinomio-de-taylor-2-19-28-upv/</link>
+      <pubDate>Wed, 30 Jul 2014 23:53:16 +0000</pubDate>
+      
+      <guid>/blog/2014/07/30/derivadas-sucesivas-y-polinomio-de-taylor-2-19-28-upv/</guid>
+      <description>Título: Derivadas sucesivas y polinomio de Taylor 2
+Autor/a: Moll López Santiago Emmanuel
+Curso: Este vídeo es el 19&amp;frasl;28 del curso MOOC Bases Matematicas: Derivadas | Universitat Politècnica de València (UPV). https://www.youtube.com/playlist?list=PL6kQim6ljTJukL1_HYPvQx_08MqXnj44O
+Inscríbete en: https://upvx.es/courses/course-v1:edxorg+bases-matematicas-derivadas+bmd101x-0/about
+ Universitat Politècnica de València UPV: https://www.upv.es Más vídeos en: https://www.youtube.com/valenciaupv Accede a nuestros MOOC: https://upvx.es    </description>
+    </item>
+    
+    <item>
+      <title>Teoremas de derivacion y derivada implicita | 20/28 | UPV</title>
+      <link>/blog/2014/07/30/teoremas-de-derivacion-y-derivada-implicita-20-28-upv/</link>
+      <pubDate>Wed, 30 Jul 2014 01:35:12 +0000</pubDate>
+      
+      <guid>/blog/2014/07/30/teoremas-de-derivacion-y-derivada-implicita-20-28-upv/</guid>
+      <description>Título: Teoremas de derivacion y derivada implicita
+Autor/a: Moll López Santiago Emmanuel
+Curso: Este vídeo es el 20&amp;frasl;28 del curso MOOC Bases Matematicas: Derivadas | Universitat Politècnica de València (UPV). https://www.youtube.com/playlist?list=PL6kQim6ljTJukL1_HYPvQx_08MqXnj44O
+Inscríbete en: https://upvx.es/courses/course-v1:edxorg+bases-matematicas-derivadas+bmd101x-0/about
+ Universitat Politècnica de València UPV: https://www.upv.es Más vídeos en: https://www.youtube.com/valenciaupv Accede a nuestros MOOC: https://upvx.es    </description>
+    </item>
+    
+    <item>
+      <title>Derivadas sucesivas y polinomio de Taylor | 18/28 | UPV</title>
+      <link>/blog/2014/07/30/derivadas-sucesivas-y-polinomio-de-taylor-18-28-upv/</link>
+      <pubDate>Wed, 30 Jul 2014 01:26:25 +0000</pubDate>
+      
+      <guid>/blog/2014/07/30/derivadas-sucesivas-y-polinomio-de-taylor-18-28-upv/</guid>
+      <description>Título: Derivadas sucesivas y polinomio de Taylor
+Autor/a: Moll López Santiago Emmanuel
+Curso: Este vídeo es el 18&amp;frasl;28 del curso MOOC Bases Matematicas: Derivadas | Universitat Politècnica de València (UPV). https://www.youtube.com/playlist?list=PL6kQim6ljTJukL1_HYPvQx_08MqXnj44O
+Inscríbete en: https://upvx.es/courses/course-v1:edxorg+bases-matematicas-derivadas+bmd101x-0/about
+ Universitat Politècnica de València UPV: https://www.upv.es Más vídeos en: https://www.youtube.com/valenciaupv Accede a nuestros MOOC: https://upvx.es    </description>
+    </item>
+    
+    <item>
+      <title>Concavidad y criterio de la segunda derivada | 25/28 | UPV</title>
+      <link>/blog/2014/07/28/concavidad-y-criterio-de-la-segunda-derivada-25-28-upv/</link>
+      <pubDate>Mon, 28 Jul 2014 15:55:50 +0000</pubDate>
+      
+      <guid>/blog/2014/07/28/concavidad-y-criterio-de-la-segunda-derivada-25-28-upv/</guid>
+      <description>Título: Concavidad y criterio de la segunda derivada
+Autor/a: Moll López Santiago Emmanuel
+Curso: Este vídeo es el 25&amp;frasl;28 del curso MOOC Bases Matematicas: Derivadas | Universitat Politècnica de València (UPV). https://www.youtube.com/playlist?list=PL6kQim6ljTJukL1_HYPvQx_08MqXnj44O
+Inscríbete en: https://upvx.es/courses/course-v1:edxorg+bases-matematicas-derivadas+bmd101x-0/about
+ Universitat Politècnica de València UPV: https://www.upv.es Más vídeos en: https://www.youtube.com/valenciaupv Accede a nuestros MOOC: https://upvx.es    </description>
+    </item>
+    
+    <item>
+      <title>Introduccion derivadas 2 | 8/28 | UPV</title>
+      <link>/blog/2014/07/26/introduccion-derivadas-2-8-28-upv/</link>
+      <pubDate>Sat, 26 Jul 2014 15:53:34 +0000</pubDate>
+      
+      <guid>/blog/2014/07/26/introduccion-derivadas-2-8-28-upv/</guid>
+      <description>Título: Introduccion derivadas 2
+Autor/a: Moll López Santiago Emmanuel
+Curso: Este vídeo es el 8&amp;frasl;28 del curso MOOC Bases Matematicas: Derivadas | Universitat Politècnica de València (UPV). https://www.youtube.com/playlist?list=PL6kQim6ljTJukL1_HYPvQx_08MqXnj44O
+Inscríbete en: https://upvx.es/courses/course-v1:edxorg+bases-matematicas-derivadas+bmd101x-0/about
+ Universitat Politècnica de València UPV: https://www.upv.es Más vídeos en: https://www.youtube.com/valenciaupv Accede a nuestros MOOC: https://upvx.es    </description>
+    </item>
+    
+    <item>
+      <title>Introduccion derivadas 1 | 9/28 | UPV</title>
+      <link>/blog/2014/07/26/introduccion-derivadas-1-9-28-upv/</link>
+      <pubDate>Sat, 26 Jul 2014 15:46:32 +0000</pubDate>
+      
+      <guid>/blog/2014/07/26/introduccion-derivadas-1-9-28-upv/</guid>
+      <description>Título: Introduccion derivadas 1
+Autor/a: Moll López Santiago Emmanuel
+Curso: Este vídeo es el 9&amp;frasl;28 del curso MOOC Bases Matematicas: Derivadas | Universitat Politècnica de València (UPV). https://www.youtube.com/playlist?list=PL6kQim6ljTJukL1_HYPvQx_08MqXnj44O
+Inscríbete en: https://upvx.es/courses/course-v1:edxorg+bases-matematicas-derivadas+bmd101x-0/about
+ Universitat Politècnica de València UPV: https://www.upv.es Más vídeos en: https://www.youtube.com/valenciaupv Accede a nuestros MOOC: https://upvx.es    </description>
     </item>
     
   </channel>

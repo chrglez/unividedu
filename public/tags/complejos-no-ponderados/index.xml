@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Complejos no ponderados on Uvide</title>
+    <link>/tags/complejos-no-ponderados/</link>
+    <description>Recent content in Complejos no ponderados on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 22 Jan 2013 16:51:58 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/complejos-no-ponderados/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Práctica - Números Índice - 02/03 - Índices complejos no ponderados</title>
+      <link>/blog/2013/01/22/pra%CC%81ctica-nu%CC%81meros-i%CC%81ndice-02-03-i%CC%81ndices-complejos-no-ponderados/</link>
+      <pubDate>Tue, 22 Jan 2013 16:51:58 +0000</pubDate>
+      
+      <guid>/blog/2013/01/22/pra%CC%81ctica-nu%CC%81meros-i%CC%81ndice-02-03-i%CC%81ndices-complejos-no-ponderados/</guid>
+      <description>Tutorial de Excel para el cálculo de índices complejos no ponderados.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Coeficiente de Variación on Uvide</title>
+    <link>/tags/coeficiente-de-variaci%C3%B3n/</link>
+    <description>Recent content in Coeficiente de Variación on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 19 Mar 2013 16:19:08 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/coeficiente-de-variaci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Funciones Estadísticas en Excel - 05/07 - Dispersión</title>
+      <link>/blog/2013/03/19/funciones-estadi%CC%81sticas-en-excel-05-07-dispersion/</link>
+      <pubDate>Tue, 19 Mar 2013 16:19:08 +0000</pubDate>
+      
+      <guid>/blog/2013/03/19/funciones-estadi%CC%81sticas-en-excel-05-07-dispersion/</guid>
+      <description>En este tutorial se explica cómo calculas las diferentes medidas de dispersión, mediante las fórmulas estadísticas que vienen implementadas en Excel.
+  </description>
+    </item>
+    
+    <item>
+      <title>Practica   Variable unidimensional continua   04/06   Medidas de dispersión</title>
+      <link>/blog/2013/01/22/practica-variable-unidimensional-continua-04-06-medidas-de-dispersio%CC%81n/</link>
+      <pubDate>Tue, 22 Jan 2013 10:16:21 +0000</pubDate>
+      
+      <guid>/blog/2013/01/22/practica-variable-unidimensional-continua-04-06-medidas-de-dispersio%CC%81n/</guid>
+      <description>Tutorial de Excel para el cálculo de medidas de dispersión con una variable continua.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

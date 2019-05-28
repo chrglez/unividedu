@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Estadisticas on Uvide</title>
+    <link>/tags/estadisticas/</link>
+    <description>Recent content in Estadisticas on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 22 Feb 2013 14:21:31 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/estadisticas/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Teoria   Estadistica Basica   Variables Estadisticas</title>
+      <link>/blog/2013/02/22/teoria-estadistica-basica-variables-estadisticas/</link>
+      <pubDate>Fri, 22 Feb 2013 14:21:31 +0000</pubDate>
+      
+      <guid>/blog/2013/02/22/teoria-estadistica-basica-variables-estadisticas/</guid>
+      <description>Introducción al concepto de variable estadística, población, muestra y tipología de datos.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

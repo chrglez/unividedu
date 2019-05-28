@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ANCOVA on Uvide</title>
+    <link>/tags/ancova/</link>
+    <description>Recent content in ANCOVA on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 02 May 2017 08:15:09 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/ancova/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Unidad 3.1: Vender o no vender. Regresión Logística</title>
+      <link>/blog/2017/05/02/unidad-31-vender-o-no-vender-regresion-logistica/</link>
+      <pubDate>Tue, 02 May 2017 08:15:09 +0000</pubDate>
+      
+      <guid>/blog/2017/05/02/unidad-31-vender-o-no-vender-regresion-logistica/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/20XaPkS
+Vender o no vender. Regresión Logística. Asignatura: Técnicas Estadísticas en Investigación de Mercados. Grado en Estadística Empresarial. Profesor: Xavier Barber i Vallés. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE. Universidad Miguel Hernández de Elche.
+Visión práctica de la regresión logística y los Odds Ratio desde el punto de vista del marketing.
+web asignatura: http://umh1480.</description>
+    </item>
+    
+    <item>
+      <title>Práctica Transversal: Crear un Blog e insertar aplicaciones Shiny</title>
+      <link>/blog/2017/05/02/practica-transversal-crear-un-blog-e-insertar-aplicaciones-shiny/</link>
+      <pubDate>Tue, 02 May 2017 07:44:48 +0000</pubDate>
+      
+      <guid>/blog/2017/05/02/practica-transversal-crear-un-blog-e-insertar-aplicaciones-shiny/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/20XaPkS
+Práctica Transversal: Crear un Blog e insertar aplicaciones Shiny. Asignatura: Técnicas Estadísticas en Investigación de Mercados. Grado en Estadística Empresarial. Profesor: Xavier Barber i Vallés. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE. Universidad Miguel Hernández de Elche.
+En este video se explica las dos actividades a realizar en el próximo mes de mayo por los alumnos de la asignatura.</description>
+    </item>
+    
+    <item>
+      <title>Resolución de Ejercicios: ANCOVA (3ª parte)</title>
+      <link>/blog/2017/04/07/resolucion-de-ejercicios-ancova-3%C2%AA-parte/</link>
+      <pubDate>Fri, 07 Apr 2017 09:15:44 +0000</pubDate>
+      
+      <guid>/blog/2017/04/07/resolucion-de-ejercicios-ancova-3%C2%AA-parte/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/20XaPkS
+Resolución de Ejercicios: ANCOVA (3ª parte). Asignatura: Técnicas Estadísticas en Investigación de Mercados. Grado en Estadística Empresarial. Profesor: Xavier Barber i Vallés. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE. Universidad Miguel Hernández de Elche.
+Video en el que se resuelve el ejerccio 2 de ANCOVA desde RStudio con markdown.
+web asignatura: http://umh1480.edu.umh.es/ web: http://umh.</description>
+    </item>
+    
+    <item>
+      <title>Resolución de Ejercicios: ANCOVA (2a parte)</title>
+      <link>/blog/2017/03/28/resolucion-de-ejercicios-ancova-2a-parte/</link>
+      <pubDate>Tue, 28 Mar 2017 13:30:16 +0000</pubDate>
+      
+      <guid>/blog/2017/03/28/resolucion-de-ejercicios-ancova-2a-parte/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/20XaPkS
+Resolución de Ejercicios: ANCOVA (2a parte). Asignatura: Técnicas Estadísticas en Investigación de Mercados. Grado en Estadística Empresarial. Profesor: Xavier Barber i Vallés. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE. Universidad Miguel Hernández de Elche.
+En este video se muestra cómo un modelo lineal bondadoso y válido puede predecir mal debido a la no linealidad de Todos los datos conjuntamente.</description>
+    </item>
+    
+    <item>
+      <title>Resolución de Ejercicios: ANCOVA</title>
+      <link>/blog/2017/03/28/resolucion-de-ejercicios-ancova/</link>
+      <pubDate>Tue, 28 Mar 2017 13:28:14 +0000</pubDate>
+      
+      <guid>/blog/2017/03/28/resolucion-de-ejercicios-ancova/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/20XaPkS
+Resolución de Ejercicios: ANCOVA. Asignatura: Técnicas Estadísticas en Investigación de Mercados. Grado en Estadística Empresarial. Profesor: Xavier Barber i Vallés. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE. Universidad Miguel Hernández de Elche.
+En este video se muestra cómo un modelo lineal bondadoso y válido puede predecir mal debido a la no linealidad de Todos los datos conjuntamente.</description>
+    </item>
+    
+    <item>
+      <title>Unidad 02: Los Modelos Lineales clásicos. El concepto de “El mejor Modelo” para mi empresa</title>
+      <link>/blog/2017/03/17/unidad-02-los-modelos-lineales-clasicos-el-concepto-de-el-mejor-modelo-para-mi-empresa/</link>
+      <pubDate>Fri, 17 Mar 2017 13:04:15 +0000</pubDate>
+      
+      <guid>/blog/2017/03/17/unidad-02-los-modelos-lineales-clasicos-el-concepto-de-el-mejor-modelo-para-mi-empresa/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/20XaPkS
+Los Modelos Lineales clásicos. El concepto de “El mejor Modelo” para mi empresa. Asignatura: Técnicas Estadísticas en Investigación de Mercados. Grado en Estadística Empresarial. Profesor: Xavier Barber i Vallés. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE. Universidad Miguel Hernández de Elche.
+Los Modelos Lineales clásicos. El concepto de “El mejor Modelo” para mi empresa.</description>
+    </item>
+    
+    <item>
+      <title>Lec004.1 Repaso a los Modelos Lineales (umh1480)</title>
+      <link>/blog/2016/02/29/lec0041-repaso-a-los-modelos-lineales-umh1480/</link>
+      <pubDate>Mon, 29 Feb 2016 14:30:35 +0000</pubDate>
+      
+      <guid>/blog/2016/02/29/lec0041-repaso-a-los-modelos-lineales-umh1480/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/20XaPkS
+Repaso a los Modelos Lineales. Asignatura: Técnicas Estadísticas en Investigación de Mercados. Grado en Estadística Empresarial. Profesor: Xavier Barber i Vallés. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE. Universidad Miguel Hernández de Elche.
+Breve repaso al concepto de Modelos Lineales: Regresión Lienal, ANOVA y ANCOVA
+web asignatura: http://umh1480.edu.umh.es/ web: http://umh.es
+  </description>
+    </item>
+    
+  </channel>
+</rss>

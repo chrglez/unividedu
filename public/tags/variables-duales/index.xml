@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>variables duales on Uvide</title>
+    <link>/tags/variables-duales/</link>
+    <description>Recent content in variables duales on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 01 May 2013 12:45:14 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/variables-duales/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tratamiento de las variables duales con LINGO</title>
+      <link>/blog/2013/05/01/tratamiento-de-las-variables-duales-con-lingo/</link>
+      <pubDate>Wed, 01 May 2013 12:45:14 +0000</pubDate>
+      
+      <guid>/blog/2013/05/01/tratamiento-de-las-variables-duales-con-lingo/</guid>
+      <description>   </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Números índices on Uvide</title>
+    <link>/tags/n%C3%BAmeros-%C3%ADndices/</link>
+    <description>Recent content in Números índices on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 22 Jan 2013 16:53:28 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/n%C3%BAmeros-%C3%ADndices/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Práctica - Números Índice - 01/03 - Índices Simples</title>
+      <link>/blog/2013/01/22/pra%CC%81ctica-nu%CC%81meros-i%CC%81ndice-01-03-i%CC%81ndices-simples/</link>
+      <pubDate>Tue, 22 Jan 2013 16:53:28 +0000</pubDate>
+      
+      <guid>/blog/2013/01/22/pra%CC%81ctica-nu%CC%81meros-i%CC%81ndice-01-03-i%CC%81ndices-simples/</guid>
+      <description>Tutorial de Excel para el cálculo de Números índices simples.
+  </description>
+    </item>
+    
+    <item>
+      <title>Práctica - Números Índice - 02/03 - Índices complejos no ponderados</title>
+      <link>/blog/2013/01/22/pra%CC%81ctica-nu%CC%81meros-i%CC%81ndice-02-03-i%CC%81ndices-complejos-no-ponderados/</link>
+      <pubDate>Tue, 22 Jan 2013 16:51:58 +0000</pubDate>
+      
+      <guid>/blog/2013/01/22/pra%CC%81ctica-nu%CC%81meros-i%CC%81ndice-02-03-i%CC%81ndices-complejos-no-ponderados/</guid>
+      <description>Tutorial de Excel para el cálculo de índices complejos no ponderados.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>polinomios on Univideduc</title>
+    <title>polinomios on Uvide</title>
     <link>/tags/polinomios/</link>
-    <description>Recent content in polinomios on Univideduc</description>
+    <description>Recent content in polinomios on Uvide</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Thu, 08 Oct 2015 22:11:21 +0000</lastBuildDate>
@@ -13,11 +13,52 @@
     
     <item>
       <title>Operaciones con polinomios</title>
-      <link>/blog/2015/10/08/banner-oper-poli-1/</link>
+      <link>/blog/2015/10/08/operaciones-con-polinomios/</link>
       <pubDate>Thu, 08 Oct 2015 22:11:21 +0000</pubDate>
       
-      <guid>/blog/2015/10/08/banner-oper-poli-1/</guid>
-      <description>Operaciones con polinomios   </description>
+      <guid>/blog/2015/10/08/operaciones-con-polinomios/</guid>
+      <description>Operaciones con polinomios
+  </description>
+    </item>
+    
+    <item>
+      <title>Factorización polinomios grado 3 con soluciones no enteras</title>
+      <link>/blog/2015/10/06/factorizacion-polinomios-grado-3-con-soluciones-no-enteras/</link>
+      <pubDate>Tue, 06 Oct 2015 01:25:41 +0000</pubDate>
+      
+      <guid>/blog/2015/10/06/factorizacion-polinomios-grado-3-con-soluciones-no-enteras/</guid>
+      <description>Factorización polinomios grado 3 con soluciones no enteras
+  </description>
+    </item>
+    
+    <item>
+      <title>Factorización de polinomios de grado 2</title>
+      <link>/blog/2015/10/05/factorizacion-de-polinomios-de-grado-2/</link>
+      <pubDate>Mon, 05 Oct 2015 00:54:44 +0000</pubDate>
+      
+      <guid>/blog/2015/10/05/factorizacion-de-polinomios-de-grado-2/</guid>
+      <description>Factorización de polinomios de grado 2
+  </description>
+    </item>
+    
+    <item>
+      <title>Producto de polinomios</title>
+      <link>/blog/2015/10/04/producto-de-polinomios/</link>
+      <pubDate>Sun, 04 Oct 2015 19:02:53 +0000</pubDate>
+      
+      <guid>/blog/2015/10/04/producto-de-polinomios/</guid>
+      <description>Producto de polinomios. productos notables
+  </description>
+    </item>
+    
+    <item>
+      <title>Factorización de polinomios</title>
+      <link>/blog/2014/09/30/factorizacion-de-polinomios-1/</link>
+      <pubDate>Tue, 30 Sep 2014 20:16:02 +0000</pubDate>
+      
+      <guid>/blog/2014/09/30/factorizacion-de-polinomios-1/</guid>
+      <description>Factorización de polinomios
+  </description>
     </item>
     
   </channel>

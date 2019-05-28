@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Massive Open Online Course on Uvide</title>
+    <link>/tags/massive-open-online-course/</link>
+    <description>Recent content in Massive Open Online Course on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 07 Nov 2013 21:22:32 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/massive-open-online-course/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Presentacion MOOC Estadística para investigadores: Todo lo que quiso saber y nunca...</title>
+      <link>/blog/2013/11/07/presentacion-mooc-estadistica-para-investigadores-todo-lo-que-quiso-saber-y-nunca/</link>
+      <pubDate>Thu, 07 Nov 2013 21:22:32 +0000</pubDate>
+      
+      <guid>/blog/2013/11/07/presentacion-mooc-estadistica-para-investigadores-todo-lo-que-quiso-saber-y-nunca/</guid>
+      <description>Titulo curso: Estadística para investigadores, todo lo que siempre quiso saber y no se atrevió a preguntar
+Cursos Online Masivos y Abiertos de la Universidad de Salamanca.
+Breve info: Si alguna vez has tenido problemas con la estadística, este curso está hecho para ti. Es ideal para investigadores y alumnos que se encuentran cursando trabajos fin de grado, trabajos fin de máster o realizando la tesis y que quieren realizar un análisis cuantitativo en sus estudios.</description>
+    </item>
+    
+  </channel>
+</rss>

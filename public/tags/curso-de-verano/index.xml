@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Curso de verano on Uvide</title>
+    <link>/tags/curso-de-verano/</link>
+    <description>Recent content in Curso de verano on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 24 Feb 2017 12:52:37 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/curso-de-verano/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Estadísticas y género (3/3)</title>
+      <link>/blog/2017/02/24/estadisticas-y-genero-3-3/</link>
+      <pubDate>Fri, 24 Feb 2017 12:52:37 +0000</pubDate>
+      
+      <guid>/blog/2017/02/24/estadisticas-y-genero-3-3/</guid>
+      <description>Estadísticas y género (1&amp;frasl;3) Curso de verano Eustat - UPV-EHU 2016 30 años midiendo los cambios en la sociedad vasca.
+Ponencias de María Ángeles Durán (CSIC), Matxalen Legarreta (UPV-EHU), Marina Sagastizabal (UPV-EHU), María Pazos Morán (Instituto de Estudios Fiscales)
+  </description>
+    </item>
+    
+  </channel>
+</rss>

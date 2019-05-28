@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tangente on Uvide</title>
+    <link>/tags/tangente/</link>
+    <description>Recent content in tangente on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Sat, 26 Jul 2014 14:56:58 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/tangente/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Recta tangente 2 |  | UPV</title>
+      <link>/blog/2014/07/26/recta-tangente-2-upv-1/</link>
+      <pubDate>Sat, 26 Jul 2014 14:56:58 +0000</pubDate>
+      
+      <guid>/blog/2014/07/26/recta-tangente-2-upv-1/</guid>
+      <description>Título: Recta tangente 2
+Autor/a: Moll López Santiago Emmanuel
+ Universitat Politècnica de València UPV: https://www.upv.es Más vídeos en: https://www.youtube.com/valenciaupv Accede a nuestros MOOC: https://upvx.es    </description>
+    </item>
+    
+    <item>
+      <title>Recta tangente 2 |  | UPV</title>
+      <link>/blog/2014/07/26/recta-tangente-2-upv/</link>
+      <pubDate>Sat, 26 Jul 2014 14:56:58 +0000</pubDate>
+      
+      <guid>/blog/2014/07/26/recta-tangente-2-upv/</guid>
+      <description>Título: Recta tangente 2
+Autor/a: Moll López Santiago Emmanuel
+ Universitat Politècnica de València UPV: https://www.upv.es Más vídeos en: https://www.youtube.com/valenciaupv Accede a nuestros MOOC: https://upvx.es    </description>
+    </item>
+    
+  </channel>
+</rss>

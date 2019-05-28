@@ -28,6 +28,14 @@
 
                         <div id="post-content">
                           {{ .Content }}
+                          {{ with .Params.tags }}
+    <ul id = "tag-ul" class="tag-cloud" style = "padding: 10px;">
+      {{ range . }}
+        <li><a href="{{ $.Site.BaseURL }}tags/{{ . | urlize | lower }}"><i class="fa fa-tags"></i> {{ . }}</a>
+            </li>
+      {{ end }}
+    </ul>
+    {{ end }}
                         </div>
                         <!-- /#post-content -->
                         {{ if .Site.DisqusShortname }}

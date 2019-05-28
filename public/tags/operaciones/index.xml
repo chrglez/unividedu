@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>operaciones on Uvide</title>
+    <link>/tags/operaciones/</link>
+    <description>Recent content in operaciones on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 28 Apr 2016 16:52:10 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/operaciones/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Planificación de Requerimientos de Capacidad PRC</title>
+      <link>/blog/2016/04/28/planificacion-de-requerimientos-de-capacidad-prc/</link>
+      <pubDate>Thu, 28 Apr 2016 16:52:10 +0000</pubDate>
+      
+      <guid>/blog/2016/04/28/planificacion-de-requerimientos-de-capacidad-prc/</guid>
+      <description>Caso práctico Autor: Fco. David de la Peña Esteban Universidad a Distancia de Madrid, Udima
+  </description>
+    </item>
+    
+    <item>
+      <title>Asignación de carga a talleres: método de los índices</title>
+      <link>/blog/2016/04/22/asignacion-de-carga-a-talleres-metodo-de-los-indices/</link>
+      <pubDate>Fri, 22 Apr 2016 11:18:34 +0000</pubDate>
+      
+      <guid>/blog/2016/04/22/asignacion-de-carga-a-talleres-metodo-de-los-indices/</guid>
+      <description>Caso práctico. Profesor: David de la Peña Esteban. Udima, Universidad a Distancia de Madrid
+  </description>
+    </item>
+    
+    <item>
+      <title>Operaciones con fracciones.</title>
+      <link>/blog/2015/10/06/operaciones-con-fracciones/</link>
+      <pubDate>Tue, 06 Oct 2015 23:17:12 +0000</pubDate>
+      
+      <guid>/blog/2015/10/06/operaciones-con-fracciones/</guid>
+      <description>Operaciones con fracciones.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

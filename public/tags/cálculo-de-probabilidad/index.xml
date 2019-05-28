@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cálculo de probabilidad on Uvide</title>
+    <link>/tags/c%C3%A1lculo-de-probabilidad/</link>
+    <description>Recent content in cálculo de probabilidad on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 14 Jun 2013 10:44:17 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/c%C3%A1lculo-de-probabilidad/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>umh1263 2012-13 Lec24 Práctica Variables Aleatorias Discretas</title>
+      <link>/blog/2013/06/14/umh1263-2012-13-lec24-practica-variables-aleatorias-discretas/</link>
+      <pubDate>Fri, 14 Jun 2013 10:44:17 +0000</pubDate>
+      
+      <guid>/blog/2013/06/14/umh1263-2012-13-lec24-practica-variables-aleatorias-discretas/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/15vMRE0
+Práctica de Variables Discretas. Asignatura: Análisis Exploratorio de Datos. Grado en Administración y Dirección de Empresas (Elche). Profesora: Mª Asunción Martínez Mayoral. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE 2013. Universidad Miguel Hernández de Elche.
+Identificación de variables Bernoulli, Binomial y Poisson. Cálculo de probabilidades.
+web asignatura: http://umh1263.edu.umh.es web: http://umh.es
+  </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Box-Cox on Uvide</title>
+    <link>/tags/box-cox/</link>
+    <description>Recent content in Box-Cox on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 03 Apr 2013 09:42:11 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/box-cox/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>(Econometría) Identificacion y estimacion: 4. Segundo modelo</title>
+      <link>/blog/2013/04/03/econometria-identificacion-y-estimacion-4-segundo-modelo/</link>
+      <pubDate>Wed, 03 Apr 2013 09:42:11 +0000</pubDate>
+      
+      <guid>/blog/2013/04/03/econometria-identificacion-y-estimacion-4-segundo-modelo/</guid>
+      <description>Mediante este tutorial de EViews se explica cómo se puede identificar y estimar un posible modelo SARIMA, a partir del análisis de los correlogramas, consiguiendo finalmente que los residuos estén incorrelacionados.
+  </description>
+    </item>
+    
+    <item>
+      <title>(Econometría) Identificacion y estimacion: 2. Primer modelo</title>
+      <link>/blog/2013/04/02/econometria-identificacion-y-estimacion-2-primer-modelo/</link>
+      <pubDate>Tue, 02 Apr 2013 22:09:13 +0000</pubDate>
+      
+      <guid>/blog/2013/04/02/econometria-identificacion-y-estimacion-2-primer-modelo/</guid>
+      <description>Mediante este tutorial de EViews se explica cómo se puede identificar y estimar un posible modelo SARIMA, a partir del análisis de los correlogramas, consiguiendo finalmente que los residuos de dicho modelo estén incorrelacionados.
+  </description>
+    </item>
+    
+    <item>
+      <title>(Econometría) Identificacion y estimacion: 1. Serie a identificar</title>
+      <link>/blog/2013/04/02/econometria-identificacion-y-estimacion-1-serie-a-identificar/</link>
+      <pubDate>Tue, 02 Apr 2013 19:57:15 +0000</pubDate>
+      
+      <guid>/blog/2013/04/02/econometria-identificacion-y-estimacion-1-serie-a-identificar/</guid>
+      <description>En este tutorial de EViews se explica cómo elegir cuál debe ser la endógena del modelo a estimar una vez finalizado el contraste de Dickey-Fuller.
+  </description>
+    </item>
+    
+    <item>
+      <title>(Econometría) Estacionariedad en varianza: 4.Transformación de la variable</title>
+      <link>/blog/2013/02/26/econometria-estacionariedad-en-varianza-4transformacion-de-la-variable/</link>
+      <pubDate>Tue, 26 Feb 2013 22:30:20 +0000</pubDate>
+      
+      <guid>/blog/2013/02/26/econometria-estacionariedad-en-varianza-4transformacion-de-la-variable/</guid>
+      <description>En este tutorial de EViews se explica qué transformación hay que realizar a la variable original, una vez realizado todo el análisis de la Estacionariedad en Varianza.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

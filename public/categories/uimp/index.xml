@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UIMP on Uvide</title>
+    <link>/categories/uimp/</link>
+    <description>Recent content in UIMP on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 22 Nov 2011 09:15:54 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/uimp/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>La integración de la Cartografía y la Estadística en Andalucía</title>
+      <link>/blog/2011/11/22/la-integracion-de-la-cartografia-y-la-estadistica-en-andalucia/</link>
+      <pubDate>Tue, 22 Nov 2011 09:15:54 +0000</pubDate>
+      
+      <guid>/blog/2011/11/22/la-integracion-de-la-cartografia-y-la-estadistica-en-andalucia/</guid>
+      <description>Este martes se ha inaugurado en la UIMP Sevilla el encuentro La integración de la Cartografía y la Estadística regional: avances en el conocimiento de Andalucía.
+  </description>
+    </item>
+    
+    <item>
+      <title>Encuentro en la UIMP sobre estadística y agricultura</title>
+      <link>/blog/2009/12/07/encuentro-en-la-uimp-sobre-estadistica-y-agricultura/</link>
+      <pubDate>Mon, 07 Dec 2009 00:33:00 +0000</pubDate>
+      
+      <guid>/blog/2009/12/07/encuentro-en-la-uimp-sobre-estadistica-y-agricultura/</guid>
+      <description>Fin de los Cursos de Otoño de la UIMP en Sevilla.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

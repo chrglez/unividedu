@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Validación on Uvide</title>
+    <link>/tags/validaci%C3%B3n/</link>
+    <description>Recent content in Validación on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 26 Sep 2017 18:40:48 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/validaci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>4. Modelo de Consumo: Contraste y Validación. Introducción a la Econometría IV (VRLR)</title>
+      <link>/blog/2017/09/26/4-modelo-de-consumo-contraste-y-validacion-introduccion-a-la-econometria-iv-vrlr/</link>
+      <pubDate>Tue, 26 Sep 2017 18:40:48 +0000</pubDate>
+      
+      <guid>/blog/2017/09/26/4-modelo-de-consumo-contraste-y-validacion-introduccion-a-la-econometria-iv-vrlr/</guid>
+      <description>IV video de la colección de Introducción a la Econometría por Víctor Raúl López Ruiz (VRLR) en el que se aplican medidas de contraste y validación al Modelo de Consumo.
+  </description>
+    </item>
+    
+    <item>
+      <title>Resolución de Ejercicios: ANCOVA (2a parte)</title>
+      <link>/blog/2017/03/28/resolucion-de-ejercicios-ancova-2a-parte/</link>
+      <pubDate>Tue, 28 Mar 2017 13:30:16 +0000</pubDate>
+      
+      <guid>/blog/2017/03/28/resolucion-de-ejercicios-ancova-2a-parte/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/20XaPkS
+Resolución de Ejercicios: ANCOVA (2a parte). Asignatura: Técnicas Estadísticas en Investigación de Mercados. Grado en Estadística Empresarial. Profesor: Xavier Barber i Vallés. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE. Universidad Miguel Hernández de Elche.
+En este video se muestra cómo un modelo lineal bondadoso y válido puede predecir mal debido a la no linealidad de Todos los datos conjuntamente.</description>
+    </item>
+    
+    <item>
+      <title>Resolución de Ejercicios: ANCOVA</title>
+      <link>/blog/2017/03/28/resolucion-de-ejercicios-ancova/</link>
+      <pubDate>Tue, 28 Mar 2017 13:28:14 +0000</pubDate>
+      
+      <guid>/blog/2017/03/28/resolucion-de-ejercicios-ancova/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/20XaPkS
+Resolución de Ejercicios: ANCOVA. Asignatura: Técnicas Estadísticas en Investigación de Mercados. Grado en Estadística Empresarial. Profesor: Xavier Barber i Vallés. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE. Universidad Miguel Hernández de Elche.
+En este video se muestra cómo un modelo lineal bondadoso y válido puede predecir mal debido a la no linealidad de Todos los datos conjuntamente.</description>
+    </item>
+    
+    <item>
+      <title>Unidad 2.2: Validando el modelo lineal</title>
+      <link>/blog/2017/03/20/unidad-22-validando-el-modelo-lineal/</link>
+      <pubDate>Mon, 20 Mar 2017 06:39:47 +0000</pubDate>
+      
+      <guid>/blog/2017/03/20/unidad-22-validando-el-modelo-lineal/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/20XaPkS
+Validando el modelo lineal. Asignatura: Técnicas Estadísticas en Investigación de Mercados. Grado en Estadística Empresarial. Profesor: Xavier Barber i Vallés. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE. Universidad Miguel Hernández de Elche.
+Bondad de ajuste, Validación y Predicción de un modelo lineal. Los tres pilares que no siempre sujetan a al &amp;ldquo;mejor&amp;rdquo; modelo.</description>
+    </item>
+    
+    <item>
+      <title>(Econometría) Predicción: 2. Predicción dinámica de últimos datos</title>
+      <link>/blog/2013/04/24/econometria-prediccio%CC%81n-2-prediccion-dinamica-de-ultimos-datos/</link>
+      <pubDate>Wed, 24 Apr 2013 11:40:07 +0000</pubDate>
+      
+      <guid>/blog/2013/04/24/econometria-prediccio%CC%81n-2-prediccion-dinamica-de-ultimos-datos/</guid>
+      <description>En este tutorial de EViews se explica cómo se realiza una predicción dinámica de una serie temporal, mediante un modelo SARIMA.
+  </description>
+    </item>
+    
+    <item>
+      <title>(Econometría) Predicción: 1. Estimación sin últimos datos</title>
+      <link>/blog/2013/04/24/econometria-prediccio%CC%81n-1-estimacion-sin-ultimos-datos/</link>
+      <pubDate>Wed, 24 Apr 2013 11:24:01 +0000</pubDate>
+      
+      <guid>/blog/2013/04/24/econometria-prediccio%CC%81n-1-estimacion-sin-ultimos-datos/</guid>
+      <description>En este tutorial de EViews se explica cómo se comienza a validar la capacidad predictiva de un modelo SARIMA. Para ellos se eliminan los últimos 12 datos de la serie y se comprueba que el SARIMA estimado mantiene sus propiedades.
+  </description>
+    </item>
+    
+    <item>
+      <title>(Econometría) Validacion: 2. Condiciones residuos</title>
+      <link>/blog/2013/04/10/econometria-validacion-2-condiciones-residuos/</link>
+      <pubDate>Wed, 10 Apr 2013 13:21:34 +0000</pubDate>
+      
+      <guid>/blog/2013/04/10/econometria-validacion-2-condiciones-residuos/</guid>
+      <description>En este tutorial de EViews se explica cómo comprobar las condiciones que deben cumplir los residuos que genera el modelo estimado, para superar la fase de validación.
+  </description>
+    </item>
+    
+    <item>
+      <title>(Econometría) Validacion: 1.Condiciones parámetros</title>
+      <link>/blog/2013/04/10/econometria-validacion-1condiciones-para%CC%81metros/</link>
+      <pubDate>Wed, 10 Apr 2013 12:58:01 +0000</pubDate>
+      
+      <guid>/blog/2013/04/10/econometria-validacion-1condiciones-para%CC%81metros/</guid>
+      <description>En este tutorial de EViews se explica cómo comprobar las condiciones que deben cumplir los parámetros del modelo estimado, para superar la fase de validación.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Serie temporal on Uvide</title>
+    <link>/tags/serie-temporal/</link>
+    <description>Recent content in Serie temporal on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 13 Mar 2013 01:06:17 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/serie-temporal/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>(Econometría) Estacionariedad en media: 3. Contraste de Dickey y Fuller</title>
+      <link>/blog/2013/03/13/econometria-estacionariedad-en-media-3-contraste-de-dickey-y-fuller/</link>
+      <pubDate>Wed, 13 Mar 2013 01:06:17 +0000</pubDate>
+      
+      <guid>/blog/2013/03/13/econometria-estacionariedad-en-media-3-contraste-de-dickey-y-fuller/</guid>
+      <description>En este tutorial se explica cómo analizar la estacionariedad en media de una serie temporal, a través del contraste de Dickey y Fuller, mediante el paquete estadístico EViews.
+  </description>
+    </item>
+    
+    <item>
+      <title>(Econometría) Estacionariedad en media: 2. Correlograma</title>
+      <link>/blog/2013/03/13/econometria-estacionariedad-en-media-2-correlograma/</link>
+      <pubDate>Wed, 13 Mar 2013 00:25:39 +0000</pubDate>
+      
+      <guid>/blog/2013/03/13/econometria-estacionariedad-en-media-2-correlograma/</guid>
+      <description>En este tutorial se explica cómo analizar la estacionariedad en media de una serie temporal, a través del análisis de su correlograma, mediante el paquete estadístico EViews.
+  </description>
+    </item>
+    
+    <item>
+      <title>(Econometría) Estacionariedad en media: 1. Método Gráfico</title>
+      <link>/blog/2013/03/13/econometria-estacionariedad-en-media-1-metodo-grafico/</link>
+      <pubDate>Wed, 13 Mar 2013 00:17:21 +0000</pubDate>
+      
+      <guid>/blog/2013/03/13/econometria-estacionariedad-en-media-1-metodo-grafico/</guid>
+      <description>En este tutorial se explica cómo analizar la estacionariedad en media de una serie temporal, a través del análisis de su gráfico de líneas, mediante el paquete estadístico EViews.
+  </description>
+    </item>
+    
+    <item>
+      <title>Practica - Series Temporales - 08/12 - Representación gráfica (esquema multiplicativo)</title>
+      <link>/blog/2013/02/22/practica-series-temporales-08-12-representacio%CC%81n-gra%CC%81fica-esquema-multiplicativo/</link>
+      <pubDate>Fri, 22 Feb 2013 14:18:53 +0000</pubDate>
+      
+      <guid>/blog/2013/02/22/practica-series-temporales-08-12-representacio%CC%81n-gra%CC%81fica-esquema-multiplicativo/</guid>
+      <description>Tutorial de Excel para la representación gráfica de una serie temporal y sus componentes cuando sigue un esquema multiplicativo.
+  </description>
+    </item>
+    
+    <item>
+      <title>Practica - Series Temporales - 05/12 - Calculo de la tendencia (p impar)</title>
+      <link>/blog/2013/01/22/practica-series-temporales-05-12-calculo-de-la-tendencia-p-impar/</link>
+      <pubDate>Tue, 22 Jan 2013 17:24:07 +0000</pubDate>
+      
+      <guid>/blog/2013/01/22/practica-series-temporales-05-12-calculo-de-la-tendencia-p-impar/</guid>
+      <description>Tutorial de Excel para el cálculo de la tendencia de una serie temporal cuando tenemos un número par de datos al año.
+  </description>
+    </item>
+    
+    <item>
+      <title>Practica - Series Temporales - 06/12 - Calculo de la componente estacional (esquema multiplicativo)</title>
+      <link>/blog/2013/01/22/practica-series-temporales-06-12-calculo-de-la-componente-estacional-esquema-multiplicativo/</link>
+      <pubDate>Tue, 22 Jan 2013 17:23:43 +0000</pubDate>
+      
+      <guid>/blog/2013/01/22/practica-series-temporales-06-12-calculo-de-la-componente-estacional-esquema-multiplicativo/</guid>
+      <description>Tutorial de Excel para el cálculo de la componente estacional por el método de las medias móviles de una serie temporal que sigue un esquema multiplicativo.
+  </description>
+    </item>
+    
+    <item>
+      <title>Practica - Series Temporales - 02/12 - Calculo de la componente estacional (esquema aditivo)</title>
+      <link>/blog/2013/01/22/practica-series-temporales-02-12-calculo-de-la-componente-estacional-esquema-aditivo/</link>
+      <pubDate>Tue, 22 Jan 2013 16:47:12 +0000</pubDate>
+      
+      <guid>/blog/2013/01/22/practica-series-temporales-02-12-calculo-de-la-componente-estacional-esquema-aditivo/</guid>
+      <description>Tutorial de Excel para el cálculo de la componente estacional por medias móviles de una serie temporal que sigue un esquema aditivo.
+  </description>
+    </item>
+    
+    <item>
+      <title>Practica - Series Temporales - 01/12 - Calculo de la tendencia (p par)</title>
+      <link>/blog/2013/01/22/practica-series-temporales-01-12-calculo-de-la-tendencia-p-par/</link>
+      <pubDate>Tue, 22 Jan 2013 16:47:11 +0000</pubDate>
+      
+      <guid>/blog/2013/01/22/practica-series-temporales-01-12-calculo-de-la-tendencia-p-par/</guid>
+      <description>Tutorial de Excel para el cálculo de la tendencia por medias móviles de una serie temporal cuando tenemos un número de datos par al año.
+  </description>
+    </item>
+    
+    <item>
+      <title>Practica - Series Temporales - 12/12 - Tasas de variación</title>
+      <link>/blog/2013/01/22/practica-series-temporales-12-12-tasas-de-variacio%CC%81n/</link>
+      <pubDate>Tue, 22 Jan 2013 16:46:14 +0000</pubDate>
+      
+      <guid>/blog/2013/01/22/practica-series-temporales-12-12-tasas-de-variacio%CC%81n/</guid>
+      <description>Tutorial de Excel para el cálculo de las tasas de variación de una serie temporal.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

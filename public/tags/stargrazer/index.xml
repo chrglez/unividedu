@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>stargrazer on Uvide</title>
+    <link>/tags/stargrazer/</link>
+    <description>Recent content in stargrazer on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 17 Mar 2017 13:04:15 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/stargrazer/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Unidad 02: Los Modelos Lineales clásicos. El concepto de “El mejor Modelo” para mi empresa</title>
+      <link>/blog/2017/03/17/unidad-02-los-modelos-lineales-clasicos-el-concepto-de-el-mejor-modelo-para-mi-empresa/</link>
+      <pubDate>Fri, 17 Mar 2017 13:04:15 +0000</pubDate>
+      
+      <guid>/blog/2017/03/17/unidad-02-los-modelos-lineales-clasicos-el-concepto-de-el-mejor-modelo-para-mi-empresa/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/20XaPkS
+Los Modelos Lineales clásicos. El concepto de “El mejor Modelo” para mi empresa. Asignatura: Técnicas Estadísticas en Investigación de Mercados. Grado en Estadística Empresarial. Profesor: Xavier Barber i Vallés. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE. Universidad Miguel Hernández de Elche.
+Los Modelos Lineales clásicos. El concepto de “El mejor Modelo” para mi empresa.</description>
+    </item>
+    
+    <item>
+      <title>Unidad 01.4: Estadística descriptiva. Desde RStudio con Markdown al informe del cliente (III)</title>
+      <link>/blog/2017/03/06/unidad-014-estadistica-descriptiva-desde-rstudio-con-markdown-al-informe-del-cliente-iii/</link>
+      <pubDate>Mon, 06 Mar 2017 07:08:09 +0000</pubDate>
+      
+      <guid>/blog/2017/03/06/unidad-014-estadistica-descriptiva-desde-rstudio-con-markdown-al-informe-del-cliente-iii/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/20XaPkS
+Estadística descriptiva. Desde RStudio con Markdown al informe del cliente (III). Asignatura: Técnicas Estadísticas en Investigación de Mercados. Grado en Estadística Empresarial. Profesor: Xavier Barber i Vallés. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE. Universidad Miguel Hernández de Elche.
+Ejemplos de uso del paquete ggplot2, y la explicación de cómo interpretar dichos gráficos.</description>
+    </item>
+    
+    <item>
+      <title>Unidad 01.3: Estadística descriptiva. Desde RStudio con Markdown al informe del cliente (II)</title>
+      <link>/blog/2017/03/06/unidad-013-estadistica-descriptiva-desde-rstudio-con-markdown-al-informe-del-cliente-ii/</link>
+      <pubDate>Mon, 06 Mar 2017 07:06:46 +0000</pubDate>
+      
+      <guid>/blog/2017/03/06/unidad-013-estadistica-descriptiva-desde-rstudio-con-markdown-al-informe-del-cliente-ii/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/20XaPkS
+Estadística descriptiva. Desde RStudio con Markdown al informe del cliente (II). Asignatura: Técnicas Estadísticas en Investigación de Mercados. Grado en Estadística Empresarial. Profesor: Xavier Barber i Vallés. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE. Universidad Miguel Hernández de Elche.
+Realización de tablas descriptivas utilizando markdown en RStudio utilizando los paquetes stargrazer, reportools y dplyr.</description>
+    </item>
+    
+    <item>
+      <title>Unidad 01.2: Estadística descriptiva. Desde RStudio con Markdown al informe del cliente (I)</title>
+      <link>/blog/2017/02/27/unidad-012-estadistica-descriptiva-desde-rstudio-con-markdown-al-informe-del-cliente-i/</link>
+      <pubDate>Mon, 27 Feb 2017 09:16:32 +0000</pubDate>
+      
+      <guid>/blog/2017/02/27/unidad-012-estadistica-descriptiva-desde-rstudio-con-markdown-al-informe-del-cliente-i/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/20XaPkS
+Estadística descriptiva. Desde RStudio con Markdown al informe del cliente (I). Asignatura: Técnicas Estadísticas en Investigación de Mercados. Grado en Estadística Empresarial. Profesor: Xavier Barber i Vallés. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE. Universidad Miguel Hernández de Elche.
+El vídeo muestra cómo realizar estadística descriptiva básica desde RStudio, pero generando un PDF o WORD utilizando markdown.</description>
+    </item>
+    
+  </channel>
+</rss>

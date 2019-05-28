@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>varias variables on Uvide</title>
+    <link>/tags/varias-variables/</link>
+    <description>Recent content in varias variables on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Sat, 15 Feb 2014 20:16:25 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/varias-variables/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Límites de funciones de varias variables con DERIVE</title>
+      <link>/blog/2014/02/15/limites-de-funciones-de-varias-variables-con-derive/</link>
+      <pubDate>Sat, 15 Feb 2014 20:16:25 +0000</pubDate>
+      
+      <guid>/blog/2014/02/15/limites-de-funciones-de-varias-variables-con-derive/</guid>
+      <description>Límites de funciones de varias variables con DERIVE
+  </description>
+    </item>
+    
+    <item>
+      <title>Conjuntos y Bolas en R2 con DERIVE</title>
+      <link>/blog/2014/02/07/conjuntos-y-bolas-en-r2-con-derive/</link>
+      <pubDate>Fri, 07 Feb 2014 20:08:46 +0000</pubDate>
+      
+      <guid>/blog/2014/02/07/conjuntos-y-bolas-en-r2-con-derive/</guid>
+      <description>Gráfica de conjuntos y bolas en R2. Resolución analítica y gráfica a ejercicios sobre bolas en R2.
+  </description>
+    </item>
+    
+    <item>
+      <title>Resolución analítica en optimización restringida de funciones de varias variables en DERIVE.</title>
+      <link>/blog/2013/04/20/resolucion-analitica-en-optimizacion-restringida-de-funciones-de-varias-variables-en-derive/</link>
+      <pubDate>Sat, 20 Apr 2013 17:13:52 +0000</pubDate>
+      
+      <guid>/blog/2013/04/20/resolucion-analitica-en-optimizacion-restringida-de-funciones-de-varias-variables-en-derive/</guid>
+      <description>Optimización de funciones de varias variables con una restricción de igualdad. Resolución gráfica
+  </description>
+    </item>
+    
+    <item>
+      <title>Resolución gráfica en optimización restringida de funciones de varias variables en DERIVE.</title>
+      <link>/blog/2013/04/15/resolucion-grafica-en-optimizacion-restringida-de-funciones-de-varias-variables-en-derive/</link>
+      <pubDate>Mon, 15 Apr 2013 12:01:13 +0000</pubDate>
+      
+      <guid>/blog/2013/04/15/resolucion-grafica-en-optimizacion-restringida-de-funciones-de-varias-variables-en-derive/</guid>
+      <description>Optimización de funciones de varias variables con una restricción de igualdad. Resolución gráfica
+  </description>
+    </item>
+    
+    <item>
+      <title>Optimización de funciones de varias variables. Optimización sin restricciones en DERIVE</title>
+      <link>/blog/2013/04/08/optimizacion-de-funciones-de-varias-variables-optimizacion-sin-restricciones-en-derive/</link>
+      <pubDate>Mon, 08 Apr 2013 10:54:10 +0000</pubDate>
+      
+      <guid>/blog/2013/04/08/optimizacion-de-funciones-de-varias-variables-optimizacion-sin-restricciones-en-derive/</guid>
+      <description>Resolución de un problema de optimización de dos variables con DERIVE
+  </description>
+    </item>
+    
+    <item>
+      <title>Funciones de varias variables en DERIVE</title>
+      <link>/blog/2013/03/16/funciones-de-varias-variables-en-derive/</link>
+      <pubDate>Sat, 16 Mar 2013 14:10:26 +0000</pubDate>
+      
+      <guid>/blog/2013/03/16/funciones-de-varias-variables-en-derive/</guid>
+      <description>En este vídeo trabajaremos con los conceptos de dominio y curvas de nivel en DERIVE
+  </description>
+    </item>
+    
+    <item>
+      <title>Cálculo en funciones de varias variables en DERIVE. Polinomio de Taylor</title>
+      <link>/blog/2013/03/08/calculo-en-funciones-de-varias-variables-en-derive-polinomio-de-taylor/</link>
+      <pubDate>Fri, 08 Mar 2013 19:16:26 +0000</pubDate>
+      
+      <guid>/blog/2013/03/08/calculo-en-funciones-de-varias-variables-en-derive-polinomio-de-taylor/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Cálculo en funciones de varias variables en DERIVE. Derivadas</title>
+      <link>/blog/2013/03/01/calculo-en-funciones-de-varias-variables-en-derive-derivadas/</link>
+      <pubDate>Fri, 01 Mar 2013 20:01:11 +0000</pubDate>
+      
+      <guid>/blog/2013/03/01/calculo-en-funciones-de-varias-variables-en-derive-derivadas/</guid>
+      <description>Tratamiento de las derivadas en funciones de varias variables empleando DERIVE.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

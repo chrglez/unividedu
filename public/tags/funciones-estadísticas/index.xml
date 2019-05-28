@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Funciones Estadísticas on Uvide</title>
+    <link>/tags/funciones-estad%C3%ADsticas/</link>
+    <description>Recent content in Funciones Estadísticas on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 19 Mar 2013 16:27:34 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/funciones-estad%C3%ADsticas/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Funciones Estadísticas en Excel - 06/07 - Forma</title>
+      <link>/blog/2013/03/19/funciones-estadi%CC%81sticas-en-excel-06-07-forma/</link>
+      <pubDate>Tue, 19 Mar 2013 16:27:34 +0000</pubDate>
+      
+      <guid>/blog/2013/03/19/funciones-estadi%CC%81sticas-en-excel-06-07-forma/</guid>
+      <description>En este tutorial se explica cómo calculas las diferentes medidas de forma, mediante las fórmulas estadísticas que vienen implementadas en Excel.
+  </description>
+    </item>
+    
+    <item>
+      <title>Funciones Estadísticas en Excel - 05/07 - Dispersión</title>
+      <link>/blog/2013/03/19/funciones-estadi%CC%81sticas-en-excel-05-07-dispersion/</link>
+      <pubDate>Tue, 19 Mar 2013 16:19:08 +0000</pubDate>
+      
+      <guid>/blog/2013/03/19/funciones-estadi%CC%81sticas-en-excel-05-07-dispersion/</guid>
+      <description>En este tutorial se explica cómo calculas las diferentes medidas de dispersión, mediante las fórmulas estadísticas que vienen implementadas en Excel.
+  </description>
+    </item>
+    
+    <item>
+      <title>Funciones Estadísticas en Excel - 04/07 - Posic. no central</title>
+      <link>/blog/2013/03/19/funciones-estadi%CC%81sticas-en-excel-04-07-posic-no-central/</link>
+      <pubDate>Tue, 19 Mar 2013 16:03:47 +0000</pubDate>
+      
+      <guid>/blog/2013/03/19/funciones-estadi%CC%81sticas-en-excel-04-07-posic-no-central/</guid>
+      <description>En este tutorial se explica cómo calcular las diferentes medidas de posición no central, mediante las fórmulas estadísticas que vienen implementadas en Excel.
+  </description>
+    </item>
+    
+    <item>
+      <title>Funciones Estadísticas en Excel - 03/07 - Posición central</title>
+      <link>/blog/2013/03/19/funciones-estadi%CC%81sticas-en-excel-03-07-posicion-central/</link>
+      <pubDate>Tue, 19 Mar 2013 15:51:27 +0000</pubDate>
+      
+      <guid>/blog/2013/03/19/funciones-estadi%CC%81sticas-en-excel-03-07-posicion-central/</guid>
+      <description>En este tutorial se explica cómo calculas las diferentes medidas de posición central, mediante las fórmulas estadísticas que vienen implementadas en Excel.
+  </description>
+    </item>
+    
+    <item>
+      <title>Funciones Estadísticas en Excel - 02/07 - Los datos</title>
+      <link>/blog/2013/03/19/funciones-estadi%CC%81sticas-en-excel-02-07-los-datos/</link>
+      <pubDate>Tue, 19 Mar 2013 15:40:45 +0000</pubDate>
+      
+      <guid>/blog/2013/03/19/funciones-estadi%CC%81sticas-en-excel-02-07-los-datos/</guid>
+      <description>En este vídeo se describen los datos con los que se realizará el análisis descriptivo mediante las fórmulas que vienen implementadas en Excel.
+  </description>
+    </item>
+    
+    <item>
+      <title>Funciones Estadísticas en Excel - 01/07 - Cuándo usarlas</title>
+      <link>/blog/2013/03/19/funciones-estadi%CC%81sticas-en-excel-01-07-cuando-usarlas/</link>
+      <pubDate>Tue, 19 Mar 2013 15:34:35 +0000</pubDate>
+      
+      <guid>/blog/2013/03/19/funciones-estadi%CC%81sticas-en-excel-01-07-cuando-usarlas/</guid>
+      <description>En este vídeo se explica en qué caso se pueden usar las funciones estadísticas descriptivas que tiene implementado el Excel y en qué caso no es factible usarlas.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

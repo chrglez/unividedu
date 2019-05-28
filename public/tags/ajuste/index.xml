@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ajuste on Uvide</title>
+    <link>/tags/ajuste/</link>
+    <description>Recent content in ajuste on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 03 Jun 2013 06:46:08 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/ajuste/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>umh3067 2012-13 Lec005 Modelo Regresión Lineal Multiple</title>
+      <link>/blog/2013/06/03/umh3067-2012-13-lec005-modelo-regresion-lineal-multiple/</link>
+      <pubDate>Mon, 03 Jun 2013 06:46:08 +0000</pubDate>
+      
+      <guid>/blog/2013/06/03/umh3067-2012-13-lec005-modelo-regresion-lineal-multiple/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/11QEbpF
+Modelo Regresión Lineal Múltiple. Asignatura: Econometría. Curso de Adaptación Grado en Administración y Dirección de Empresas. Profesor: Juan Aparicio Baeza. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE 2013. Universidad Miguel Hernández de Elche.
+Teoría del Modelo de Regresión Lineal Múltiple desarrollada junto al ejemplo &amp;lsquo;Bosque&amp;rsquo;.
+web asignatura: http://umh3067.edu.umh.es web: http://umh.es
+  </description>
+    </item>
+    
+    <item>
+      <title>umh1263 2012-13 Lec013 Prácticas Series Temporales</title>
+      <link>/blog/2013/04/15/umh1263-2012-13-lec013-practicas-series-temporales/</link>
+      <pubDate>Mon, 15 Apr 2013 08:29:23 +0000</pubDate>
+      
+      <guid>/blog/2013/04/15/umh1263-2012-13-lec013-practicas-series-temporales/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/15vMRE0
+Práctica de Series Temporales. Asignatura: Análisis Exploratorio de Datos. Grado en Administración y Dirección de Empresas (Elche). Profesora: Mª Asunción Martínez Mayoral. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE 2013. Universidad Miguel Hernández de Elche.
+Descripción gráfica de series temporales. Ajuste de tendencia con medias móviles y modelos lineal, parabólico y exponencial. Elección del modelo de tendencia.</description>
+    </item>
+    
+  </channel>
+</rss>

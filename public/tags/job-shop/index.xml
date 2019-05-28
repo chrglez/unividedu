@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>job shop on Uvide</title>
+    <link>/tags/job-shop/</link>
+    <description>Recent content in job shop on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 22 Apr 2016 11:18:34 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/job-shop/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Asignación de carga a talleres: método de los índices</title>
+      <link>/blog/2016/04/22/asignacion-de-carga-a-talleres-metodo-de-los-indices/</link>
+      <pubDate>Fri, 22 Apr 2016 11:18:34 +0000</pubDate>
+      
+      <guid>/blog/2016/04/22/asignacion-de-carga-a-talleres-metodo-de-los-indices/</guid>
+      <description>Caso práctico. Profesor: David de la Peña Esteban. Udima, Universidad a Distancia de Madrid
+  </description>
+    </item>
+    
+    <item>
+      <title>Job Shop. Caso práctico.</title>
+      <link>/blog/2015/03/20/job-shop-caso-practico/</link>
+      <pubDate>Fri, 20 Mar 2015 10:42:50 +0000</pubDate>
+      
+      <guid>/blog/2015/03/20/job-shop-caso-practico/</guid>
+      <description>Caso práctico de Job Shop. N máquinas, rutas aleatorias y plazos de entrega. David de la Peña Esteban. Universidad a Distancia de Madrid, Udima.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

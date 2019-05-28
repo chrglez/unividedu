@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>elestudianteuc3m on Uvide</title>
+    <link>/tags/elestudianteuc3m/</link>
+    <description>Recent content in elestudianteuc3m on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Sun, 29 Nov 2015 14:32:05 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/elestudianteuc3m/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ej2parcial3mat</title>
+      <link>/blog/2015/11/29/ej2parcial3mat/</link>
+      <pubDate>Sun, 29 Nov 2015 14:32:05 +0000</pubDate>
+      
+      <guid>/blog/2015/11/29/ej2parcial3mat/</guid>
+      <description>Hallar c y d de forma que la función tenga un mínimo local. ¿ Es un mínimo global?
+  </description>
+    </item>
+    
+    <item>
+      <title>Parcial 3-Matemáticas I UC3M (I)</title>
+      <link>/blog/2015/11/23/parcial-3-matematicas-i-uc3m-i/</link>
+      <pubDate>Mon, 23 Nov 2015 22:44:11 +0000</pubDate>
+      
+      <guid>/blog/2015/11/23/parcial-3-matematicas-i-uc3m-i/</guid>
+      <description>Ejercicio de Límites, Relga de L&amp;rsquo;hopital
+  </description>
+    </item>
+    
+  </channel>
+</rss>

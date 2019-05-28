@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ESTADISTICA DESCRIPTIVA on Uvide</title>
+    <link>/tags/estadistica-descriptiva/</link>
+    <description>Recent content in ESTADISTICA DESCRIPTIVA on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 06 Mar 2017 07:06:46 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/estadistica-descriptiva/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Unidad 01.3: Estadística descriptiva. Desde RStudio con Markdown al informe del cliente (II)</title>
+      <link>/blog/2017/03/06/unidad-013-estadistica-descriptiva-desde-rstudio-con-markdown-al-informe-del-cliente-ii/</link>
+      <pubDate>Mon, 06 Mar 2017 07:06:46 +0000</pubDate>
+      
+      <guid>/blog/2017/03/06/unidad-013-estadistica-descriptiva-desde-rstudio-con-markdown-al-informe-del-cliente-ii/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/20XaPkS
+Estadística descriptiva. Desde RStudio con Markdown al informe del cliente (II). Asignatura: Técnicas Estadísticas en Investigación de Mercados. Grado en Estadística Empresarial. Profesor: Xavier Barber i Vallés. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE. Universidad Miguel Hernández de Elche.
+Realización de tablas descriptivas utilizando markdown en RStudio utilizando los paquetes stargrazer, reportools y dplyr.</description>
+    </item>
+    
+    <item>
+      <title>Lec005.2 Markdow-Rstudio y la Estadística Descriptiva (umh1480)</title>
+      <link>/blog/2016/03/02/lec0052-markdow-rstudio-y-la-estadistica-descriptiva-umh1480/</link>
+      <pubDate>Wed, 02 Mar 2016 12:44:42 +0000</pubDate>
+      
+      <guid>/blog/2016/03/02/lec0052-markdow-rstudio-y-la-estadistica-descriptiva-umh1480/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/20XaPkS
+Markdow-Rstudio y la Estadística Descriptiva. Asignatura: Técnicas Estadísticas en Investigación de Mercados. Grado en Estadística Empresarial. Profesor: Xavier Barber i Vallés. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE. Universidad Miguel Hernández de Elche.
+Breve introducción al concepto de Markdown y la estadística descriptiva desde RStudio.
+web asignatura: http://umh1480.edu.umh.es/ web: http://umh.es
+  </description>
+    </item>
+    
+  </channel>
+</rss>

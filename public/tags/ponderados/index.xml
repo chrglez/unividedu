@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ponderados on Uvide</title>
+    <link>/tags/ponderados/</link>
+    <description>Recent content in Ponderados on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 22 Jan 2013 16:53:48 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/ponderados/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Práctica - Números Índice - 03/03 - Índices complejos ponderados</title>
+      <link>/blog/2013/01/22/pra%CC%81ctica-nu%CC%81meros-i%CC%81ndice-03-03-i%CC%81ndices-complejos-ponderados/</link>
+      <pubDate>Tue, 22 Jan 2013 16:53:48 +0000</pubDate>
+      
+      <guid>/blog/2013/01/22/pra%CC%81ctica-nu%CC%81meros-i%CC%81ndice-03-03-i%CC%81ndices-complejos-ponderados/</guid>
+      <description>Tutorial de Excel para el cálculo de índices complejos ponderados.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

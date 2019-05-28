@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>comparación de medias on Uvide</title>
+    <link>/tags/comparaci%C3%B3n-de-medias/</link>
+    <description>Recent content in comparación de medias on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 11 Jun 2014 11:08:28 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/comparaci%C3%B3n-de-medias/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pruebas T de Student</title>
+      <link>/blog/2014/06/11/pruebas-t-de-student/</link>
+      <pubDate>Wed, 11 Jun 2014 11:08:28 +0000</pubDate>
+      
+      <guid>/blog/2014/06/11/pruebas-t-de-student/</guid>
+      <description>Autor: Serra Añó, Pilar; Ponce Darós, María José; López Bueno, Laura; González Moreno, Luis Millán; García Massó, Xavier; Fecha: 2014 Resumen: Ejecución de las pruebas T de Student con el programa estadístico SPSS en el área de las Ciencias de la Salud. Producción:SFPIE (www.uv.es/sfpie)-VLC Campus
+  </description>
+    </item>
+    
+    <item>
+      <title>T de Student: Muestras Independientes</title>
+      <link>/blog/2014/06/11/t-de-student-muestras-independientes/</link>
+      <pubDate>Wed, 11 Jun 2014 10:55:53 +0000</pubDate>
+      
+      <guid>/blog/2014/06/11/t-de-student-muestras-independientes/</guid>
+      <description>Autor: Serra Añó, Pilar; Ponce Darós, María José; López Bueno, Laura; González Moreno, Luis Millán; García Massó, Xavier; Fecha: 2014 Título: Prueba T de Student para Muestras Independientes Resumen: Ejecución de las pruebas T de Student con el programa estadístico SPSS en el área de las Ciencias de la Salud. Producción:SFPIE (www.uv.es/sfpie)-VLC Campus
+  </description>
+    </item>
+    
+    <item>
+      <title>T de Student: Muestras Relacionadas</title>
+      <link>/blog/2014/06/11/t-de-student-muestras-relacionadas/</link>
+      <pubDate>Wed, 11 Jun 2014 10:52:52 +0000</pubDate>
+      
+      <guid>/blog/2014/06/11/t-de-student-muestras-relacionadas/</guid>
+      <description>Autor: Serra Añó, Pilar; Ponce Darós, María José; López Bueno, Laura; González Moreno, Luis Millán; García Massó, Xavier; Fecha: 2014; Título:Pruebas T de Student para muestras relacionadas; Resumen: Ejecución de las pruebas T de Student con el programa estadístico SPSS en el área de las Ciencias de la Salud. Producción:SFPIE (www.uv.es/sfpie)-VLC Campus
+  </description>
+    </item>
+    
+    <item>
+      <title>T de Student: Única Muestra</title>
+      <link>/blog/2014/06/11/t-de-student-%C3%BAnica-muestra/</link>
+      <pubDate>Wed, 11 Jun 2014 10:51:48 +0000</pubDate>
+      
+      <guid>/blog/2014/06/11/t-de-student-%C3%BAnica-muestra/</guid>
+      <description>Autor: Serra Añó, Pilar; Ponce Darós, María José; López Bueno, Laura; González Moreno, Luis Millán; García Massó, Xavier; Fecha: 2014; Título:Pruebas T de Student para una única muestra; Resumen: Ejecución de las pruebas T de Student con el programa estadístico SPSS en el área de las Ciencias de la Salud. Producción:SFPIE (www.uv.es/sfpie)-VLC Campus
+  </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,23 +1,1100 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ULPGC on Univideduc</title>
+    <title>ULPGC on Uvide</title>
     <link>/categories/ulpgc/</link>
-    <description>Recent content in ULPGC on Univideduc</description>
+    <description>Recent content in ULPGC on Uvide</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Thu, 08 Oct 2015 22:11:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2015 09:40:02 +0000</lastBuildDate>
     
 	<atom:link href="/categories/ulpgc/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Integracion_varias_variables</title>
+      <link>/blog/2015/11/12/integracion_varias_variables/</link>
+      <pubDate>Thu, 12 Nov 2015 09:40:02 +0000</pubDate>
+      
+      <guid>/blog/2015/11/12/integracion_varias_variables/</guid>
+      <description>Ejerciciois de integrales en varias variables correspondientes al Tema 3 del programa de Matemáticas para la Economía III (ULPGC). Curso 2015-16
+  </description>
+    </item>
+    
+    <item>
       <title>Operaciones con polinomios</title>
-      <link>/blog/2015/10/08/banner-oper-poli-1/</link>
+      <link>/blog/2015/10/08/operaciones-con-polinomios/</link>
       <pubDate>Thu, 08 Oct 2015 22:11:21 +0000</pubDate>
       
-      <guid>/blog/2015/10/08/banner-oper-poli-1/</guid>
-      <description>Operaciones con polinomios   </description>
+      <guid>/blog/2015/10/08/operaciones-con-polinomios/</guid>
+      <description>Operaciones con polinomios
+  </description>
+    </item>
+    
+    <item>
+      <title>Operaciones con fracciones.</title>
+      <link>/blog/2015/10/06/operaciones-con-fracciones/</link>
+      <pubDate>Tue, 06 Oct 2015 23:17:12 +0000</pubDate>
+      
+      <guid>/blog/2015/10/06/operaciones-con-fracciones/</guid>
+      <description>Operaciones con fracciones.
+  </description>
+    </item>
+    
+    <item>
+      <title>Factorización polinomios grado 3 con soluciones no enteras</title>
+      <link>/blog/2015/10/06/factorizacion-polinomios-grado-3-con-soluciones-no-enteras/</link>
+      <pubDate>Tue, 06 Oct 2015 01:25:41 +0000</pubDate>
+      
+      <guid>/blog/2015/10/06/factorizacion-polinomios-grado-3-con-soluciones-no-enteras/</guid>
+      <description>Factorización polinomios grado 3 con soluciones no enteras
+  </description>
+    </item>
+    
+    <item>
+      <title>Factorización de polinomios de grado 2</title>
+      <link>/blog/2015/10/05/factorizacion-de-polinomios-de-grado-2/</link>
+      <pubDate>Mon, 05 Oct 2015 00:54:44 +0000</pubDate>
+      
+      <guid>/blog/2015/10/05/factorizacion-de-polinomios-de-grado-2/</guid>
+      <description>Factorización de polinomios de grado 2
+  </description>
+    </item>
+    
+    <item>
+      <title>Puntos de una recta</title>
+      <link>/blog/2015/10/04/puntos-de-una-recta/</link>
+      <pubDate>Sun, 04 Oct 2015 21:32:58 +0000</pubDate>
+      
+      <guid>/blog/2015/10/04/puntos-de-una-recta/</guid>
+      <description>Puntos de una recta
+  </description>
+    </item>
+    
+    <item>
+      <title>Producto de polinomios</title>
+      <link>/blog/2015/10/04/producto-de-polinomios/</link>
+      <pubDate>Sun, 04 Oct 2015 19:02:53 +0000</pubDate>
+      
+      <guid>/blog/2015/10/04/producto-de-polinomios/</guid>
+      <description>Producto de polinomios. productos notables
+  </description>
+    </item>
+    
+    <item>
+      <title>Operaciones con potencias</title>
+      <link>/blog/2015/10/04/operaciones-con-potencias/</link>
+      <pubDate>Sun, 04 Oct 2015 18:59:57 +0000</pubDate>
+      
+      <guid>/blog/2015/10/04/operaciones-con-potencias/</guid>
+      <description>Operaciones con potencias y fracciones
+  </description>
+    </item>
+    
+    <item>
+      <title>Factorización de polinomios</title>
+      <link>/blog/2015/10/04/factorizacion-de-polinomios/</link>
+      <pubDate>Sun, 04 Oct 2015 14:56:23 +0000</pubDate>
+      
+      <guid>/blog/2015/10/04/factorizacion-de-polinomios/</guid>
+      <description>Factorización de polinomios con algunas de sus raíces complejas
+  </description>
+    </item>
+    
+    <item>
+      <title>Factorización de polinomios</title>
+      <link>/blog/2014/09/30/factorizacion-de-polinomios-1/</link>
+      <pubDate>Tue, 30 Sep 2014 20:16:02 +0000</pubDate>
+      
+      <guid>/blog/2014/09/30/factorizacion-de-polinomios-1/</guid>
+      <description>Factorización de polinomios
+  </description>
+    </item>
+    
+    <item>
+      <title>Racionalización de fracciones con radicales</title>
+      <link>/blog/2014/09/28/racionalizacion-de-fracciones-con-radicales/</link>
+      <pubDate>Sun, 28 Sep 2014 11:48:22 +0000</pubDate>
+      
+      <guid>/blog/2014/09/28/racionalizacion-de-fracciones-con-radicales/</guid>
+      <description>Racionalización de fracciones con radicales que consiste en eliminar las raíces que se encuentran en el denominador de una fracción
+  </description>
+    </item>
+    
+    <item>
+      <title>Límites de funciones de varias variables con DERIVE</title>
+      <link>/blog/2014/02/15/limites-de-funciones-de-varias-variables-con-derive/</link>
+      <pubDate>Sat, 15 Feb 2014 20:16:25 +0000</pubDate>
+      
+      <guid>/blog/2014/02/15/limites-de-funciones-de-varias-variables-con-derive/</guid>
+      <description>Límites de funciones de varias variables con DERIVE
+  </description>
+    </item>
+    
+    <item>
+      <title>Conjuntos y Bolas en R2 con DERIVE</title>
+      <link>/blog/2014/02/07/conjuntos-y-bolas-en-r2-con-derive/</link>
+      <pubDate>Fri, 07 Feb 2014 20:08:46 +0000</pubDate>
+      
+      <guid>/blog/2014/02/07/conjuntos-y-bolas-en-r2-con-derive/</guid>
+      <description>Gráfica de conjuntos y bolas en R2. Resolución analítica y gráfica a ejercicios sobre bolas en R2.
+  </description>
+    </item>
+    
+    <item>
+      <title>Integracion cambio variable I</title>
+      <link>/blog/2013/12/02/integracion-cambio-variable-i/</link>
+      <pubDate>Mon, 02 Dec 2013 00:24:29 +0000</pubDate>
+      
+      <guid>/blog/2013/12/02/integracion-cambio-variable-i/</guid>
+      <description>Integración de (ln(x+1))^3/(x+1) resuelta mediante cambio de variable
+  </description>
+    </item>
+    
+    <item>
+      <title>Integracion por partes II</title>
+      <link>/blog/2013/11/24/integracion-por-partes-ii/</link>
+      <pubDate>Sun, 24 Nov 2013 11:51:25 +0000</pubDate>
+      
+      <guid>/blog/2013/11/24/integracion-por-partes-ii/</guid>
+      <description>Integral de ln(x) resuelta mediante integración por partes Enlaces de las anotaciones: http://goo.gl/uqWtoj Reglas mnemotécnicas de la fórmula y sobre la elección de &amp;lsquo;u&amp;rsquo; y &amp;lsquo;dv&amp;rsquo; http://goo.gl/ZYRX9l Origen de la fórmula en Wikipedia http://goo.gl/csB4mU Origen de la fórmula en Wolfram MathWorld
+  </description>
+    </item>
+    
+    <item>
+      <title>Integración partes I</title>
+      <link>/blog/2013/11/13/integracion-partes-i/</link>
+      <pubDate>Wed, 13 Nov 2013 23:23:35 +0000</pubDate>
+      
+      <guid>/blog/2013/11/13/integracion-partes-i/</guid>
+      <description>Integral de xe^x resuelta mediante integración por partes Enlaces de las anotaciones: http://goo.gl/uqWtoj Reglas mnemotécnicas de la fórmula y sobre la elección de &amp;lsquo;u&amp;rsquo; y &amp;lsquo;dv&amp;rsquo; http://goo.gl/ZYRX9l Origen de la fórmula en Wikipedia http://goo.gl/csB4mU Origen de la fórmula en Wolfram MathWorld
+  </description>
+    </item>
+    
+    <item>
+      <title>Teorema Central del Límite 04/04</title>
+      <link>/blog/2013/05/07/teorema-central-del-li%CC%81mite-04-04/</link>
+      <pubDate>Tue, 07 May 2013 23:15:12 +0000</pubDate>
+      
+      <guid>/blog/2013/05/07/teorema-central-del-li%CC%81mite-04-04/</guid>
+      <description>A continuación se demuestra, mediante el uso del Excel, cómo la función de cuantía de la Distribución Poisson se asemeja a la función de densidad de la Distribución Normal de igual media y varianza que la Distribución Poisson de origen, cuando el tamaño muestral &amp;ldquo;n&amp;rdquo; es lo suficientemente grande.
+  </description>
+    </item>
+    
+    <item>
+      <title>Teorema Central del Límite 03/04</title>
+      <link>/blog/2013/05/07/teorema-central-del-li%CC%81mite-03-04/</link>
+      <pubDate>Tue, 07 May 2013 22:42:56 +0000</pubDate>
+      
+      <guid>/blog/2013/05/07/teorema-central-del-li%CC%81mite-03-04/</guid>
+      <description>En este vídeo se explica, mediante el uso del Excel, cómo la función de cuantía de una Distribución Poisson se aproxima a la forma de campana de Gauss de una Distribución Normal a medida que aumenta el tamaño muestral &amp;ldquo;n&amp;rdquo;.
+  </description>
+    </item>
+    
+    <item>
+      <title>Teorema Central del Límite 02/04</title>
+      <link>/blog/2013/05/07/teorema-central-del-li%CC%81mite-02-04/</link>
+      <pubDate>Tue, 07 May 2013 22:07:34 +0000</pubDate>
+      
+      <guid>/blog/2013/05/07/teorema-central-del-li%CC%81mite-02-04/</guid>
+      <description>A continuación se demuestra, mediante el uso del Excel, cómo la función de cuantía de la Distribución Binomial se asemeja a la función de densidad de la Distribución Normal de igual media y varianza que la Distribución Binomial de origen, cuando el tamaño muestral &amp;ldquo;n&amp;rdquo; es lo suficientemente grande.
+  </description>
+    </item>
+    
+    <item>
+      <title>Teorema Central del Límite 01/04</title>
+      <link>/blog/2013/05/07/teorema-central-del-li%CC%81mite-01-04/</link>
+      <pubDate>Tue, 07 May 2013 21:18:42 +0000</pubDate>
+      
+      <guid>/blog/2013/05/07/teorema-central-del-li%CC%81mite-01-04/</guid>
+      <description>En este vídeo se explica, mediante el uso del Excel, cómo la función de cuantía de una Distribución Binomial se aproxima a la forma de campana de Gauss de una Distribución Normal a medida que aumenta el tamaño muestral &amp;ldquo;n&amp;rdquo;.
+  </description>
+    </item>
+    
+    <item>
+      <title>(Econometría) Predicción a futuro en Eviews</title>
+      <link>/blog/2013/05/06/econometria-prediccio%CC%81n-a-futuro-en-eviews/</link>
+      <pubDate>Mon, 06 May 2013 14:37:23 +0000</pubDate>
+      
+      <guid>/blog/2013/05/06/econometria-prediccio%CC%81n-a-futuro-en-eviews/</guid>
+      <description>En este tutorial de EViews se explica cómo abordar la fase de predicción extramuestral mediante un modelo SARIMA que ha pasado todas las fases de validación.
+  </description>
+    </item>
+    
+    <item>
+      <title>Introducción a la probabilidad 04/05</title>
+      <link>/blog/2013/05/03/introduccio%CC%81n-a-la-probabilidad-04-05/</link>
+      <pubDate>Fri, 03 May 2013 12:59:57 +0000</pubDate>
+      
+      <guid>/blog/2013/05/03/introduccio%CC%81n-a-la-probabilidad-04-05/</guid>
+      <description>Tipología de sucesos.
+  </description>
+    </item>
+    
+    <item>
+      <title>Introducción a la probabilidad 05/05</title>
+      <link>/blog/2013/05/03/introduccio%CC%81n-a-la-probabilidad-05-05/</link>
+      <pubDate>Fri, 03 May 2013 12:54:02 +0000</pubDate>
+      
+      <guid>/blog/2013/05/03/introduccio%CC%81n-a-la-probabilidad-05-05/</guid>
+      <description>Definición axiomática de probabilidad.
+  </description>
+    </item>
+    
+    <item>
+      <title>Introducción a la probabilidad 03/05</title>
+      <link>/blog/2013/05/03/introduccio%CC%81n-a-la-probabilidad-03-05/</link>
+      <pubDate>Fri, 03 May 2013 12:36:32 +0000</pubDate>
+      
+      <guid>/blog/2013/05/03/introduccio%CC%81n-a-la-probabilidad-03-05/</guid>
+      <description>Definición de probabilidad, experimento aleatorio y suceso.
+  </description>
+    </item>
+    
+    <item>
+      <title>Introducción a la probabilidad 02/05</title>
+      <link>/blog/2013/05/03/introduccio%CC%81n-a-la-probabilidad-02-05/</link>
+      <pubDate>Fri, 03 May 2013 12:30:03 +0000</pubDate>
+      
+      <guid>/blog/2013/05/03/introduccio%CC%81n-a-la-probabilidad-02-05/</guid>
+      <description>Diferentes enfoques de probabilidad
+  </description>
+    </item>
+    
+    <item>
+      <title>Introducción a la probabilidad 01/05</title>
+      <link>/blog/2013/05/03/introduccio%CC%81n-a-la-probabilidad-01-05/</link>
+      <pubDate>Fri, 03 May 2013 12:13:47 +0000</pubDate>
+      
+      <guid>/blog/2013/05/03/introduccio%CC%81n-a-la-probabilidad-01-05/</guid>
+      <description>Orígenes de la probabilidad.
+  </description>
+    </item>
+    
+    <item>
+      <title>Introducción a la programación lineal con LINGO</title>
+      <link>/blog/2013/05/02/introduccion-a-la-programacion-lineal-con-lingo/</link>
+      <pubDate>Thu, 02 May 2013 12:48:34 +0000</pubDate>
+      
+      <guid>/blog/2013/05/02/introduccion-a-la-programacion-lineal-con-lingo/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Tratamiento de las variables duales con LINGO</title>
+      <link>/blog/2013/05/01/tratamiento-de-las-variables-duales-con-lingo/</link>
+      <pubDate>Wed, 01 May 2013 12:45:14 +0000</pubDate>
+      
+      <guid>/blog/2013/05/01/tratamiento-de-las-variables-duales-con-lingo/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Introducción a la programación lineal con DERIVE</title>
+      <link>/blog/2013/05/01/introduccion-a-la-programacion-lineal-con-derive/</link>
+      <pubDate>Wed, 01 May 2013 00:11:09 +0000</pubDate>
+      
+      <guid>/blog/2013/05/01/introduccion-a-la-programacion-lineal-con-derive/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>(Econometría) Predicción: 3. Evaluación de la capacidad predictiva</title>
+      <link>/blog/2013/04/24/econometria-prediccio%CC%81n-3-evaluacion-de-la-capacidad-predictiva/</link>
+      <pubDate>Wed, 24 Apr 2013 12:19:18 +0000</pubDate>
+      
+      <guid>/blog/2013/04/24/econometria-prediccio%CC%81n-3-evaluacion-de-la-capacidad-predictiva/</guid>
+      <description>En este tutorial de EViews se explica cómo evaluar la capacidad productiva de una modelización dinámica realizada a partir de un modelo SARIMA.
+  </description>
+    </item>
+    
+    <item>
+      <title>(Econometría) Predicción: 4. Elección del modelo para predecir</title>
+      <link>/blog/2013/04/24/econometria-prediccio%CC%81n-4-eleccion-del-modelo-para-predecir/</link>
+      <pubDate>Wed, 24 Apr 2013 12:08:20 +0000</pubDate>
+      
+      <guid>/blog/2013/04/24/econometria-prediccio%CC%81n-4-eleccion-del-modelo-para-predecir/</guid>
+      <description>En este tutorial de EViews se explica cómo decantarnos por uno de los modelos SARIMA estimados, en función de su capacidad predictiva.
+  </description>
+    </item>
+    
+    <item>
+      <title>(Econometría) Predicción: 2. Predicción dinámica de últimos datos</title>
+      <link>/blog/2013/04/24/econometria-prediccio%CC%81n-2-prediccion-dinamica-de-ultimos-datos/</link>
+      <pubDate>Wed, 24 Apr 2013 11:40:07 +0000</pubDate>
+      
+      <guid>/blog/2013/04/24/econometria-prediccio%CC%81n-2-prediccion-dinamica-de-ultimos-datos/</guid>
+      <description>En este tutorial de EViews se explica cómo se realiza una predicción dinámica de una serie temporal, mediante un modelo SARIMA.
+  </description>
+    </item>
+    
+    <item>
+      <title>(Econometría) Predicción: 1. Estimación sin últimos datos</title>
+      <link>/blog/2013/04/24/econometria-prediccio%CC%81n-1-estimacion-sin-ultimos-datos/</link>
+      <pubDate>Wed, 24 Apr 2013 11:24:01 +0000</pubDate>
+      
+      <guid>/blog/2013/04/24/econometria-prediccio%CC%81n-1-estimacion-sin-ultimos-datos/</guid>
+      <description>En este tutorial de EViews se explica cómo se comienza a validar la capacidad predictiva de un modelo SARIMA. Para ellos se eliminan los últimos 12 datos de la serie y se comprueba que el SARIMA estimado mantiene sus propiedades.
+  </description>
+    </item>
+    
+    <item>
+      <title>Resolución analítica en optimización restringida de funciones de varias variables en DERIVE.</title>
+      <link>/blog/2013/04/20/resolucion-analitica-en-optimizacion-restringida-de-funciones-de-varias-variables-en-derive/</link>
+      <pubDate>Sat, 20 Apr 2013 17:13:52 +0000</pubDate>
+      
+      <guid>/blog/2013/04/20/resolucion-analitica-en-optimizacion-restringida-de-funciones-de-varias-variables-en-derive/</guid>
+      <description>Optimización de funciones de varias variables con una restricción de igualdad. Resolución gráfica
+  </description>
+    </item>
+    
+    <item>
+      <title>Resolución gráfica en optimización restringida de funciones de varias variables en DERIVE.</title>
+      <link>/blog/2013/04/15/resolucion-grafica-en-optimizacion-restringida-de-funciones-de-varias-variables-en-derive/</link>
+      <pubDate>Mon, 15 Apr 2013 12:01:13 +0000</pubDate>
+      
+      <guid>/blog/2013/04/15/resolucion-grafica-en-optimizacion-restringida-de-funciones-de-varias-variables-en-derive/</guid>
+      <description>Optimización de funciones de varias variables con una restricción de igualdad. Resolución gráfica
+  </description>
+    </item>
+    
+    <item>
+      <title>(Econometría) Validacion: 2. Condiciones residuos</title>
+      <link>/blog/2013/04/10/econometria-validacion-2-condiciones-residuos/</link>
+      <pubDate>Wed, 10 Apr 2013 13:21:34 +0000</pubDate>
+      
+      <guid>/blog/2013/04/10/econometria-validacion-2-condiciones-residuos/</guid>
+      <description>En este tutorial de EViews se explica cómo comprobar las condiciones que deben cumplir los residuos que genera el modelo estimado, para superar la fase de validación.
+  </description>
+    </item>
+    
+    <item>
+      <title>(Econometría) Validacion: 1.Condiciones parámetros</title>
+      <link>/blog/2013/04/10/econometria-validacion-1condiciones-para%CC%81metros/</link>
+      <pubDate>Wed, 10 Apr 2013 12:58:01 +0000</pubDate>
+      
+      <guid>/blog/2013/04/10/econometria-validacion-1condiciones-para%CC%81metros/</guid>
+      <description>En este tutorial de EViews se explica cómo comprobar las condiciones que deben cumplir los parámetros del modelo estimado, para superar la fase de validación.
+  </description>
+    </item>
+    
+    <item>
+      <title>Optimización de funciones de varias variables. Optimización sin restricciones en DERIVE</title>
+      <link>/blog/2013/04/08/optimizacion-de-funciones-de-varias-variables-optimizacion-sin-restricciones-en-derive/</link>
+      <pubDate>Mon, 08 Apr 2013 10:54:10 +0000</pubDate>
+      
+      <guid>/blog/2013/04/08/optimizacion-de-funciones-de-varias-variables-optimizacion-sin-restricciones-en-derive/</guid>
+      <description>Resolución de un problema de optimización de dos variables con DERIVE
+  </description>
+    </item>
+    
+    <item>
+      <title>(Econometría) Identificacion y estimacion: 4. Segundo modelo</title>
+      <link>/blog/2013/04/03/econometria-identificacion-y-estimacion-4-segundo-modelo/</link>
+      <pubDate>Wed, 03 Apr 2013 09:42:11 +0000</pubDate>
+      
+      <guid>/blog/2013/04/03/econometria-identificacion-y-estimacion-4-segundo-modelo/</guid>
+      <description>Mediante este tutorial de EViews se explica cómo se puede identificar y estimar un posible modelo SARIMA, a partir del análisis de los correlogramas, consiguiendo finalmente que los residuos estén incorrelacionados.
+  </description>
+    </item>
+    
+    <item>
+      <title>(Econometría) Identificacion y estimacion: 3. Buscando el segundo modelo</title>
+      <link>/blog/2013/04/02/econometria-identificacion-y-estimacion-3-buscando-el-segundo-modelo/</link>
+      <pubDate>Tue, 02 Apr 2013 22:30:22 +0000</pubDate>
+      
+      <guid>/blog/2013/04/02/econometria-identificacion-y-estimacion-3-buscando-el-segundo-modelo/</guid>
+      <description>Mediante este tutorial de EViews se explica cómo, en ocasiones, intentando identificar un segundo modelo SARIMA alternativo, nos damos cuenta de que la variable endógena que estamos utilizando no tiene el número de diferencias que debería.
+  </description>
+    </item>
+    
+    <item>
+      <title>(Econometría) Identificacion y estimacion: 2. Primer modelo</title>
+      <link>/blog/2013/04/02/econometria-identificacion-y-estimacion-2-primer-modelo/</link>
+      <pubDate>Tue, 02 Apr 2013 22:09:13 +0000</pubDate>
+      
+      <guid>/blog/2013/04/02/econometria-identificacion-y-estimacion-2-primer-modelo/</guid>
+      <description>Mediante este tutorial de EViews se explica cómo se puede identificar y estimar un posible modelo SARIMA, a partir del análisis de los correlogramas, consiguiendo finalmente que los residuos de dicho modelo estén incorrelacionados.
+  </description>
+    </item>
+    
+    <item>
+      <title>(Econometría) Identificacion y estimacion: 1. Serie a identificar</title>
+      <link>/blog/2013/04/02/econometria-identificacion-y-estimacion-1-serie-a-identificar/</link>
+      <pubDate>Tue, 02 Apr 2013 19:57:15 +0000</pubDate>
+      
+      <guid>/blog/2013/04/02/econometria-identificacion-y-estimacion-1-serie-a-identificar/</guid>
+      <description>En este tutorial de EViews se explica cómo elegir cuál debe ser la endógena del modelo a estimar una vez finalizado el contraste de Dickey-Fuller.
+  </description>
+    </item>
+    
+    <item>
+      <title>Funciones Estadísticas en Excel - 07/07 - Bivariante</title>
+      <link>/blog/2013/03/19/funciones-estadi%CC%81sticas-en-excel-07-07-bivariante/</link>
+      <pubDate>Tue, 19 Mar 2013 22:23:14 +0000</pubDate>
+      
+      <guid>/blog/2013/03/19/funciones-estadi%CC%81sticas-en-excel-07-07-bivariante/</guid>
+      <description>En este tutorial se explica cómo calcular las diferentes medidas del análisis bivariante, mediante las fórmulas estadísticas que vienen implementadas en Excel.
+  </description>
+    </item>
+    
+    <item>
+      <title>Funciones Estadísticas en Excel - 06/07 - Forma</title>
+      <link>/blog/2013/03/19/funciones-estadi%CC%81sticas-en-excel-06-07-forma/</link>
+      <pubDate>Tue, 19 Mar 2013 16:27:34 +0000</pubDate>
+      
+      <guid>/blog/2013/03/19/funciones-estadi%CC%81sticas-en-excel-06-07-forma/</guid>
+      <description>En este tutorial se explica cómo calculas las diferentes medidas de forma, mediante las fórmulas estadísticas que vienen implementadas en Excel.
+  </description>
+    </item>
+    
+    <item>
+      <title>Funciones Estadísticas en Excel - 05/07 - Dispersión</title>
+      <link>/blog/2013/03/19/funciones-estadi%CC%81sticas-en-excel-05-07-dispersion/</link>
+      <pubDate>Tue, 19 Mar 2013 16:19:08 +0000</pubDate>
+      
+      <guid>/blog/2013/03/19/funciones-estadi%CC%81sticas-en-excel-05-07-dispersion/</guid>
+      <description>En este tutorial se explica cómo calculas las diferentes medidas de dispersión, mediante las fórmulas estadísticas que vienen implementadas en Excel.
+  </description>
+    </item>
+    
+    <item>
+      <title>Funciones Estadísticas en Excel - 04/07 - Posic. no central</title>
+      <link>/blog/2013/03/19/funciones-estadi%CC%81sticas-en-excel-04-07-posic-no-central/</link>
+      <pubDate>Tue, 19 Mar 2013 16:03:47 +0000</pubDate>
+      
+      <guid>/blog/2013/03/19/funciones-estadi%CC%81sticas-en-excel-04-07-posic-no-central/</guid>
+      <description>En este tutorial se explica cómo calcular las diferentes medidas de posición no central, mediante las fórmulas estadísticas que vienen implementadas en Excel.
+  </description>
+    </item>
+    
+    <item>
+      <title>Funciones Estadísticas en Excel - 03/07 - Posición central</title>
+      <link>/blog/2013/03/19/funciones-estadi%CC%81sticas-en-excel-03-07-posicion-central/</link>
+      <pubDate>Tue, 19 Mar 2013 15:51:27 +0000</pubDate>
+      
+      <guid>/blog/2013/03/19/funciones-estadi%CC%81sticas-en-excel-03-07-posicion-central/</guid>
+      <description>En este tutorial se explica cómo calculas las diferentes medidas de posición central, mediante las fórmulas estadísticas que vienen implementadas en Excel.
+  </description>
+    </item>
+    
+    <item>
+      <title>Funciones Estadísticas en Excel - 02/07 - Los datos</title>
+      <link>/blog/2013/03/19/funciones-estadi%CC%81sticas-en-excel-02-07-los-datos/</link>
+      <pubDate>Tue, 19 Mar 2013 15:40:45 +0000</pubDate>
+      
+      <guid>/blog/2013/03/19/funciones-estadi%CC%81sticas-en-excel-02-07-los-datos/</guid>
+      <description>En este vídeo se describen los datos con los que se realizará el análisis descriptivo mediante las fórmulas que vienen implementadas en Excel.
+  </description>
+    </item>
+    
+    <item>
+      <title>Funciones Estadísticas en Excel - 01/07 - Cuándo usarlas</title>
+      <link>/blog/2013/03/19/funciones-estadi%CC%81sticas-en-excel-01-07-cuando-usarlas/</link>
+      <pubDate>Tue, 19 Mar 2013 15:34:35 +0000</pubDate>
+      
+      <guid>/blog/2013/03/19/funciones-estadi%CC%81sticas-en-excel-01-07-cuando-usarlas/</guid>
+      <description>En este vídeo se explica en qué caso se pueden usar las funciones estadísticas descriptivas que tiene implementado el Excel y en qué caso no es factible usarlas.
+  </description>
+    </item>
+    
+    <item>
+      <title>Funciones de varias variables en DERIVE</title>
+      <link>/blog/2013/03/16/funciones-de-varias-variables-en-derive/</link>
+      <pubDate>Sat, 16 Mar 2013 14:10:26 +0000</pubDate>
+      
+      <guid>/blog/2013/03/16/funciones-de-varias-variables-en-derive/</guid>
+      <description>En este vídeo trabajaremos con los conceptos de dominio y curvas de nivel en DERIVE
+  </description>
+    </item>
+    
+    <item>
+      <title>Introducción al DERIVE</title>
+      <link>/blog/2013/03/15/introduccion-al-derive/</link>
+      <pubDate>Fri, 15 Mar 2013 18:20:50 +0000</pubDate>
+      
+      <guid>/blog/2013/03/15/introduccion-al-derive/</guid>
+      <description>Vídeo introductorio que detalla las instrucciones básicas para su uso en DERIVE
+  </description>
+    </item>
+    
+    <item>
+      <title>(Econometría) Estacionariedad en media: 3. Contraste de Dickey y Fuller</title>
+      <link>/blog/2013/03/13/econometria-estacionariedad-en-media-3-contraste-de-dickey-y-fuller/</link>
+      <pubDate>Wed, 13 Mar 2013 01:06:17 +0000</pubDate>
+      
+      <guid>/blog/2013/03/13/econometria-estacionariedad-en-media-3-contraste-de-dickey-y-fuller/</guid>
+      <description>En este tutorial se explica cómo analizar la estacionariedad en media de una serie temporal, a través del contraste de Dickey y Fuller, mediante el paquete estadístico EViews.
+  </description>
+    </item>
+    
+    <item>
+      <title>(Econometría) Estacionariedad en media: 4. Parte estacional</title>
+      <link>/blog/2013/03/13/econometria-estacionariedad-en-media-4-parte-estacional/</link>
+      <pubDate>Wed, 13 Mar 2013 01:05:53 +0000</pubDate>
+      
+      <guid>/blog/2013/03/13/econometria-estacionariedad-en-media-4-parte-estacional/</guid>
+      <description>En este tutorial se explica cómo analizar la estacionariedad en media de una serie temporal, en su parte estacional, a través del análisis del correlograma estacionario en media en a parte regular, mediante el paquete estadístico EViews.
+  </description>
+    </item>
+    
+    <item>
+      <title>(Econometría) Estacionariedad en media: 2. Correlograma</title>
+      <link>/blog/2013/03/13/econometria-estacionariedad-en-media-2-correlograma/</link>
+      <pubDate>Wed, 13 Mar 2013 00:25:39 +0000</pubDate>
+      
+      <guid>/blog/2013/03/13/econometria-estacionariedad-en-media-2-correlograma/</guid>
+      <description>En este tutorial se explica cómo analizar la estacionariedad en media de una serie temporal, a través del análisis de su correlograma, mediante el paquete estadístico EViews.
+  </description>
+    </item>
+    
+    <item>
+      <title>(Econometría) Estacionariedad en media: 1. Método Gráfico</title>
+      <link>/blog/2013/03/13/econometria-estacionariedad-en-media-1-metodo-grafico/</link>
+      <pubDate>Wed, 13 Mar 2013 00:17:21 +0000</pubDate>
+      
+      <guid>/blog/2013/03/13/econometria-estacionariedad-en-media-1-metodo-grafico/</guid>
+      <description>En este tutorial se explica cómo analizar la estacionariedad en media de una serie temporal, a través del análisis de su gráfico de líneas, mediante el paquete estadístico EViews.
+  </description>
+    </item>
+    
+    <item>
+      <title>Cálculo en funciones de varias variables en DERIVE. Polinomio de Taylor</title>
+      <link>/blog/2013/03/08/calculo-en-funciones-de-varias-variables-en-derive-polinomio-de-taylor/</link>
+      <pubDate>Fri, 08 Mar 2013 19:16:26 +0000</pubDate>
+      
+      <guid>/blog/2013/03/08/calculo-en-funciones-de-varias-variables-en-derive-polinomio-de-taylor/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Cálculo en funciones de varias variables en DERIVE. Derivadas</title>
+      <link>/blog/2013/03/01/calculo-en-funciones-de-varias-variables-en-derive-derivadas/</link>
+      <pubDate>Fri, 01 Mar 2013 20:01:11 +0000</pubDate>
+      
+      <guid>/blog/2013/03/01/calculo-en-funciones-de-varias-variables-en-derive-derivadas/</guid>
+      <description>Tratamiento de las derivadas en funciones de varias variables empleando DERIVE.
+  </description>
+    </item>
+    
+    <item>
+      <title>(Econometría) Estacionariedad en varianza: 4.Transformación de la variable</title>
+      <link>/blog/2013/02/26/econometria-estacionariedad-en-varianza-4transformacion-de-la-variable/</link>
+      <pubDate>Tue, 26 Feb 2013 22:30:20 +0000</pubDate>
+      
+      <guid>/blog/2013/02/26/econometria-estacionariedad-en-varianza-4transformacion-de-la-variable/</guid>
+      <description>En este tutorial de EViews se explica qué transformación hay que realizar a la variable original, una vez realizado todo el análisis de la Estacionariedad en Varianza.
+  </description>
+    </item>
+    
+    <item>
+      <title>(Econometría) Estacionariedad en varianza: 3. Análisis de Regresión</title>
+      <link>/blog/2013/02/26/econometria-estacionariedad-en-varianza-3-analisis-de-regresion/</link>
+      <pubDate>Tue, 26 Feb 2013 22:15:13 +0000</pubDate>
+      
+      <guid>/blog/2013/02/26/econometria-estacionariedad-en-varianza-3-analisis-de-regresion/</guid>
+      <description>En este tutorial se explica cómo analizar la estacionariedad en varianza de una serie temporal, a través de la regresión entre el logaritmo de las varianzas y el logaritmo de las medias anuales, mediante el paquete estadístico EViews.
+  </description>
+    </item>
+    
+    <item>
+      <title>(Econometría) Estacionariedad en varianza: 2. Rango Media</title>
+      <link>/blog/2013/02/26/econometria-estacionariedad-en-varianza-2-rango-media/</link>
+      <pubDate>Tue, 26 Feb 2013 21:58:57 +0000</pubDate>
+      
+      <guid>/blog/2013/02/26/econometria-estacionariedad-en-varianza-2-rango-media/</guid>
+      <description>En este tutorial se explica cómo analizar la estacionariedad en varianza de una serie temporal, a través de la realización y el análisis del gráfico Rango-Media, mediante el paquete estadístico EViews.
+  </description>
+    </item>
+    
+    <item>
+      <title>(Econometría) Estacionariedad en varianza: 1. Método Gráfico</title>
+      <link>/blog/2013/02/26/econometria-estacionariedad-en-varianza-1-metodo-grafico/</link>
+      <pubDate>Tue, 26 Feb 2013 21:27:01 +0000</pubDate>
+      
+      <guid>/blog/2013/02/26/econometria-estacionariedad-en-varianza-1-metodo-grafico/</guid>
+      <description>En este tutorial se explica cómo analizar la estacionariedad en varianza de una serie temporal, a través del análisis de su gráfico de líneas, mediante el paquete estadístico EViews.
+  </description>
+    </item>
+    
+    <item>
+      <title>(Econometría) Importar datos a EViews</title>
+      <link>/blog/2013/02/26/econometria-importar-datos-a-eviews/</link>
+      <pubDate>Tue, 26 Feb 2013 14:07:52 +0000</pubDate>
+      
+      <guid>/blog/2013/02/26/econometria-importar-datos-a-eviews/</guid>
+      <description>En este tutorial se explica como importar datos de una serie temporal desde la hoja de cálculo Excel hasta el programa estadístico EViews.
+  </description>
+    </item>
+    
+    <item>
+      <title>Teoria   Estadistica Basica   Origen e Historia</title>
+      <link>/blog/2013/02/22/teoria-estadistica-basica-origen-e-historia/</link>
+      <pubDate>Fri, 22 Feb 2013 14:21:46 +0000</pubDate>
+      
+      <guid>/blog/2013/02/22/teoria-estadistica-basica-origen-e-historia/</guid>
+      <description>Origen e historia de la Estadística.
+  </description>
+    </item>
+    
+    <item>
+      <title>Teoria   Estadistica Basica   Variables Estadisticas</title>
+      <link>/blog/2013/02/22/teoria-estadistica-basica-variables-estadisticas/</link>
+      <pubDate>Fri, 22 Feb 2013 14:21:31 +0000</pubDate>
+      
+      <guid>/blog/2013/02/22/teoria-estadistica-basica-variables-estadisticas/</guid>
+      <description>Introducción al concepto de variable estadística, población, muestra y tipología de datos.
+  </description>
+    </item>
+    
+    <item>
+      <title>Practica - Variable bidimensional - 04/05 - Activación del módulo de regresión en Excel</title>
+      <link>/blog/2013/02/22/practica-variable-bidimensional-04-05-activacio%CC%81n-del-mo%CC%81dulo-de-regresio%CC%81n-en-excel/</link>
+      <pubDate>Fri, 22 Feb 2013 14:21:12 +0000</pubDate>
+      
+      <guid>/blog/2013/02/22/practica-variable-bidimensional-04-05-activacio%CC%81n-del-mo%CC%81dulo-de-regresio%CC%81n-en-excel/</guid>
+      <description>Cómo activar el módulo de Excel que permite realizar Regresión Lineal Simple.
+  </description>
+    </item>
+    
+    <item>
+      <title>Practica - Variable bidimensional - 05/05 - Regresión lineal simple con datos agregados</title>
+      <link>/blog/2013/02/22/practica-variable-bidimensional-05-05-regresio%CC%81n-lineal-simple-con-datos-agregados/</link>
+      <pubDate>Fri, 22 Feb 2013 14:20:59 +0000</pubDate>
+      
+      <guid>/blog/2013/02/22/practica-variable-bidimensional-05-05-regresio%CC%81n-lineal-simple-con-datos-agregados/</guid>
+      <description>Tutorial en Excel para estimar una Regresión Lineal Simple cuando se parte de datos agregados.
+  </description>
+    </item>
+    
+    <item>
+      <title>Practica - Variable bidimensional - 03/05 - Covarianza y Coeficiente de correlacion lineal simple</title>
+      <link>/blog/2013/02/22/practica-variable-bidimensional-03-05-covarianza-y-coeficiente-de-correlacion-lineal-simple/</link>
+      <pubDate>Fri, 22 Feb 2013 14:20:43 +0000</pubDate>
+      
+      <guid>/blog/2013/02/22/practica-variable-bidimensional-03-05-covarianza-y-coeficiente-de-correlacion-lineal-simple/</guid>
+      <description>Tutorial de Excel para estimar la Covarianza y el Coeficiente de Correlación Lineal Simple
+  </description>
+    </item>
+    
+    <item>
+      <title>Practica - Variable bidimensional - 02/05 - Medias y varianzas de distribuciones marginales</title>
+      <link>/blog/2013/02/22/practica-variable-bidimensional-02-05-medias-y-varianzas-de-distribuciones-marginales/</link>
+      <pubDate>Fri, 22 Feb 2013 14:20:33 +0000</pubDate>
+      
+      <guid>/blog/2013/02/22/practica-variable-bidimensional-02-05-medias-y-varianzas-de-distribuciones-marginales/</guid>
+      <description>Tutorial de Excel para calcular medias y varianzas de distribuciones marginales a partir de una tabla de frecuencias de doble entrada.
+  </description>
+    </item>
+    
+    <item>
+      <title>Practica - Series Temporales - 10/12 - Eliminación de la tendencia por diferencias</title>
+      <link>/blog/2013/02/22/practica-series-temporales-10-12-eliminacio%CC%81n-de-la-tendencia-por-diferencias/</link>
+      <pubDate>Fri, 22 Feb 2013 14:19:08 +0000</pubDate>
+      
+      <guid>/blog/2013/02/22/practica-series-temporales-10-12-eliminacio%CC%81n-de-la-tendencia-por-diferencias/</guid>
+      <description>Tutorial de Excel para la eliminación de la tendencia por el método de las diferencias.
+  </description>
+    </item>
+    
+    <item>
+      <title>Practica - Series Temporales - 09/12 - Calculo de la tendencia (método analítico)</title>
+      <link>/blog/2013/02/22/practica-series-temporales-09-12-calculo-de-la-tendencia-me%CC%81todo-anali%CC%81tico/</link>
+      <pubDate>Fri, 22 Feb 2013 14:19:01 +0000</pubDate>
+      
+      <guid>/blog/2013/02/22/practica-series-temporales-09-12-calculo-de-la-tendencia-me%CC%81todo-anali%CC%81tico/</guid>
+      <description>Tutorial de Excel para el cálculo de la tendencia de una serie temporal por el método analítico.
+  </description>
+    </item>
+    
+    <item>
+      <title>Practica - Series Temporales - 08/12 - Representación gráfica (esquema multiplicativo)</title>
+      <link>/blog/2013/02/22/practica-series-temporales-08-12-representacio%CC%81n-gra%CC%81fica-esquema-multiplicativo/</link>
+      <pubDate>Fri, 22 Feb 2013 14:18:53 +0000</pubDate>
+      
+      <guid>/blog/2013/02/22/practica-series-temporales-08-12-representacio%CC%81n-gra%CC%81fica-esquema-multiplicativo/</guid>
+      <description>Tutorial de Excel para la representación gráfica de una serie temporal y sus componentes cuando sigue un esquema multiplicativo.
+  </description>
+    </item>
+    
+    <item>
+      <title>Teoría   Estadística Básica   Introducción   Números índice</title>
+      <link>/blog/2013/02/22/teori%CC%81a-estadi%CC%81stica-ba%CC%81sica-introduccio%CC%81n-nu%CC%81meros-i%CC%81ndice/</link>
+      <pubDate>Fri, 22 Feb 2013 14:18:21 +0000</pubDate>
+      
+      <guid>/blog/2013/02/22/teori%CC%81a-estadi%CC%81stica-ba%CC%81sica-introduccio%CC%81n-nu%CC%81meros-i%CC%81ndice/</guid>
+      <description>En este vídeo se abordan los siguientes aspectos relacionados con los números índices: - Definición - Clasificación (Simples, Complejos) - Propiedades - IPC - Cambio de base y enlace - Deflación
+  </description>
+    </item>
+    
+    <item>
+      <title>Teoria - Estadistica Basica - Introduccion - Bivariante</title>
+      <link>/blog/2013/02/22/teoria-estadistica-basica-introduccion-bivariante/</link>
+      <pubDate>Fri, 22 Feb 2013 14:18:09 +0000</pubDate>
+      
+      <guid>/blog/2013/02/22/teoria-estadistica-basica-introduccion-bivariante/</guid>
+      <description>En este vídeo se abordan los siguientes aspectos relacionados con el análisis conjunto de 2 variables estadísticas: - tabla de distribución de frecuencias de doble entrada - distribuciones marginales - distribuciones condicionadas
+  </description>
+    </item>
+    
+    <item>
+      <title>Teoría - Estadística Básica - Introducción - Series temporales</title>
+      <link>/blog/2013/02/22/teori%CC%81a-estadi%CC%81stica-ba%CC%81sica-introduccio%CC%81n-series-temporales/</link>
+      <pubDate>Fri, 22 Feb 2013 14:17:59 +0000</pubDate>
+      
+      <guid>/blog/2013/02/22/teori%CC%81a-estadi%CC%81stica-ba%CC%81sica-introduccio%CC%81n-series-temporales/</guid>
+      <description>En este vídeo se abordan los siguientes aspectos relacionados con las series temporales: - Cálculo de la tendencia por medias móviles - Eliminación de la tendencia por medias móviles - Cálculo de la estacionalidad por medias móviles - Eliminación de la estacionalidad por medias móviles
+  </description>
+    </item>
+    
+    <item>
+      <title>Teoría   Estadística Básica   Introducción   Univariante</title>
+      <link>/blog/2013/02/22/teori%CC%81a-estadi%CC%81stica-ba%CC%81sica-introduccio%CC%81n-univariante/</link>
+      <pubDate>Fri, 22 Feb 2013 14:17:47 +0000</pubDate>
+      
+      <guid>/blog/2013/02/22/teori%CC%81a-estadi%CC%81stica-ba%CC%81sica-introduccio%CC%81n-univariante/</guid>
+      <description>En este vídeo se abordan los siguientes aspectos relacionados con el análisis de una variable estadística: - tabla de distribución de frecuencias (caso discreto y continuo) - representaciones gráficas (caso discreto y continuo)
+  </description>
+    </item>
+    
+    <item>
+      <title>Ejemplo - Estadística Básica - Univariante - 01/07 - Los datos</title>
+      <link>/blog/2013/02/22/ejemplo-estadi%CC%81stica-ba%CC%81sica-univariante-01-07-los-datos/</link>
+      <pubDate>Fri, 22 Feb 2013 14:17:38 +0000</pubDate>
+      
+      <guid>/blog/2013/02/22/ejemplo-estadi%CC%81stica-ba%CC%81sica-univariante-01-07-los-datos/</guid>
+      <description>Presentación de los datos a utilizar en el ejemplo
+  </description>
+    </item>
+    
+    <item>
+      <title>Ejemplo - Estadística Básica - Univariante - 02/07 - Tabla para datos cualitativos</title>
+      <link>/blog/2013/02/22/ejemplo-estadi%CC%81stica-ba%CC%81sica-univariante-02-07-tabla-para-datos-cualitativos/</link>
+      <pubDate>Fri, 22 Feb 2013 14:17:29 +0000</pubDate>
+      
+      <guid>/blog/2013/02/22/ejemplo-estadi%CC%81stica-ba%CC%81sica-univariante-02-07-tabla-para-datos-cualitativos/</guid>
+      <description>Confección de una tabla de distribución de frecuencias para una variable cualitativa.
+  </description>
+    </item>
+    
+    <item>
+      <title>Ejemplo - Estadística Básica - Univariante - 03/07 - Gráficos para datos cualitativos</title>
+      <link>/blog/2013/02/22/ejemplo-estadi%CC%81stica-ba%CC%81sica-univariante-03-07-gra%CC%81ficos-para-datos-cualitativos/</link>
+      <pubDate>Fri, 22 Feb 2013 14:17:19 +0000</pubDate>
+      
+      <guid>/blog/2013/02/22/ejemplo-estadi%CC%81stica-ba%CC%81sica-univariante-03-07-gra%CC%81ficos-para-datos-cualitativos/</guid>
+      <description>Confección en Excel de los gráficos para una variable cualitativa.
+  </description>
+    </item>
+    
+    <item>
+      <title>Ejemplo - Estadística Básica - Univariante - 04/07 - Tabla para datos cuantitativos discretos</title>
+      <link>/blog/2013/02/22/ejemplo-estadi%CC%81stica-ba%CC%81sica-univariante-04-07-tabla-para-datos-cuantitativos-discretos/</link>
+      <pubDate>Fri, 22 Feb 2013 14:17:10 +0000</pubDate>
+      
+      <guid>/blog/2013/02/22/ejemplo-estadi%CC%81stica-ba%CC%81sica-univariante-04-07-tabla-para-datos-cuantitativos-discretos/</guid>
+      <description>Confección de una tabla de distribución de frecuencias para una variable cuantitativa discreta.
+  </description>
+    </item>
+    
+    <item>
+      <title>Ejemplo - Estadística Básica - Univariante - 05/07 - Gráfico para var. cuantitativa discreta</title>
+      <link>/blog/2013/02/22/ejemplo-estadi%CC%81stica-ba%CC%81sica-univariante-05-07-gra%CC%81fico-para-var-cuantitativa-discreta/</link>
+      <pubDate>Fri, 22 Feb 2013 14:17:02 +0000</pubDate>
+      
+      <guid>/blog/2013/02/22/ejemplo-estadi%CC%81stica-ba%CC%81sica-univariante-05-07-gra%CC%81fico-para-var-cuantitativa-discreta/</guid>
+      <description>Confección de los gráficos para una variable cuantitativa discreta
+  </description>
+    </item>
+    
+    <item>
+      <title>Ejemplo - Estadística Básica - Univariante - 06/07 - Tabla para datos cuantitativos continuos</title>
+      <link>/blog/2013/02/22/ejemplo-estadi%CC%81stica-ba%CC%81sica-univariante-06-07-tabla-para-datos-cuantitativos-continuos/</link>
+      <pubDate>Fri, 22 Feb 2013 14:16:53 +0000</pubDate>
+      
+      <guid>/blog/2013/02/22/ejemplo-estadi%CC%81stica-ba%CC%81sica-univariante-06-07-tabla-para-datos-cuantitativos-continuos/</guid>
+      <description>Confección de la tabla de distribución de frecuencias para una variable estadística de tipo continuo.
+  </description>
+    </item>
+    
+    <item>
+      <title>Ejemplo - Estadística Básica - Univariante - 07/07 - Gráficos para var. cuantitativa continua</title>
+      <link>/blog/2013/02/22/ejemplo-estadi%CC%81stica-ba%CC%81sica-univariante-07-07-gra%CC%81ficos-para-var-cuantitativa-continua/</link>
+      <pubDate>Fri, 22 Feb 2013 14:16:42 +0000</pubDate>
+      
+      <guid>/blog/2013/02/22/ejemplo-estadi%CC%81stica-ba%CC%81sica-univariante-07-07-gra%CC%81ficos-para-var-cuantitativa-continua/</guid>
+      <description>Diseño de los gráficos para el caso de una variable estadística de tipo continuo.
+  </description>
+    </item>
+    
+    <item>
+      <title>Rangos y Sumaproducto</title>
+      <link>/blog/2013/02/22/rangos-y-sumaproducto/</link>
+      <pubDate>Fri, 22 Feb 2013 14:16:19 +0000</pubDate>
+      
+      <guid>/blog/2013/02/22/rangos-y-sumaproducto/</guid>
+      <description>Este tutorial de Excel explica cómo: 1. asignar rangos a una tabla de datos 2. construir una tabla de distribución de frecuencias utilizando el comando &amp;ldquo;sumaproducto&amp;rdquo; para 3 casos diferentes (variable cualitativa, variable cuantitativa discreta y variable cuantitativa continua)
+  </description>
+    </item>
+    
+    <item>
+      <title>Practica - Series Temporales - 05/12 - Calculo de la tendencia (p impar)</title>
+      <link>/blog/2013/01/22/practica-series-temporales-05-12-calculo-de-la-tendencia-p-impar/</link>
+      <pubDate>Tue, 22 Jan 2013 17:24:07 +0000</pubDate>
+      
+      <guid>/blog/2013/01/22/practica-series-temporales-05-12-calculo-de-la-tendencia-p-impar/</guid>
+      <description>Tutorial de Excel para el cálculo de la tendencia de una serie temporal cuando tenemos un número par de datos al año.
+  </description>
+    </item>
+    
+    <item>
+      <title>Practica - Series Temporales - 06/12 - Calculo de la componente estacional (esquema multiplicativo)</title>
+      <link>/blog/2013/01/22/practica-series-temporales-06-12-calculo-de-la-componente-estacional-esquema-multiplicativo/</link>
+      <pubDate>Tue, 22 Jan 2013 17:23:43 +0000</pubDate>
+      
+      <guid>/blog/2013/01/22/practica-series-temporales-06-12-calculo-de-la-componente-estacional-esquema-multiplicativo/</guid>
+      <description>Tutorial de Excel para el cálculo de la componente estacional por el método de las medias móviles de una serie temporal que sigue un esquema multiplicativo.
+  </description>
+    </item>
+    
+    <item>
+      <title>Practica - Series Temporales - 07/12 - Desestacionalización (esquema multiplicativo)</title>
+      <link>/blog/2013/01/22/practica-series-temporales-07-12-desestacionalizacio%CC%81n-esquema-multiplicativo/</link>
+      <pubDate>Tue, 22 Jan 2013 17:22:29 +0000</pubDate>
+      
+      <guid>/blog/2013/01/22/practica-series-temporales-07-12-desestacionalizacio%CC%81n-esquema-multiplicativo/</guid>
+      <description>Tutorial de Excel para la desestacionalización por medias móviles de una serie temporal que sigue un esquema multiplicativo.
+  </description>
+    </item>
+    
+    <item>
+      <title>Práctica - Números Índice - 03/03 - Índices complejos ponderados</title>
+      <link>/blog/2013/01/22/pra%CC%81ctica-nu%CC%81meros-i%CC%81ndice-03-03-i%CC%81ndices-complejos-ponderados/</link>
+      <pubDate>Tue, 22 Jan 2013 16:53:48 +0000</pubDate>
+      
+      <guid>/blog/2013/01/22/pra%CC%81ctica-nu%CC%81meros-i%CC%81ndice-03-03-i%CC%81ndices-complejos-ponderados/</guid>
+      <description>Tutorial de Excel para el cálculo de índices complejos ponderados.
+  </description>
+    </item>
+    
+    <item>
+      <title>Práctica - Números Índice - 01/03 - Índices Simples</title>
+      <link>/blog/2013/01/22/pra%CC%81ctica-nu%CC%81meros-i%CC%81ndice-01-03-i%CC%81ndices-simples/</link>
+      <pubDate>Tue, 22 Jan 2013 16:53:28 +0000</pubDate>
+      
+      <guid>/blog/2013/01/22/pra%CC%81ctica-nu%CC%81meros-i%CC%81ndice-01-03-i%CC%81ndices-simples/</guid>
+      <description>Tutorial de Excel para el cálculo de Números índices simples.
+  </description>
+    </item>
+    
+    <item>
+      <title>Práctica - Números Índice - 02/03 - Índices complejos no ponderados</title>
+      <link>/blog/2013/01/22/pra%CC%81ctica-nu%CC%81meros-i%CC%81ndice-02-03-i%CC%81ndices-complejos-no-ponderados/</link>
+      <pubDate>Tue, 22 Jan 2013 16:51:58 +0000</pubDate>
+      
+      <guid>/blog/2013/01/22/pra%CC%81ctica-nu%CC%81meros-i%CC%81ndice-02-03-i%CC%81ndices-complejos-no-ponderados/</guid>
+      <description>Tutorial de Excel para el cálculo de índices complejos no ponderados.
+  </description>
+    </item>
+    
+    <item>
+      <title>Practica - Series Temporales - 02/12 - Calculo de la componente estacional (esquema aditivo)</title>
+      <link>/blog/2013/01/22/practica-series-temporales-02-12-calculo-de-la-componente-estacional-esquema-aditivo/</link>
+      <pubDate>Tue, 22 Jan 2013 16:47:12 +0000</pubDate>
+      
+      <guid>/blog/2013/01/22/practica-series-temporales-02-12-calculo-de-la-componente-estacional-esquema-aditivo/</guid>
+      <description>Tutorial de Excel para el cálculo de la componente estacional por medias móviles de una serie temporal que sigue un esquema aditivo.
+  </description>
+    </item>
+    
+    <item>
+      <title>Practica - Series Temporales - 01/12 - Calculo de la tendencia (p par)</title>
+      <link>/blog/2013/01/22/practica-series-temporales-01-12-calculo-de-la-tendencia-p-par/</link>
+      <pubDate>Tue, 22 Jan 2013 16:47:11 +0000</pubDate>
+      
+      <guid>/blog/2013/01/22/practica-series-temporales-01-12-calculo-de-la-tendencia-p-par/</guid>
+      <description>Tutorial de Excel para el cálculo de la tendencia por medias móviles de una serie temporal cuando tenemos un número de datos par al año.
+  </description>
+    </item>
+    
+    <item>
+      <title>Practica - Series Temporales - 04/12 - Representación gráfica (esquema aditivo)</title>
+      <link>/blog/2013/01/22/practica-series-temporales-04-12-representacio%CC%81n-gra%CC%81fica-esquema-aditivo/</link>
+      <pubDate>Tue, 22 Jan 2013 16:46:18 +0000</pubDate>
+      
+      <guid>/blog/2013/01/22/practica-series-temporales-04-12-representacio%CC%81n-gra%CC%81fica-esquema-aditivo/</guid>
+      <description>Tutorial de Excel para la representación gráfica de series temporales.
+  </description>
+    </item>
+    
+    <item>
+      <title>Practica - Series Temporales - 12/12 - Tasas de variación</title>
+      <link>/blog/2013/01/22/practica-series-temporales-12-12-tasas-de-variacio%CC%81n/</link>
+      <pubDate>Tue, 22 Jan 2013 16:46:14 +0000</pubDate>
+      
+      <guid>/blog/2013/01/22/practica-series-temporales-12-12-tasas-de-variacio%CC%81n/</guid>
+      <description>Tutorial de Excel para el cálculo de las tasas de variación de una serie temporal.
+  </description>
+    </item>
+    
+    <item>
+      <title>Practica - Series Temporales - 03/12 - Desestacionalización (esquema aditivo)</title>
+      <link>/blog/2013/01/22/practica-series-temporales-03-12-desestacionalizacio%CC%81n-esquema-aditivo/</link>
+      <pubDate>Tue, 22 Jan 2013 16:44:40 +0000</pubDate>
+      
+      <guid>/blog/2013/01/22/practica-series-temporales-03-12-desestacionalizacio%CC%81n-esquema-aditivo/</guid>
+      <description>Tutorial de Excel para la desestacionalización por medias móviles de una serie temporal que sigue un esquema aditivo.
+  </description>
+    </item>
+    
+    <item>
+      <title>Practica - Series Temporales - 11/12 - Eliminación de la estacionalidad por diferencias</title>
+      <link>/blog/2013/01/22/practica-series-temporales-11-12-eliminacio%CC%81n-de-la-estacionalidad-por-diferencias/</link>
+      <pubDate>Tue, 22 Jan 2013 16:42:49 +0000</pubDate>
+      
+      <guid>/blog/2013/01/22/practica-series-temporales-11-12-eliminacio%CC%81n-de-la-estacionalidad-por-diferencias/</guid>
+      <description>Tutorial de Excel para la eliminación de la estacionalidad de una serie temporal por el método de las diferencias.
+  </description>
+    </item>
+    
+    <item>
+      <title>Practica - Variable bidimensional - 01/05 - Distribuciones marginales</title>
+      <link>/blog/2013/01/22/practica-variable-bidimensional-01-05-distribuciones-marginales/</link>
+      <pubDate>Tue, 22 Jan 2013 11:24:16 +0000</pubDate>
+      
+      <guid>/blog/2013/01/22/practica-variable-bidimensional-01-05-distribuciones-marginales/</guid>
+      <description>Tutorial de Excel para obtener las distribuciones marginales a partir de una tabla de doble entrada.
+  </description>
+    </item>
+    
+    <item>
+      <title>Practica   Variable unidimensional continua   06/06   Medidas de concentración</title>
+      <link>/blog/2013/01/22/practica-variable-unidimensional-continua-06-06-medidas-de-concentracio%CC%81n/</link>
+      <pubDate>Tue, 22 Jan 2013 10:19:45 +0000</pubDate>
+      
+      <guid>/blog/2013/01/22/practica-variable-unidimensional-continua-06-06-medidas-de-concentracio%CC%81n/</guid>
+      <description>Tutorial de Excel para el cálculo de medidas de concentración con una variable continua.
+  </description>
+    </item>
+    
+    <item>
+      <title>Practica   Variable unidimensional continua   03/06   Medidas de posición no central</title>
+      <link>/blog/2013/01/22/practica-variable-unidimensional-continua-03-06-medidas-de-posicio%CC%81n-no-central/</link>
+      <pubDate>Tue, 22 Jan 2013 10:18:04 +0000</pubDate>
+      
+      <guid>/blog/2013/01/22/practica-variable-unidimensional-continua-03-06-medidas-de-posicio%CC%81n-no-central/</guid>
+      <description>Tutorial de Excel para el cálculo de medidas de posición no central con una variable continua.
+  </description>
+    </item>
+    
+    <item>
+      <title>Practica   Variable unidimensional continua   01/06  Tabla de distribucion de frecuencias</title>
+      <link>/blog/2013/01/22/practica-variable-unidimensional-continua-01-06-tabla-de-distribucion-de-frecuencias/</link>
+      <pubDate>Tue, 22 Jan 2013 10:17:40 +0000</pubDate>
+      
+      <guid>/blog/2013/01/22/practica-variable-unidimensional-continua-01-06-tabla-de-distribucion-de-frecuencias/</guid>
+      <description>Tutorial de Excel para el cálculo de la tabla de distribución de frecuencias con una variable continua.
+  </description>
+    </item>
+    
+    <item>
+      <title>Practica   Variable unidimensional continua   02/06   Medidas de posición central</title>
+      <link>/blog/2013/01/22/practica-variable-unidimensional-continua-02-06-medidas-de-posicio%CC%81n-central/</link>
+      <pubDate>Tue, 22 Jan 2013 10:17:36 +0000</pubDate>
+      
+      <guid>/blog/2013/01/22/practica-variable-unidimensional-continua-02-06-medidas-de-posicio%CC%81n-central/</guid>
+      <description>Tutorial de Excel para el cálculo de medidas de posición central con una variable continua.
+  </description>
+    </item>
+    
+    <item>
+      <title>Practica   Variable unidimensional continua   05/06   Medidas de forma</title>
+      <link>/blog/2013/01/22/practica-variable-unidimensional-continua-05-06-medidas-de-forma/</link>
+      <pubDate>Tue, 22 Jan 2013 10:17:27 +0000</pubDate>
+      
+      <guid>/blog/2013/01/22/practica-variable-unidimensional-continua-05-06-medidas-de-forma/</guid>
+      <description>Tutorial de Excel para el cálculo de medidas de forma con una variable continua.
+  </description>
+    </item>
+    
+    <item>
+      <title>Practica   Variable unidimensional continua   04/06   Medidas de dispersión</title>
+      <link>/blog/2013/01/22/practica-variable-unidimensional-continua-04-06-medidas-de-dispersio%CC%81n/</link>
+      <pubDate>Tue, 22 Jan 2013 10:16:21 +0000</pubDate>
+      
+      <guid>/blog/2013/01/22/practica-variable-unidimensional-continua-04-06-medidas-de-dispersio%CC%81n/</guid>
+      <description>Tutorial de Excel para el cálculo de medidas de dispersión con una variable continua.
+  </description>
+    </item>
+    
+    <item>
+      <title>Practica   Variable unidimensional discreta   01/07  Tabla de distribucion de frecuencias</title>
+      <link>/blog/2013/01/21/practica-variable-unidimensional-discreta-01-07-tabla-de-distribucion-de-frecuencias/</link>
+      <pubDate>Mon, 21 Jan 2013 14:59:57 +0000</pubDate>
+      
+      <guid>/blog/2013/01/21/practica-variable-unidimensional-discreta-01-07-tabla-de-distribucion-de-frecuencias/</guid>
+      <description>Tutorial de Excel para el cálculo de una tabla de distribución de frecuencias.
+  </description>
+    </item>
+    
+    <item>
+      <title>Practica   Variable unidimensional discreta   02/07   Medidas de posición central</title>
+      <link>/blog/2013/01/21/practica-variable-unidimensional-discreta-02-07-medidas-de-posicio%CC%81n-central/</link>
+      <pubDate>Mon, 21 Jan 2013 14:58:52 +0000</pubDate>
+      
+      <guid>/blog/2013/01/21/practica-variable-unidimensional-discreta-02-07-medidas-de-posicio%CC%81n-central/</guid>
+      <description>Tutorial de Excel para el cálculo de medidas de posición central.
+  </description>
+    </item>
+    
+    <item>
+      <title>Practica   Variable unidimensional discreta   04/07   Medidas de dispersión</title>
+      <link>/blog/2013/01/21/practica-variable-unidimensional-discreta-04-07-medidas-de-dispersio%CC%81n/</link>
+      <pubDate>Mon, 21 Jan 2013 14:58:29 +0000</pubDate>
+      
+      <guid>/blog/2013/01/21/practica-variable-unidimensional-discreta-04-07-medidas-de-dispersio%CC%81n/</guid>
+      <description>Tutorial de Excel para el cálculo de medidas de dispersión.
+  </description>
+    </item>
+    
+    <item>
+      <title>Practica   Variable unidimensional discreta   03/07   Medidas de posición no central</title>
+      <link>/blog/2013/01/21/practica-variable-unidimensional-discreta-03-07-medidas-de-posicio%CC%81n-no-central/</link>
+      <pubDate>Mon, 21 Jan 2013 14:57:59 +0000</pubDate>
+      
+      <guid>/blog/2013/01/21/practica-variable-unidimensional-discreta-03-07-medidas-de-posicio%CC%81n-no-central/</guid>
+      <description>Tutorial de Excel para el cálculo de medidas de posición no central.
+  </description>
+    </item>
+    
+    <item>
+      <title>Practica   Variable unidimensional discreta   05/07   Medidas de forma</title>
+      <link>/blog/2013/01/21/practica-variable-unidimensional-discreta-05-07-medidas-de-forma/</link>
+      <pubDate>Mon, 21 Jan 2013 14:57:42 +0000</pubDate>
+      
+      <guid>/blog/2013/01/21/practica-variable-unidimensional-discreta-05-07-medidas-de-forma/</guid>
+      <description>Tutorial de Excel para el cálculo de medidas de forma.
+  </description>
+    </item>
+    
+    <item>
+      <title>Practica   Variable unidimensional discreta   06/07   Medidas de concentración   Gini</title>
+      <link>/blog/2013/01/21/practica-variable-unidimensional-discreta-06-07-medidas-de-concentracio%CC%81n-gini/</link>
+      <pubDate>Mon, 21 Jan 2013 14:57:07 +0000</pubDate>
+      
+      <guid>/blog/2013/01/21/practica-variable-unidimensional-discreta-06-07-medidas-de-concentracio%CC%81n-gini/</guid>
+      <description>Tutorial de Excel para el cálculo del Índice de Gini, como medida de concentración.
+  </description>
+    </item>
+    
+    <item>
+      <title>Practica   Variable unidimensional discreta   07/07   Medidas de concentración   Lorenz</title>
+      <link>/blog/2013/01/21/practica-variable-unidimensional-discreta-07-07-medidas-de-concentracio%CC%81n-lorenz/</link>
+      <pubDate>Mon, 21 Jan 2013 14:54:36 +0000</pubDate>
+      
+      <guid>/blog/2013/01/21/practica-variable-unidimensional-discreta-07-07-medidas-de-concentracio%CC%81n-lorenz/</guid>
+      <description>Tutorial de Excel para el cálculo y representación gráfica de la Curva de Lorenz, como medida de concentración.
+  </description>
     </item>
     
   </channel>

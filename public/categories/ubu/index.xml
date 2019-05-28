@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UBU on Uvide</title>
+    <link>/categories/ubu/</link>
+    <description>Recent content in UBU on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 16 Jul 2014 10:56:04 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/ubu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Técnicas Estadísticas - Grado en Turismo</title>
+      <link>/blog/2014/07/16/tecnicas-estadisticas-grado-en-turismo/</link>
+      <pubDate>Wed, 16 Jul 2014 10:56:04 +0000</pubDate>
+      
+      <guid>/blog/2014/07/16/tecnicas-estadisticas-grado-en-turismo/</guid>
+      <description>Presentación de la asignatura Técnicas Estadísticas correspondiente del Grado online de Turismo de la Universidad de Burgos.
+http://wwww.ubu.es/titulos-online/grado-oficial-online-en-turismo
+https://www.youtube.com/watch?v=LFdBBPxH-EM
+Help us caption &amp;amp; translate this video!
+http://amara.org/v/3cj5/
+  </description>
+    </item>
+    
+  </channel>
+</rss>

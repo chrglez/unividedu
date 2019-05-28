@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pareto on Uvide</title>
+    <link>/tags/pareto/</link>
+    <description>Recent content in Pareto on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 11 Mar 2015 12:09:28 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/pareto/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Diagrama de Pareto. Caso práctico.</title>
+      <link>/blog/2015/03/11/diagrama-de-pareto-caso-practico/</link>
+      <pubDate>Wed, 11 Mar 2015 12:09:28 +0000</pubDate>
+      
+      <guid>/blog/2015/03/11/diagrama-de-pareto-caso-practico/</guid>
+      <description>Caso práctico de Diagrama de Pareto. Autor: F. David de la Peña Esteban. Universidad a Distancia de Madrid, Udima.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

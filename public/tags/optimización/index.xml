@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>optimización on Uvide</title>
+    <link>/tags/optimizaci%C3%B3n/</link>
+    <description>Recent content in optimización on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 20 Mar 2015 11:03:33 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/optimizaci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Gestión de inventarios con descuentos por cantidad. Caso práctico.</title>
+      <link>/blog/2015/03/20/gestion-de-inventarios-con-descuentos-por-cantidad-caso-practico/</link>
+      <pubDate>Fri, 20 Mar 2015 11:03:33 +0000</pubDate>
+      
+      <guid>/blog/2015/03/20/gestion-de-inventarios-con-descuentos-por-cantidad-caso-practico/</guid>
+      <description>Caso práctico inventarios con descuentos por cantidad. David de la Peña Esteban. Universidad a Distancia de Madrid, Udima.
+  </description>
+    </item>
+    
+    <item>
+      <title>Caso práctico Inventarios: Aprovisionamiento y consumo simultáneos.</title>
+      <link>/blog/2015/03/20/caso-practico-inventarios-aprovisionamiento-y-consumo-simultaneos/</link>
+      <pubDate>Fri, 20 Mar 2015 10:47:33 +0000</pubDate>
+      
+      <guid>/blog/2015/03/20/caso-practico-inventarios-aprovisionamiento-y-consumo-simultaneos/</guid>
+      <description>Caso práctico Inventarios: Aprovisionamiento y consumo simultáneos. David de la Peña Esteban. Universidad a Distancia de Madrid, Udima.
+  </description>
+    </item>
+    
+    <item>
+      <title>Flujo máximo entre dos nodos. Caso práctico.</title>
+      <link>/blog/2015/03/12/flujo-maximo-entre-dos-nodos-caso-practico/</link>
+      <pubDate>Thu, 12 Mar 2015 16:35:30 +0000</pubDate>
+      
+      <guid>/blog/2015/03/12/flujo-maximo-entre-dos-nodos-caso-practico/</guid>
+      <description>Este contenido se imparte en el Grado de Ingeniería de Organización Industrial: https://www.udima.es/es/grado-ingenieria-organizacion-industrial.html Caso práctico. Flujo máximo entre dos nodos. Autor: F. David de la Peña Esteban. Universidad a Distancia de Madrid, Udima.
+  </description>
+    </item>
+    
+    <item>
+      <title>Ruta más corta. Algoritmo de Dijkstra. Caso práctico.</title>
+      <link>/blog/2015/03/12/ruta-mas-corta-algoritmo-de-dijkstra-caso-practico/</link>
+      <pubDate>Thu, 12 Mar 2015 16:32:50 +0000</pubDate>
+      
+      <guid>/blog/2015/03/12/ruta-mas-corta-algoritmo-de-dijkstra-caso-practico/</guid>
+      <description>Caso práctico. Ruta más corta. Algoritmo de Dijkstra (versión gráfica). Autor: F. David de la Peña Esteban. Universidad a Distancia de Madrid, Udima.
+  </description>
+    </item>
+    
+    <item>
+      <title>VIU - Ajuste y optimización en ADE</title>
+      <link>/blog/2014/07/01/viu-ajuste-y-optimizacion-en-ade/</link>
+      <pubDate>Tue, 01 Jul 2014 07:40:07 +0000</pubDate>
+      
+      <guid>/blog/2014/07/01/viu-ajuste-y-optimizacion-en-ade/</guid>
+      <description>http://www.viu.es/
+El consultor Alfonso Martínez explica a los alumnos las bondades del ajuste y la optimización en la Administración de Empresas.
+Grado en ADE http://www.viu.es/grado-administracion-direccion-empresas-ade/
+  </description>
+    </item>
+    
+    <item>
+      <title>Teoría de juegos de suma cero con estrategias mixtas con hojas de cálculo. Caso práctico.</title>
+      <link>/blog/2014/03/07/teoria-de-juegos-de-suma-cero-con-estrategias-mixtas-con-hojas-de-calculo-caso-practico/</link>
+      <pubDate>Fri, 07 Mar 2014 12:28:40 +0000</pubDate>
+      
+      <guid>/blog/2014/03/07/teoria-de-juegos-de-suma-cero-con-estrategias-mixtas-con-hojas-de-calculo-caso-practico/</guid>
+      <description>Nota: Poner en formato HD para una mejor visualización pinchando sobre el icono de configuración del vídeo (engranaje). Resolución de este tipo de problemas con ayuda del complemento solver de las hojas de cálculo. Profesor: Fco. David de la Peña Esteban. Universidad a Distancia de Madrid. Udima.
+  </description>
+    </item>
+    
+    <item>
+      <title>Toma de decisiones con incertidumbre. Caso práctico.</title>
+      <link>/blog/2014/03/03/toma-de-decisiones-con-incertidumbre-caso-practico/</link>
+      <pubDate>Mon, 03 Mar 2014 17:10:43 +0000</pubDate>
+      
+      <guid>/blog/2014/03/03/toma-de-decisiones-con-incertidumbre-caso-practico/</guid>
+      <description>Este contenido se imparte en el Grado de Ingeniería de Organización Industrial: https://www.udima.es/es/grado-ingenieria-organizacion-industrial.html Toma de decisiones con incertidumbre. Caso práctico. Profesor: David de la Peña Esteban. Udima, Universidad a Distancia de Madrid.
+  </description>
+    </item>
+    
+    <item>
+      <title>Introducción a la programación lineal con LINGO</title>
+      <link>/blog/2013/05/02/introduccion-a-la-programacion-lineal-con-lingo/</link>
+      <pubDate>Thu, 02 May 2013 12:48:34 +0000</pubDate>
+      
+      <guid>/blog/2013/05/02/introduccion-a-la-programacion-lineal-con-lingo/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Tratamiento de las variables duales con LINGO</title>
+      <link>/blog/2013/05/01/tratamiento-de-las-variables-duales-con-lingo/</link>
+      <pubDate>Wed, 01 May 2013 12:45:14 +0000</pubDate>
+      
+      <guid>/blog/2013/05/01/tratamiento-de-las-variables-duales-con-lingo/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Introducción a la programación lineal con DERIVE</title>
+      <link>/blog/2013/05/01/introduccion-a-la-programacion-lineal-con-derive/</link>
+      <pubDate>Wed, 01 May 2013 00:11:09 +0000</pubDate>
+      
+      <guid>/blog/2013/05/01/introduccion-a-la-programacion-lineal-con-derive/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Resolución analítica en optimización restringida de funciones de varias variables en DERIVE.</title>
+      <link>/blog/2013/04/20/resolucion-analitica-en-optimizacion-restringida-de-funciones-de-varias-variables-en-derive/</link>
+      <pubDate>Sat, 20 Apr 2013 17:13:52 +0000</pubDate>
+      
+      <guid>/blog/2013/04/20/resolucion-analitica-en-optimizacion-restringida-de-funciones-de-varias-variables-en-derive/</guid>
+      <description>Optimización de funciones de varias variables con una restricción de igualdad. Resolución gráfica
+  </description>
+    </item>
+    
+    <item>
+      <title>Resolución gráfica en optimización restringida de funciones de varias variables en DERIVE.</title>
+      <link>/blog/2013/04/15/resolucion-grafica-en-optimizacion-restringida-de-funciones-de-varias-variables-en-derive/</link>
+      <pubDate>Mon, 15 Apr 2013 12:01:13 +0000</pubDate>
+      
+      <guid>/blog/2013/04/15/resolucion-grafica-en-optimizacion-restringida-de-funciones-de-varias-variables-en-derive/</guid>
+      <description>Optimización de funciones de varias variables con una restricción de igualdad. Resolución gráfica
+  </description>
+    </item>
+    
+    <item>
+      <title>Optimización de funciones de varias variables. Optimización sin restricciones en DERIVE</title>
+      <link>/blog/2013/04/08/optimizacion-de-funciones-de-varias-variables-optimizacion-sin-restricciones-en-derive/</link>
+      <pubDate>Mon, 08 Apr 2013 10:54:10 +0000</pubDate>
+      
+      <guid>/blog/2013/04/08/optimizacion-de-funciones-de-varias-variables-optimizacion-sin-restricciones-en-derive/</guid>
+      <description>Resolución de un problema de optimización de dos variables con DERIVE
+  </description>
+    </item>
+    
+  </channel>
+</rss>

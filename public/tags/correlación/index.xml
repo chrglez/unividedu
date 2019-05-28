@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Correlación on Uvide</title>
+    <link>/tags/correlaci%C3%B3n/</link>
+    <description>Recent content in Correlación on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 12 Jun 2014 14:57:13 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/correlaci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Introducción II  -  Correlación lineal simple (2 de 4)</title>
+      <link>/blog/2014/06/12/introduccion-ii-correlacion-lineal-simple-2-de-4/</link>
+      <pubDate>Thu, 12 Jun 2014 14:57:13 +0000</pubDate>
+      
+      <guid>/blog/2014/06/12/introduccion-ii-correlacion-lineal-simple-2-de-4/</guid>
+      <description>Autor: Serra Añó, Pilar; Ponce Darós, María José; López Bueno, Laura; González Moreno, Luis Millán; García Massó, Xavier; Correlación lineal simple; Data: 2014; Resum: Segundo vídeo de una serie de cuatro, donde se muestra el uso de la herramienta estadística para determinar si existe relación entre variables cuantitativas; Producció:SFPIE (www.uv.es/sfpie)-VLC Campus
+  </description>
+    </item>
+    
+    <item>
+      <title>Ejecución de la prueba - Correlación lineal simple (3 de 4)</title>
+      <link>/blog/2014/06/12/ejecucion-de-la-prueba-correlacion-lineal-simple-3-de-4/</link>
+      <pubDate>Thu, 12 Jun 2014 14:57:00 +0000</pubDate>
+      
+      <guid>/blog/2014/06/12/ejecucion-de-la-prueba-correlacion-lineal-simple-3-de-4/</guid>
+      <description>Autor: Serra Añó, Pilar; Ponce Darós, María José; López Bueno, Laura; González Moreno, Luis Millán; García Massó, Xavier; Correlación lineal simple; Data: 2014; Resum: Tercer vídeo de una serie de cuatro, donde se muestra el uso de la herramienta estadística para determinar si existe relación entre variables cuantitativas; Producció:SFPIE (www.uv.es/sfpie)-VLC Campus
+  </description>
+    </item>
+    
+    <item>
+      <title>Introducción I  - Correlación lineal simple (1 de 4)</title>
+      <link>/blog/2014/06/12/introduccion-i-correlacion-lineal-simple-1-de-4/</link>
+      <pubDate>Thu, 12 Jun 2014 14:53:11 +0000</pubDate>
+      
+      <guid>/blog/2014/06/12/introduccion-i-correlacion-lineal-simple-1-de-4/</guid>
+      <description>Autor: Serra Añó, Pilar; Ponce Darós, María José; López Bueno, Laura; González Moreno, Luis Millán; García Massó, Xavier; Correlación lineal simple; Data: 2014; Resum: Primer vídeo de una serie de cuatro, donde se muestra el uso de la herramienta estadística para determinar si existe relación entre variables cuantitativas; Producció:SFPIE (www.uv.es/sfpie)-VLC Campus
+  </description>
+    </item>
+    
+    <item>
+      <title>Escritura Resultados - Correlación lineal simple (4 de 4)</title>
+      <link>/blog/2014/06/12/escritura-resultados-correlacion-lineal-simple-4-de-4/</link>
+      <pubDate>Thu, 12 Jun 2014 14:51:00 +0000</pubDate>
+      
+      <guid>/blog/2014/06/12/escritura-resultados-correlacion-lineal-simple-4-de-4/</guid>
+      <description>Autor: Serra Añó, Pilar; Ponce Darós, María José; López Bueno, Laura; González Moreno, Luis Millán; García Massó, Xavier; Correlación lineal simple; Data: 2014; Resum: Último vídeo de una serie de cuatro, donde se muestra el uso de la herramienta estadística para determinar si existe relación entre variables cuantitativas; Producció:SFPIE (www.uv.es/sfpie)-VLC Campus
+  </description>
+    </item>
+    
+    <item>
+      <title>Funciones Estadísticas en Excel - 07/07 - Bivariante</title>
+      <link>/blog/2013/03/19/funciones-estadi%CC%81sticas-en-excel-07-07-bivariante/</link>
+      <pubDate>Tue, 19 Mar 2013 22:23:14 +0000</pubDate>
+      
+      <guid>/blog/2013/03/19/funciones-estadi%CC%81sticas-en-excel-07-07-bivariante/</guid>
+      <description>En este tutorial se explica cómo calcular las diferentes medidas del análisis bivariante, mediante las fórmulas estadísticas que vienen implementadas en Excel.
+  </description>
+    </item>
+    
+    <item>
+      <title>Practica - Variable bidimensional - 03/05 - Covarianza y Coeficiente de correlacion lineal simple</title>
+      <link>/blog/2013/02/22/practica-variable-bidimensional-03-05-covarianza-y-coeficiente-de-correlacion-lineal-simple/</link>
+      <pubDate>Fri, 22 Feb 2013 14:20:43 +0000</pubDate>
+      
+      <guid>/blog/2013/02/22/practica-variable-bidimensional-03-05-covarianza-y-coeficiente-de-correlacion-lineal-simple/</guid>
+      <description>Tutorial de Excel para estimar la Covarianza y el Coeficiente de Correlación Lineal Simple
+  </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cuartiles on Uvide</title>
+    <link>/tags/cuartiles/</link>
+    <description>Recent content in Cuartiles on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 22 Jan 2013 10:18:04 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/cuartiles/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Practica   Variable unidimensional continua   03/06   Medidas de posición no central</title>
+      <link>/blog/2013/01/22/practica-variable-unidimensional-continua-03-06-medidas-de-posicio%CC%81n-no-central/</link>
+      <pubDate>Tue, 22 Jan 2013 10:18:04 +0000</pubDate>
+      
+      <guid>/blog/2013/01/22/practica-variable-unidimensional-continua-03-06-medidas-de-posicio%CC%81n-no-central/</guid>
+      <description>Tutorial de Excel para el cálculo de medidas de posición no central con una variable continua.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

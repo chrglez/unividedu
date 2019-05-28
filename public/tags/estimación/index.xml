@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Estimación on Uvide</title>
+    <link>/tags/estimaci%C3%B3n/</link>
+    <description>Recent content in Estimación on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 06 Oct 2017 16:37:43 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/estimaci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>6. Captura de Datos y Estimación (E-views 1). Introducción a la Econometría VI (VRLR)</title>
+      <link>/blog/2017/10/06/6-captura-de-datos-y-estimacion-e-views-1-introduccion-a-la-econometria-vi-vrlr-1/</link>
+      <pubDate>Fri, 06 Oct 2017 16:37:43 +0000</pubDate>
+      
+      <guid>/blog/2017/10/06/6-captura-de-datos-y-estimacion-e-views-1-introduccion-a-la-econometria-vi-vrlr-1/</guid>
+      <description>Sexto vídeo de la colección de Introducción a la Econometría por el Profesor Víctor Raúl López Ruiz (VRLR) donde se explica la captura de datos o importación y Estimación con E-views.
+  </description>
+    </item>
+    
+    <item>
+      <title>6. Captura de Datos y Estimación (E-views 1). Introducción a la Econometría VI (VRLR)</title>
+      <link>/blog/2017/10/06/6-captura-de-datos-y-estimacion-e-views-1-introduccion-a-la-econometria-vi-vrlr/</link>
+      <pubDate>Fri, 06 Oct 2017 16:37:43 +0000</pubDate>
+      
+      <guid>/blog/2017/10/06/6-captura-de-datos-y-estimacion-e-views-1-introduccion-a-la-econometria-vi-vrlr/</guid>
+      <description>Sexto vídeo de la colección de Introducción a la Econometría por el Profesor Víctor Raúl López Ruiz (VRLR) donde se explica la captura de datos o importación y Estimación con E-views.
+  </description>
+    </item>
+    
+    <item>
+      <title>(Econometría) Identificacion y estimacion: 4. Segundo modelo</title>
+      <link>/blog/2013/04/03/econometria-identificacion-y-estimacion-4-segundo-modelo/</link>
+      <pubDate>Wed, 03 Apr 2013 09:42:11 +0000</pubDate>
+      
+      <guid>/blog/2013/04/03/econometria-identificacion-y-estimacion-4-segundo-modelo/</guid>
+      <description>Mediante este tutorial de EViews se explica cómo se puede identificar y estimar un posible modelo SARIMA, a partir del análisis de los correlogramas, consiguiendo finalmente que los residuos estén incorrelacionados.
+  </description>
+    </item>
+    
+    <item>
+      <title>(Econometría) Identificacion y estimacion: 3. Buscando el segundo modelo</title>
+      <link>/blog/2013/04/02/econometria-identificacion-y-estimacion-3-buscando-el-segundo-modelo/</link>
+      <pubDate>Tue, 02 Apr 2013 22:30:22 +0000</pubDate>
+      
+      <guid>/blog/2013/04/02/econometria-identificacion-y-estimacion-3-buscando-el-segundo-modelo/</guid>
+      <description>Mediante este tutorial de EViews se explica cómo, en ocasiones, intentando identificar un segundo modelo SARIMA alternativo, nos damos cuenta de que la variable endógena que estamos utilizando no tiene el número de diferencias que debería.
+  </description>
+    </item>
+    
+    <item>
+      <title>(Econometría) Identificacion y estimacion: 2. Primer modelo</title>
+      <link>/blog/2013/04/02/econometria-identificacion-y-estimacion-2-primer-modelo/</link>
+      <pubDate>Tue, 02 Apr 2013 22:09:13 +0000</pubDate>
+      
+      <guid>/blog/2013/04/02/econometria-identificacion-y-estimacion-2-primer-modelo/</guid>
+      <description>Mediante este tutorial de EViews se explica cómo se puede identificar y estimar un posible modelo SARIMA, a partir del análisis de los correlogramas, consiguiendo finalmente que los residuos de dicho modelo estén incorrelacionados.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

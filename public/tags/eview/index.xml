@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>EView on Uvide</title>
+    <link>/tags/eview/</link>
+    <description>Recent content in EView on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 02 Apr 2013 22:09:13 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/eview/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>(Econometría) Identificacion y estimacion: 2. Primer modelo</title>
+      <link>/blog/2013/04/02/econometria-identificacion-y-estimacion-2-primer-modelo/</link>
+      <pubDate>Tue, 02 Apr 2013 22:09:13 +0000</pubDate>
+      
+      <guid>/blog/2013/04/02/econometria-identificacion-y-estimacion-2-primer-modelo/</guid>
+      <description>Mediante este tutorial de EViews se explica cómo se puede identificar y estimar un posible modelo SARIMA, a partir del análisis de los correlogramas, consiguiendo finalmente que los residuos de dicho modelo estén incorrelacionados.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

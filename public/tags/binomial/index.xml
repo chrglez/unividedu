@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Binomial on Uvide</title>
+    <link>/tags/binomial/</link>
+    <description>Recent content in Binomial on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 06 Nov 2014 21:34:17 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/binomial/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Distribuciones de probabilidad con Statgraphics |  | UPV</title>
+      <link>/blog/2014/11/06/distribuciones-de-probabilidad-con-statgraphics-upv/</link>
+      <pubDate>Thu, 06 Nov 2014 21:34:17 +0000</pubDate>
+      
+      <guid>/blog/2014/11/06/distribuciones-de-probabilidad-con-statgraphics-upv/</guid>
+      <description>Título: Distribuciones de probabilidad con Statgraphics
+Descripción: En este objeto se muestra cómo utilizar el programa Statgraphics para obtener información de las principales distribuciones discretas, en particular, de las distribuciones Binomial y Poisson.Se indica cómo obtener probabilidades y valores críticos con dichas distribuciones.
+Autor/a: Monreal Mengual Llucía
+ Universitat Politècnica de València UPV: https://www.upv.es Más vídeos en: https://www.youtube.com/valenciaupv Accede a nuestros MOOC: https://upvx.es    </description>
+    </item>
+    
+    <item>
+      <title>umh1263 2012-13 Lec24 Práctica Variables Aleatorias Discretas</title>
+      <link>/blog/2013/06/14/umh1263-2012-13-lec24-practica-variables-aleatorias-discretas/</link>
+      <pubDate>Fri, 14 Jun 2013 10:44:17 +0000</pubDate>
+      
+      <guid>/blog/2013/06/14/umh1263-2012-13-lec24-practica-variables-aleatorias-discretas/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/15vMRE0
+Práctica de Variables Discretas. Asignatura: Análisis Exploratorio de Datos. Grado en Administración y Dirección de Empresas (Elche). Profesora: Mª Asunción Martínez Mayoral. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE 2013. Universidad Miguel Hernández de Elche.
+Identificación de variables Bernoulli, Binomial y Poisson. Cálculo de probabilidades.
+web asignatura: http://umh1263.edu.umh.es web: http://umh.es
+  </description>
+    </item>
+    
+    <item>
+      <title>Teorema Central del Límite 03/04</title>
+      <link>/blog/2013/05/07/teorema-central-del-li%CC%81mite-03-04/</link>
+      <pubDate>Tue, 07 May 2013 22:42:56 +0000</pubDate>
+      
+      <guid>/blog/2013/05/07/teorema-central-del-li%CC%81mite-03-04/</guid>
+      <description>En este vídeo se explica, mediante el uso del Excel, cómo la función de cuantía de una Distribución Poisson se aproxima a la forma de campana de Gauss de una Distribución Normal a medida que aumenta el tamaño muestral &amp;ldquo;n&amp;rdquo;.
+  </description>
+    </item>
+    
+    <item>
+      <title>Teorema Central del Límite 02/04</title>
+      <link>/blog/2013/05/07/teorema-central-del-li%CC%81mite-02-04/</link>
+      <pubDate>Tue, 07 May 2013 22:07:34 +0000</pubDate>
+      
+      <guid>/blog/2013/05/07/teorema-central-del-li%CC%81mite-02-04/</guid>
+      <description>A continuación se demuestra, mediante el uso del Excel, cómo la función de cuantía de la Distribución Binomial se asemeja a la función de densidad de la Distribución Normal de igual media y varianza que la Distribución Binomial de origen, cuando el tamaño muestral &amp;ldquo;n&amp;rdquo; es lo suficientemente grande.
+  </description>
+    </item>
+    
+    <item>
+      <title>Distribución binomial |  | UPV</title>
+      <link>/blog/2011/09/26/distribucion-binomial-upv-1/</link>
+      <pubDate>Mon, 26 Sep 2011 23:35:02 +0000</pubDate>
+      
+      <guid>/blog/2011/09/26/distribucion-binomial-upv-1/</guid>
+      <description>Título: Distribución binomial
+Descripción: En este objeto se explican brevemente los aspectos más destacados de la distribución binomial: interés y ámbito de aplicación, principales características y cálculo de probabilidades asociado a una variable aleatoria que sigue una distribución binomal.
+Autor/a: Trujillo Guillen Macarena
+ Universitat Politècnica de València UPV: https://www.upv.es Más vídeos en: https://www.youtube.com/valenciaupv Accede a nuestros MOOC: https://upvx.es    </description>
+    </item>
+    
+    <item>
+      <title>Distribución binomial |  | UPV</title>
+      <link>/blog/2011/09/26/distribucion-binomial-upv/</link>
+      <pubDate>Mon, 26 Sep 2011 23:35:02 +0000</pubDate>
+      
+      <guid>/blog/2011/09/26/distribucion-binomial-upv/</guid>
+      <description>Título: Distribución binomial
+Descripción: En este objeto se explican brevemente los aspectos más destacados de la distribución binomial: interés y ámbito de aplicación, principales características y cálculo de probabilidades asociado a una variable aleatoria que sigue una distribución binomal.
+Autor/a: Trujillo Guillen Macarena
+ Universitat Politècnica de València UPV: https://www.upv.es Más vídeos en: https://www.youtube.com/valenciaupv Accede a nuestros MOOC: https://upvx.es    </description>
+    </item>
+    
+  </channel>
+</rss>

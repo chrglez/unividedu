@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>derivación on Univideduc</title>
+    <title>derivación on Uvide</title>
     <link>/tags/derivaci%C3%B3n/</link>
-    <description>Recent content in derivación on Univideduc</description>
+    <description>Recent content in derivación on Uvide</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Thu, 05 Mar 2015 04:55:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Mar 2013 20:01:11 +0000</lastBuildDate>
     
 	<atom:link href="/tags/derivaci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Cálculo I: Introducción a la derivada</title>
-      <link>/blog/2015/03/05/calculo-i-introduccion-a-la-derivada/</link>
-      <pubDate>Thu, 05 Mar 2015 04:55:02 +0000</pubDate>
+      <title>Cálculo en funciones de varias variables en DERIVE. Derivadas</title>
+      <link>/blog/2013/03/01/calculo-en-funciones-de-varias-variables-en-derive-derivadas/</link>
+      <pubDate>Fri, 01 Mar 2013 20:01:11 +0000</pubDate>
       
-      <guid>/blog/2015/03/05/calculo-i-introduccion-a-la-derivada/</guid>
-      <description>En este vídeo ofrecemos una introducción a la derivada muy intuitiva: a partir de la ley de los números imapres de Galileo. Analizamos el salto que damos desde la velocidad media a una expresión algebraica obtenida a partir del cálculo infinitesimal. Admeás, repasamos las diferentes maneras de expresar la derivada, y concluimos con un ejemplo aplicado a la distancia recorrida y la velocidad de un avión al despegar.
-Aquí tenemos el índice del vídeo:</description>
+      <guid>/blog/2013/03/01/calculo-en-funciones-de-varias-variables-en-derive-derivadas/</guid>
+      <description>Tratamiento de las derivadas en funciones de varias variables empleando DERIVE.
+  </description>
     </item>
     
   </channel>

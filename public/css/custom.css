@@ -1,4 +1,13 @@
 /* your styles go here */
+#tag-ul ul {
+   padding-top: 20px;
+}
+#tag-ul li {
+   display: inline-block;
+   width: auto;
+   list-style: outside none none;
+}
+
 
 .box-image-text .image {
   min-height: 200px;

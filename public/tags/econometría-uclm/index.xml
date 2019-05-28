@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Econometría UCLM on Uvide</title>
+    <link>/tags/econometr%C3%ADa-uclm/</link>
+    <description>Recent content in Econometría UCLM on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Sat, 24 Feb 2018 16:54:32 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/econometr%C3%ADa-uclm/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>II MME  Buscando Problemas en Econometría</title>
+      <link>/blog/2018/02/24/ii-mme-buscando-problemas-en-econometria/</link>
+      <pubDate>Sat, 24 Feb 2018 16:54:32 +0000</pubDate>
+      
+      <guid>/blog/2018/02/24/ii-mme-buscando-problemas-en-econometria/</guid>
+      <description>Tutorial que muestra de forma clara y rápida algunos de los contrastes más utilizados para rastrear multicolinealidad, cambio estructural y autocorrelación por el Prof de la UCLM Dr. Víctor Raúl López Ruiz. Software utilizado E-Views
+  </description>
+    </item>
+    
+  </channel>
+</rss>

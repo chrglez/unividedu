@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fracción on Uvide</title>
+    <link>/tags/fracci%C3%B3n/</link>
+    <description>Recent content in fracción on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Sun, 28 Sep 2014 11:48:22 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/fracci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Racionalización de fracciones con radicales</title>
+      <link>/blog/2014/09/28/racionalizacion-de-fracciones-con-radicales/</link>
+      <pubDate>Sun, 28 Sep 2014 11:48:22 +0000</pubDate>
+      
+      <guid>/blog/2014/09/28/racionalizacion-de-fracciones-con-radicales/</guid>
+      <description>Racionalización de fracciones con radicales que consiste en eliminar las raíces que se encuentran en el denominador de una fracción
+  </description>
+    </item>
+    
+  </channel>
+</rss>

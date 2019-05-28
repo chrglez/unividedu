@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rectas on Uvide</title>
+    <link>/tags/rectas/</link>
+    <description>Recent content in rectas on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Sun, 04 Oct 2015 21:32:58 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/rectas/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Puntos de una recta</title>
+      <link>/blog/2015/10/04/puntos-de-una-recta/</link>
+      <pubDate>Sun, 04 Oct 2015 21:32:58 +0000</pubDate>
+      
+      <guid>/blog/2015/10/04/puntos-de-una-recta/</guid>
+      <description>Puntos de una recta
+  </description>
+    </item>
+    
+  </channel>
+</rss>

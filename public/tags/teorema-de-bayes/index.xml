@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teorema de bayes on Uvide</title>
+    <link>/tags/teorema-de-bayes/</link>
+    <description>Recent content in Teorema de bayes on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 28 Nov 2011 21:05:09 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/teorema-de-bayes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Teorema de Bayes |  | UPV</title>
+      <link>/blog/2011/11/28/teorema-de-bayes-upv-1/</link>
+      <pubDate>Mon, 28 Nov 2011 21:05:09 +0000</pubDate>
+      
+      <guid>/blog/2011/11/28/teorema-de-bayes-upv-1/</guid>
+      <description>Título: Teorema de Bayes
+Descripción: Se estudia el Teorema de Bayes
+Autor/a: Cabrera García Suitberto
+ Universitat Politècnica de València UPV: https://www.upv.es Más vídeos en: https://www.youtube.com/valenciaupv Accede a nuestros MOOC: https://upvx.es    </description>
+    </item>
+    
+    <item>
+      <title>Teorema de Bayes |  | UPV</title>
+      <link>/blog/2011/11/28/teorema-de-bayes-upv/</link>
+      <pubDate>Mon, 28 Nov 2011 21:05:09 +0000</pubDate>
+      
+      <guid>/blog/2011/11/28/teorema-de-bayes-upv/</guid>
+      <description>Título: Teorema de Bayes
+Descripción: Se estudia el Teorema de Bayes
+Autor/a: Cabrera García Suitberto
+ Universitat Politècnica de València UPV: https://www.upv.es Más vídeos en: https://www.youtube.com/valenciaupv Accede a nuestros MOOC: https://upvx.es    </description>
+    </item>
+    
+  </channel>
+</rss>

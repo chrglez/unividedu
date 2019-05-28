@@ -1,33 +1,581 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>matemáticas on Univideduc</title>
+    <title>matemáticas on Uvide</title>
     <link>/tags/matem%C3%A1ticas/</link>
-    <description>Recent content in matemáticas on Univideduc</description>
+    <description>Recent content in matemáticas on Uvide</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Thu, 08 Oct 2015 22:11:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Sep 2018 15:09:36 +0000</lastBuildDate>
     
 	<atom:link href="/tags/matem%C3%A1ticas/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Operaciones con polinomios</title>
-      <link>/blog/2015/10/08/banner-oper-poli-1/</link>
-      <pubDate>Thu, 08 Oct 2015 22:11:21 +0000</pubDate>
+      <title>Grado en ADE para Emprendedores - Matemáticas I - Carmen Melchor</title>
+      <link>/blog/2018/09/26/grado-en-ade-para-emprendedores-matematicas-i-carmen-melchor/</link>
+      <pubDate>Wed, 26 Sep 2018 15:09:36 +0000</pubDate>
       
-      <guid>/blog/2015/10/08/banner-oper-poli-1/</guid>
-      <description>Operaciones con polinomios   </description>
+      <guid>/blog/2018/09/26/grado-en-ade-para-emprendedores-matematicas-i-carmen-melchor/</guid>
+      <description>(21-09-18).- Carmen Melchor, profesora de &amp;lsquo;Matemáticas I&amp;rsquo; de 1º del Grado en ADE para Emprendedores, nos cuenta en qué ha consistido la sesión y las claves de su asignatura. ➤ Conoce más sobre el Grado: http://bit.ly/2Cc4w6j
+  </description>
     </item>
     
     <item>
-      <title>Cálculo I: Introducción a la derivada</title>
-      <link>/blog/2015/03/05/calculo-i-introduccion-a-la-derivada/</link>
-      <pubDate>Thu, 05 Mar 2015 04:55:02 +0000</pubDate>
+      <title>Grado en ADE para Emprendedores - Matemáticas I - Juan Alegre</title>
+      <link>/blog/2017/01/17/grado-en-ade-para-emprendedores-matematicas-i-juan-alegre/</link>
+      <pubDate>Tue, 17 Jan 2017 11:15:18 +0000</pubDate>
       
-      <guid>/blog/2015/03/05/calculo-i-introduccion-a-la-derivada/</guid>
-      <description>En este vídeo ofrecemos una introducción a la derivada muy intuitiva: a partir de la ley de los números imapres de Galileo. Analizamos el salto que damos desde la velocidad media a una expresión algebraica obtenida a partir del cálculo infinitesimal. Admeás, repasamos las diferentes maneras de expresar la derivada, y concluimos con un ejemplo aplicado a la distancia recorrida y la velocidad de un avión al despegar.
-Aquí tenemos el índice del vídeo:</description>
+      <guid>/blog/2017/01/17/grado-en-ade-para-emprendedores-matematicas-i-juan-alegre/</guid>
+      <description>(29-11-16).- Juan Alegre, profesor de &amp;lsquo;Matemáticas I&amp;rsquo; de 1º del Grado en ADE para Emprendedores, nos cuenta las claves de su asignatura.
+  </description>
+    </item>
+    
+    <item>
+      <title>Parcial 3-Matemáticas I UC3M (I)</title>
+      <link>/blog/2015/11/23/parcial-3-matematicas-i-uc3m-i/</link>
+      <pubDate>Mon, 23 Nov 2015 22:44:11 +0000</pubDate>
+      
+      <guid>/blog/2015/11/23/parcial-3-matematicas-i-uc3m-i/</guid>
+      <description>Ejercicio de Límites, Relga de L&amp;rsquo;hopital
+  </description>
+    </item>
+    
+    <item>
+      <title>Operaciones con polinomios</title>
+      <link>/blog/2015/10/08/operaciones-con-polinomios/</link>
+      <pubDate>Thu, 08 Oct 2015 22:11:21 +0000</pubDate>
+      
+      <guid>/blog/2015/10/08/operaciones-con-polinomios/</guid>
+      <description>Operaciones con polinomios
+  </description>
+    </item>
+    
+    <item>
+      <title>Operaciones con fracciones.</title>
+      <link>/blog/2015/10/06/operaciones-con-fracciones/</link>
+      <pubDate>Tue, 06 Oct 2015 23:17:12 +0000</pubDate>
+      
+      <guid>/blog/2015/10/06/operaciones-con-fracciones/</guid>
+      <description>Operaciones con fracciones.
+  </description>
+    </item>
+    
+    <item>
+      <title>Factorización polinomios grado 3 con soluciones no enteras</title>
+      <link>/blog/2015/10/06/factorizacion-polinomios-grado-3-con-soluciones-no-enteras/</link>
+      <pubDate>Tue, 06 Oct 2015 01:25:41 +0000</pubDate>
+      
+      <guid>/blog/2015/10/06/factorizacion-polinomios-grado-3-con-soluciones-no-enteras/</guid>
+      <description>Factorización polinomios grado 3 con soluciones no enteras
+  </description>
+    </item>
+    
+    <item>
+      <title>Factorización de polinomios de grado 2</title>
+      <link>/blog/2015/10/05/factorizacion-de-polinomios-de-grado-2/</link>
+      <pubDate>Mon, 05 Oct 2015 00:54:44 +0000</pubDate>
+      
+      <guid>/blog/2015/10/05/factorizacion-de-polinomios-de-grado-2/</guid>
+      <description>Factorización de polinomios de grado 2
+  </description>
+    </item>
+    
+    <item>
+      <title>Puntos de una recta</title>
+      <link>/blog/2015/10/04/puntos-de-una-recta/</link>
+      <pubDate>Sun, 04 Oct 2015 21:32:58 +0000</pubDate>
+      
+      <guid>/blog/2015/10/04/puntos-de-una-recta/</guid>
+      <description>Puntos de una recta
+  </description>
+    </item>
+    
+    <item>
+      <title>Producto de polinomios</title>
+      <link>/blog/2015/10/04/producto-de-polinomios/</link>
+      <pubDate>Sun, 04 Oct 2015 19:02:53 +0000</pubDate>
+      
+      <guid>/blog/2015/10/04/producto-de-polinomios/</guid>
+      <description>Producto de polinomios. productos notables
+  </description>
+    </item>
+    
+    <item>
+      <title>Operaciones con potencias</title>
+      <link>/blog/2015/10/04/operaciones-con-potencias/</link>
+      <pubDate>Sun, 04 Oct 2015 18:59:57 +0000</pubDate>
+      
+      <guid>/blog/2015/10/04/operaciones-con-potencias/</guid>
+      <description>Operaciones con potencias y fracciones
+  </description>
+    </item>
+    
+    <item>
+      <title>Factorización de polinomios</title>
+      <link>/blog/2015/10/04/factorizacion-de-polinomios/</link>
+      <pubDate>Sun, 04 Oct 2015 14:56:23 +0000</pubDate>
+      
+      <guid>/blog/2015/10/04/factorizacion-de-polinomios/</guid>
+      <description>Factorización de polinomios con algunas de sus raíces complejas
+  </description>
+    </item>
+    
+    <item>
+      <title>Factorización de polinomios</title>
+      <link>/blog/2014/09/30/factorizacion-de-polinomios-1/</link>
+      <pubDate>Tue, 30 Sep 2014 20:16:02 +0000</pubDate>
+      
+      <guid>/blog/2014/09/30/factorizacion-de-polinomios-1/</guid>
+      <description>Factorización de polinomios
+  </description>
+    </item>
+    
+    <item>
+      <title>Lec001.4 Álgebra lineal. Operaciones con Matrices. Producto (umh1251 2014-15)</title>
+      <link>/blog/2014/09/30/lec0014-%C3%A1lgebra-lineal-operaciones-con-matrices-producto-umh1251-2014-15/</link>
+      <pubDate>Tue, 30 Sep 2014 10:16:09 +0000</pubDate>
+      
+      <guid>/blog/2014/09/30/lec0014-%C3%A1lgebra-lineal-operaciones-con-matrices-producto-umh1251-2014-15/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/10iPsR5
+Álgebra lineal. Operaciones con Matrices. Producto. Asignatura: Matemáticas Grado en Administración y Dirección de Empresas. Campus de Orihuela. Profesor: Pedro Campillo Herrero. Dpto. de Estadística, Matemáticas e Informática. Área de Matemática Aplicada. Proyecto PLE. Universidad Miguel Hernández de Elche.
+Explicamos el producto entre dos matrices.
+web asignatura: http://umh0966.edu.umh.es
+  </description>
+    </item>
+    
+    <item>
+      <title>Lec001.3 Álgebra lineal. Operaciones con Matrices. Suma (umh1251 2014-15)</title>
+      <link>/blog/2014/09/30/lec0013-%C3%A1lgebra-lineal-operaciones-con-matrices-suma-umh1251-2014-15/</link>
+      <pubDate>Tue, 30 Sep 2014 10:12:10 +0000</pubDate>
+      
+      <guid>/blog/2014/09/30/lec0013-%C3%A1lgebra-lineal-operaciones-con-matrices-suma-umh1251-2014-15/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/10iPsR5
+Álgebra lineal. Operaciones con Matrices. Suma. Asignatura: Matemáticas Grado en Administración y Dirección de Empresas. Campus de Orihuela. Profesor: Pedro Campillo Herrero. Dpto. de Estadística, Matemáticas e Informática. Área de Matemática Aplicada. Proyecto PLE. Universidad Miguel Hernández de Elche.
+Explicamos como se suma matrices y como se multiplican por un escalar.
+web asignatura: http://umh0966.edu.umh.es
+  </description>
+    </item>
+    
+    <item>
+      <title>Lec001.2 Álgebra lineal. Matrices (umh1251 2014-15)</title>
+      <link>/blog/2014/09/30/lec0012-%C3%A1lgebra-lineal-matrices-umh1251-2014-15/</link>
+      <pubDate>Tue, 30 Sep 2014 10:10:01 +0000</pubDate>
+      
+      <guid>/blog/2014/09/30/lec0012-%C3%A1lgebra-lineal-matrices-umh1251-2014-15/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/10iPsR5
+Álgebra lineal. Matrices. Asignatura: Matemáticas Grado en Administración y Dirección de Empresas. Campus de Orihuela. Profesor: Pedro Campillo Herrero. Dpto. de Estadística, Matemáticas e Informática. Área de Matemática Aplicada. Proyecto PLE. Universidad Miguel Hernández de Elche.
+Introducción a las matrices.
+web asignatura: http://umh0966.edu.umh.es
+  </description>
+    </item>
+    
+    <item>
+      <title>Lec001.1 Álgebra lineal. Vectores (umh1251 2014-15)</title>
+      <link>/blog/2014/09/30/lec0011-%C3%A1lgebra-lineal-vectores-umh1251-2014-15/</link>
+      <pubDate>Tue, 30 Sep 2014 09:55:55 +0000</pubDate>
+      
+      <guid>/blog/2014/09/30/lec0011-%C3%A1lgebra-lineal-vectores-umh1251-2014-15/</guid>
+      <description>Más vídeos de la colección en el siguiente link:
+Álgebra lineal. Vectores. Asignatura: Matemáticas Grado en Administración y Dirección de Empresas. Campus de Orihuela. Profesor: Pedro Campillo Herrero. Dpto. de Estadística, Matemáticas e Informática. Área de Matemática Aplicada. Proyecto PLE. Universidad Miguel Hernández de Elche.
+Introducción a los vectores.
+web asignatura: http://umh0966.edu.umh.es
+  </description>
+    </item>
+    
+    <item>
+      <title>Racionalización de fracciones con radicales</title>
+      <link>/blog/2014/09/28/racionalizacion-de-fracciones-con-radicales/</link>
+      <pubDate>Sun, 28 Sep 2014 11:48:22 +0000</pubDate>
+      
+      <guid>/blog/2014/09/28/racionalizacion-de-fracciones-con-radicales/</guid>
+      <description>Racionalización de fracciones con radicales que consiste en eliminar las raíces que se encuentran en el denominador de una fracción
+  </description>
+    </item>
+    
+    <item>
+      <title>Determinantes | 11/14 | UPV</title>
+      <link>/blog/2014/06/25/determinantes-11-14-upv/</link>
+      <pubDate>Wed, 25 Jun 2014 21:58:37 +0000</pubDate>
+      
+      <guid>/blog/2014/06/25/determinantes-11-14-upv/</guid>
+      <description>Título: Determinantes
+Autor/a: Herrero Debón Alicia
+Curso: Este vídeo es el 11&amp;frasl;14 del curso MOOC Bases Matemáticas: Álgebra | Universitat Politècnica de València (UPV). https://www.youtube.com/playlist?list=PL6kQim6ljTJtkMNu8kOYKCUhUdd_jDbMD
+Inscríbete en: https://upvx.es/courses/course-v1:edxorg+bases-matematicas-algebra+bma101x/about
+ Universitat Politècnica de València UPV: https://www.upv.es Más vídeos en: https://www.youtube.com/valenciaupv Accede a nuestros MOOC: https://upvx.es    </description>
+    </item>
+    
+    <item>
+      <title>Matrices regulares | 9/14 | UPV</title>
+      <link>/blog/2014/06/25/matrices-regulares-9-14-upv/</link>
+      <pubDate>Wed, 25 Jun 2014 21:42:17 +0000</pubDate>
+      
+      <guid>/blog/2014/06/25/matrices-regulares-9-14-upv/</guid>
+      <description>Título: Matrices regulares
+Autor/a: Herrero Debón Alicia
+Curso: Este vídeo es el 9&amp;frasl;14 del curso MOOC Bases Matemáticas: Álgebra | Universitat Politècnica de València (UPV). https://www.youtube.com/playlist?list=PL6kQim6ljTJtkMNu8kOYKCUhUdd_jDbMD
+Inscríbete en: https://upvx.es/courses/course-v1:edxorg+bases-matematicas-algebra+bma101x/about
+ Universitat Politècnica de València UPV: https://www.upv.es Más vídeos en: https://www.youtube.com/valenciaupv Accede a nuestros MOOC: https://upvx.es    </description>
+    </item>
+    
+    <item>
+      <title>Método de Gauss | 5/14 | UPV</title>
+      <link>/blog/2014/06/25/metodo-de-gauss-5-14-upv/</link>
+      <pubDate>Wed, 25 Jun 2014 21:11:17 +0000</pubDate>
+      
+      <guid>/blog/2014/06/25/metodo-de-gauss-5-14-upv/</guid>
+      <description>Título: Método de Gauss
+Autor/a: Herrero Debón Alicia
+Curso: Este vídeo es el 5&amp;frasl;14 del curso MOOC Bases Matemáticas: Álgebra | Universitat Politècnica de València (UPV). https://www.youtube.com/playlist?list=PL6kQim6ljTJtkMNu8kOYKCUhUdd_jDbMD
+Inscríbete en: https://upvx.es/courses/course-v1:edxorg+bases-matematicas-algebra+bma101x/about
+ Universitat Politècnica de València UPV: https://www.upv.es Más vídeos en: https://www.youtube.com/valenciaupv Accede a nuestros MOOC: https://upvx.es    </description>
+    </item>
+    
+    <item>
+      <title>Sistemas de ecuaciones lineales 2 | 4/14 | UPV</title>
+      <link>/blog/2014/06/25/sistemas-de-ecuaciones-lineales-2-4-14-upv/</link>
+      <pubDate>Wed, 25 Jun 2014 20:59:56 +0000</pubDate>
+      
+      <guid>/blog/2014/06/25/sistemas-de-ecuaciones-lineales-2-4-14-upv/</guid>
+      <description>Título: Sistemas de ecuaciones lineales 2
+Autor/a: Herrero Debón Alicia
+Curso: Este vídeo es el 4&amp;frasl;14 del curso MOOC Bases Matemáticas: Álgebra | Universitat Politècnica de València (UPV). https://www.youtube.com/playlist?list=PL6kQim6ljTJtkMNu8kOYKCUhUdd_jDbMD
+Inscríbete en: https://upvx.es/courses/course-v1:edxorg+bases-matematicas-algebra+bma101x/about
+ Universitat Politècnica de València UPV: https://www.upv.es Más vídeos en: https://www.youtube.com/valenciaupv Accede a nuestros MOOC: https://upvx.es    </description>
+    </item>
+    
+    <item>
+      <title>Ecuaciones lineales 2 | 3/14 | UPV</title>
+      <link>/blog/2014/06/25/ecuaciones-lineales-2-3-14-upv/</link>
+      <pubDate>Wed, 25 Jun 2014 20:56:40 +0000</pubDate>
+      
+      <guid>/blog/2014/06/25/ecuaciones-lineales-2-3-14-upv/</guid>
+      <description>Título: Ecuaciones lineales 2
+Autor/a: Herrero Debón Alicia
+Curso: Este vídeo es el 3&amp;frasl;14 del curso MOOC Bases Matemáticas: Álgebra | Universitat Politècnica de València (UPV). https://www.youtube.com/playlist?list=PL6kQim6ljTJtkMNu8kOYKCUhUdd_jDbMD
+Inscríbete en: https://upvx.es/courses/course-v1:edxorg+bases-matematicas-algebra+bma101x/about
+ Universitat Politècnica de València UPV: https://www.upv.es Más vídeos en: https://www.youtube.com/valenciaupv Accede a nuestros MOOC: https://upvx.es    </description>
+    </item>
+    
+    <item>
+      <title>Resolución de una Matriz Inversa por Adjuntos</title>
+      <link>/blog/2014/03/12/resolucion-de-una-matriz-inversa-por-adjuntos/</link>
+      <pubDate>Wed, 12 Mar 2014 11:09:03 +0000</pubDate>
+      
+      <guid>/blog/2014/03/12/resolucion-de-una-matriz-inversa-por-adjuntos/</guid>
+      <description>Profesora: Vanessa Fernández Chamorro
+  </description>
+    </item>
+    
+    <item>
+      <title>Límites de funciones de varias variables con DERIVE</title>
+      <link>/blog/2014/02/15/limites-de-funciones-de-varias-variables-con-derive/</link>
+      <pubDate>Sat, 15 Feb 2014 20:16:25 +0000</pubDate>
+      
+      <guid>/blog/2014/02/15/limites-de-funciones-de-varias-variables-con-derive/</guid>
+      <description>Límites de funciones de varias variables con DERIVE
+  </description>
+    </item>
+    
+    <item>
+      <title>Aplicación de Herramientas. Sustitución e Integración por Partes | 21/21 | UPV</title>
+      <link>/blog/2014/02/15/aplicacion-de-herramientas-sustitucion-e-integracion-por-partes-21-21-upv-1/</link>
+      <pubDate>Sat, 15 Feb 2014 00:12:31 +0000</pubDate>
+      
+      <guid>/blog/2014/02/15/aplicacion-de-herramientas-sustitucion-e-integracion-por-partes-21-21-upv-1/</guid>
+      <description>Título: Aplicación de Herramientas. Sustitución e Integración por Partes
+Autor/a: Guirao Sánchez Antonio José
+Curso: Este vídeo es el 21&amp;frasl;21 del curso MOOC Bases matemáticas: Integrales | Universitat Politècnica de València (UPV). https://www.youtube.com/playlist?list=PL6kQim6ljTJtRVxA17U3QgmYKNlzAaQYP
+Inscríbete en: https://upvx.es/courses/course-v1:edxorg+bases-matematicas-integrales+bmi101x-0/about
+ Universitat Politècnica de València UPV: https://www.upv.es Más vídeos en: https://www.youtube.com/valenciaupv Accede a nuestros MOOC: https://upvx.es    </description>
+    </item>
+    
+    <item>
+      <title>Aplicación de Herramientas. Sustitución e Integración por Partes | 21/21 | UPV</title>
+      <link>/blog/2014/02/15/aplicacion-de-herramientas-sustitucion-e-integracion-por-partes-21-21-upv/</link>
+      <pubDate>Sat, 15 Feb 2014 00:12:31 +0000</pubDate>
+      
+      <guid>/blog/2014/02/15/aplicacion-de-herramientas-sustitucion-e-integracion-por-partes-21-21-upv/</guid>
+      <description>Título: Aplicación de Herramientas. Sustitución e Integración por Partes
+Autor/a: Guirao Sánchez Antonio José
+Curso: Este vídeo es el 21&amp;frasl;21 del curso MOOC Bases matemáticas: Integrales | Universitat Politècnica de València (UPV). https://www.youtube.com/playlist?list=PL6kQim6ljTJtRVxA17U3QgmYKNlzAaQYP
+Inscríbete en: https://upvx.es/courses/course-v1:edxorg+bases-matematicas-integrales+bmi101x-0/about
+ Universitat Politècnica de València UPV: https://www.upv.es Más vídeos en: https://www.youtube.com/valenciaupv Accede a nuestros MOOC: https://upvx.es    </description>
+    </item>
+    
+    <item>
+      <title>Cálculo de áreas más complejas II | 18/21 | UPV</title>
+      <link>/blog/2014/02/14/calculo-de-areas-mas-complejas-ii-18-21-upv-1/</link>
+      <pubDate>Fri, 14 Feb 2014 23:56:47 +0000</pubDate>
+      
+      <guid>/blog/2014/02/14/calculo-de-areas-mas-complejas-ii-18-21-upv-1/</guid>
+      <description>Título: Cálculo de áreas más complejas II
+Autor/a: Guirao Sánchez Antonio José
+Curso: Este vídeo es el 18&amp;frasl;21 del curso MOOC Bases matemáticas: Integrales | Universitat Politècnica de València (UPV). https://www.youtube.com/playlist?list=PL6kQim6ljTJtRVxA17U3QgmYKNlzAaQYP
+Inscríbete en: https://upvx.es/courses/course-v1:edxorg+bases-matematicas-integrales+bmi101x-0/about
+ Universitat Politècnica de València UPV: https://www.upv.es Más vídeos en: https://www.youtube.com/valenciaupv Accede a nuestros MOOC: https://upvx.es    </description>
+    </item>
+    
+    <item>
+      <title>Cálculo de áreas más complejas II | 18/21 | UPV</title>
+      <link>/blog/2014/02/14/calculo-de-areas-mas-complejas-ii-18-21-upv/</link>
+      <pubDate>Fri, 14 Feb 2014 23:56:47 +0000</pubDate>
+      
+      <guid>/blog/2014/02/14/calculo-de-areas-mas-complejas-ii-18-21-upv/</guid>
+      <description>Título: Cálculo de áreas más complejas II
+Autor/a: Guirao Sánchez Antonio José
+Curso: Este vídeo es el 18&amp;frasl;21 del curso MOOC Bases matemáticas: Integrales | Universitat Politècnica de València (UPV). https://www.youtube.com/playlist?list=PL6kQim6ljTJtRVxA17U3QgmYKNlzAaQYP
+Inscríbete en: https://upvx.es/courses/course-v1:edxorg+bases-matematicas-integrales+bmi101x-0/about
+ Universitat Politècnica de València UPV: https://www.upv.es Más vídeos en: https://www.youtube.com/valenciaupv Accede a nuestros MOOC: https://upvx.es    </description>
+    </item>
+    
+    <item>
+      <title>Conjuntos y Bolas en R2 con DERIVE</title>
+      <link>/blog/2014/02/07/conjuntos-y-bolas-en-r2-con-derive/</link>
+      <pubDate>Fri, 07 Feb 2014 20:08:46 +0000</pubDate>
+      
+      <guid>/blog/2014/02/07/conjuntos-y-bolas-en-r2-con-derive/</guid>
+      <description>Gráfica de conjuntos y bolas en R2. Resolución analítica y gráfica a ejercicios sobre bolas en R2.
+  </description>
+    </item>
+    
+    <item>
+      <title>Bases Matemáticas: Integrales. Presentación | 1/21 | UPV</title>
+      <link>/blog/2014/01/22/bases-matematicas-integrales-presentacion-1-21-upv-1/</link>
+      <pubDate>Wed, 22 Jan 2014 21:51:58 +0000</pubDate>
+      
+      <guid>/blog/2014/01/22/bases-matematicas-integrales-presentacion-1-21-upv-1/</guid>
+      <description>Título: Bases Matemáticas: Integrales. Presentación
+Autor/a: Guirao Sánchez Antonio José
+Curso: Este vídeo es el 1&amp;frasl;21 del curso MOOC Bases matemáticas: Integrales | Universitat Politècnica de València (UPV). https://www.youtube.com/playlist?list=PL6kQim6ljTJtRVxA17U3QgmYKNlzAaQYP
+Inscríbete en: https://upvx.es/courses/course-v1:edxorg+bases-matematicas-integrales+bmi101x-0/about
+ Universitat Politècnica de València UPV: https://www.upv.es Más vídeos en: https://www.youtube.com/valenciaupv Accede a nuestros MOOC: https://upvx.es    </description>
+    </item>
+    
+    <item>
+      <title>Bases Matemáticas: Integrales. Presentación | 1/21 | UPV</title>
+      <link>/blog/2014/01/22/bases-matematicas-integrales-presentacion-1-21-upv/</link>
+      <pubDate>Wed, 22 Jan 2014 21:51:58 +0000</pubDate>
+      
+      <guid>/blog/2014/01/22/bases-matematicas-integrales-presentacion-1-21-upv/</guid>
+      <description>Título: Bases Matemáticas: Integrales. Presentación
+Autor/a: Guirao Sánchez Antonio José
+Curso: Este vídeo es el 1&amp;frasl;21 del curso MOOC Bases matemáticas: Integrales | Universitat Politècnica de València (UPV). https://www.youtube.com/playlist?list=PL6kQim6ljTJtRVxA17U3QgmYKNlzAaQYP
+Inscríbete en: https://upvx.es/courses/course-v1:edxorg+bases-matematicas-integrales+bmi101x-0/about
+ Universitat Politècnica de València UPV: https://www.upv.es Más vídeos en: https://www.youtube.com/valenciaupv Accede a nuestros MOOC: https://upvx.es    </description>
+    </item>
+    
+    <item>
+      <title>Integracion cambio variable I</title>
+      <link>/blog/2013/12/02/integracion-cambio-variable-i/</link>
+      <pubDate>Mon, 02 Dec 2013 00:24:29 +0000</pubDate>
+      
+      <guid>/blog/2013/12/02/integracion-cambio-variable-i/</guid>
+      <description>Integración de (ln(x+1))^3/(x+1) resuelta mediante cambio de variable
+  </description>
+    </item>
+    
+    <item>
+      <title>Integracion por partes II</title>
+      <link>/blog/2013/11/24/integracion-por-partes-ii/</link>
+      <pubDate>Sun, 24 Nov 2013 11:51:25 +0000</pubDate>
+      
+      <guid>/blog/2013/11/24/integracion-por-partes-ii/</guid>
+      <description>Integral de ln(x) resuelta mediante integración por partes Enlaces de las anotaciones: http://goo.gl/uqWtoj Reglas mnemotécnicas de la fórmula y sobre la elección de &amp;lsquo;u&amp;rsquo; y &amp;lsquo;dv&amp;rsquo; http://goo.gl/ZYRX9l Origen de la fórmula en Wikipedia http://goo.gl/csB4mU Origen de la fórmula en Wolfram MathWorld
+  </description>
+    </item>
+    
+    <item>
+      <title>Integración partes I</title>
+      <link>/blog/2013/11/13/integracion-partes-i/</link>
+      <pubDate>Wed, 13 Nov 2013 23:23:35 +0000</pubDate>
+      
+      <guid>/blog/2013/11/13/integracion-partes-i/</guid>
+      <description>Integral de xe^x resuelta mediante integración por partes Enlaces de las anotaciones: http://goo.gl/uqWtoj Reglas mnemotécnicas de la fórmula y sobre la elección de &amp;lsquo;u&amp;rsquo; y &amp;lsquo;dv&amp;rsquo; http://goo.gl/ZYRX9l Origen de la fórmula en Wikipedia http://goo.gl/csB4mU Origen de la fórmula en Wolfram MathWorld
+  </description>
+    </item>
+    
+    <item>
+      <title>UNED - Matemáticas para la economía: Álgebra - Examen mayo 2013 - Problema 01</title>
+      <link>/blog/2013/08/04/uned-matematicas-para-la-economia-%C3%A1lgebra-examen-mayo-2013-problema-01/</link>
+      <pubDate>Sun, 04 Aug 2013 12:11:19 +0000</pubDate>
+      
+      <guid>/blog/2013/08/04/uned-matematicas-para-la-economia-%C3%A1lgebra-examen-mayo-2013-problema-01/</guid>
+      <description>También puedes seguirnos en:
+WEB: http://universoexacto.com/
+FACEBOOK: https://www.facebook.com/universoexacto.centrosdeestudios
+TWITTER: https://twitter.com/universoexacto
+  </description>
+    </item>
+    
+    <item>
+      <title>umh5030 2013-14 Lec001 Conceptos Básicos con Excel. (1/2)</title>
+      <link>/blog/2013/05/17/umh5030-2013-14-lec001-conceptos-basicos-con-excel-1-2/</link>
+      <pubDate>Fri, 17 May 2013 12:01:15 +0000</pubDate>
+      
+      <guid>/blog/2013/05/17/umh5030-2013-14-lec001-conceptos-basicos-con-excel-1-2/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/13cxLxh
+Conceptos Básicos con Excel (1&amp;frasl;2). Asignatura: Matemática Financiera II. Licenciado en Ciencias Actuariales y Financieras. Profesor: José Manuel Brotons Martínez. Dpto. de Estudios Económicos y Financieros. Área de Economía Financiera y Contabilidad. Proyecto PLE 2013. Universidad Miguel Hernández de Elche.
+Conceptos Financieros introductorios con Excel. Se plantean las nociones básicas para usar el Excel en el ámbito de las Matemáticas Financieras.</description>
+    </item>
+    
+    <item>
+      <title>umh5030 2013-14 Lec002 Conceptos Básicos con excel. (2/2)</title>
+      <link>/blog/2013/05/17/umh5030-2013-14-lec002-conceptos-basicos-con-excel-2-2/</link>
+      <pubDate>Fri, 17 May 2013 11:56:58 +0000</pubDate>
+      
+      <guid>/blog/2013/05/17/umh5030-2013-14-lec002-conceptos-basicos-con-excel-2-2/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/13cxLxh
+Conceptos Básicos con Excel (2&amp;frasl;2). Asignatura: Matemática Financiera II. Licenciado en Ciencias Actuariales y Financieras. Profesor: José Manuel Brotons Martínez. Dpto. de Estudios Económicos y Financieros. Área de Economía Financiera y Contabilidad. Proyecto PLE 2013. Universidad Miguel Hernández de Elche.
+Es continuacion de la lección 1: Conceptos Financieros introductorios con Excel. Se plantean las nociones básicas para usar el Excel en el ámbito de las Matemáticas Financieras.</description>
+    </item>
+    
+    <item>
+      <title>Introducción a la programación lineal con LINGO</title>
+      <link>/blog/2013/05/02/introduccion-a-la-programacion-lineal-con-lingo/</link>
+      <pubDate>Thu, 02 May 2013 12:48:34 +0000</pubDate>
+      
+      <guid>/blog/2013/05/02/introduccion-a-la-programacion-lineal-con-lingo/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Tratamiento de las variables duales con LINGO</title>
+      <link>/blog/2013/05/01/tratamiento-de-las-variables-duales-con-lingo/</link>
+      <pubDate>Wed, 01 May 2013 12:45:14 +0000</pubDate>
+      
+      <guid>/blog/2013/05/01/tratamiento-de-las-variables-duales-con-lingo/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Introducción a la programación lineal con DERIVE</title>
+      <link>/blog/2013/05/01/introduccion-a-la-programacion-lineal-con-derive/</link>
+      <pubDate>Wed, 01 May 2013 00:11:09 +0000</pubDate>
+      
+      <guid>/blog/2013/05/01/introduccion-a-la-programacion-lineal-con-derive/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Resolución analítica en optimización restringida de funciones de varias variables en DERIVE.</title>
+      <link>/blog/2013/04/20/resolucion-analitica-en-optimizacion-restringida-de-funciones-de-varias-variables-en-derive/</link>
+      <pubDate>Sat, 20 Apr 2013 17:13:52 +0000</pubDate>
+      
+      <guid>/blog/2013/04/20/resolucion-analitica-en-optimizacion-restringida-de-funciones-de-varias-variables-en-derive/</guid>
+      <description>Optimización de funciones de varias variables con una restricción de igualdad. Resolución gráfica
+  </description>
+    </item>
+    
+    <item>
+      <title>Resolución gráfica en optimización restringida de funciones de varias variables en DERIVE.</title>
+      <link>/blog/2013/04/15/resolucion-grafica-en-optimizacion-restringida-de-funciones-de-varias-variables-en-derive/</link>
+      <pubDate>Mon, 15 Apr 2013 12:01:13 +0000</pubDate>
+      
+      <guid>/blog/2013/04/15/resolucion-grafica-en-optimizacion-restringida-de-funciones-de-varias-variables-en-derive/</guid>
+      <description>Optimización de funciones de varias variables con una restricción de igualdad. Resolución gráfica
+  </description>
+    </item>
+    
+    <item>
+      <title>Optimización de funciones de varias variables. Optimización sin restricciones en DERIVE</title>
+      <link>/blog/2013/04/08/optimizacion-de-funciones-de-varias-variables-optimizacion-sin-restricciones-en-derive/</link>
+      <pubDate>Mon, 08 Apr 2013 10:54:10 +0000</pubDate>
+      
+      <guid>/blog/2013/04/08/optimizacion-de-funciones-de-varias-variables-optimizacion-sin-restricciones-en-derive/</guid>
+      <description>Resolución de un problema de optimización de dos variables con DERIVE
+  </description>
+    </item>
+    
+    <item>
+      <title>Introducción al DERIVE</title>
+      <link>/blog/2013/03/15/introduccion-al-derive/</link>
+      <pubDate>Fri, 15 Mar 2013 18:20:50 +0000</pubDate>
+      
+      <guid>/blog/2013/03/15/introduccion-al-derive/</guid>
+      <description>Vídeo introductorio que detalla las instrucciones básicas para su uso en DERIVE
+  </description>
+    </item>
+    
+    <item>
+      <title>ÁLGEBRA: Examen 1 - 3ª parte (1c)</title>
+      <link>/blog/2012/12/04/%C3%A1lgebra-examen-1-3%C2%AA-parte-1c/</link>
+      <pubDate>Tue, 04 Dec 2012 15:07:13 +0000</pubDate>
+      
+      <guid>/blog/2012/12/04/%C3%A1lgebra-examen-1-3%C2%AA-parte-1c/</guid>
+      <description>3ª parte: Examen de la UNED (ADE) en cinco vídeos.
+  </description>
+    </item>
+    
+    <item>
+      <title>ÁLGEBRA: Examen 1 - 2ª parte (1b)</title>
+      <link>/blog/2012/12/04/%C3%A1lgebra-examen-1-2%C2%AA-parte-1b/</link>
+      <pubDate>Tue, 04 Dec 2012 13:50:57 +0000</pubDate>
+      
+      <guid>/blog/2012/12/04/%C3%A1lgebra-examen-1-2%C2%AA-parte-1b/</guid>
+      <description>2ª parte: Examen de la UNED (ADE) en cinco vídeos.
+  </description>
+    </item>
+    
+    <item>
+      <title>ÁLGEBRA: Examen 1 - 1ª parte (1a)</title>
+      <link>/blog/2012/12/04/%C3%A1lgebra-examen-1-1%C2%AA-parte-1a/</link>
+      <pubDate>Tue, 04 Dec 2012 13:21:51 +0000</pubDate>
+      
+      <guid>/blog/2012/12/04/%C3%A1lgebra-examen-1-1%C2%AA-parte-1a/</guid>
+      <description>1ª parte: Examen de la UNED (ADE) en cinco vídeos.
+  </description>
+    </item>
+    
+    <item>
+      <title>ÁLGEBRA: Examen 1 - 4ª parte (1d)</title>
+      <link>/blog/2012/12/04/%C3%A1lgebra-examen-1-4%C2%AA-parte-1d/</link>
+      <pubDate>Tue, 04 Dec 2012 12:05:08 +0000</pubDate>
+      
+      <guid>/blog/2012/12/04/%C3%A1lgebra-examen-1-4%C2%AA-parte-1d/</guid>
+      <description>4ª parte: Examen de la UNED (ADE) en cinco vídeos.
+  </description>
+    </item>
+    
+    <item>
+      <title>GRADO ADE - Lección: convenciones de fechas en finanzas - Matemáticas economía - UNIR 2014</title>
+      <link>/blog/2011/05/12/grado-ade-leccion-convenciones-de-fechas-en-finanzas-matematicas-economia-unir-2014-1/</link>
+      <pubDate>Thu, 12 May 2011 15:10:46 +0000</pubDate>
+      
+      <guid>/blog/2011/05/12/grado-ade-leccion-convenciones-de-fechas-en-finanzas-matematicas-economia-unir-2014-1/</guid>
+      <description>Convenciones de fechas en finanzas UNIR, grado en ADE http://www.unir.net/grado-ade-administracion-direccion-empresas.aspx
+  </description>
+    </item>
+    
+    <item>
+      <title>GRADO ADE - Lección: convenciones de fechas en finanzas - Matemáticas economía - UNIR 2014</title>
+      <link>/blog/2011/05/12/grado-ade-leccion-convenciones-de-fechas-en-finanzas-matematicas-economia-unir-2014/</link>
+      <pubDate>Thu, 12 May 2011 15:10:46 +0000</pubDate>
+      
+      <guid>/blog/2011/05/12/grado-ade-leccion-convenciones-de-fechas-en-finanzas-matematicas-economia-unir-2014/</guid>
+      <description>Convenciones de fechas en finanzas UNIR, grado en ADE http://www.unir.net/grado-ade-administracion-direccion-empresas.aspx
+  </description>
+    </item>
+    
+    <item>
+      <title>GRADO ADE - Lección: el valor temporal del dinero - Matemáticas economía - UNIR 2014</title>
+      <link>/blog/2011/05/12/grado-ade-leccion-el-valor-temporal-del-dinero-matematicas-economia-unir-2014-1/</link>
+      <pubDate>Thu, 12 May 2011 15:08:19 +0000</pubDate>
+      
+      <guid>/blog/2011/05/12/grado-ade-leccion-el-valor-temporal-del-dinero-matematicas-economia-unir-2014-1/</guid>
+      <description>El valor temporal del dinero
+  </description>
+    </item>
+    
+    <item>
+      <title>GRADO ADE - Lección: el valor temporal del dinero - Matemáticas economía - UNIR 2014</title>
+      <link>/blog/2011/05/12/grado-ade-leccion-el-valor-temporal-del-dinero-matematicas-economia-unir-2014/</link>
+      <pubDate>Thu, 12 May 2011 15:08:19 +0000</pubDate>
+      
+      <guid>/blog/2011/05/12/grado-ade-leccion-el-valor-temporal-del-dinero-matematicas-economia-unir-2014/</guid>
+      <description>El valor temporal del dinero
+  </description>
     </item>
     
   </channel>

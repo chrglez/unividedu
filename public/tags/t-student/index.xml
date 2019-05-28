@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>T-Student on Uvide</title>
+    <link>/tags/t-student/</link>
+    <description>Recent content in T-Student on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 06 Nov 2014 21:36:24 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/t-student/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Distribuciones continuas de probabilidad con Statgraphics |  | UPV</title>
+      <link>/blog/2014/11/06/distribuciones-continuas-de-probabilidad-con-statgraphics-upv/</link>
+      <pubDate>Thu, 06 Nov 2014 21:36:24 +0000</pubDate>
+      
+      <guid>/blog/2014/11/06/distribuciones-continuas-de-probabilidad-con-statgraphics-upv/</guid>
+      <description>Título: Distribuciones continuas de probabilidad con Statgraphics
+Descripción: En este objeto se muestra cómo utilizar el programa Statgraphics para obtener información sobre las varaables aleatorias continuas, en particular, de la distribución normal, la t-Student y la Chi-cuadrado. Se indica cómo calcular probabilidades y valores críticos con la ayuda del programa.
+Autor/a: Monreal Mengual Llucía
+ Universitat Politècnica de València UPV: https://www.upv.es Más vídeos en: https://www.youtube.com/valenciaupv Accede a nuestros MOOC: https://upvx.es    </description>
+    </item>
+    
+  </channel>
+</rss>

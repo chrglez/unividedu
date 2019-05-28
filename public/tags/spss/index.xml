@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SPSS on Uvide</title>
+    <link>/tags/spss/</link>
+    <description>Recent content in SPSS on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 23 Jun 2016 08:05:33 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/spss/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Big Data Analytics | Master Class Universidad Europea de Valencia</title>
+      <link>/blog/2016/06/23/big-data-analytics-master-class-universidad-europea-de-valencia/</link>
+      <pubDate>Thu, 23 Jun 2016 08:05:33 +0000</pubDate>
+      
+      <guid>/blog/2016/06/23/big-data-analytics-master-class-universidad-europea-de-valencia/</guid>
+      <description>Master Class sobre Big Data aplicado a la Empresa impartida por José Luis Cubero Somed el día 14 de Junio de 2016 en la Universidad Europea de Valencia.
+El ponente desarrolla un proceso de Big Data y sus fases; ETL, Data Mining, Maching Learning y Business Intelligence.
+Posteriormente define la estructura de una empresa desde el punto de vista del Big Data, y su aplicación por departamentos.
+Y finalmente, expone cuales son los principales puestos de trabajo que generaría un proceso de Big Data Analytics, realizando una reflexión final sobre como un proceso técnico puede convertirse en un negocio estratégico para la compañía.</description>
+    </item>
+    
+    <item>
+      <title>SPSS v19.0: Transformar variables</title>
+      <link>/blog/2014/06/11/spss-v190-transformar-variables/</link>
+      <pubDate>Wed, 11 Jun 2014 11:30:53 +0000</pubDate>
+      
+      <guid>/blog/2014/06/11/spss-v190-transformar-variables/</guid>
+      <description>Autor: Serra Añó, Pilar; Ponce Darós, María José; López Bueno, Laura; González Moreno, Luis Millán; García Massó, Xavier; Data: 2014; Resum:Se presentan los procedimientos para transformar variables en el programa SPSS v19.0 Producció:SFPIE (www.uv.es/sfpie)-VLC Campus
+  </description>
+    </item>
+    
+    <item>
+      <title>SPSS v19.0: Importar y exportar datos</title>
+      <link>/blog/2014/06/11/spss-v190-importar-y-exportar-datos/</link>
+      <pubDate>Wed, 11 Jun 2014 11:19:15 +0000</pubDate>
+      
+      <guid>/blog/2014/06/11/spss-v190-importar-y-exportar-datos/</guid>
+      <description>Autor: Serra Añó, Pilar; Ponce Darós, María José; López Bueno, Laura; González Moreno, Luis Millán; García Massó, Xavier; Data: 2014; Resum:Se presentan los procedimientos para importar y exportar datos en el programa SPSS v19.0 Producció:SFPIE (www.uv.es/sfpie)-VLC Campus
+  </description>
+    </item>
+    
+    <item>
+      <title>Pruebas T de Student</title>
+      <link>/blog/2014/06/11/pruebas-t-de-student/</link>
+      <pubDate>Wed, 11 Jun 2014 11:08:28 +0000</pubDate>
+      
+      <guid>/blog/2014/06/11/pruebas-t-de-student/</guid>
+      <description>Autor: Serra Añó, Pilar; Ponce Darós, María José; López Bueno, Laura; González Moreno, Luis Millán; García Massó, Xavier; Fecha: 2014 Resumen: Ejecución de las pruebas T de Student con el programa estadístico SPSS en el área de las Ciencias de la Salud. Producción:SFPIE (www.uv.es/sfpie)-VLC Campus
+  </description>
+    </item>
+    
+    <item>
+      <title>Tablas de contingencia y Chi-Cuadrado</title>
+      <link>/blog/2014/06/11/tablas-de-contingencia-y-chi-cuadrado/</link>
+      <pubDate>Wed, 11 Jun 2014 11:03:56 +0000</pubDate>
+      
+      <guid>/blog/2014/06/11/tablas-de-contingencia-y-chi-cuadrado/</guid>
+      <description>Autor:Serra Añó, Pilar; Ponce Darós, María José; López Bueno, Laura; González Moreno, Luis Millán; García Massó, Xavier; Fecha:2014 Resumen: Organización de tablas de contingencia y ejecución de la prueba Chi-Cuadrado para establecer la asociación entre variables en el área de las Ciencias de la Salud. Producción:SFPIE (www.uv.es/sfpie)-VLC Campus
+  </description>
+    </item>
+    
+    <item>
+      <title>T de Student: Muestras Independientes</title>
+      <link>/blog/2014/06/11/t-de-student-muestras-independientes/</link>
+      <pubDate>Wed, 11 Jun 2014 10:55:53 +0000</pubDate>
+      
+      <guid>/blog/2014/06/11/t-de-student-muestras-independientes/</guid>
+      <description>Autor: Serra Añó, Pilar; Ponce Darós, María José; López Bueno, Laura; González Moreno, Luis Millán; García Massó, Xavier; Fecha: 2014 Título: Prueba T de Student para Muestras Independientes Resumen: Ejecución de las pruebas T de Student con el programa estadístico SPSS en el área de las Ciencias de la Salud. Producción:SFPIE (www.uv.es/sfpie)-VLC Campus
+  </description>
+    </item>
+    
+    <item>
+      <title>T de Student: Muestras Relacionadas</title>
+      <link>/blog/2014/06/11/t-de-student-muestras-relacionadas/</link>
+      <pubDate>Wed, 11 Jun 2014 10:52:52 +0000</pubDate>
+      
+      <guid>/blog/2014/06/11/t-de-student-muestras-relacionadas/</guid>
+      <description>Autor: Serra Añó, Pilar; Ponce Darós, María José; López Bueno, Laura; González Moreno, Luis Millán; García Massó, Xavier; Fecha: 2014; Título:Pruebas T de Student para muestras relacionadas; Resumen: Ejecución de las pruebas T de Student con el programa estadístico SPSS en el área de las Ciencias de la Salud. Producción:SFPIE (www.uv.es/sfpie)-VLC Campus
+  </description>
+    </item>
+    
+    <item>
+      <title>T de Student: Única Muestra</title>
+      <link>/blog/2014/06/11/t-de-student-%C3%BAnica-muestra/</link>
+      <pubDate>Wed, 11 Jun 2014 10:51:48 +0000</pubDate>
+      
+      <guid>/blog/2014/06/11/t-de-student-%C3%BAnica-muestra/</guid>
+      <description>Autor: Serra Añó, Pilar; Ponce Darós, María José; López Bueno, Laura; González Moreno, Luis Millán; García Massó, Xavier; Fecha: 2014; Título:Pruebas T de Student para una única muestra; Resumen: Ejecución de las pruebas T de Student con el programa estadístico SPSS en el área de las Ciencias de la Salud. Producción:SFPIE (www.uv.es/sfpie)-VLC Campus
+  </description>
+    </item>
+    
+    <item>
+      <title>SPSS v19.0: Introducción de datos</title>
+      <link>/blog/2014/06/03/spss-v190-introduccion-de-datos/</link>
+      <pubDate>Tue, 03 Jun 2014 13:41:00 +0000</pubDate>
+      
+      <guid>/blog/2014/06/03/spss-v190-introduccion-de-datos/</guid>
+      <description>Autor: Serra Añó, Pilar; Ponce Darós, María José; López Bueno, Laura; González Moreno, Luis Millán; García Massó, Xavier; Data: 2014; Resum:Se presentan los procedimientos para la introducción de datos en el programa SPSS v19.0 Producció:SFPIE (www.uv.es/sfpie)-VLC Campus
+  </description>
+    </item>
+    
+  </channel>
+</rss>

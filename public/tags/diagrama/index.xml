@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>diagrama on Uvide</title>
+    <link>/tags/diagrama/</link>
+    <description>Recent content in diagrama on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 11 Mar 2015 12:09:28 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/diagrama/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Diagrama de Pareto. Caso práctico.</title>
+      <link>/blog/2015/03/11/diagrama-de-pareto-caso-practico/</link>
+      <pubDate>Wed, 11 Mar 2015 12:09:28 +0000</pubDate>
+      
+      <guid>/blog/2015/03/11/diagrama-de-pareto-caso-practico/</guid>
+      <description>Caso práctico de Diagrama de Pareto. Autor: F. David de la Peña Esteban. Universidad a Distancia de Madrid, Udima.
+  </description>
+    </item>
+    
+    <item>
+      <title>umh1263 2012-13 Lec005. Práctica ED1-Descriptiva para variables nominales</title>
+      <link>/blog/2013/03/07/umh1263-2012-13-lec005-practica-ed1-descriptiva-para-variables-nominales/</link>
+      <pubDate>Thu, 07 Mar 2013 08:19:35 +0000</pubDate>
+      
+      <guid>/blog/2013/03/07/umh1263-2012-13-lec005-practica-ed1-descriptiva-para-variables-nominales/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/15vMRE0
+Práctica ED1. Descriptiva para variables nominales. Asignatura: Análisis Exploratorio de Datos. Grado en Administración y Dirección de Empresas (Elche). Profesora: Mª Asunción Martínez Mayoral. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE 2013. Universidad Miguel Hernández de Elche.
+Cálculo de tablas de frecuencias para datos relativos a variables nominales. Gráficos de barras y sectores.</description>
+    </item>
+    
+  </channel>
+</rss>

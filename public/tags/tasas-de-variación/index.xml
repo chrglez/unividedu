@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tasas de variación on Uvide</title>
+    <link>/tags/tasas-de-variaci%C3%B3n/</link>
+    <description>Recent content in Tasas de variación on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 22 Jan 2013 16:46:14 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/tasas-de-variaci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Practica - Series Temporales - 12/12 - Tasas de variación</title>
+      <link>/blog/2013/01/22/practica-series-temporales-12-12-tasas-de-variacio%CC%81n/</link>
+      <pubDate>Tue, 22 Jan 2013 16:46:14 +0000</pubDate>
+      
+      <guid>/blog/2013/01/22/practica-series-temporales-12-12-tasas-de-variacio%CC%81n/</guid>
+      <description>Tutorial de Excel para el cálculo de las tasas de variación de una serie temporal.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

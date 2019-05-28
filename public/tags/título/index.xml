@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>título on Uvide</title>
+    <link>/tags/t%C3%ADtulo/</link>
+    <description>Recent content in título on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 24 May 2011 15:30:01 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/t%C3%ADtulo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lección: Cálculo desviación típica - Investitgación educativa - UNIR</title>
+      <link>/blog/2011/05/24/leccion-calculo-desviacion-tipica-investitgacion-educativa-unir/</link>
+      <pubDate>Tue, 24 May 2011 15:30:01 +0000</pubDate>
+      
+      <guid>/blog/2011/05/24/leccion-calculo-desviacion-tipica-investitgacion-educativa-unir/</guid>
+      <description>Grado maestro educación primaria UNIR, universidad internacional de La Rioja
+  </description>
+    </item>
+    
+  </channel>
+</rss>

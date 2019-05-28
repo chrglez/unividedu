@@ -1,15 +1,58 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>grado on Univideduc</title>
+    <title>grado on Uvide</title>
     <link>/tags/grado/</link>
-    <description>Recent content in grado on Univideduc</description>
+    <description>Recent content in grado on Uvide</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Thu, 12 May 2011 15:06:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Sep 2013 10:41:09 +0000</lastBuildDate>
     
 	<atom:link href="/tags/grado/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Vídeo Promocional del Grado en Estadística Empresarial. UMH. Elche</title>
+      <link>/blog/2013/09/04/video-promocional-del-grado-en-estadistica-empresarial-umh-elche/</link>
+      <pubDate>Wed, 04 Sep 2013 10:41:09 +0000</pubDate>
+      
+      <guid>/blog/2013/09/04/video-promocional-del-grado-en-estadistica-empresarial-umh-elche/</guid>
+      <description>Grado en Estadística Empresarial. Facultad de Ciencias Sociales y Jurídicas de Elche. Campus de Elche Universidad Miguel Hernández de Elche
+  </description>
+    </item>
+    
+    <item>
+      <title>UNED - Matemáticas para la economía: Álgebra - Examen mayo 2013 - Problema 01</title>
+      <link>/blog/2013/08/04/uned-matematicas-para-la-economia-%C3%A1lgebra-examen-mayo-2013-problema-01/</link>
+      <pubDate>Sun, 04 Aug 2013 12:11:19 +0000</pubDate>
+      
+      <guid>/blog/2013/08/04/uned-matematicas-para-la-economia-%C3%A1lgebra-examen-mayo-2013-problema-01/</guid>
+      <description>También puedes seguirnos en:
+WEB: http://universoexacto.com/
+FACEBOOK: https://www.facebook.com/universoexacto.centrosdeestudios
+TWITTER: https://twitter.com/universoexacto
+  </description>
+    </item>
+    
+    <item>
+      <title>Lección: Cálculo desviación típica - Investitgación educativa - UNIR</title>
+      <link>/blog/2011/05/24/leccion-calculo-desviacion-tipica-investitgacion-educativa-unir/</link>
+      <pubDate>Tue, 24 May 2011 15:30:01 +0000</pubDate>
+      
+      <guid>/blog/2011/05/24/leccion-calculo-desviacion-tipica-investitgacion-educativa-unir/</guid>
+      <description>Grado maestro educación primaria UNIR, universidad internacional de La Rioja
+  </description>
+    </item>
+    
+    <item>
+      <title>Lección: cálculo de la frecuencia - Investigación educativa - UNIR</title>
+      <link>/blog/2011/05/24/leccion-calculo-de-la-frecuencia-investigacion-educativa-unir/</link>
+      <pubDate>Tue, 24 May 2011 15:11:29 +0000</pubDate>
+      
+      <guid>/blog/2011/05/24/leccion-calculo-de-la-frecuencia-investigacion-educativa-unir/</guid>
+      <description>Grado maestro primaria UNIR, universidad internacional de La Rioja http://www.unir.net
+  </description>
+    </item>
     
     <item>
       <title>GRADO ADE - Lección: cálculo integral - Matemáticas economía - UNIR</title>
@@ -17,6 +60,16 @@
       <pubDate>Thu, 12 May 2011 15:06:15 +0000</pubDate>
       
       <guid>/blog/2011/05/12/grado-ade-leccion-calculo-integral-matematicas-economia-unir-1/</guid>
+      <description>http://www.unir.net/grado-ade-administracion-direccion-empresas.aspx Nociones del cálculo integral. Profesor Ángel Ruíz Cueva. Matemática para la Economía ADE. Universidad Internacional de La Rioja
+  </description>
+    </item>
+    
+    <item>
+      <title>GRADO ADE - Lección: cálculo integral - Matemáticas economía - UNIR</title>
+      <link>/blog/2011/05/12/grado-ade-leccion-calculo-integral-matematicas-economia-unir/</link>
+      <pubDate>Thu, 12 May 2011 15:06:15 +0000</pubDate>
+      
+      <guid>/blog/2011/05/12/grado-ade-leccion-calculo-integral-matematicas-economia-unir/</guid>
       <description>http://www.unir.net/grado-ade-administracion-direccion-empresas.aspx Nociones del cálculo integral. Profesor Ángel Ruíz Cueva. Matemática para la Economía ADE. Universidad Internacional de La Rioja
   </description>
     </item>

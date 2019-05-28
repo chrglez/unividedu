@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Variable cuantitativa discreta on Uvide</title>
+    <link>/tags/variable-cuantitativa-discreta/</link>
+    <description>Recent content in Variable cuantitativa discreta on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 22 Feb 2013 14:17:10 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/variable-cuantitativa-discreta/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ejemplo - Estadística Básica - Univariante - 04/07 - Tabla para datos cuantitativos discretos</title>
+      <link>/blog/2013/02/22/ejemplo-estadi%CC%81stica-ba%CC%81sica-univariante-04-07-tabla-para-datos-cuantitativos-discretos/</link>
+      <pubDate>Fri, 22 Feb 2013 14:17:10 +0000</pubDate>
+      
+      <guid>/blog/2013/02/22/ejemplo-estadi%CC%81stica-ba%CC%81sica-univariante-04-07-tabla-para-datos-cuantitativos-discretos/</guid>
+      <description>Confección de una tabla de distribución de frecuencias para una variable cuantitativa discreta.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tabla de frecuencias on Uvide</title>
+    <link>/tags/tabla-de-frecuencias/</link>
+    <description>Recent content in Tabla de frecuencias on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 22 Feb 2013 14:17:47 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/tabla-de-frecuencias/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Teoría   Estadística Básica   Introducción   Univariante</title>
+      <link>/blog/2013/02/22/teori%CC%81a-estadi%CC%81stica-ba%CC%81sica-introduccio%CC%81n-univariante/</link>
+      <pubDate>Fri, 22 Feb 2013 14:17:47 +0000</pubDate>
+      
+      <guid>/blog/2013/02/22/teori%CC%81a-estadi%CC%81stica-ba%CC%81sica-introduccio%CC%81n-univariante/</guid>
+      <description>En este vídeo se abordan los siguientes aspectos relacionados con el análisis de una variable estadística: - tabla de distribución de frecuencias (caso discreto y continuo) - representaciones gráficas (caso discreto y continuo)
+  </description>
+    </item>
+    
+    <item>
+      <title>Ejemplo - Estadística Básica - Univariante - 02/07 - Tabla para datos cualitativos</title>
+      <link>/blog/2013/02/22/ejemplo-estadi%CC%81stica-ba%CC%81sica-univariante-02-07-tabla-para-datos-cualitativos/</link>
+      <pubDate>Fri, 22 Feb 2013 14:17:29 +0000</pubDate>
+      
+      <guid>/blog/2013/02/22/ejemplo-estadi%CC%81stica-ba%CC%81sica-univariante-02-07-tabla-para-datos-cualitativos/</guid>
+      <description>Confección de una tabla de distribución de frecuencias para una variable cualitativa.
+  </description>
+    </item>
+    
+    <item>
+      <title>Ejemplo - Estadística Básica - Univariante - 04/07 - Tabla para datos cuantitativos discretos</title>
+      <link>/blog/2013/02/22/ejemplo-estadi%CC%81stica-ba%CC%81sica-univariante-04-07-tabla-para-datos-cuantitativos-discretos/</link>
+      <pubDate>Fri, 22 Feb 2013 14:17:10 +0000</pubDate>
+      
+      <guid>/blog/2013/02/22/ejemplo-estadi%CC%81stica-ba%CC%81sica-univariante-04-07-tabla-para-datos-cuantitativos-discretos/</guid>
+      <description>Confección de una tabla de distribución de frecuencias para una variable cuantitativa discreta.
+  </description>
+    </item>
+    
+    <item>
+      <title>Ejemplo - Estadística Básica - Univariante - 06/07 - Tabla para datos cuantitativos continuos</title>
+      <link>/blog/2013/02/22/ejemplo-estadi%CC%81stica-ba%CC%81sica-univariante-06-07-tabla-para-datos-cuantitativos-continuos/</link>
+      <pubDate>Fri, 22 Feb 2013 14:16:53 +0000</pubDate>
+      
+      <guid>/blog/2013/02/22/ejemplo-estadi%CC%81stica-ba%CC%81sica-univariante-06-07-tabla-para-datos-cuantitativos-continuos/</guid>
+      <description>Confección de la tabla de distribución de frecuencias para una variable estadística de tipo continuo.
+  </description>
+    </item>
+    
+    <item>
+      <title>Practica   Variable unidimensional continua   01/06  Tabla de distribucion de frecuencias</title>
+      <link>/blog/2013/01/22/practica-variable-unidimensional-continua-01-06-tabla-de-distribucion-de-frecuencias/</link>
+      <pubDate>Tue, 22 Jan 2013 10:17:40 +0000</pubDate>
+      
+      <guid>/blog/2013/01/22/practica-variable-unidimensional-continua-01-06-tabla-de-distribucion-de-frecuencias/</guid>
+      <description>Tutorial de Excel para el cálculo de la tabla de distribución de frecuencias con una variable continua.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

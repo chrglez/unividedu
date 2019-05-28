@@ -32,8 +32,15 @@ yt <- yt_todas %>%
   filter(!is.na(enlace)) %>%
   mutate(d_segundos = duracion - lubridate::ymd_hms("1899-12-30 00:00:00"))
 
-set.seed(1234)
-yt_filtered <- yt %>% slice(sample(nrow(.),5)) %>% select(acrom, enlace)
+#set.seed(1234)
+yt_filtered <- yt %>% slice(452:500) %>% select(acrom, enlace)
+#yt_filtered <- yt %>% select(acrom, enlace)
+
+new_yt <- read_excel("C:/Users/arama/Documents/proyectos/unividedu data/Base de datos_revisión.xlsx") %>%
+  select(`Acrónimo`, Enlace) %>%
+  set_names(c('acrom','enlace'))
+
+yt_filtered <- rbind(yt_filtered, new_yt)
 
 write_post <- function(acrom,enlace){
 
@@ -71,10 +78,16 @@ path <- 'static/img/banners/'
 #                    collapse = '-'),'.jpg')
 
 name_file <- title %>% str_split(',', simplify = T) %>% `[[`(1) %>%
-  str_remove_all('[¿?¡!:]') %>% str_replace_all('á','a') %>%
+  str_remove_all('[¿?¡!:\\.()"]') %>% str_remove_all("'") %>%
+  str_replace_all('á','a') %>%
   str_replace_all('é','e') %>% str_replace_all('í','i') %>%
   str_replace_all('ó','o') %>% str_replace_all('ú','u') %>%
+  str_replace_all('à','a') %>%
+  str_replace_all('è','e') %>% str_replace_all('ì','i') %>%
+  str_replace_all('ò','o') %>% str_replace_all('ù','u') %>%
   str_replace_all('ñ','n') %>% str_replace_all(' - ', ' ') %>%
+  str_replace_all('\\|', ' ') %>% str_replace_all('/', ' ') %>%
+  str_squish() %>%
   str_replace_all(' ','-') %>% str_to_lower() %>% str_c('.jpg')
 
 print(name_file)
@@ -97,7 +110,7 @@ text <- paste0("---\nbanner: ",
                ,"\ncategories:\n- ",
 universidad,"\ndate: ",
 fecha,"\ntags:\n- ",
-paste(tags,collapse = '\n- '),
+paste(str_remove_all(tags,'\\.'),collapse = '\n- '),
 "\ntitle: '",title,
 "'\n---\n\n",
 description,

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Concentración on Uvide</title>
+    <link>/tags/concentraci%C3%B3n/</link>
+    <description>Recent content in Concentración on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 22 Jan 2013 10:19:45 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/concentraci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Practica   Variable unidimensional continua   06/06   Medidas de concentración</title>
+      <link>/blog/2013/01/22/practica-variable-unidimensional-continua-06-06-medidas-de-concentracio%CC%81n/</link>
+      <pubDate>Tue, 22 Jan 2013 10:19:45 +0000</pubDate>
+      
+      <guid>/blog/2013/01/22/practica-variable-unidimensional-continua-06-06-medidas-de-concentracio%CC%81n/</guid>
+      <description>Tutorial de Excel para el cálculo de medidas de concentración con una variable continua.
+  </description>
+    </item>
+    
+    <item>
+      <title>Practica   Variable unidimensional discreta   06/07   Medidas de concentración   Gini</title>
+      <link>/blog/2013/01/21/practica-variable-unidimensional-discreta-06-07-medidas-de-concentracio%CC%81n-gini/</link>
+      <pubDate>Mon, 21 Jan 2013 14:57:07 +0000</pubDate>
+      
+      <guid>/blog/2013/01/21/practica-variable-unidimensional-discreta-06-07-medidas-de-concentracio%CC%81n-gini/</guid>
+      <description>Tutorial de Excel para el cálculo del Índice de Gini, como medida de concentración.
+  </description>
+    </item>
+    
+    <item>
+      <title>Practica   Variable unidimensional discreta   07/07   Medidas de concentración   Lorenz</title>
+      <link>/blog/2013/01/21/practica-variable-unidimensional-discreta-07-07-medidas-de-concentracio%CC%81n-lorenz/</link>
+      <pubDate>Mon, 21 Jan 2013 14:54:36 +0000</pubDate>
+      
+      <guid>/blog/2013/01/21/practica-variable-unidimensional-discreta-07-07-medidas-de-concentracio%CC%81n-lorenz/</guid>
+      <description>Tutorial de Excel para el cálculo y representación gráfica de la Curva de Lorenz, como medida de concentración.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

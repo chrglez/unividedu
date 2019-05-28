@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Esquema aditivo on Uvide</title>
+    <link>/tags/esquema-aditivo/</link>
+    <description>Recent content in Esquema aditivo on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 22 Jan 2013 16:47:12 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/esquema-aditivo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Practica - Series Temporales - 02/12 - Calculo de la componente estacional (esquema aditivo)</title>
+      <link>/blog/2013/01/22/practica-series-temporales-02-12-calculo-de-la-componente-estacional-esquema-aditivo/</link>
+      <pubDate>Tue, 22 Jan 2013 16:47:12 +0000</pubDate>
+      
+      <guid>/blog/2013/01/22/practica-series-temporales-02-12-calculo-de-la-componente-estacional-esquema-aditivo/</guid>
+      <description>Tutorial de Excel para el cálculo de la componente estacional por medias móviles de una serie temporal que sigue un esquema aditivo.
+  </description>
+    </item>
+    
+    <item>
+      <title>Practica - Series Temporales - 03/12 - Desestacionalización (esquema aditivo)</title>
+      <link>/blog/2013/01/22/practica-series-temporales-03-12-desestacionalizacio%CC%81n-esquema-aditivo/</link>
+      <pubDate>Tue, 22 Jan 2013 16:44:40 +0000</pubDate>
+      
+      <guid>/blog/2013/01/22/practica-series-temporales-03-12-desestacionalizacio%CC%81n-esquema-aditivo/</guid>
+      <description>Tutorial de Excel para la desestacionalización por medias móviles de una serie temporal que sigue un esquema aditivo.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

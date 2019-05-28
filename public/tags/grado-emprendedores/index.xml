@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>grado emprendedores on Uvide</title>
+    <link>/tags/grado-emprendedores/</link>
+    <description>Recent content in grado emprendedores on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 20 Sep 2016 14:56:26 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/grado-emprendedores/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Grado en ADE para Emprendedores - Introducción a la Inferencia Estadística - Julien Maheut</title>
+      <link>/blog/2016/09/20/grado-en-ade-para-emprendedores-introduccion-a-la-inferencia-estadistica-julien-maheut/</link>
+      <pubDate>Tue, 20 Sep 2016 14:56:26 +0000</pubDate>
+      
+      <guid>/blog/2016/09/20/grado-en-ade-para-emprendedores-introduccion-a-la-inferencia-estadistica-julien-maheut/</guid>
+      <description>(20-09-16).- Julien Maheut, profesor de Introducción a la Inferencia Estadística en 2º del Grado en ADE para Emprendedores de EDEM, cuenta brevemente qué se va a abordar en su asignatura durante el curso.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

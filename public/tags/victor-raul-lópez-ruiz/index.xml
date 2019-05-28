@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Victor Raul López Ruiz on Uvide</title>
+    <link>/tags/victor-raul-l%C3%B3pez-ruiz/</link>
+    <description>Recent content in Victor Raul López Ruiz on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Sun, 04 Mar 2018 19:05:38 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/victor-raul-l%C3%B3pez-ruiz/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>III MME  Eliminando Autocorrelación</title>
+      <link>/blog/2018/03/04/iii-mme-eliminando-autocorrelacion/</link>
+      <pubDate>Sun, 04 Mar 2018 19:05:38 +0000</pubDate>
+      
+      <guid>/blog/2018/03/04/iii-mme-eliminando-autocorrelacion/</guid>
+      <description>Tutorial que muestra de forma clara y rápida contrastes con los que detectar la autocorrelación y métodos para eliminarla por el Prof de la UCLM Dr. Víctor Raúl López Ruiz. Software utilizado E-Views
+  </description>
+    </item>
+    
+  </channel>
+</rss>

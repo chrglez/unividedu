@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aprovisionamiento y consumo simultáneos on Uvide</title>
+    <link>/tags/aprovisionamiento-y-consumo-simult%C3%A1neos/</link>
+    <description>Recent content in Aprovisionamiento y consumo simultáneos on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 20 Mar 2015 10:47:33 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/aprovisionamiento-y-consumo-simult%C3%A1neos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Caso práctico Inventarios: Aprovisionamiento y consumo simultáneos.</title>
+      <link>/blog/2015/03/20/caso-practico-inventarios-aprovisionamiento-y-consumo-simultaneos/</link>
+      <pubDate>Fri, 20 Mar 2015 10:47:33 +0000</pubDate>
+      
+      <guid>/blog/2015/03/20/caso-practico-inventarios-aprovisionamiento-y-consumo-simultaneos/</guid>
+      <description>Caso práctico Inventarios: Aprovisionamiento y consumo simultáneos. David de la Peña Esteban. Universidad a Distancia de Madrid, Udima.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

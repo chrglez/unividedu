@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>curvas de nivel on Uvide</title>
+    <link>/tags/curvas-de-nivel/</link>
+    <description>Recent content in curvas de nivel on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Sat, 16 Mar 2013 14:10:26 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/curvas-de-nivel/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Funciones de varias variables en DERIVE</title>
+      <link>/blog/2013/03/16/funciones-de-varias-variables-en-derive/</link>
+      <pubDate>Sat, 16 Mar 2013 14:10:26 +0000</pubDate>
+      
+      <guid>/blog/2013/03/16/funciones-de-varias-variables-en-derive/</guid>
+      <description>En este vídeo trabajaremos con los conceptos de dominio y curvas de nivel en DERIVE
+  </description>
+    </item>
+    
+  </channel>
+</rss>

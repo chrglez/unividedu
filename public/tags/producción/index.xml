@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Producción on Uvide</title>
+    <link>/tags/producci%C3%B3n/</link>
+    <description>Recent content in Producción on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 28 Apr 2016 16:52:10 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/producci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Planificación de Requerimientos de Capacidad PRC</title>
+      <link>/blog/2016/04/28/planificacion-de-requerimientos-de-capacidad-prc/</link>
+      <pubDate>Thu, 28 Apr 2016 16:52:10 +0000</pubDate>
+      
+      <guid>/blog/2016/04/28/planificacion-de-requerimientos-de-capacidad-prc/</guid>
+      <description>Caso práctico Autor: Fco. David de la Peña Esteban Universidad a Distancia de Madrid, Udima
+  </description>
+    </item>
+    
+    <item>
+      <title>MRP. Caso práctico.</title>
+      <link>/blog/2015/03/11/mrp-caso-practico/</link>
+      <pubDate>Wed, 11 Mar 2015 12:16:11 +0000</pubDate>
+      
+      <guid>/blog/2015/03/11/mrp-caso-practico/</guid>
+      <description>Este contenido se imparte en el Grado de Ingeniería de Organización Industrial: https://www.udima.es/es/grado-ingenieria-organizacion-industrial.html 🏤 Caso práctico de MRP. Autor: F. David de la Peña Esteban. Universidad a Distancia de Madrid, Udima.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

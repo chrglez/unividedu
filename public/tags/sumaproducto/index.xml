@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sumaproducto on Uvide</title>
+    <link>/tags/sumaproducto/</link>
+    <description>Recent content in Sumaproducto on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 22 Feb 2013 14:16:19 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/sumaproducto/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Rangos y Sumaproducto</title>
+      <link>/blog/2013/02/22/rangos-y-sumaproducto/</link>
+      <pubDate>Fri, 22 Feb 2013 14:16:19 +0000</pubDate>
+      
+      <guid>/blog/2013/02/22/rangos-y-sumaproducto/</guid>
+      <description>Este tutorial de Excel explica cómo: 1. asignar rangos a una tabla de datos 2. construir una tabla de distribución de frecuencias utilizando el comando &amp;ldquo;sumaproducto&amp;rdquo; para 3 casos diferentes (variable cualitativa, variable cuantitativa discreta y variable cuantitativa continua)
+  </description>
+    </item>
+    
+  </channel>
+</rss>

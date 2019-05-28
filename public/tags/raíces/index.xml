@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>raíces on Uvide</title>
+    <link>/tags/ra%C3%ADces/</link>
+    <description>Recent content in raíces on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Sun, 04 Oct 2015 14:56:23 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/ra%C3%ADces/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Factorización de polinomios</title>
+      <link>/blog/2015/10/04/factorizacion-de-polinomios/</link>
+      <pubDate>Sun, 04 Oct 2015 14:56:23 +0000</pubDate>
+      
+      <guid>/blog/2015/10/04/factorizacion-de-polinomios/</guid>
+      <description>Factorización de polinomios con algunas de sus raíces complejas
+  </description>
+    </item>
+    
+  </channel>
+</rss>

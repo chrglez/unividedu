@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>cálculo on Univideduc</title>
+    <title>cálculo on Uvide</title>
     <link>/tags/c%C3%A1lculo/</link>
-    <description>Recent content in cálculo on Univideduc</description>
+    <description>Recent content in cálculo on Uvide</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Thu, 08 Oct 2015 22:11:21 +0000</lastBuildDate>
@@ -13,21 +13,308 @@
     
     <item>
       <title>Operaciones con polinomios</title>
-      <link>/blog/2015/10/08/banner-oper-poli-1/</link>
+      <link>/blog/2015/10/08/operaciones-con-polinomios/</link>
       <pubDate>Thu, 08 Oct 2015 22:11:21 +0000</pubDate>
       
-      <guid>/blog/2015/10/08/banner-oper-poli-1/</guid>
-      <description>Operaciones con polinomios   </description>
+      <guid>/blog/2015/10/08/operaciones-con-polinomios/</guid>
+      <description>Operaciones con polinomios
+  </description>
     </item>
     
     <item>
-      <title>Cálculo I: Introducción a la derivada</title>
-      <link>/blog/2015/03/05/calculo-i-introduccion-a-la-derivada/</link>
-      <pubDate>Thu, 05 Mar 2015 04:55:02 +0000</pubDate>
+      <title>Operaciones con fracciones.</title>
+      <link>/blog/2015/10/06/operaciones-con-fracciones/</link>
+      <pubDate>Tue, 06 Oct 2015 23:17:12 +0000</pubDate>
       
-      <guid>/blog/2015/03/05/calculo-i-introduccion-a-la-derivada/</guid>
-      <description>En este vídeo ofrecemos una introducción a la derivada muy intuitiva: a partir de la ley de los números imapres de Galileo. Analizamos el salto que damos desde la velocidad media a una expresión algebraica obtenida a partir del cálculo infinitesimal. Admeás, repasamos las diferentes maneras de expresar la derivada, y concluimos con un ejemplo aplicado a la distancia recorrida y la velocidad de un avión al despegar.
-Aquí tenemos el índice del vídeo:</description>
+      <guid>/blog/2015/10/06/operaciones-con-fracciones/</guid>
+      <description>Operaciones con fracciones.
+  </description>
+    </item>
+    
+    <item>
+      <title>Factorización polinomios grado 3 con soluciones no enteras</title>
+      <link>/blog/2015/10/06/factorizacion-polinomios-grado-3-con-soluciones-no-enteras/</link>
+      <pubDate>Tue, 06 Oct 2015 01:25:41 +0000</pubDate>
+      
+      <guid>/blog/2015/10/06/factorizacion-polinomios-grado-3-con-soluciones-no-enteras/</guid>
+      <description>Factorización polinomios grado 3 con soluciones no enteras
+  </description>
+    </item>
+    
+    <item>
+      <title>Factorización de polinomios de grado 2</title>
+      <link>/blog/2015/10/05/factorizacion-de-polinomios-de-grado-2/</link>
+      <pubDate>Mon, 05 Oct 2015 00:54:44 +0000</pubDate>
+      
+      <guid>/blog/2015/10/05/factorizacion-de-polinomios-de-grado-2/</guid>
+      <description>Factorización de polinomios de grado 2
+  </description>
+    </item>
+    
+    <item>
+      <title>Puntos de una recta</title>
+      <link>/blog/2015/10/04/puntos-de-una-recta/</link>
+      <pubDate>Sun, 04 Oct 2015 21:32:58 +0000</pubDate>
+      
+      <guid>/blog/2015/10/04/puntos-de-una-recta/</guid>
+      <description>Puntos de una recta
+  </description>
+    </item>
+    
+    <item>
+      <title>Producto de polinomios</title>
+      <link>/blog/2015/10/04/producto-de-polinomios/</link>
+      <pubDate>Sun, 04 Oct 2015 19:02:53 +0000</pubDate>
+      
+      <guid>/blog/2015/10/04/producto-de-polinomios/</guid>
+      <description>Producto de polinomios. productos notables
+  </description>
+    </item>
+    
+    <item>
+      <title>Operaciones con potencias</title>
+      <link>/blog/2015/10/04/operaciones-con-potencias/</link>
+      <pubDate>Sun, 04 Oct 2015 18:59:57 +0000</pubDate>
+      
+      <guid>/blog/2015/10/04/operaciones-con-potencias/</guid>
+      <description>Operaciones con potencias y fracciones
+  </description>
+    </item>
+    
+    <item>
+      <title>Factorización de polinomios</title>
+      <link>/blog/2015/10/04/factorizacion-de-polinomios/</link>
+      <pubDate>Sun, 04 Oct 2015 14:56:23 +0000</pubDate>
+      
+      <guid>/blog/2015/10/04/factorizacion-de-polinomios/</guid>
+      <description>Factorización de polinomios con algunas de sus raíces complejas
+  </description>
+    </item>
+    
+    <item>
+      <title>Factorización de polinomios</title>
+      <link>/blog/2014/09/30/factorizacion-de-polinomios-1/</link>
+      <pubDate>Tue, 30 Sep 2014 20:16:02 +0000</pubDate>
+      
+      <guid>/blog/2014/09/30/factorizacion-de-polinomios-1/</guid>
+      <description>Factorización de polinomios
+  </description>
+    </item>
+    
+    <item>
+      <title>Límites de funciones de varias variables con DERIVE</title>
+      <link>/blog/2014/02/15/limites-de-funciones-de-varias-variables-con-derive/</link>
+      <pubDate>Sat, 15 Feb 2014 20:16:25 +0000</pubDate>
+      
+      <guid>/blog/2014/02/15/limites-de-funciones-de-varias-variables-con-derive/</guid>
+      <description>Límites de funciones de varias variables con DERIVE
+  </description>
+    </item>
+    
+    <item>
+      <title>Aplicación de Herramientas. Sustitución e Integración por Partes | 21/21 | UPV</title>
+      <link>/blog/2014/02/15/aplicacion-de-herramientas-sustitucion-e-integracion-por-partes-21-21-upv-1/</link>
+      <pubDate>Sat, 15 Feb 2014 00:12:31 +0000</pubDate>
+      
+      <guid>/blog/2014/02/15/aplicacion-de-herramientas-sustitucion-e-integracion-por-partes-21-21-upv-1/</guid>
+      <description>Título: Aplicación de Herramientas. Sustitución e Integración por Partes
+Autor/a: Guirao Sánchez Antonio José
+Curso: Este vídeo es el 21&amp;frasl;21 del curso MOOC Bases matemáticas: Integrales | Universitat Politècnica de València (UPV). https://www.youtube.com/playlist?list=PL6kQim6ljTJtRVxA17U3QgmYKNlzAaQYP
+Inscríbete en: https://upvx.es/courses/course-v1:edxorg+bases-matematicas-integrales+bmi101x-0/about
+ Universitat Politècnica de València UPV: https://www.upv.es Más vídeos en: https://www.youtube.com/valenciaupv Accede a nuestros MOOC: https://upvx.es    </description>
+    </item>
+    
+    <item>
+      <title>Aplicación de Herramientas. Sustitución e Integración por Partes | 21/21 | UPV</title>
+      <link>/blog/2014/02/15/aplicacion-de-herramientas-sustitucion-e-integracion-por-partes-21-21-upv/</link>
+      <pubDate>Sat, 15 Feb 2014 00:12:31 +0000</pubDate>
+      
+      <guid>/blog/2014/02/15/aplicacion-de-herramientas-sustitucion-e-integracion-por-partes-21-21-upv/</guid>
+      <description>Título: Aplicación de Herramientas. Sustitución e Integración por Partes
+Autor/a: Guirao Sánchez Antonio José
+Curso: Este vídeo es el 21&amp;frasl;21 del curso MOOC Bases matemáticas: Integrales | Universitat Politècnica de València (UPV). https://www.youtube.com/playlist?list=PL6kQim6ljTJtRVxA17U3QgmYKNlzAaQYP
+Inscríbete en: https://upvx.es/courses/course-v1:edxorg+bases-matematicas-integrales+bmi101x-0/about
+ Universitat Politècnica de València UPV: https://www.upv.es Más vídeos en: https://www.youtube.com/valenciaupv Accede a nuestros MOOC: https://upvx.es    </description>
+    </item>
+    
+    <item>
+      <title>Cálculo de áreas más complejas II | 18/21 | UPV</title>
+      <link>/blog/2014/02/14/calculo-de-areas-mas-complejas-ii-18-21-upv-1/</link>
+      <pubDate>Fri, 14 Feb 2014 23:56:47 +0000</pubDate>
+      
+      <guid>/blog/2014/02/14/calculo-de-areas-mas-complejas-ii-18-21-upv-1/</guid>
+      <description>Título: Cálculo de áreas más complejas II
+Autor/a: Guirao Sánchez Antonio José
+Curso: Este vídeo es el 18&amp;frasl;21 del curso MOOC Bases matemáticas: Integrales | Universitat Politècnica de València (UPV). https://www.youtube.com/playlist?list=PL6kQim6ljTJtRVxA17U3QgmYKNlzAaQYP
+Inscríbete en: https://upvx.es/courses/course-v1:edxorg+bases-matematicas-integrales+bmi101x-0/about
+ Universitat Politècnica de València UPV: https://www.upv.es Más vídeos en: https://www.youtube.com/valenciaupv Accede a nuestros MOOC: https://upvx.es    </description>
+    </item>
+    
+    <item>
+      <title>Cálculo de áreas más complejas II | 18/21 | UPV</title>
+      <link>/blog/2014/02/14/calculo-de-areas-mas-complejas-ii-18-21-upv/</link>
+      <pubDate>Fri, 14 Feb 2014 23:56:47 +0000</pubDate>
+      
+      <guid>/blog/2014/02/14/calculo-de-areas-mas-complejas-ii-18-21-upv/</guid>
+      <description>Título: Cálculo de áreas más complejas II
+Autor/a: Guirao Sánchez Antonio José
+Curso: Este vídeo es el 18&amp;frasl;21 del curso MOOC Bases matemáticas: Integrales | Universitat Politècnica de València (UPV). https://www.youtube.com/playlist?list=PL6kQim6ljTJtRVxA17U3QgmYKNlzAaQYP
+Inscríbete en: https://upvx.es/courses/course-v1:edxorg+bases-matematicas-integrales+bmi101x-0/about
+ Universitat Politècnica de València UPV: https://www.upv.es Más vídeos en: https://www.youtube.com/valenciaupv Accede a nuestros MOOC: https://upvx.es    </description>
+    </item>
+    
+    <item>
+      <title>Integracion cambio variable I</title>
+      <link>/blog/2013/12/02/integracion-cambio-variable-i/</link>
+      <pubDate>Mon, 02 Dec 2013 00:24:29 +0000</pubDate>
+      
+      <guid>/blog/2013/12/02/integracion-cambio-variable-i/</guid>
+      <description>Integración de (ln(x+1))^3/(x+1) resuelta mediante cambio de variable
+  </description>
+    </item>
+    
+    <item>
+      <title>Integracion por partes II</title>
+      <link>/blog/2013/11/24/integracion-por-partes-ii/</link>
+      <pubDate>Sun, 24 Nov 2013 11:51:25 +0000</pubDate>
+      
+      <guid>/blog/2013/11/24/integracion-por-partes-ii/</guid>
+      <description>Integral de ln(x) resuelta mediante integración por partes Enlaces de las anotaciones: http://goo.gl/uqWtoj Reglas mnemotécnicas de la fórmula y sobre la elección de &amp;lsquo;u&amp;rsquo; y &amp;lsquo;dv&amp;rsquo; http://goo.gl/ZYRX9l Origen de la fórmula en Wikipedia http://goo.gl/csB4mU Origen de la fórmula en Wolfram MathWorld
+  </description>
+    </item>
+    
+    <item>
+      <title>Integración partes I</title>
+      <link>/blog/2013/11/13/integracion-partes-i/</link>
+      <pubDate>Wed, 13 Nov 2013 23:23:35 +0000</pubDate>
+      
+      <guid>/blog/2013/11/13/integracion-partes-i/</guid>
+      <description>Integral de xe^x resuelta mediante integración por partes Enlaces de las anotaciones: http://goo.gl/uqWtoj Reglas mnemotécnicas de la fórmula y sobre la elección de &amp;lsquo;u&amp;rsquo; y &amp;lsquo;dv&amp;rsquo; http://goo.gl/ZYRX9l Origen de la fórmula en Wikipedia http://goo.gl/csB4mU Origen de la fórmula en Wolfram MathWorld
+  </description>
+    </item>
+    
+    <item>
+      <title>umh1263 2012-13 Lec028 Práctica Teorema Central del Límite</title>
+      <link>/blog/2013/06/18/umh1263-2012-13-lec028-practica-teorema-central-del-limite/</link>
+      <pubDate>Tue, 18 Jun 2013 09:44:14 +0000</pubDate>
+      
+      <guid>/blog/2013/06/18/umh1263-2012-13-lec028-practica-teorema-central-del-limite/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/15vMRE0
+Práctica Teorema Central del Límite. Asignatura: Análisis Exploratorio de Datos. Grado en Administración y Dirección de Empresas (Elche). Profesora: Mª Asunción Martínez Mayoral. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE 2013. Universidad Miguel Hernández de Elche.
+Aplicaciones del Teorema Central del Límite para el cálculo de probabilidades.
+web asignatura: http://umh1263.edu.umh.es web: http://umh.es
+  </description>
+    </item>
+    
+    <item>
+      <title>umh1263 2012-13 Lec026 Práctica Variables Aleatorias Normales</title>
+      <link>/blog/2013/06/17/umh1263-2012-13-lec026-practica-variables-aleatorias-normales/</link>
+      <pubDate>Mon, 17 Jun 2013 12:36:15 +0000</pubDate>
+      
+      <guid>/blog/2013/06/17/umh1263-2012-13-lec026-practica-variables-aleatorias-normales/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/15vMRE0
+Práctica Variables Aleatorias Normales. Asignatura: Análisis Exploratorio de Datos. Grado en Administración y Dirección de Empresas (Elche). Profesora: Mª Asunción Martínez Mayoral. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE 2013. Universidad Miguel Hernández de Elche.
+Cálculo de probabilidades con la distribución normal. Aplicación de sus propiedades.
+web asignatura: http://umh1263.edu.umh.es web: http://umh.es
+  </description>
+    </item>
+    
+    <item>
+      <title>umh1263 2012-13 Lec24 Práctica Variables Aleatorias Discretas</title>
+      <link>/blog/2013/06/14/umh1263-2012-13-lec24-practica-variables-aleatorias-discretas/</link>
+      <pubDate>Fri, 14 Jun 2013 10:44:17 +0000</pubDate>
+      
+      <guid>/blog/2013/06/14/umh1263-2012-13-lec24-practica-variables-aleatorias-discretas/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/15vMRE0
+Práctica de Variables Discretas. Asignatura: Análisis Exploratorio de Datos. Grado en Administración y Dirección de Empresas (Elche). Profesora: Mª Asunción Martínez Mayoral. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE 2013. Universidad Miguel Hernández de Elche.
+Identificación de variables Bernoulli, Binomial y Poisson. Cálculo de probabilidades.
+web asignatura: http://umh1263.edu.umh.es web: http://umh.es
+  </description>
+    </item>
+    
+    <item>
+      <title>umh1263 2012-13 Lec022 Práctica Variables Aleatorias</title>
+      <link>/blog/2013/05/21/umh1263-2012-13-lec022-practica-variables-aleatorias/</link>
+      <pubDate>Tue, 21 May 2013 06:43:24 +0000</pubDate>
+      
+      <guid>/blog/2013/05/21/umh1263-2012-13-lec022-practica-variables-aleatorias/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/15vMRE0
+Práctica de Variables Aleatorias. Asignatura: Análisis Exploratorio de Datos. Grado en Administración y Dirección de Empresas (Elche). Profesora: Mª Asunción Martínez Mayoral. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE 2013. Universidad Miguel Hernández de Elche.
+Identificación de variables aleatorias, determinación de distribuciones de probabilidad. Cálculo de probabilidades.
+web asignatura: http://umh1263.edu.umh.es web: http://umh.es
+  </description>
+    </item>
+    
+    <item>
+      <title>umh1263 2012-13 Lec017 Probabilidad de Sucesos Compuestos</title>
+      <link>/blog/2013/05/21/umh1263-2012-13-lec017-probabilidad-de-sucesos-compuestos/</link>
+      <pubDate>Tue, 21 May 2013 06:40:49 +0000</pubDate>
+      
+      <guid>/blog/2013/05/21/umh1263-2012-13-lec017-probabilidad-de-sucesos-compuestos/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/15vMRE0
+Probabilidad de Sucesos Compuestos. Asignatura: Análisis Exploratorio de Datos. Grado en Administración y Dirección de Empresas (Elche). Profesora: Mª Asunción Martínez Mayoral. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE 2013. Universidad Miguel Hernández de Elche.
+Construcción de sucesos a partir de la unión y la intersección. Cálculo de probabilidades de sucesos unión e intersección.</description>
+    </item>
+    
+    <item>
+      <title>umh1263 2012-13 Lec016 Introducción a la Probabilidad</title>
+      <link>/blog/2013/05/07/umh1263-2012-13-lec016-introduccion-a-la-probabilidad/</link>
+      <pubDate>Tue, 07 May 2013 06:10:25 +0000</pubDate>
+      
+      <guid>/blog/2013/05/07/umh1263-2012-13-lec016-introduccion-a-la-probabilidad/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/15vMRE0
+Introducción a la Probabilidad. Asignatura: Análisis Exploratorio de Datos. Grado en Administración y Dirección de Empresas (Elche). Profesora: Mª Asunción Martínez Mayoral. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE 2013. Universidad Miguel Hernández de Elche.
+El azar y la probabilidad, conceptos elementales de probabilidad, propiedades-axiomas del cálculo de probabilidades.
+web asignatura: http://umh1263.edu.umh.es web: http://umh.</description>
+    </item>
+    
+    <item>
+      <title>Resolución analítica en optimización restringida de funciones de varias variables en DERIVE.</title>
+      <link>/blog/2013/04/20/resolucion-analitica-en-optimizacion-restringida-de-funciones-de-varias-variables-en-derive/</link>
+      <pubDate>Sat, 20 Apr 2013 17:13:52 +0000</pubDate>
+      
+      <guid>/blog/2013/04/20/resolucion-analitica-en-optimizacion-restringida-de-funciones-de-varias-variables-en-derive/</guid>
+      <description>Optimización de funciones de varias variables con una restricción de igualdad. Resolución gráfica
+  </description>
+    </item>
+    
+    <item>
+      <title>Introducción al DERIVE</title>
+      <link>/blog/2013/03/15/introduccion-al-derive/</link>
+      <pubDate>Fri, 15 Mar 2013 18:20:50 +0000</pubDate>
+      
+      <guid>/blog/2013/03/15/introduccion-al-derive/</guid>
+      <description>Vídeo introductorio que detalla las instrucciones básicas para su uso en DERIVE
+  </description>
+    </item>
+    
+    <item>
+      <title>Cálculo en funciones de varias variables en DERIVE. Polinomio de Taylor</title>
+      <link>/blog/2013/03/08/calculo-en-funciones-de-varias-variables-en-derive-polinomio-de-taylor/</link>
+      <pubDate>Fri, 08 Mar 2013 19:16:26 +0000</pubDate>
+      
+      <guid>/blog/2013/03/08/calculo-en-funciones-de-varias-variables-en-derive-polinomio-de-taylor/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Cálculo en funciones de varias variables en DERIVE. Derivadas</title>
+      <link>/blog/2013/03/01/calculo-en-funciones-de-varias-variables-en-derive-derivadas/</link>
+      <pubDate>Fri, 01 Mar 2013 20:01:11 +0000</pubDate>
+      
+      <guid>/blog/2013/03/01/calculo-en-funciones-de-varias-variables-en-derive-derivadas/</guid>
+      <description>Tratamiento de las derivadas en funciones de varias variables empleando DERIVE.
+  </description>
+    </item>
+    
+    <item>
+      <title>Lección: cálculo de la frecuencia - Investigación educativa - UNIR</title>
+      <link>/blog/2011/05/24/leccion-calculo-de-la-frecuencia-investigacion-educativa-unir/</link>
+      <pubDate>Tue, 24 May 2011 15:11:29 +0000</pubDate>
+      
+      <guid>/blog/2011/05/24/leccion-calculo-de-la-frecuencia-investigacion-educativa-unir/</guid>
+      <description>Grado maestro primaria UNIR, universidad internacional de La Rioja http://www.unir.net
+  </description>
     </item>
     
   </channel>

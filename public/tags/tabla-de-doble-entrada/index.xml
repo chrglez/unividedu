@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tabla de doble entrada on Uvide</title>
+    <link>/tags/tabla-de-doble-entrada/</link>
+    <description>Recent content in Tabla de doble entrada on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 22 Feb 2013 14:18:09 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/tabla-de-doble-entrada/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Teoria - Estadistica Basica - Introduccion - Bivariante</title>
+      <link>/blog/2013/02/22/teoria-estadistica-basica-introduccion-bivariante/</link>
+      <pubDate>Fri, 22 Feb 2013 14:18:09 +0000</pubDate>
+      
+      <guid>/blog/2013/02/22/teoria-estadistica-basica-introduccion-bivariante/</guid>
+      <description>En este vídeo se abordan los siguientes aspectos relacionados con el análisis conjunto de 2 variables estadísticas: - tabla de distribución de frecuencias de doble entrada - distribuciones marginales - distribuciones condicionadas
+  </description>
+    </item>
+    
+  </channel>
+</rss>

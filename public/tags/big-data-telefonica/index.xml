@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Big Data Telefonica on Uvide</title>
+    <link>/tags/big-data-telefonica/</link>
+    <description>Recent content in Big Data Telefonica on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 23 Jun 2016 08:05:33 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/big-data-telefonica/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Big Data Analytics | Master Class Universidad Europea de Valencia</title>
+      <link>/blog/2016/06/23/big-data-analytics-master-class-universidad-europea-de-valencia/</link>
+      <pubDate>Thu, 23 Jun 2016 08:05:33 +0000</pubDate>
+      
+      <guid>/blog/2016/06/23/big-data-analytics-master-class-universidad-europea-de-valencia/</guid>
+      <description>Master Class sobre Big Data aplicado a la Empresa impartida por José Luis Cubero Somed el día 14 de Junio de 2016 en la Universidad Europea de Valencia.
+El ponente desarrolla un proceso de Big Data y sus fases; ETL, Data Mining, Maching Learning y Business Intelligence.
+Posteriormente define la estructura de una empresa desde el punto de vista del Big Data, y su aplicación por departamentos.
+Y finalmente, expone cuales son los principales puestos de trabajo que generaría un proceso de Big Data Analytics, realizando una reflexión final sobre como un proceso técnico puede convertirse en un negocio estratégico para la compañía.</description>
+    </item>
+    
+  </channel>
+</rss>

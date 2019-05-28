@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>REPRODUCIBILIDAD on Uvide</title>
+    <link>/tags/reproducibilidad/</link>
+    <description>Recent content in REPRODUCIBILIDAD on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 02 Mar 2016 12:44:42 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/reproducibilidad/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lec005.2 Markdow-Rstudio y la Estadística Descriptiva (umh1480)</title>
+      <link>/blog/2016/03/02/lec0052-markdow-rstudio-y-la-estadistica-descriptiva-umh1480/</link>
+      <pubDate>Wed, 02 Mar 2016 12:44:42 +0000</pubDate>
+      
+      <guid>/blog/2016/03/02/lec0052-markdow-rstudio-y-la-estadistica-descriptiva-umh1480/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/20XaPkS
+Markdow-Rstudio y la Estadística Descriptiva. Asignatura: Técnicas Estadísticas en Investigación de Mercados. Grado en Estadística Empresarial. Profesor: Xavier Barber i Vallés. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE. Universidad Miguel Hernández de Elche.
+Breve introducción al concepto de Markdown y la estadística descriptiva desde RStudio.
+web asignatura: http://umh1480.edu.umh.es/ web: http://umh.es
+  </description>
+    </item>
+    
+    <item>
+      <title>Lec005.1 LaTeX-RStudio-Sweave (umh1480)</title>
+      <link>/blog/2016/03/02/lec0051-latex-rstudio-sweave-umh1480/</link>
+      <pubDate>Wed, 02 Mar 2016 11:32:35 +0000</pubDate>
+      
+      <guid>/blog/2016/03/02/lec0051-latex-rstudio-sweave-umh1480/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/20XaPkS
+LaTeX-RStudio-Sweave. Asignatura: Técnicas Estadísticas en Investigación de Mercados. Grado en Estadística Empresarial. Profesor: Xavier Barber i Vallés. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE. Universidad Miguel Hernández de Elche.
+Introducción al lenguaje Sweave dentro de RStudio: una mezcla de LaTeX y R.
+web asignatura: http://umh1480.edu.umh.es/ web: http://umh.es
+  </description>
+    </item>
+    
+  </channel>
+</rss>

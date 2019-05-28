@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Estimación Lineal on Uvide</title>
+    <link>/tags/estimaci%C3%B3n-lineal/</link>
+    <description>Recent content in Estimación Lineal on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Sat, 20 Oct 2018 11:43:48 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/estimaci%C3%B3n-lineal/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>III. Consulta al Profesor: cómo estimar modelos lineales en Excel</title>
+      <link>/blog/2018/10/20/iii-consulta-al-profesor-como-estimar-modelos-lineales-en-excel/</link>
+      <pubDate>Sat, 20 Oct 2018 11:43:48 +0000</pubDate>
+      
+      <guid>/blog/2018/10/20/iii-consulta-al-profesor-como-estimar-modelos-lineales-en-excel/</guid>
+      <description>II. Como usar y realizar predicción con la función Estimacion.Lineal de Excel, respuestas del profesor Víctor R. López a cuestiones de los alumnos: María y Diego.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

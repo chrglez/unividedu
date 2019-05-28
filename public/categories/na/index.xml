@@ -1,0 +1,988 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NA on Uvide</title>
+    <link>/categories/na/</link>
+    <description>Recent content in NA on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 30 May 2017 06:06:28 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/na/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tema Transversal 3.2: Redes Neuronales Artificiales</title>
+      <link>/blog/2017/05/30/tema-transversal-32-redes-neuronales-artificiales/</link>
+      <pubDate>Tue, 30 May 2017 06:06:28 +0000</pubDate>
+      
+      <guid>/blog/2017/05/30/tema-transversal-32-redes-neuronales-artificiales/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/20XaPkS
+Redes Neuronales Artificiales. Asignatura: Técnicas Estadísticas en Investigación de Mercados. Grado en Estadística Empresarial. Profesor: Xavier Barber i Vallés. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE. Universidad Miguel Hernández de Elche.
+Vídeo para introducir al alumno en las Redes Neuronales Artificiales utilizando R.
+web asignatura: http://umh1480.edu.umh.es/ web: http://umh.es
+  </description>
+    </item>
+    
+    <item>
+      <title>Tema Transversal 3: BIG DATA &amp; MACHINE LEARNING</title>
+      <link>/blog/2017/05/19/tema-transversal-3-big-data-machine-learning/</link>
+      <pubDate>Fri, 19 May 2017 08:07:01 +0000</pubDate>
+      
+      <guid>/blog/2017/05/19/tema-transversal-3-big-data-machine-learning/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/20XaPkS
+BIG DATA &amp;amp; MACHINE LEARNING. Asignatura: Técnicas Estadísticas en Investigación de Mercados. Grado en Estadística Empresarial. Profesor: Xavier Barber i Vallés. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE. Universidad Miguel Hernández de Elche.
+En este vídeo se explica una introducción, un estado del arte, del tema del Big Data, Machine Learning y Deep Learning.</description>
+    </item>
+    
+    <item>
+      <title>Unidad 04: Árboles de Decisión y Regresión. Mostrando caminos hacia el éxito</title>
+      <link>/blog/2017/05/15/unidad-04-%C3%A1rboles-de-decision-y-regresion-mostrando-caminos-hacia-el-exito/</link>
+      <pubDate>Mon, 15 May 2017 07:06:27 +0000</pubDate>
+      
+      <guid>/blog/2017/05/15/unidad-04-%C3%A1rboles-de-decision-y-regresion-mostrando-caminos-hacia-el-exito/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/20XaPkS
+Árboles de Decisión y Regresión. Mostrando caminos hacia el éxito. Asignatura: Técnicas Estadísticas en Investigación de Mercados. Grado en Estadística Empresarial. Profesor: Xavier Barber i Vallés. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE. Universidad Miguel Hernández de Elche.
+Vídeo en el que se muestra una breve descripción de los Árboles de Decisión, Regresión y los Random Forest.</description>
+    </item>
+    
+    <item>
+      <title>Unidad 3.2: Vender o no Vender. Capacidad predictiva del modelo logístico</title>
+      <link>/blog/2017/05/10/unidad-32-vender-o-no-vender-capacidad-predictiva-del-modelo-logistico/</link>
+      <pubDate>Wed, 10 May 2017 06:25:40 +0000</pubDate>
+      
+      <guid>/blog/2017/05/10/unidad-32-vender-o-no-vender-capacidad-predictiva-del-modelo-logistico/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/20XaPkS
+Vender o no Vender. Capacidad predictiva del modelo logístico. Asignatura: Técnicas Estadísticas en Investigación de Mercados. Grado en Estadística Empresarial. Profesor: Xavier Barber i Vallés. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE. Universidad Miguel Hernández de Elche.
+Vídeo en el que se muestra cómo comprobar la bondad de ajuste de un modelo, así como la capacidad predictiva.</description>
+    </item>
+    
+    <item>
+      <title>Unidad 3.1: Vender o no vender. Regresión Logística</title>
+      <link>/blog/2017/05/02/unidad-31-vender-o-no-vender-regresion-logistica/</link>
+      <pubDate>Tue, 02 May 2017 08:15:09 +0000</pubDate>
+      
+      <guid>/blog/2017/05/02/unidad-31-vender-o-no-vender-regresion-logistica/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/20XaPkS
+Vender o no vender. Regresión Logística. Asignatura: Técnicas Estadísticas en Investigación de Mercados. Grado en Estadística Empresarial. Profesor: Xavier Barber i Vallés. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE. Universidad Miguel Hernández de Elche.
+Visión práctica de la regresión logística y los Odds Ratio desde el punto de vista del marketing.
+web asignatura: http://umh1480.</description>
+    </item>
+    
+    <item>
+      <title>Práctica Transversal: Crear un Blog e insertar aplicaciones Shiny</title>
+      <link>/blog/2017/05/02/practica-transversal-crear-un-blog-e-insertar-aplicaciones-shiny/</link>
+      <pubDate>Tue, 02 May 2017 07:44:48 +0000</pubDate>
+      
+      <guid>/blog/2017/05/02/practica-transversal-crear-un-blog-e-insertar-aplicaciones-shiny/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/20XaPkS
+Práctica Transversal: Crear un Blog e insertar aplicaciones Shiny. Asignatura: Técnicas Estadísticas en Investigación de Mercados. Grado en Estadística Empresarial. Profesor: Xavier Barber i Vallés. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE. Universidad Miguel Hernández de Elche.
+En este video se explica las dos actividades a realizar en el próximo mes de mayo por los alumnos de la asignatura.</description>
+    </item>
+    
+    <item>
+      <title>Resolución de Ejercicios: ANCOVA (3ª parte)</title>
+      <link>/blog/2017/04/07/resolucion-de-ejercicios-ancova-3%C2%AA-parte/</link>
+      <pubDate>Fri, 07 Apr 2017 09:15:44 +0000</pubDate>
+      
+      <guid>/blog/2017/04/07/resolucion-de-ejercicios-ancova-3%C2%AA-parte/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/20XaPkS
+Resolución de Ejercicios: ANCOVA (3ª parte). Asignatura: Técnicas Estadísticas en Investigación de Mercados. Grado en Estadística Empresarial. Profesor: Xavier Barber i Vallés. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE. Universidad Miguel Hernández de Elche.
+Video en el que se resuelve el ejerccio 2 de ANCOVA desde RStudio con markdown.
+web asignatura: http://umh1480.edu.umh.es/ web: http://umh.</description>
+    </item>
+    
+    <item>
+      <title>Estadistica Estatal INE (AUDE 4/6)</title>
+      <link>/blog/2017/04/04/estadistica-estatal-ine-aude-4-6/</link>
+      <pubDate>Tue, 04 Apr 2017 05:43:41 +0000</pubDate>
+      
+      <guid>/blog/2017/04/04/estadistica-estatal-ine-aude-4-6/</guid>
+      <description>ENTIDADES PÚBLICAS PROVEEDORAS DE DATOS Las estadísticas sociodemográfi cas del INE como fuentes para el análisis regional y urbano Antonio Argüeso Jimenez Subdirector General de Estadísticas Sociodemográfi cas / Instituto Nacional de Estadística Cambio social, crisis económica y escasez de recursos, su impacto sobre las áreas urbanas PLAN ESTATAL DE I+D+i 2013-2016 Convocatoria REDES de EXCELENCIA ÁREAS URBANAS Y DATOS ESTADÍSTICOS Tercer seminario del proyecto CSO2015-71866-REDT // 24 de febrero de 2017</description>
+    </item>
+    
+    <item>
+      <title>20170224 05 Estadística Municipal (AUDE 5/6)</title>
+      <link>/blog/2017/04/04/20170224-05-estadistica-municipal-aude-5-6/</link>
+      <pubDate>Tue, 04 Apr 2017 05:43:35 +0000</pubDate>
+      
+      <guid>/blog/2017/04/04/20170224-05-estadistica-municipal-aude-5-6/</guid>
+      <description>Canales de difusión y fuentes de información estadística empleadas por la S.G. Estadística del Ayuntamiento de Madrid Antonio Bermejo Aguña Jefe del Departamento de Datos Estadísticos / Subdirección General de Estadística. Ayuntamiento de Madrid Cambio social, crisis económica y escasez de recursos, su impacto sobre las áreas urbanas PLAN ESTATAL DE I+D+i 2013-2016 Convocatoria REDES de EXCELENCIA ÁREAS URBANAS Y DATOS ESTADÍSTICOS Tercer seminario del proyecto CSO2015-71866-REDT // 24 de febrero de 2017</description>
+    </item>
+    
+    <item>
+      <title>Resolución de Ejercicios: ANCOVA (2a parte)</title>
+      <link>/blog/2017/03/28/resolucion-de-ejercicios-ancova-2a-parte/</link>
+      <pubDate>Tue, 28 Mar 2017 13:30:16 +0000</pubDate>
+      
+      <guid>/blog/2017/03/28/resolucion-de-ejercicios-ancova-2a-parte/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/20XaPkS
+Resolución de Ejercicios: ANCOVA (2a parte). Asignatura: Técnicas Estadísticas en Investigación de Mercados. Grado en Estadística Empresarial. Profesor: Xavier Barber i Vallés. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE. Universidad Miguel Hernández de Elche.
+En este video se muestra cómo un modelo lineal bondadoso y válido puede predecir mal debido a la no linealidad de Todos los datos conjuntamente.</description>
+    </item>
+    
+    <item>
+      <title>Resolución de Ejercicios: ANCOVA</title>
+      <link>/blog/2017/03/28/resolucion-de-ejercicios-ancova/</link>
+      <pubDate>Tue, 28 Mar 2017 13:28:14 +0000</pubDate>
+      
+      <guid>/blog/2017/03/28/resolucion-de-ejercicios-ancova/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/20XaPkS
+Resolución de Ejercicios: ANCOVA. Asignatura: Técnicas Estadísticas en Investigación de Mercados. Grado en Estadística Empresarial. Profesor: Xavier Barber i Vallés. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE. Universidad Miguel Hernández de Elche.
+En este video se muestra cómo un modelo lineal bondadoso y válido puede predecir mal debido a la no linealidad de Todos los datos conjuntamente.</description>
+    </item>
+    
+    <item>
+      <title>Unidad 2.2: Validando el modelo lineal</title>
+      <link>/blog/2017/03/20/unidad-22-validando-el-modelo-lineal/</link>
+      <pubDate>Mon, 20 Mar 2017 06:39:47 +0000</pubDate>
+      
+      <guid>/blog/2017/03/20/unidad-22-validando-el-modelo-lineal/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/20XaPkS
+Validando el modelo lineal. Asignatura: Técnicas Estadísticas en Investigación de Mercados. Grado en Estadística Empresarial. Profesor: Xavier Barber i Vallés. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE. Universidad Miguel Hernández de Elche.
+Bondad de ajuste, Validación y Predicción de un modelo lineal. Los tres pilares que no siempre sujetan a al &amp;ldquo;mejor&amp;rdquo; modelo.</description>
+    </item>
+    
+    <item>
+      <title>Unidad 02: Los Modelos Lineales clásicos. El concepto de “El mejor Modelo” para mi empresa</title>
+      <link>/blog/2017/03/17/unidad-02-los-modelos-lineales-clasicos-el-concepto-de-el-mejor-modelo-para-mi-empresa/</link>
+      <pubDate>Fri, 17 Mar 2017 13:04:15 +0000</pubDate>
+      
+      <guid>/blog/2017/03/17/unidad-02-los-modelos-lineales-clasicos-el-concepto-de-el-mejor-modelo-para-mi-empresa/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/20XaPkS
+Los Modelos Lineales clásicos. El concepto de “El mejor Modelo” para mi empresa. Asignatura: Técnicas Estadísticas en Investigación de Mercados. Grado en Estadística Empresarial. Profesor: Xavier Barber i Vallés. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE. Universidad Miguel Hernández de Elche.
+Los Modelos Lineales clásicos. El concepto de “El mejor Modelo” para mi empresa.</description>
+    </item>
+    
+    <item>
+      <title>Unidad 01.4: Estadística descriptiva. Desde RStudio con Markdown al informe del cliente (III)</title>
+      <link>/blog/2017/03/06/unidad-014-estadistica-descriptiva-desde-rstudio-con-markdown-al-informe-del-cliente-iii/</link>
+      <pubDate>Mon, 06 Mar 2017 07:08:09 +0000</pubDate>
+      
+      <guid>/blog/2017/03/06/unidad-014-estadistica-descriptiva-desde-rstudio-con-markdown-al-informe-del-cliente-iii/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/20XaPkS
+Estadística descriptiva. Desde RStudio con Markdown al informe del cliente (III). Asignatura: Técnicas Estadísticas en Investigación de Mercados. Grado en Estadística Empresarial. Profesor: Xavier Barber i Vallés. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE. Universidad Miguel Hernández de Elche.
+Ejemplos de uso del paquete ggplot2, y la explicación de cómo interpretar dichos gráficos.</description>
+    </item>
+    
+    <item>
+      <title>Unidad 01.3: Estadística descriptiva. Desde RStudio con Markdown al informe del cliente (II)</title>
+      <link>/blog/2017/03/06/unidad-013-estadistica-descriptiva-desde-rstudio-con-markdown-al-informe-del-cliente-ii/</link>
+      <pubDate>Mon, 06 Mar 2017 07:06:46 +0000</pubDate>
+      
+      <guid>/blog/2017/03/06/unidad-013-estadistica-descriptiva-desde-rstudio-con-markdown-al-informe-del-cliente-ii/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/20XaPkS
+Estadística descriptiva. Desde RStudio con Markdown al informe del cliente (II). Asignatura: Técnicas Estadísticas en Investigación de Mercados. Grado en Estadística Empresarial. Profesor: Xavier Barber i Vallés. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE. Universidad Miguel Hernández de Elche.
+Realización de tablas descriptivas utilizando markdown en RStudio utilizando los paquetes stargrazer, reportools y dplyr.</description>
+    </item>
+    
+    <item>
+      <title>Unidad 01.2: Estadística descriptiva. Desde RStudio con Markdown al informe del cliente (I)</title>
+      <link>/blog/2017/02/27/unidad-012-estadistica-descriptiva-desde-rstudio-con-markdown-al-informe-del-cliente-i/</link>
+      <pubDate>Mon, 27 Feb 2017 09:16:32 +0000</pubDate>
+      
+      <guid>/blog/2017/02/27/unidad-012-estadistica-descriptiva-desde-rstudio-con-markdown-al-informe-del-cliente-i/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/20XaPkS
+Estadística descriptiva. Desde RStudio con Markdown al informe del cliente (I). Asignatura: Técnicas Estadísticas en Investigación de Mercados. Grado en Estadística Empresarial. Profesor: Xavier Barber i Vallés. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE. Universidad Miguel Hernández de Elche.
+El vídeo muestra cómo realizar estadística descriptiva básica desde RStudio, pero generando un PDF o WORD utilizando markdown.</description>
+    </item>
+    
+    <item>
+      <title>Tema Tranversal 01: RStudio y Markdown (umh1480)</title>
+      <link>/blog/2017/02/24/tema-tranversal-01-rstudio-y-markdown-umh1480/</link>
+      <pubDate>Fri, 24 Feb 2017 08:09:29 +0000</pubDate>
+      
+      <guid>/blog/2017/02/24/tema-tranversal-01-rstudio-y-markdown-umh1480/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/20XaPkS
+RStudio y Markdown. Asignatura: Técnicas Estadísticas en Investigación de Mercados. Grado en Estadística Empresarial. Profesor: Xavier Barber i Vallés. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE. Universidad Miguel Hernández de Elche.
+En este video podrás ver las ventajas de utilizar LaTeX, Sweave y Markdown todos ellos utilizando RStudio y la librería Knitr.
+web asignatura: http://umh1480.</description>
+    </item>
+    
+    <item>
+      <title>Ejercicio 2 - 2ª parte - Examen Febrero 2017 2ª semana - Matemática Financiera - Grado en Ade Uned</title>
+      <link>/blog/2017/02/20/ejercicio-2-2%C2%AA-parte-examen-febrero-2017-2%C2%AA-semana-matematica-financiera-grado-en-ade-uned/</link>
+      <pubDate>Mon, 20 Feb 2017 20:57:06 +0000</pubDate>
+      
+      <guid>/blog/2017/02/20/ejercicio-2-2%C2%AA-parte-examen-febrero-2017-2%C2%AA-semana-matematica-financiera-grado-en-ade-uned/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Ejercicio 2   primera parte   Examen Febrero 2017 segunda semana   Matemática Financiera   Grado Ade</title>
+      <link>/blog/2017/02/20/ejercicio-2-primera-parte-examen-febrero-2017-segunda-semana-matematica-financiera-grado-ade/</link>
+      <pubDate>Mon, 20 Feb 2017 20:35:17 +0000</pubDate>
+      
+      <guid>/blog/2017/02/20/ejercicio-2-primera-parte-examen-febrero-2017-segunda-semana-matematica-financiera-grado-ade/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Ejercicio 1   Segunda semana   Matemática Fianciera   Grado Ade Uned</title>
+      <link>/blog/2017/02/20/ejercicio-1-segunda-semana-matematica-fianciera-grado-ade-uned/</link>
+      <pubDate>Mon, 20 Feb 2017 19:05:06 +0000</pubDate>
+      
+      <guid>/blog/2017/02/20/ejercicio-1-segunda-semana-matematica-fianciera-grado-ade-uned/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Ejercicio 3   Segunda semana Febrero 2017   Matemática Fiannciera   Grado Ade Uned</title>
+      <link>/blog/2017/02/20/ejercicio-3-segunda-semana-febrero-2017-matematica-fiannciera-grado-ade-uned/</link>
+      <pubDate>Mon, 20 Feb 2017 17:44:09 +0000</pubDate>
+      
+      <guid>/blog/2017/02/20/ejercicio-3-segunda-semana-febrero-2017-matematica-fiannciera-grado-ade-uned/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Preguntas de teoría - Examen Febrero 2017 primera semana - Matemática Financiera - Uned Ade</title>
+      <link>/blog/2017/02/18/preguntas-de-teoria-examen-febrero-2017-primera-semana-matematica-financiera-uned-ade/</link>
+      <pubDate>Sat, 18 Feb 2017 11:30:07 +0000</pubDate>
+      
+      <guid>/blog/2017/02/18/preguntas-de-teoria-examen-febrero-2017-primera-semana-matematica-financiera-uned-ade/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Ejercicio 3 - Matemática Financiera -Examen Febrero 2017 primera semana - Ade Uned</title>
+      <link>/blog/2017/02/18/ejercicio-3-matematica-financiera-examen-febrero-2017-primera-semana-ade-uned/</link>
+      <pubDate>Sat, 18 Feb 2017 05:43:35 +0000</pubDate>
+      
+      <guid>/blog/2017/02/18/ejercicio-3-matematica-financiera-examen-febrero-2017-primera-semana-ade-uned/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Ejercicio 2 parte 2 - Matemática Financiera - Examen Febrero 2017 primera semana - Grado Ade Uned</title>
+      <link>/blog/2017/02/17/ejercicio-2-parte-2-matematica-financiera-examen-febrero-2017-primera-semana-grado-ade-uned/</link>
+      <pubDate>Fri, 17 Feb 2017 22:08:30 +0000</pubDate>
+      
+      <guid>/blog/2017/02/17/ejercicio-2-parte-2-matematica-financiera-examen-febrero-2017-primera-semana-grado-ade-uned/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Ejerciccio 2 parte 1 - Matemática Financiera - Grado Ade Uned - Exámen Febrero 2017 primera semana</title>
+      <link>/blog/2017/02/17/ejerciccio-2-parte-1-matematica-financiera-grado-ade-uned-examen-febrero-2017-primera-semana/</link>
+      <pubDate>Fri, 17 Feb 2017 21:44:12 +0000</pubDate>
+      
+      <guid>/blog/2017/02/17/ejerciccio-2-parte-1-matematica-financiera-grado-ade-uned-examen-febrero-2017-primera-semana/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Ejercicio 1 - Matemática Financiera - Examen Febrero 2017 primera semana.</title>
+      <link>/blog/2017/02/17/ejercicio-1-matematica-financiera-examen-febrero-2017-primera-semana/</link>
+      <pubDate>Fri, 17 Feb 2017 18:14:14 +0000</pubDate>
+      
+      <guid>/blog/2017/02/17/ejercicio-1-matematica-financiera-examen-febrero-2017-primera-semana/</guid>
+      <description>Ejercicio 1
+  </description>
+    </item>
+    
+    <item>
+      <title>UMH TV – Descubre con la UMH: ¿en Estadística sólo se hacen porcentajes?</title>
+      <link>/blog/2016/12/23/umh-tv-descubre-con-la-umh-en-estadistica-solo-se-hacen-porcentajes/</link>
+      <pubDate>Fri, 23 Dec 2016 08:02:40 +0000</pubDate>
+      
+      <guid>/blog/2016/12/23/umh-tv-descubre-con-la-umh-en-estadistica-solo-se-hacen-porcentajes/</guid>
+      <description>Con el fin de año, aparecen multitud de estadísticas de todo tipo, balances llenos de porcentajes, cálculos de probabilidad… ¿Pero para qué sirve la Estadística? Hoy lo descubrimos con la UMH.
+  </description>
+    </item>
+    
+    <item>
+      <title>Big Data Analytics | Master Class Universidad Europea de Valencia</title>
+      <link>/blog/2016/06/23/big-data-analytics-master-class-universidad-europea-de-valencia/</link>
+      <pubDate>Thu, 23 Jun 2016 08:05:33 +0000</pubDate>
+      
+      <guid>/blog/2016/06/23/big-data-analytics-master-class-universidad-europea-de-valencia/</guid>
+      <description>Master Class sobre Big Data aplicado a la Empresa impartida por José Luis Cubero Somed el día 14 de Junio de 2016 en la Universidad Europea de Valencia.
+El ponente desarrolla un proceso de Big Data y sus fases; ETL, Data Mining, Maching Learning y Business Intelligence.
+Posteriormente define la estructura de una empresa desde el punto de vista del Big Data, y su aplicación por departamentos.
+Y finalmente, expone cuales son los principales puestos de trabajo que generaría un proceso de Big Data Analytics, realizando una reflexión final sobre como un proceso técnico puede convertirse en un negocio estratégico para la compañía.</description>
+    </item>
+    
+    <item>
+      <title>Lec009.1 Big Data. El poder de la información (umh1480)</title>
+      <link>/blog/2016/04/21/lec0091-big-data-el-poder-de-la-informacion-umh1480/</link>
+      <pubDate>Thu, 21 Apr 2016 13:51:06 +0000</pubDate>
+      
+      <guid>/blog/2016/04/21/lec0091-big-data-el-poder-de-la-informacion-umh1480/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/20XaPkS
+Big Data. El poder de la información. Asignatura: Técnicas Estadísticas en Investigación de Mercados. Grado en Estadística Empresarial. Profesor: Xavier Barber i Vallés. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE. Universidad Miguel Hernández de Elche.
+INTRODUCCIÓN AL CONCEPTO DE BIG DATA Y SU APLICACIÓN EN EL MUNDO DEL MARKETING. ESTRUTURA D ELSO DATOS Y FORMAS DE ANALIZARLOS.</description>
+    </item>
+    
+    <item>
+      <title>Lec005.2 Markdow-Rstudio y la Estadística Descriptiva (umh1480)</title>
+      <link>/blog/2016/03/02/lec0052-markdow-rstudio-y-la-estadistica-descriptiva-umh1480/</link>
+      <pubDate>Wed, 02 Mar 2016 12:44:42 +0000</pubDate>
+      
+      <guid>/blog/2016/03/02/lec0052-markdow-rstudio-y-la-estadistica-descriptiva-umh1480/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/20XaPkS
+Markdow-Rstudio y la Estadística Descriptiva. Asignatura: Técnicas Estadísticas en Investigación de Mercados. Grado en Estadística Empresarial. Profesor: Xavier Barber i Vallés. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE. Universidad Miguel Hernández de Elche.
+Breve introducción al concepto de Markdown y la estadística descriptiva desde RStudio.
+web asignatura: http://umh1480.edu.umh.es/ web: http://umh.es
+  </description>
+    </item>
+    
+    <item>
+      <title>Lec005.1 LaTeX-RStudio-Sweave (umh1480)</title>
+      <link>/blog/2016/03/02/lec0051-latex-rstudio-sweave-umh1480/</link>
+      <pubDate>Wed, 02 Mar 2016 11:32:35 +0000</pubDate>
+      
+      <guid>/blog/2016/03/02/lec0051-latex-rstudio-sweave-umh1480/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/20XaPkS
+LaTeX-RStudio-Sweave. Asignatura: Técnicas Estadísticas en Investigación de Mercados. Grado en Estadística Empresarial. Profesor: Xavier Barber i Vallés. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE. Universidad Miguel Hernández de Elche.
+Introducción al lenguaje Sweave dentro de RStudio: una mezcla de LaTeX y R.
+web asignatura: http://umh1480.edu.umh.es/ web: http://umh.es
+  </description>
+    </item>
+    
+    <item>
+      <title>Lec004.1 Repaso a los Modelos Lineales (umh1480)</title>
+      <link>/blog/2016/02/29/lec0041-repaso-a-los-modelos-lineales-umh1480/</link>
+      <pubDate>Mon, 29 Feb 2016 14:30:35 +0000</pubDate>
+      
+      <guid>/blog/2016/02/29/lec0041-repaso-a-los-modelos-lineales-umh1480/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/20XaPkS
+Repaso a los Modelos Lineales. Asignatura: Técnicas Estadísticas en Investigación de Mercados. Grado en Estadística Empresarial. Profesor: Xavier Barber i Vallés. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE. Universidad Miguel Hernández de Elche.
+Breve repaso al concepto de Modelos Lineales: Regresión Lienal, ANOVA y ANCOVA
+web asignatura: http://umh1480.edu.umh.es/ web: http://umh.es
+  </description>
+    </item>
+    
+    <item>
+      <title>Lec004.2 Validación de un Modelo Lineal (umh1480)</title>
+      <link>/blog/2016/02/19/lec0042-validacion-de-un-modelo-lineal-umh1480/</link>
+      <pubDate>Fri, 19 Feb 2016 08:50:30 +0000</pubDate>
+      
+      <guid>/blog/2016/02/19/lec0042-validacion-de-un-modelo-lineal-umh1480/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/20XaPkS
+Validación de un Modelo Lineal. Asignatura: Técnicas Estadísticas en Investigación de Mercados. Grado en Estadística Empresarial. Profesor: Xavier Barber i Vallés. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE. Universidad Miguel Hernández de Elche.
+Pasos para estudiar la bondad del ajuste y la validación de un modelo lineal.
+web asignatura: http://umh1480.edu.umh.es/ web: http://umh.es
+  </description>
+    </item>
+    
+    <item>
+      <title>Lec003 Describiendo mis datos (umh1480)</title>
+      <link>/blog/2016/02/16/lec003-describiendo-mis-datos-umh1480/</link>
+      <pubDate>Tue, 16 Feb 2016 11:05:27 +0000</pubDate>
+      
+      <guid>/blog/2016/02/16/lec003-describiendo-mis-datos-umh1480/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/20XaPkS
+Describiendo mis datos. Asignatura: Técnicas Estadísticas en Investigación de Mercados. Grado en Estadística Empresarial. Profesor: Xavier Barber i Vallés. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE. Universidad Miguel Hernández de Elche.
+Video donde se describe cómo describir un banco de datos utilizando la librería dplyr del R.
+web asignatura: http://umh1480.edu.umh.es/ web: http://umh.es
+  </description>
+    </item>
+    
+    <item>
+      <title>Lec001 El análisis Multivariante y el Marketing (umh1480)</title>
+      <link>/blog/2016/02/16/lec001-el-analisis-multivariante-y-el-marketing-umh1480/</link>
+      <pubDate>Tue, 16 Feb 2016 11:01:11 +0000</pubDate>
+      
+      <guid>/blog/2016/02/16/lec001-el-analisis-multivariante-y-el-marketing-umh1480/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/20XaPkS
+El análisis Multivariante y el Marketing. Asignatura: Técnicas Estadísticas en Investigación de Mercados. Grado en Estadística Empresarial. Profesor: Xavier Barber i Vallés. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE. Universidad Miguel Hernández de Elche.
+Primer tema de la asignatura Técnicas Estadísticas para el Análisis de Mercados. Un pequeño repaso al concepto de Mercados/Marketing y al Análisis Multivariante.</description>
+    </item>
+    
+    <item>
+      <title>Lec002.1 Sacándole Partido al RStudio (umh1480)</title>
+      <link>/blog/2016/02/16/lec0021-sacandole-partido-al-rstudio-umh1480/</link>
+      <pubDate>Tue, 16 Feb 2016 09:24:33 +0000</pubDate>
+      
+      <guid>/blog/2016/02/16/lec0021-sacandole-partido-al-rstudio-umh1480/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/20XaPkS
+Sacándole Partido al RStudio. Asignatura: Técnicas Estadísticas en Investigación de Mercados. Grado en Estadística Empresarial. Profesor: Xavier Barber i Vallés. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE. Universidad Miguel Hernández de Elche.
+Vídeo donde se demustra las grandes posibilidades del RStudio, desde crear un documento Markdown y obtener un documento tipo Microsoft Word &amp;copy; hasta una aplicación interactiva Web con Shiny.</description>
+    </item>
+    
+    <item>
+      <title>Lec000 Presentación de Técnicas Estadísticas para la Investigación de Mercados (umh1480)</title>
+      <link>/blog/2016/02/11/lec000-presentacion-de-tecnicas-estadisticas-para-la-investigacion-de-mercados-umh1480/</link>
+      <pubDate>Thu, 11 Feb 2016 11:06:00 +0000</pubDate>
+      
+      <guid>/blog/2016/02/11/lec000-presentacion-de-tecnicas-estadisticas-para-la-investigacion-de-mercados-umh1480/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/20XaPkS
+Presentación de Técnicas Estadísticas para la Investigación de Mercados. Asignatura: Técnicas Estadísticas en Investigación de Mercados. Grado en Estadística Empresarial. Profesor: Xavier Barber i Vallés. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE. Universidad Miguel Hernández de Elche.
+Presentación de la asignatura Técnicas Estadística en Análisis de Mercados.
+web asignatura: http://umh1480.edu.umh.es/ web: http://umh.es
+  </description>
+    </item>
+    
+    <item>
+      <title>Avances en Técnicas de Localización Discreta</title>
+      <link>/blog/2015/09/18/avances-en-tecnicas-de-localizacion-discreta/</link>
+      <pubDate>Fri, 18 Sep 2015 11:45:49 +0000</pubDate>
+      
+      <guid>/blog/2015/09/18/avances-en-tecnicas-de-localizacion-discreta/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/1uKcHAW
+Estancia en la Universidad de Edimburgo. Julio de 2015.
+Profesora: Mercedes Landete Ruiz. Departamento de Estadística, Matemáticas e Informática. Grupo de Investigación: Gestión de Recursos y Optimización. Centro de Investigación Operativa. Universidad Miguel Hernández de Elche.
+web: http://umh.es
+  </description>
+    </item>
+    
+    <item>
+      <title>Lec001.4 Álgebra lineal. Operaciones con Matrices. Producto (umh1251 2014-15)</title>
+      <link>/blog/2014/09/30/lec0014-%C3%A1lgebra-lineal-operaciones-con-matrices-producto-umh1251-2014-15/</link>
+      <pubDate>Tue, 30 Sep 2014 10:16:09 +0000</pubDate>
+      
+      <guid>/blog/2014/09/30/lec0014-%C3%A1lgebra-lineal-operaciones-con-matrices-producto-umh1251-2014-15/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/10iPsR5
+Álgebra lineal. Operaciones con Matrices. Producto. Asignatura: Matemáticas Grado en Administración y Dirección de Empresas. Campus de Orihuela. Profesor: Pedro Campillo Herrero. Dpto. de Estadística, Matemáticas e Informática. Área de Matemática Aplicada. Proyecto PLE. Universidad Miguel Hernández de Elche.
+Explicamos el producto entre dos matrices.
+web asignatura: http://umh0966.edu.umh.es
+  </description>
+    </item>
+    
+    <item>
+      <title>Lec001.3 Álgebra lineal. Operaciones con Matrices. Suma (umh1251 2014-15)</title>
+      <link>/blog/2014/09/30/lec0013-%C3%A1lgebra-lineal-operaciones-con-matrices-suma-umh1251-2014-15/</link>
+      <pubDate>Tue, 30 Sep 2014 10:12:10 +0000</pubDate>
+      
+      <guid>/blog/2014/09/30/lec0013-%C3%A1lgebra-lineal-operaciones-con-matrices-suma-umh1251-2014-15/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/10iPsR5
+Álgebra lineal. Operaciones con Matrices. Suma. Asignatura: Matemáticas Grado en Administración y Dirección de Empresas. Campus de Orihuela. Profesor: Pedro Campillo Herrero. Dpto. de Estadística, Matemáticas e Informática. Área de Matemática Aplicada. Proyecto PLE. Universidad Miguel Hernández de Elche.
+Explicamos como se suma matrices y como se multiplican por un escalar.
+web asignatura: http://umh0966.edu.umh.es
+  </description>
+    </item>
+    
+    <item>
+      <title>Lec001.2 Álgebra lineal. Matrices (umh1251 2014-15)</title>
+      <link>/blog/2014/09/30/lec0012-%C3%A1lgebra-lineal-matrices-umh1251-2014-15/</link>
+      <pubDate>Tue, 30 Sep 2014 10:10:01 +0000</pubDate>
+      
+      <guid>/blog/2014/09/30/lec0012-%C3%A1lgebra-lineal-matrices-umh1251-2014-15/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/10iPsR5
+Álgebra lineal. Matrices. Asignatura: Matemáticas Grado en Administración y Dirección de Empresas. Campus de Orihuela. Profesor: Pedro Campillo Herrero. Dpto. de Estadística, Matemáticas e Informática. Área de Matemática Aplicada. Proyecto PLE. Universidad Miguel Hernández de Elche.
+Introducción a las matrices.
+web asignatura: http://umh0966.edu.umh.es
+  </description>
+    </item>
+    
+    <item>
+      <title>Lec001.1 Álgebra lineal. Vectores (umh1251 2014-15)</title>
+      <link>/blog/2014/09/30/lec0011-%C3%A1lgebra-lineal-vectores-umh1251-2014-15/</link>
+      <pubDate>Tue, 30 Sep 2014 09:55:55 +0000</pubDate>
+      
+      <guid>/blog/2014/09/30/lec0011-%C3%A1lgebra-lineal-vectores-umh1251-2014-15/</guid>
+      <description>Más vídeos de la colección en el siguiente link:
+Álgebra lineal. Vectores. Asignatura: Matemáticas Grado en Administración y Dirección de Empresas. Campus de Orihuela. Profesor: Pedro Campillo Herrero. Dpto. de Estadística, Matemáticas e Informática. Área de Matemática Aplicada. Proyecto PLE. Universidad Miguel Hernández de Elche.
+Introducción a los vectores.
+web asignatura: http://umh0966.edu.umh.es
+  </description>
+    </item>
+    
+    <item>
+      <title>Vídeo Promocional del Grado en Estadística Empresarial. UMH. Elche</title>
+      <link>/blog/2013/09/04/video-promocional-del-grado-en-estadistica-empresarial-umh-elche/</link>
+      <pubDate>Wed, 04 Sep 2013 10:41:09 +0000</pubDate>
+      
+      <guid>/blog/2013/09/04/video-promocional-del-grado-en-estadistica-empresarial-umh-elche/</guid>
+      <description>Grado en Estadística Empresarial. Facultad de Ciencias Sociales y Jurídicas de Elche. Campus de Elche Universidad Miguel Hernández de Elche
+  </description>
+    </item>
+    
+    <item>
+      <title>UNED - Matemáticas para la economía: Álgebra - Examen mayo 2013 - Problema 01</title>
+      <link>/blog/2013/08/04/uned-matematicas-para-la-economia-%C3%A1lgebra-examen-mayo-2013-problema-01/</link>
+      <pubDate>Sun, 04 Aug 2013 12:11:19 +0000</pubDate>
+      
+      <guid>/blog/2013/08/04/uned-matematicas-para-la-economia-%C3%A1lgebra-examen-mayo-2013-problema-01/</guid>
+      <description>También puedes seguirnos en:
+WEB: http://universoexacto.com/
+FACEBOOK: https://www.facebook.com/universoexacto.centrosdeestudios
+TWITTER: https://twitter.com/universoexacto
+  </description>
+    </item>
+    
+    <item>
+      <title>umh1263 2012-13 Lec028 Práctica Teorema Central del Límite</title>
+      <link>/blog/2013/06/18/umh1263-2012-13-lec028-practica-teorema-central-del-limite/</link>
+      <pubDate>Tue, 18 Jun 2013 09:44:14 +0000</pubDate>
+      
+      <guid>/blog/2013/06/18/umh1263-2012-13-lec028-practica-teorema-central-del-limite/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/15vMRE0
+Práctica Teorema Central del Límite. Asignatura: Análisis Exploratorio de Datos. Grado en Administración y Dirección de Empresas (Elche). Profesora: Mª Asunción Martínez Mayoral. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE 2013. Universidad Miguel Hernández de Elche.
+Aplicaciones del Teorema Central del Límite para el cálculo de probabilidades.
+web asignatura: http://umh1263.edu.umh.es web: http://umh.es
+  </description>
+    </item>
+    
+    <item>
+      <title>umh1263 2012-13 Lec026 Práctica Variables Aleatorias Normales</title>
+      <link>/blog/2013/06/17/umh1263-2012-13-lec026-practica-variables-aleatorias-normales/</link>
+      <pubDate>Mon, 17 Jun 2013 12:36:15 +0000</pubDate>
+      
+      <guid>/blog/2013/06/17/umh1263-2012-13-lec026-practica-variables-aleatorias-normales/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/15vMRE0
+Práctica Variables Aleatorias Normales. Asignatura: Análisis Exploratorio de Datos. Grado en Administración y Dirección de Empresas (Elche). Profesora: Mª Asunción Martínez Mayoral. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE 2013. Universidad Miguel Hernández de Elche.
+Cálculo de probabilidades con la distribución normal. Aplicación de sus propiedades.
+web asignatura: http://umh1263.edu.umh.es web: http://umh.es
+  </description>
+    </item>
+    
+    <item>
+      <title>umh1263 2012-13 Lec24 Práctica Variables Aleatorias Discretas</title>
+      <link>/blog/2013/06/14/umh1263-2012-13-lec24-practica-variables-aleatorias-discretas/</link>
+      <pubDate>Fri, 14 Jun 2013 10:44:17 +0000</pubDate>
+      
+      <guid>/blog/2013/06/14/umh1263-2012-13-lec24-practica-variables-aleatorias-discretas/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/15vMRE0
+Práctica de Variables Discretas. Asignatura: Análisis Exploratorio de Datos. Grado en Administración y Dirección de Empresas (Elche). Profesora: Mª Asunción Martínez Mayoral. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE 2013. Universidad Miguel Hernández de Elche.
+Identificación de variables Bernoulli, Binomial y Poisson. Cálculo de probabilidades.
+web asignatura: http://umh1263.edu.umh.es web: http://umh.es
+  </description>
+    </item>
+    
+    <item>
+      <title>umh1263 2012-13 Lec020  Práctica Árboles de Probabilidad</title>
+      <link>/blog/2013/06/13/umh1263-2012-13-lec020-practica-%C3%A1rboles-de-probabilidad/</link>
+      <pubDate>Thu, 13 Jun 2013 13:05:06 +0000</pubDate>
+      
+      <guid>/blog/2013/06/13/umh1263-2012-13-lec020-practica-%C3%A1rboles-de-probabilidad/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/15vMRE0
+Práctica Árboles de Probabilidad. Asignatura: Análisis Exploratorio de Datos. Grado en Administración y Dirección de Empresas (Elche). Profesora: Mª Asunción Martínez Mayoral. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE 2013. Universidad Miguel Hernández de Elche.
+Resolución de problemas de probabilidad condicionada a través de árboles de probabilidad.
+web asignatura: http://umh1263.edu.umh.es web: http://umh.es
+  </description>
+    </item>
+    
+    <item>
+      <title>umh1263 2012-13 Lec014 Predicción con series temporales. Ajuste de Tendencia y Estacionalidad</title>
+      <link>/blog/2013/06/13/umh1263-2012-13-lec014-prediccion-con-series-temporales-ajuste-de-tendencia-y-estacionalidad/</link>
+      <pubDate>Thu, 13 Jun 2013 05:59:09 +0000</pubDate>
+      
+      <guid>/blog/2013/06/13/umh1263-2012-13-lec014-prediccion-con-series-temporales-ajuste-de-tendencia-y-estacionalidad/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/15vMRE0
+Predicción con series temporales. Ajuste de Tendencia y Estacionalidad. Asignatura: Análisis Exploratorio de Datos. Grado en Administración y Dirección de Empresas (Elche). Profesora: Mª Asunción Martínez Mayoral. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE 2013. Universidad Miguel Hernández de Elche.
+Ajuste de tendencia con medias móviles y modelos paramétricos sencillos. Ajuste de estacionalidad a través de índices de estacionalidad.</description>
+    </item>
+    
+    <item>
+      <title>umh3067 2012-13 Lec005 Modelo Regresión Lineal Multiple</title>
+      <link>/blog/2013/06/03/umh3067-2012-13-lec005-modelo-regresion-lineal-multiple/</link>
+      <pubDate>Mon, 03 Jun 2013 06:46:08 +0000</pubDate>
+      
+      <guid>/blog/2013/06/03/umh3067-2012-13-lec005-modelo-regresion-lineal-multiple/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/11QEbpF
+Modelo Regresión Lineal Múltiple. Asignatura: Econometría. Curso de Adaptación Grado en Administración y Dirección de Empresas. Profesor: Juan Aparicio Baeza. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE 2013. Universidad Miguel Hernández de Elche.
+Teoría del Modelo de Regresión Lineal Múltiple desarrollada junto al ejemplo &amp;lsquo;Bosque&amp;rsquo;.
+web asignatura: http://umh3067.edu.umh.es web: http://umh.es
+  </description>
+    </item>
+    
+    <item>
+      <title>umh1263 2012-13 Lec022 Práctica Variables Aleatorias</title>
+      <link>/blog/2013/05/21/umh1263-2012-13-lec022-practica-variables-aleatorias/</link>
+      <pubDate>Tue, 21 May 2013 06:43:24 +0000</pubDate>
+      
+      <guid>/blog/2013/05/21/umh1263-2012-13-lec022-practica-variables-aleatorias/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/15vMRE0
+Práctica de Variables Aleatorias. Asignatura: Análisis Exploratorio de Datos. Grado en Administración y Dirección de Empresas (Elche). Profesora: Mª Asunción Martínez Mayoral. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE 2013. Universidad Miguel Hernández de Elche.
+Identificación de variables aleatorias, determinación de distribuciones de probabilidad. Cálculo de probabilidades.
+web asignatura: http://umh1263.edu.umh.es web: http://umh.es
+  </description>
+    </item>
+    
+    <item>
+      <title>umh1263 2012-13 Lec017 Probabilidad de Sucesos Compuestos</title>
+      <link>/blog/2013/05/21/umh1263-2012-13-lec017-probabilidad-de-sucesos-compuestos/</link>
+      <pubDate>Tue, 21 May 2013 06:40:49 +0000</pubDate>
+      
+      <guid>/blog/2013/05/21/umh1263-2012-13-lec017-probabilidad-de-sucesos-compuestos/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/15vMRE0
+Probabilidad de Sucesos Compuestos. Asignatura: Análisis Exploratorio de Datos. Grado en Administración y Dirección de Empresas (Elche). Profesora: Mª Asunción Martínez Mayoral. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE 2013. Universidad Miguel Hernández de Elche.
+Construcción de sucesos a partir de la unión y la intersección. Cálculo de probabilidades de sucesos unión e intersección.</description>
+    </item>
+    
+    <item>
+      <title>umh1263 2012-13 Lec012 Series Temporales</title>
+      <link>/blog/2013/05/21/umh1263-2012-13-lec012-series-temporales/</link>
+      <pubDate>Tue, 21 May 2013 06:24:36 +0000</pubDate>
+      
+      <guid>/blog/2013/05/21/umh1263-2012-13-lec012-series-temporales/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/15vMRE0
+Series Temporales. Asignatura: Análisis Exploratorio de Datos. Grado en Administración y Dirección de Empresas (Elche). Profesora: Mª Asunción Martínez Mayoral. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE 2013. Universidad Miguel Hernández de Elche.
+Introducción a las series temporales. Descripción de las componentes básicas: tendencia, estacionalidad, componente cíclica e irregular. Modelos aditivos y multiplicativos; identificación.</description>
+    </item>
+    
+    <item>
+      <title>Ampliación de Cálculo: La integral de probabilidad</title>
+      <link>/blog/2013/05/20/ampliacion-de-calculo-la-integral-de-probabilidad/</link>
+      <pubDate>Mon, 20 May 2013 17:19:52 +0000</pubDate>
+      
+      <guid>/blog/2013/05/20/ampliacion-de-calculo-la-integral-de-probabilidad/</guid>
+      <description>En este minivídeo se calcula la integral de probabilidad relacionando la integral impropia con una integral doble e integrando en sectores circulares. Se comprueba asimismo que la integral de probabilidad coincide con la función gamma en 1&amp;frasl;2.
+Vídeo producido por el Gabinete de Tele-Educación de la Universidad Politécnica de Madrid
+  </description>
+    </item>
+    
+    <item>
+      <title>umh5030 2013-14 Lec001 Conceptos Básicos con Excel. (1/2)</title>
+      <link>/blog/2013/05/17/umh5030-2013-14-lec001-conceptos-basicos-con-excel-1-2/</link>
+      <pubDate>Fri, 17 May 2013 12:01:15 +0000</pubDate>
+      
+      <guid>/blog/2013/05/17/umh5030-2013-14-lec001-conceptos-basicos-con-excel-1-2/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/13cxLxh
+Conceptos Básicos con Excel (1&amp;frasl;2). Asignatura: Matemática Financiera II. Licenciado en Ciencias Actuariales y Financieras. Profesor: José Manuel Brotons Martínez. Dpto. de Estudios Económicos y Financieros. Área de Economía Financiera y Contabilidad. Proyecto PLE 2013. Universidad Miguel Hernández de Elche.
+Conceptos Financieros introductorios con Excel. Se plantean las nociones básicas para usar el Excel en el ámbito de las Matemáticas Financieras.</description>
+    </item>
+    
+    <item>
+      <title>umh5030 2013-14 Lec002 Conceptos Básicos con excel. (2/2)</title>
+      <link>/blog/2013/05/17/umh5030-2013-14-lec002-conceptos-basicos-con-excel-2-2/</link>
+      <pubDate>Fri, 17 May 2013 11:56:58 +0000</pubDate>
+      
+      <guid>/blog/2013/05/17/umh5030-2013-14-lec002-conceptos-basicos-con-excel-2-2/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/13cxLxh
+Conceptos Básicos con Excel (2&amp;frasl;2). Asignatura: Matemática Financiera II. Licenciado en Ciencias Actuariales y Financieras. Profesor: José Manuel Brotons Martínez. Dpto. de Estudios Económicos y Financieros. Área de Economía Financiera y Contabilidad. Proyecto PLE 2013. Universidad Miguel Hernández de Elche.
+Es continuacion de la lección 1: Conceptos Financieros introductorios con Excel. Se plantean las nociones básicas para usar el Excel en el ámbito de las Matemáticas Financieras.</description>
+    </item>
+    
+    <item>
+      <title>umh1263 2012-13 Lec016 Introducción a la Probabilidad</title>
+      <link>/blog/2013/05/07/umh1263-2012-13-lec016-introduccion-a-la-probabilidad/</link>
+      <pubDate>Tue, 07 May 2013 06:10:25 +0000</pubDate>
+      
+      <guid>/blog/2013/05/07/umh1263-2012-13-lec016-introduccion-a-la-probabilidad/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/15vMRE0
+Introducción a la Probabilidad. Asignatura: Análisis Exploratorio de Datos. Grado en Administración y Dirección de Empresas (Elche). Profesora: Mª Asunción Martínez Mayoral. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE 2013. Universidad Miguel Hernández de Elche.
+El azar y la probabilidad, conceptos elementales de probabilidad, propiedades-axiomas del cálculo de probabilidades.
+web asignatura: http://umh1263.edu.umh.es web: http://umh.</description>
+    </item>
+    
+    <item>
+      <title>umh1263 2012-13 Lec013 Prácticas Series Temporales</title>
+      <link>/blog/2013/04/15/umh1263-2012-13-lec013-practicas-series-temporales/</link>
+      <pubDate>Mon, 15 Apr 2013 08:29:23 +0000</pubDate>
+      
+      <guid>/blog/2013/04/15/umh1263-2012-13-lec013-practicas-series-temporales/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/15vMRE0
+Práctica de Series Temporales. Asignatura: Análisis Exploratorio de Datos. Grado en Administración y Dirección de Empresas (Elche). Profesora: Mª Asunción Martínez Mayoral. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE 2013. Universidad Miguel Hernández de Elche.
+Descripción gráfica de series temporales. Ajuste de tendencia con medias móviles y modelos lineal, parabólico y exponencial. Elección del modelo de tendencia.</description>
+    </item>
+    
+    <item>
+      <title>umh1263 2012-13 Lec010 Números Índice Complejos</title>
+      <link>/blog/2013/04/09/umh1263-2012-13-lec010-numeros-%C3%ADndice-complejos/</link>
+      <pubDate>Tue, 09 Apr 2013 13:03:15 +0000</pubDate>
+      
+      <guid>/blog/2013/04/09/umh1263-2012-13-lec010-numeros-%C3%ADndice-complejos/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/15vMRE0
+Números Índice Complejos. Asignatura: Análisis Exploratorio de Datos. Grado en Administración y Dirección de Empresas (Elche). Profesora: Mª Asunción Martínez Mayoral. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE 2013. Universidad Miguel Hernández de Elche.
+Números índice complejos de Laspeyres y Paasche. Contexto, cálculo e interpretación.
+web asignatura: http://umh1263.edu.umh.es web: http://umh.es
+  </description>
+    </item>
+    
+    <item>
+      <title>umh1263 2012-13 Lec011 Práctica Números Índice Complejos</title>
+      <link>/blog/2013/03/27/umh1263-2012-13-lec011-practica-numeros-%C3%ADndice-complejos/</link>
+      <pubDate>Wed, 27 Mar 2013 08:29:48 +0000</pubDate>
+      
+      <guid>/blog/2013/03/27/umh1263-2012-13-lec011-practica-numeros-%C3%ADndice-complejos/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/15vMRE0
+Práctica de Números Índice Complejos. Asignatura: Análisis Exploratorio de Datos. Grado en Administración y Dirección de Empresas (Elche). Profesora: Mª Asunción Martínez Mayoral. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE 2013. Universidad Miguel Hernández de Elche.
+Cálculo de índices complejos no ponderados (Bradstreet y Dûtot, Sauerberk) y ponderados (Laspeyres y Paasche). Interpretación de resultados.</description>
+    </item>
+    
+    <item>
+      <title>umh3067 2012-13 Lec002 Modelos de RLS</title>
+      <link>/blog/2013/03/26/umh3067-2012-13-lec002-modelos-de-rls/</link>
+      <pubDate>Tue, 26 Mar 2013 23:16:15 +0000</pubDate>
+      
+      <guid>/blog/2013/03/26/umh3067-2012-13-lec002-modelos-de-rls/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/11QEbpF
+Modelos de RLS. Asignatura: Econometría. Curso de Adaptación Grado en Administración y Dirección de Empresas. Profesor: Juan Aparicio Baeza. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE 2013. Universidad Miguel Hernández de Elche.
+Teoría y práctica del Modelo de Regresión Lineal Simple usando R.
+web asignatura: http://umh3067.edu.umh.es web: http://umh.es
+  </description>
+    </item>
+    
+    <item>
+      <title>umh3067 2012-13 Lec001 El proyecto R</title>
+      <link>/blog/2013/03/26/umh3067-2012-13-lec001-el-proyecto-r/</link>
+      <pubDate>Tue, 26 Mar 2013 23:01:56 +0000</pubDate>
+      
+      <guid>/blog/2013/03/26/umh3067-2012-13-lec001-el-proyecto-r/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/11QEbpF
+El Proyecto R. Asignatura: Econometría. Curso de Adaptación Grado en Administración y Dirección de Empresas. Profesor: Juan Aparicio Baeza. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE 2013. Universidad Miguel Hernández de Elche.
+Primeros pasos con el programa de ordenador R.
+web asignatura: http://umh3067.edu.umh.es web: http://umh.es
+  </description>
+    </item>
+    
+    <item>
+      <title>umh1263 2012-13 Lec009. Práctica Números índice simples</title>
+      <link>/blog/2013/03/21/umh1263-2012-13-lec009-practica-numeros-indice-simples/</link>
+      <pubDate>Thu, 21 Mar 2013 07:31:55 +0000</pubDate>
+      
+      <guid>/blog/2013/03/21/umh1263-2012-13-lec009-practica-numeros-indice-simples/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/15vMRE0
+Práctica de Números Índice Simples. Asignatura: Análisis Exploratorio de Datos. Grado en Administración y Dirección de Empresas (Elche). Profesora: Mª Asunción Martínez Mayoral. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE 2013. Universidad Miguel Hernández de Elche.
+Cálculo con Excel de números índice simples, tasas de variación, tasas de crecimiento promedio, índices interanuales y enlazado de series.</description>
+    </item>
+    
+    <item>
+      <title>umh1263 2012-13 Lec007. Práctica ED3. Descriptiva para variables numéricas</title>
+      <link>/blog/2013/03/20/umh1263-2012-13-lec007-practica-ed3-descriptiva-para-variables-numericas/</link>
+      <pubDate>Wed, 20 Mar 2013 13:46:44 +0000</pubDate>
+      
+      <guid>/blog/2013/03/20/umh1263-2012-13-lec007-practica-ed3-descriptiva-para-variables-numericas/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/15vMRE0
+Práctica ED3. Descriptiva para variables numéricas. Asignatura: Análisis Exploratorio de Datos. Grado en Administración y Dirección de Empresas (Elche). Profesora: Mª Asunción Martínez Mayoral. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE 2013. Universidad Miguel Hernández de Elche.
+Descriptiva numérica para variables numéricas con Excel. Creación de gráficos de cajas y bigotes con Excel. Interpretación de resultados.</description>
+    </item>
+    
+    <item>
+      <title>umh1263 2012-13 Lec004 Medidas de Localización, Dispersión y Forma</title>
+      <link>/blog/2013/03/11/umh1263-2012-13-lec004-medidas-de-localizacion/</link>
+      <pubDate>Mon, 11 Mar 2013 13:41:50 +0000</pubDate>
+      
+      <guid>/blog/2013/03/11/umh1263-2012-13-lec004-medidas-de-localizacion/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/15vMRE0
+Medidas de Localización, Dispersión y Forma. Gráficos. Asignatura: Análisis Exploratorio de Datos. Grado en Administración y Dirección de Empresas (Elche). Profesora: Mª Asunción Martínez Mayoral. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE 2013. Universidad Miguel Hernández de Elche.
+Medidas de localización, dispersión y forma para datos numéricos. Fórmulas en datos agregados y desagregados. Diagramas de cajas.</description>
+    </item>
+    
+    <item>
+      <title>umh1263 2012-13 Lec008. Números índice. Introducción y conceptos básicos</title>
+      <link>/blog/2013/03/11/umh1263-2012-13-lec008-numeros-indice-introduccion-y-conceptos-basicos/</link>
+      <pubDate>Mon, 11 Mar 2013 13:40:40 +0000</pubDate>
+      
+      <guid>/blog/2013/03/11/umh1263-2012-13-lec008-numeros-indice-introduccion-y-conceptos-basicos/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/15vMRE0
+Números Índice: Introducción y Conceptos Básicos. Asignatura: Análisis Exploratorio de Datos. Grado en Administración y Dirección de Empresas (Elche). Profesora: Mª Asunción Martínez Mayoral. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE 2013. Universidad Miguel Hernández de Elche.
+Introducción a los números índice. Números índice simples, tasas de variación, tasa de crecimiento promedio, índices encadenados.</description>
+    </item>
+    
+    <item>
+      <title>umh1263 2012-13 Lec005. Práctica ED1-Descriptiva para variables nominales</title>
+      <link>/blog/2013/03/07/umh1263-2012-13-lec005-practica-ed1-descriptiva-para-variables-nominales/</link>
+      <pubDate>Thu, 07 Mar 2013 08:19:35 +0000</pubDate>
+      
+      <guid>/blog/2013/03/07/umh1263-2012-13-lec005-practica-ed1-descriptiva-para-variables-nominales/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/15vMRE0
+Práctica ED1. Descriptiva para variables nominales. Asignatura: Análisis Exploratorio de Datos. Grado en Administración y Dirección de Empresas (Elche). Profesora: Mª Asunción Martínez Mayoral. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE 2013. Universidad Miguel Hernández de Elche.
+Cálculo de tablas de frecuencias para datos relativos a variables nominales. Gráficos de barras y sectores.</description>
+    </item>
+    
+    <item>
+      <title>umh1263 2012-13 Lec006. Práctica ED2-Descriptiva para variables ordinales</title>
+      <link>/blog/2013/03/07/umh1263-2012-13-lec006-practica-ed2-descriptiva-para-variables-ordinales/</link>
+      <pubDate>Thu, 07 Mar 2013 08:15:15 +0000</pubDate>
+      
+      <guid>/blog/2013/03/07/umh1263-2012-13-lec006-practica-ed2-descriptiva-para-variables-ordinales/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/15vMRE0
+Práctica ED2. Descriptiva para variables ordinales. Asignatura: Análisis Exploratorio de Datos. Grado en Administración y Dirección de Empresas (Elche). Profesora: Mª Asunción Martínez Mayoral. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE 2013. Universidad Miguel Hernández de Elche.
+Tablas de frecuencias para variables ordinales. Codificación numérica. Gráficos relativos y acumulados.
+web asignatura: http://umh1263.edu.umh.es web: http://umh.</description>
+    </item>
+    
+    <item>
+      <title>umh1263 2012-13 Lec003 Qué es el INE Obtener información</title>
+      <link>/blog/2013/02/26/umh1263-2012-13-lec003-que-es-el-ine-obtener-informacion/</link>
+      <pubDate>Tue, 26 Feb 2013 13:21:15 +0000</pubDate>
+      
+      <guid>/blog/2013/02/26/umh1263-2012-13-lec003-que-es-el-ine-obtener-informacion/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/15vMRE0
+Qué es el INE. Obtener información. Asignatura: Análisis Exploratorio de Datos. Grado en Administración y Dirección de Empresas (Elche). Profesora: Mª Asunción Martínez Mayoral. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE 2013. Universidad Miguel Hernández de Elche.
+Navegación en la página de INE. Qué hace el INE. ¿Cómo acceder a los datos publicados por el INE y descargarlos?</description>
+    </item>
+    
+    <item>
+      <title>umh1263 2012-13 Lec002 Tablas de Frecuencias y descriptivos gráficos</title>
+      <link>/blog/2013/02/22/umh1263-2012-13-lec002-tablas-de-frecuencias-y-descriptivos-graficos/</link>
+      <pubDate>Fri, 22 Feb 2013 08:37:07 +0000</pubDate>
+      
+      <guid>/blog/2013/02/22/umh1263-2012-13-lec002-tablas-de-frecuencias-y-descriptivos-graficos/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/15vMRE0
+Tablas de Frecuencias y Descriptivos Gráficos. Asignatura: Análisis Exploratorio de Datos. Grado en Administración y Dirección de Empresas (Elche). Profesora: Mª Asunción Martínez Mayoral. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE 2013. Universidad Miguel Hernández de Elche.
+Tablas de frecuencias. Gráficos para porcentajes: barras, líneas, sectores e histogramas.
+web asignatura: http://umh1263.edu.umh.es web: http://umh.es</description>
+    </item>
+    
+    <item>
+      <title>umh1263 2012-13 Lec001 Introduccion Estadística Descriptiva</title>
+      <link>/blog/2013/02/20/umh1263-2012-13-lec001-introduccion-estadistica-descriptiva/</link>
+      <pubDate>Wed, 20 Feb 2013 14:45:49 +0000</pubDate>
+      
+      <guid>/blog/2013/02/20/umh1263-2012-13-lec001-introduccion-estadistica-descriptiva/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/15vMRE0
+Introducción: Estadística Descriptiva. Asignatura: Análisis Exploratorio de Datos. Grado en Administración y Dirección de Empresas (Elche). Profesora: Mª Asunción Martínez Mayoral. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE 2013. Universidad Miguel Hernández de Elche.
+Introducción al Análisis Exploratorio de Datos. Qué es la Estadística. Qué es la Estadística Descriptiva.
+web asignatura: http://umh1263.edu.umh.es web: http://umh.</description>
+    </item>
+    
+    <item>
+      <title>Curso R - Análisis de datos</title>
+      <link>/blog/2012/12/18/curso-r-analisis-de-datos/</link>
+      <pubDate>Tue, 18 Dec 2012 11:59:21 +0000</pubDate>
+      
+      <guid>/blog/2012/12/18/curso-r-analisis-de-datos/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Curso R - Tipos y estructuras de datos</title>
+      <link>/blog/2012/12/18/curso-r-tipos-y-estructuras-de-datos/</link>
+      <pubDate>Tue, 18 Dec 2012 11:49:18 +0000</pubDate>
+      
+      <guid>/blog/2012/12/18/curso-r-tipos-y-estructuras-de-datos/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Curso R - Importar y Exportar</title>
+      <link>/blog/2012/12/18/curso-r-importar-y-exportar/</link>
+      <pubDate>Tue, 18 Dec 2012 11:30:16 +0000</pubDate>
+      
+      <guid>/blog/2012/12/18/curso-r-importar-y-exportar/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Curso R - Infraestructura</title>
+      <link>/blog/2012/12/18/curso-r-infraestructura/</link>
+      <pubDate>Tue, 18 Dec 2012 11:28:35 +0000</pubDate>
+      
+      <guid>/blog/2012/12/18/curso-r-infraestructura/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Curso R - Introducción</title>
+      <link>/blog/2012/12/18/curso-r-introduccion/</link>
+      <pubDate>Tue, 18 Dec 2012 11:14:58 +0000</pubDate>
+      
+      <guid>/blog/2012/12/18/curso-r-introduccion/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Presentacion Curso R</title>
+      <link>/blog/2012/12/18/presentacion-curso-r/</link>
+      <pubDate>Tue, 18 Dec 2012 11:03:30 +0000</pubDate>
+      
+      <guid>/blog/2012/12/18/presentacion-curso-r/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>ÁLGEBRA: Examen 2 - 4ª parte (2d)</title>
+      <link>/blog/2012/12/11/%C3%A1lgebra-examen-2-4%C2%AA-parte-2d/</link>
+      <pubDate>Tue, 11 Dec 2012 16:10:28 +0000</pubDate>
+      
+      <guid>/blog/2012/12/11/%C3%A1lgebra-examen-2-4%C2%AA-parte-2d/</guid>
+      <description>4ª parte: Examen (2) de la UNED (ADE) en cinco vídeos.
+  </description>
+    </item>
+    
+    <item>
+      <title>ÁLGEBRA: Examen 2 - 3ª parte (2c)</title>
+      <link>/blog/2012/12/11/%C3%A1lgebra-examen-2-3%C2%AA-parte-2c/</link>
+      <pubDate>Tue, 11 Dec 2012 15:34:27 +0000</pubDate>
+      
+      <guid>/blog/2012/12/11/%C3%A1lgebra-examen-2-3%C2%AA-parte-2c/</guid>
+      <description>3ª parte: Examen (2) de la UNED (ADE) en cinco vídeos.
+  </description>
+    </item>
+    
+    <item>
+      <title>ÁLGEBRA: Examen 2 - 5ª parte (2e)</title>
+      <link>/blog/2012/12/11/%C3%A1lgebra-examen-2-5%C2%AA-parte-2e/</link>
+      <pubDate>Tue, 11 Dec 2012 15:01:17 +0000</pubDate>
+      
+      <guid>/blog/2012/12/11/%C3%A1lgebra-examen-2-5%C2%AA-parte-2e/</guid>
+      <description>5ª parte: Examen (2) de la UNED (ADE) en cinco vídeos.
+  </description>
+    </item>
+    
+    <item>
+      <title>ÁLGEBRA: Examen 2 - 1ª parte (2a)</title>
+      <link>/blog/2012/12/11/%C3%A1lgebra-examen-2-1%C2%AA-parte-2a/</link>
+      <pubDate>Tue, 11 Dec 2012 14:52:07 +0000</pubDate>
+      
+      <guid>/blog/2012/12/11/%C3%A1lgebra-examen-2-1%C2%AA-parte-2a/</guid>
+      <description>1ª parte: Examen (2) de la UNED (ADE) en cinco vídeos.
+  </description>
+    </item>
+    
+    <item>
+      <title>ÁLGEBRA: Examen 1 - 5ª parte (1e)</title>
+      <link>/blog/2012/12/11/%C3%A1lgebra-examen-1-5%C2%AA-parte-1e/</link>
+      <pubDate>Tue, 11 Dec 2012 13:57:02 +0000</pubDate>
+      
+      <guid>/blog/2012/12/11/%C3%A1lgebra-examen-1-5%C2%AA-parte-1e/</guid>
+      <description>5ª parte: Examen de la UNED (ADE) en cinco vídeos.
+  </description>
+    </item>
+    
+    <item>
+      <title>ÁLGEBRA: Examen 2 - 2ª parte (2b)</title>
+      <link>/blog/2012/12/11/%C3%A1lgebra-examen-2-2%C2%AA-parte-2b/</link>
+      <pubDate>Tue, 11 Dec 2012 13:31:28 +0000</pubDate>
+      
+      <guid>/blog/2012/12/11/%C3%A1lgebra-examen-2-2%C2%AA-parte-2b/</guid>
+      <description>2ª parte: Examen (2) de la UNED (ADE) en cinco vídeos.
+  </description>
+    </item>
+    
+    <item>
+      <title>Vídeo promocional Estadística Empresarial</title>
+      <link>/blog/2012/12/11/video-promocional-estadistica-empresarial/</link>
+      <pubDate>Tue, 11 Dec 2012 12:01:42 +0000</pubDate>
+      
+      <guid>/blog/2012/12/11/video-promocional-estadistica-empresarial/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>ÁLGEBRA: Examen 1 - 3ª parte (1c)</title>
+      <link>/blog/2012/12/04/%C3%A1lgebra-examen-1-3%C2%AA-parte-1c/</link>
+      <pubDate>Tue, 04 Dec 2012 15:07:13 +0000</pubDate>
+      
+      <guid>/blog/2012/12/04/%C3%A1lgebra-examen-1-3%C2%AA-parte-1c/</guid>
+      <description>3ª parte: Examen de la UNED (ADE) en cinco vídeos.
+  </description>
+    </item>
+    
+    <item>
+      <title>ÁLGEBRA: Examen 1 - 2ª parte (1b)</title>
+      <link>/blog/2012/12/04/%C3%A1lgebra-examen-1-2%C2%AA-parte-1b/</link>
+      <pubDate>Tue, 04 Dec 2012 13:50:57 +0000</pubDate>
+      
+      <guid>/blog/2012/12/04/%C3%A1lgebra-examen-1-2%C2%AA-parte-1b/</guid>
+      <description>2ª parte: Examen de la UNED (ADE) en cinco vídeos.
+  </description>
+    </item>
+    
+    <item>
+      <title>ÁLGEBRA: Examen 1 - 1ª parte (1a)</title>
+      <link>/blog/2012/12/04/%C3%A1lgebra-examen-1-1%C2%AA-parte-1a/</link>
+      <pubDate>Tue, 04 Dec 2012 13:21:51 +0000</pubDate>
+      
+      <guid>/blog/2012/12/04/%C3%A1lgebra-examen-1-1%C2%AA-parte-1a/</guid>
+      <description>1ª parte: Examen de la UNED (ADE) en cinco vídeos.
+  </description>
+    </item>
+    
+    <item>
+      <title>ÁLGEBRA: Examen 1 - 4ª parte (1d)</title>
+      <link>/blog/2012/12/04/%C3%A1lgebra-examen-1-4%C2%AA-parte-1d/</link>
+      <pubDate>Tue, 04 Dec 2012 12:05:08 +0000</pubDate>
+      
+      <guid>/blog/2012/12/04/%C3%A1lgebra-examen-1-4%C2%AA-parte-1d/</guid>
+      <description>4ª parte: Examen de la UNED (ADE) en cinco vídeos.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

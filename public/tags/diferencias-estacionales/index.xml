@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Diferencias estacionales on Uvide</title>
+    <link>/tags/diferencias-estacionales/</link>
+    <description>Recent content in Diferencias estacionales on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 02 Apr 2013 22:30:22 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/diferencias-estacionales/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>(Econometría) Identificacion y estimacion: 3. Buscando el segundo modelo</title>
+      <link>/blog/2013/04/02/econometria-identificacion-y-estimacion-3-buscando-el-segundo-modelo/</link>
+      <pubDate>Tue, 02 Apr 2013 22:30:22 +0000</pubDate>
+      
+      <guid>/blog/2013/04/02/econometria-identificacion-y-estimacion-3-buscando-el-segundo-modelo/</guid>
+      <description>Mediante este tutorial de EViews se explica cómo, en ocasiones, intentando identificar un segundo modelo SARIMA alternativo, nos damos cuenta de que la variable endógena que estamos utilizando no tiene el número de diferencias que debería.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

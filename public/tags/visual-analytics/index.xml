@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Visual Analytics on Uvide</title>
+    <link>/tags/visual-analytics/</link>
+    <description>Recent content in Visual Analytics on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 24 Feb 2017 11:35:24 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/visual-analytics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>&#34;Cómo introducirse en el universo Big Data&#34; | UNIR OPENCLASS</title>
+      <link>/blog/2017/02/24/como-introducirse-en-el-universo-big-data-unir-openclass/</link>
+      <pubDate>Fri, 24 Feb 2017 11:35:24 +0000</pubDate>
+      
+      <guid>/blog/2017/02/24/como-introducirse-en-el-universo-big-data-unir-openclass/</guid>
+      <description>Consulta aquí (http://www.unir.net/ingenieria/master-visual-analytics-big-data/549200001429/) más información sobre el Máster Universitario en Visual Analytics &amp;amp; Big Data.
+Las empresas están desarrollando sus estrategias de Big Data y están proliferando los empleos relacionados con tecnologías. En esta sesión online, ANTONIO PITA LOZANO, aborda las capacidades que son necesarias para comenzar a desarrollarse en esta disciplina así como los diferentes perfiles existentes en este campo. ANTONIO PITA LOZANO es experto en Ciencia de los datos con una dilatada carrera en el sector financiero.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>series on Uvide</title>
+    <link>/tags/series/</link>
+    <description>Recent content in series on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 13 Jun 2013 05:59:09 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/series/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>umh1263 2012-13 Lec014 Predicción con series temporales. Ajuste de Tendencia y Estacionalidad</title>
+      <link>/blog/2013/06/13/umh1263-2012-13-lec014-prediccion-con-series-temporales-ajuste-de-tendencia-y-estacionalidad/</link>
+      <pubDate>Thu, 13 Jun 2013 05:59:09 +0000</pubDate>
+      
+      <guid>/blog/2013/06/13/umh1263-2012-13-lec014-prediccion-con-series-temporales-ajuste-de-tendencia-y-estacionalidad/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/15vMRE0
+Predicción con series temporales. Ajuste de Tendencia y Estacionalidad. Asignatura: Análisis Exploratorio de Datos. Grado en Administración y Dirección de Empresas (Elche). Profesora: Mª Asunción Martínez Mayoral. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE 2013. Universidad Miguel Hernández de Elche.
+Ajuste de tendencia con medias móviles y modelos paramétricos sencillos. Ajuste de estacionalidad a través de índices de estacionalidad.</description>
+    </item>
+    
+    <item>
+      <title>umh1263 2012-13 Lec012 Series Temporales</title>
+      <link>/blog/2013/05/21/umh1263-2012-13-lec012-series-temporales/</link>
+      <pubDate>Tue, 21 May 2013 06:24:36 +0000</pubDate>
+      
+      <guid>/blog/2013/05/21/umh1263-2012-13-lec012-series-temporales/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/15vMRE0
+Series Temporales. Asignatura: Análisis Exploratorio de Datos. Grado en Administración y Dirección de Empresas (Elche). Profesora: Mª Asunción Martínez Mayoral. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE 2013. Universidad Miguel Hernández de Elche.
+Introducción a las series temporales. Descripción de las componentes básicas: tendencia, estacionalidad, componente cíclica e irregular. Modelos aditivos y multiplicativos; identificación.</description>
+    </item>
+    
+    <item>
+      <title>umh1263 2012-13 Lec013 Prácticas Series Temporales</title>
+      <link>/blog/2013/04/15/umh1263-2012-13-lec013-practicas-series-temporales/</link>
+      <pubDate>Mon, 15 Apr 2013 08:29:23 +0000</pubDate>
+      
+      <guid>/blog/2013/04/15/umh1263-2012-13-lec013-practicas-series-temporales/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/15vMRE0
+Práctica de Series Temporales. Asignatura: Análisis Exploratorio de Datos. Grado en Administración y Dirección de Empresas (Elche). Profesora: Mª Asunción Martínez Mayoral. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE 2013. Universidad Miguel Hernández de Elche.
+Descripción gráfica de series temporales. Ajuste de tendencia con medias móviles y modelos lineal, parabólico y exponencial. Elección del modelo de tendencia.</description>
+    </item>
+    
+    <item>
+      <title>umh1263 2012-13 Lec009. Práctica Números índice simples</title>
+      <link>/blog/2013/03/21/umh1263-2012-13-lec009-practica-numeros-indice-simples/</link>
+      <pubDate>Thu, 21 Mar 2013 07:31:55 +0000</pubDate>
+      
+      <guid>/blog/2013/03/21/umh1263-2012-13-lec009-practica-numeros-indice-simples/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/15vMRE0
+Práctica de Números Índice Simples. Asignatura: Análisis Exploratorio de Datos. Grado en Administración y Dirección de Empresas (Elche). Profesora: Mª Asunción Martínez Mayoral. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE 2013. Universidad Miguel Hernández de Elche.
+Cálculo con Excel de números índice simples, tasas de variación, tasas de crecimiento promedio, índices interanuales y enlazado de series.</description>
+    </item>
+    
+  </channel>
+</rss>

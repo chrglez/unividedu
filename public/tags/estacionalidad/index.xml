@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Estacionalidad on Uvide</title>
+    <link>/tags/estacionalidad/</link>
+    <description>Recent content in Estacionalidad on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 13 Jun 2013 05:59:09 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/estacionalidad/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>umh1263 2012-13 Lec014 Predicción con series temporales. Ajuste de Tendencia y Estacionalidad</title>
+      <link>/blog/2013/06/13/umh1263-2012-13-lec014-prediccion-con-series-temporales-ajuste-de-tendencia-y-estacionalidad/</link>
+      <pubDate>Thu, 13 Jun 2013 05:59:09 +0000</pubDate>
+      
+      <guid>/blog/2013/06/13/umh1263-2012-13-lec014-prediccion-con-series-temporales-ajuste-de-tendencia-y-estacionalidad/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/15vMRE0
+Predicción con series temporales. Ajuste de Tendencia y Estacionalidad. Asignatura: Análisis Exploratorio de Datos. Grado en Administración y Dirección de Empresas (Elche). Profesora: Mª Asunción Martínez Mayoral. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE 2013. Universidad Miguel Hernández de Elche.
+Ajuste de tendencia con medias móviles y modelos paramétricos sencillos. Ajuste de estacionalidad a través de índices de estacionalidad.</description>
+    </item>
+    
+    <item>
+      <title>umh1263 2012-13 Lec012 Series Temporales</title>
+      <link>/blog/2013/05/21/umh1263-2012-13-lec012-series-temporales/</link>
+      <pubDate>Tue, 21 May 2013 06:24:36 +0000</pubDate>
+      
+      <guid>/blog/2013/05/21/umh1263-2012-13-lec012-series-temporales/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/15vMRE0
+Series Temporales. Asignatura: Análisis Exploratorio de Datos. Grado en Administración y Dirección de Empresas (Elche). Profesora: Mª Asunción Martínez Mayoral. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE 2013. Universidad Miguel Hernández de Elche.
+Introducción a las series temporales. Descripción de las componentes básicas: tendencia, estacionalidad, componente cíclica e irregular. Modelos aditivos y multiplicativos; identificación.</description>
+    </item>
+    
+    <item>
+      <title>umh1263 2012-13 Lec013 Prácticas Series Temporales</title>
+      <link>/blog/2013/04/15/umh1263-2012-13-lec013-practicas-series-temporales/</link>
+      <pubDate>Mon, 15 Apr 2013 08:29:23 +0000</pubDate>
+      
+      <guid>/blog/2013/04/15/umh1263-2012-13-lec013-practicas-series-temporales/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/15vMRE0
+Práctica de Series Temporales. Asignatura: Análisis Exploratorio de Datos. Grado en Administración y Dirección de Empresas (Elche). Profesora: Mª Asunción Martínez Mayoral. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE 2013. Universidad Miguel Hernández de Elche.
+Descripción gráfica de series temporales. Ajuste de tendencia con medias móviles y modelos lineal, parabólico y exponencial. Elección del modelo de tendencia.</description>
+    </item>
+    
+    <item>
+      <title>Teoría - Estadística Básica - Introducción - Series temporales</title>
+      <link>/blog/2013/02/22/teori%CC%81a-estadi%CC%81stica-ba%CC%81sica-introduccio%CC%81n-series-temporales/</link>
+      <pubDate>Fri, 22 Feb 2013 14:17:59 +0000</pubDate>
+      
+      <guid>/blog/2013/02/22/teori%CC%81a-estadi%CC%81stica-ba%CC%81sica-introduccio%CC%81n-series-temporales/</guid>
+      <description>En este vídeo se abordan los siguientes aspectos relacionados con las series temporales: - Cálculo de la tendencia por medias móviles - Eliminación de la tendencia por medias móviles - Cálculo de la estacionalidad por medias móviles - Eliminación de la estacionalidad por medias móviles
+  </description>
+    </item>
+    
+    <item>
+      <title>Practica - Series Temporales - 06/12 - Calculo de la componente estacional (esquema multiplicativo)</title>
+      <link>/blog/2013/01/22/practica-series-temporales-06-12-calculo-de-la-componente-estacional-esquema-multiplicativo/</link>
+      <pubDate>Tue, 22 Jan 2013 17:23:43 +0000</pubDate>
+      
+      <guid>/blog/2013/01/22/practica-series-temporales-06-12-calculo-de-la-componente-estacional-esquema-multiplicativo/</guid>
+      <description>Tutorial de Excel para el cálculo de la componente estacional por el método de las medias móviles de una serie temporal que sigue un esquema multiplicativo.
+  </description>
+    </item>
+    
+    <item>
+      <title>Practica - Series Temporales - 11/12 - Eliminación de la estacionalidad por diferencias</title>
+      <link>/blog/2013/01/22/practica-series-temporales-11-12-eliminacio%CC%81n-de-la-estacionalidad-por-diferencias/</link>
+      <pubDate>Tue, 22 Jan 2013 16:42:49 +0000</pubDate>
+      
+      <guid>/blog/2013/01/22/practica-series-temporales-11-12-eliminacio%CC%81n-de-la-estacionalidad-por-diferencias/</guid>
+      <description>Tutorial de Excel para la eliminación de la estacionalidad de una serie temporal por el método de las diferencias.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

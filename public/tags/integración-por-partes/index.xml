@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>integración por partes on Uvide</title>
+    <link>/tags/integraci%C3%B3n-por-partes/</link>
+    <description>Recent content in integración por partes on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 13 Nov 2013 23:23:35 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/integraci%C3%B3n-por-partes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Integración partes I</title>
+      <link>/blog/2013/11/13/integracion-partes-i/</link>
+      <pubDate>Wed, 13 Nov 2013 23:23:35 +0000</pubDate>
+      
+      <guid>/blog/2013/11/13/integracion-partes-i/</guid>
+      <description>Integral de xe^x resuelta mediante integración por partes Enlaces de las anotaciones: http://goo.gl/uqWtoj Reglas mnemotécnicas de la fórmula y sobre la elección de &amp;lsquo;u&amp;rsquo; y &amp;lsquo;dv&amp;rsquo; http://goo.gl/ZYRX9l Origen de la fórmula en Wikipedia http://goo.gl/csB4mU Origen de la fórmula en Wolfram MathWorld
+  </description>
+    </item>
+    
+  </channel>
+</rss>

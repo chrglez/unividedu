@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eviews on Uvide</title>
+    <link>/tags/eviews/</link>
+    <description>Recent content in Eviews on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Sun, 15 Oct 2017 10:21:21 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/eviews/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>7. Re-especificación y Predicción, (E-views 2). Introducción a la Econometría VII (VRLR)</title>
+      <link>/blog/2017/10/15/7-re-especificacion-y-prediccion/</link>
+      <pubDate>Sun, 15 Oct 2017 10:21:21 +0000</pubDate>
+      
+      <guid>/blog/2017/10/15/7-re-especificacion-y-prediccion/</guid>
+      <description>VII Vídeo de la colección de Introducción a la Econometría del Profesor Víctor Raúl López Ruiz (VRLR) donde se reespecifica el modelo de consumo en una versión dinámica, estima y utiliza para predicción, todo bajo E-views
+  </description>
+    </item>
+    
+    <item>
+      <title>6. Captura de Datos y Estimación (E-views 1). Introducción a la Econometría VI (VRLR)</title>
+      <link>/blog/2017/10/06/6-captura-de-datos-y-estimacion-e-views-1-introduccion-a-la-econometria-vi-vrlr-1/</link>
+      <pubDate>Fri, 06 Oct 2017 16:37:43 +0000</pubDate>
+      
+      <guid>/blog/2017/10/06/6-captura-de-datos-y-estimacion-e-views-1-introduccion-a-la-econometria-vi-vrlr-1/</guid>
+      <description>Sexto vídeo de la colección de Introducción a la Econometría por el Profesor Víctor Raúl López Ruiz (VRLR) donde se explica la captura de datos o importación y Estimación con E-views.
+  </description>
+    </item>
+    
+    <item>
+      <title>6. Captura de Datos y Estimación (E-views 1). Introducción a la Econometría VI (VRLR)</title>
+      <link>/blog/2017/10/06/6-captura-de-datos-y-estimacion-e-views-1-introduccion-a-la-econometria-vi-vrlr/</link>
+      <pubDate>Fri, 06 Oct 2017 16:37:43 +0000</pubDate>
+      
+      <guid>/blog/2017/10/06/6-captura-de-datos-y-estimacion-e-views-1-introduccion-a-la-econometria-vi-vrlr/</guid>
+      <description>Sexto vídeo de la colección de Introducción a la Econometría por el Profesor Víctor Raúl López Ruiz (VRLR) donde se explica la captura de datos o importación y Estimación con E-views.
+  </description>
+    </item>
+    
+    <item>
+      <title>(Econometría) Predicción a futuro en Eviews</title>
+      <link>/blog/2013/05/06/econometria-prediccio%CC%81n-a-futuro-en-eviews/</link>
+      <pubDate>Mon, 06 May 2013 14:37:23 +0000</pubDate>
+      
+      <guid>/blog/2013/05/06/econometria-prediccio%CC%81n-a-futuro-en-eviews/</guid>
+      <description>En este tutorial de EViews se explica cómo abordar la fase de predicción extramuestral mediante un modelo SARIMA que ha pasado todas las fases de validación.
+  </description>
+    </item>
+    
+    <item>
+      <title>(Econometría) Predicción: 3. Evaluación de la capacidad predictiva</title>
+      <link>/blog/2013/04/24/econometria-prediccio%CC%81n-3-evaluacion-de-la-capacidad-predictiva/</link>
+      <pubDate>Wed, 24 Apr 2013 12:19:18 +0000</pubDate>
+      
+      <guid>/blog/2013/04/24/econometria-prediccio%CC%81n-3-evaluacion-de-la-capacidad-predictiva/</guid>
+      <description>En este tutorial de EViews se explica cómo evaluar la capacidad productiva de una modelización dinámica realizada a partir de un modelo SARIMA.
+  </description>
+    </item>
+    
+    <item>
+      <title>(Econometría) Predicción: 4. Elección del modelo para predecir</title>
+      <link>/blog/2013/04/24/econometria-prediccio%CC%81n-4-eleccion-del-modelo-para-predecir/</link>
+      <pubDate>Wed, 24 Apr 2013 12:08:20 +0000</pubDate>
+      
+      <guid>/blog/2013/04/24/econometria-prediccio%CC%81n-4-eleccion-del-modelo-para-predecir/</guid>
+      <description>En este tutorial de EViews se explica cómo decantarnos por uno de los modelos SARIMA estimados, en función de su capacidad predictiva.
+  </description>
+    </item>
+    
+    <item>
+      <title>(Econometría) Predicción: 2. Predicción dinámica de últimos datos</title>
+      <link>/blog/2013/04/24/econometria-prediccio%CC%81n-2-prediccion-dinamica-de-ultimos-datos/</link>
+      <pubDate>Wed, 24 Apr 2013 11:40:07 +0000</pubDate>
+      
+      <guid>/blog/2013/04/24/econometria-prediccio%CC%81n-2-prediccion-dinamica-de-ultimos-datos/</guid>
+      <description>En este tutorial de EViews se explica cómo se realiza una predicción dinámica de una serie temporal, mediante un modelo SARIMA.
+  </description>
+    </item>
+    
+    <item>
+      <title>(Econometría) Predicción: 1. Estimación sin últimos datos</title>
+      <link>/blog/2013/04/24/econometria-prediccio%CC%81n-1-estimacion-sin-ultimos-datos/</link>
+      <pubDate>Wed, 24 Apr 2013 11:24:01 +0000</pubDate>
+      
+      <guid>/blog/2013/04/24/econometria-prediccio%CC%81n-1-estimacion-sin-ultimos-datos/</guid>
+      <description>En este tutorial de EViews se explica cómo se comienza a validar la capacidad predictiva de un modelo SARIMA. Para ellos se eliminan los últimos 12 datos de la serie y se comprueba que el SARIMA estimado mantiene sus propiedades.
+  </description>
+    </item>
+    
+    <item>
+      <title>(Econometría) Validacion: 2. Condiciones residuos</title>
+      <link>/blog/2013/04/10/econometria-validacion-2-condiciones-residuos/</link>
+      <pubDate>Wed, 10 Apr 2013 13:21:34 +0000</pubDate>
+      
+      <guid>/blog/2013/04/10/econometria-validacion-2-condiciones-residuos/</guid>
+      <description>En este tutorial de EViews se explica cómo comprobar las condiciones que deben cumplir los residuos que genera el modelo estimado, para superar la fase de validación.
+  </description>
+    </item>
+    
+    <item>
+      <title>(Econometría) Validacion: 1.Condiciones parámetros</title>
+      <link>/blog/2013/04/10/econometria-validacion-1condiciones-para%CC%81metros/</link>
+      <pubDate>Wed, 10 Apr 2013 12:58:01 +0000</pubDate>
+      
+      <guid>/blog/2013/04/10/econometria-validacion-1condiciones-para%CC%81metros/</guid>
+      <description>En este tutorial de EViews se explica cómo comprobar las condiciones que deben cumplir los parámetros del modelo estimado, para superar la fase de validación.
+  </description>
+    </item>
+    
+    <item>
+      <title>(Econometría) Identificacion y estimacion: 4. Segundo modelo</title>
+      <link>/blog/2013/04/03/econometria-identificacion-y-estimacion-4-segundo-modelo/</link>
+      <pubDate>Wed, 03 Apr 2013 09:42:11 +0000</pubDate>
+      
+      <guid>/blog/2013/04/03/econometria-identificacion-y-estimacion-4-segundo-modelo/</guid>
+      <description>Mediante este tutorial de EViews se explica cómo se puede identificar y estimar un posible modelo SARIMA, a partir del análisis de los correlogramas, consiguiendo finalmente que los residuos estén incorrelacionados.
+  </description>
+    </item>
+    
+    <item>
+      <title>(Econometría) Identificacion y estimacion: 3. Buscando el segundo modelo</title>
+      <link>/blog/2013/04/02/econometria-identificacion-y-estimacion-3-buscando-el-segundo-modelo/</link>
+      <pubDate>Tue, 02 Apr 2013 22:30:22 +0000</pubDate>
+      
+      <guid>/blog/2013/04/02/econometria-identificacion-y-estimacion-3-buscando-el-segundo-modelo/</guid>
+      <description>Mediante este tutorial de EViews se explica cómo, en ocasiones, intentando identificar un segundo modelo SARIMA alternativo, nos damos cuenta de que la variable endógena que estamos utilizando no tiene el número de diferencias que debería.
+  </description>
+    </item>
+    
+    <item>
+      <title>(Econometría) Identificacion y estimacion: 1. Serie a identificar</title>
+      <link>/blog/2013/04/02/econometria-identificacion-y-estimacion-1-serie-a-identificar/</link>
+      <pubDate>Tue, 02 Apr 2013 19:57:15 +0000</pubDate>
+      
+      <guid>/blog/2013/04/02/econometria-identificacion-y-estimacion-1-serie-a-identificar/</guid>
+      <description>En este tutorial de EViews se explica cómo elegir cuál debe ser la endógena del modelo a estimar una vez finalizado el contraste de Dickey-Fuller.
+  </description>
+    </item>
+    
+    <item>
+      <title>(Econometría) Estacionariedad en media: 3. Contraste de Dickey y Fuller</title>
+      <link>/blog/2013/03/13/econometria-estacionariedad-en-media-3-contraste-de-dickey-y-fuller/</link>
+      <pubDate>Wed, 13 Mar 2013 01:06:17 +0000</pubDate>
+      
+      <guid>/blog/2013/03/13/econometria-estacionariedad-en-media-3-contraste-de-dickey-y-fuller/</guid>
+      <description>En este tutorial se explica cómo analizar la estacionariedad en media de una serie temporal, a través del contraste de Dickey y Fuller, mediante el paquete estadístico EViews.
+  </description>
+    </item>
+    
+    <item>
+      <title>(Econometría) Estacionariedad en media: 4. Parte estacional</title>
+      <link>/blog/2013/03/13/econometria-estacionariedad-en-media-4-parte-estacional/</link>
+      <pubDate>Wed, 13 Mar 2013 01:05:53 +0000</pubDate>
+      
+      <guid>/blog/2013/03/13/econometria-estacionariedad-en-media-4-parte-estacional/</guid>
+      <description>En este tutorial se explica cómo analizar la estacionariedad en media de una serie temporal, en su parte estacional, a través del análisis del correlograma estacionario en media en a parte regular, mediante el paquete estadístico EViews.
+  </description>
+    </item>
+    
+    <item>
+      <title>(Econometría) Estacionariedad en media: 2. Correlograma</title>
+      <link>/blog/2013/03/13/econometria-estacionariedad-en-media-2-correlograma/</link>
+      <pubDate>Wed, 13 Mar 2013 00:25:39 +0000</pubDate>
+      
+      <guid>/blog/2013/03/13/econometria-estacionariedad-en-media-2-correlograma/</guid>
+      <description>En este tutorial se explica cómo analizar la estacionariedad en media de una serie temporal, a través del análisis de su correlograma, mediante el paquete estadístico EViews.
+  </description>
+    </item>
+    
+    <item>
+      <title>(Econometría) Estacionariedad en media: 1. Método Gráfico</title>
+      <link>/blog/2013/03/13/econometria-estacionariedad-en-media-1-metodo-grafico/</link>
+      <pubDate>Wed, 13 Mar 2013 00:17:21 +0000</pubDate>
+      
+      <guid>/blog/2013/03/13/econometria-estacionariedad-en-media-1-metodo-grafico/</guid>
+      <description>En este tutorial se explica cómo analizar la estacionariedad en media de una serie temporal, a través del análisis de su gráfico de líneas, mediante el paquete estadístico EViews.
+  </description>
+    </item>
+    
+    <item>
+      <title>(Econometría) Estacionariedad en varianza: 4.Transformación de la variable</title>
+      <link>/blog/2013/02/26/econometria-estacionariedad-en-varianza-4transformacion-de-la-variable/</link>
+      <pubDate>Tue, 26 Feb 2013 22:30:20 +0000</pubDate>
+      
+      <guid>/blog/2013/02/26/econometria-estacionariedad-en-varianza-4transformacion-de-la-variable/</guid>
+      <description>En este tutorial de EViews se explica qué transformación hay que realizar a la variable original, una vez realizado todo el análisis de la Estacionariedad en Varianza.
+  </description>
+    </item>
+    
+    <item>
+      <title>(Econometría) Estacionariedad en varianza: 3. Análisis de Regresión</title>
+      <link>/blog/2013/02/26/econometria-estacionariedad-en-varianza-3-analisis-de-regresion/</link>
+      <pubDate>Tue, 26 Feb 2013 22:15:13 +0000</pubDate>
+      
+      <guid>/blog/2013/02/26/econometria-estacionariedad-en-varianza-3-analisis-de-regresion/</guid>
+      <description>En este tutorial se explica cómo analizar la estacionariedad en varianza de una serie temporal, a través de la regresión entre el logaritmo de las varianzas y el logaritmo de las medias anuales, mediante el paquete estadístico EViews.
+  </description>
+    </item>
+    
+    <item>
+      <title>(Econometría) Estacionariedad en varianza: 2. Rango Media</title>
+      <link>/blog/2013/02/26/econometria-estacionariedad-en-varianza-2-rango-media/</link>
+      <pubDate>Tue, 26 Feb 2013 21:58:57 +0000</pubDate>
+      
+      <guid>/blog/2013/02/26/econometria-estacionariedad-en-varianza-2-rango-media/</guid>
+      <description>En este tutorial se explica cómo analizar la estacionariedad en varianza de una serie temporal, a través de la realización y el análisis del gráfico Rango-Media, mediante el paquete estadístico EViews.
+  </description>
+    </item>
+    
+    <item>
+      <title>(Econometría) Estacionariedad en varianza: 1. Método Gráfico</title>
+      <link>/blog/2013/02/26/econometria-estacionariedad-en-varianza-1-metodo-grafico/</link>
+      <pubDate>Tue, 26 Feb 2013 21:27:01 +0000</pubDate>
+      
+      <guid>/blog/2013/02/26/econometria-estacionariedad-en-varianza-1-metodo-grafico/</guid>
+      <description>En este tutorial se explica cómo analizar la estacionariedad en varianza de una serie temporal, a través del análisis de su gráfico de líneas, mediante el paquete estadístico EViews.
+  </description>
+    </item>
+    
+    <item>
+      <title>(Econometría) Importar datos a EViews</title>
+      <link>/blog/2013/02/26/econometria-importar-datos-a-eviews/</link>
+      <pubDate>Tue, 26 Feb 2013 14:07:52 +0000</pubDate>
+      
+      <guid>/blog/2013/02/26/econometria-importar-datos-a-eviews/</guid>
+      <description>En este tutorial se explica como importar datos de una serie temporal desde la hoja de cálculo Excel hasta el programa estadístico EViews.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

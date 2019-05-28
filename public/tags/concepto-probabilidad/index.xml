@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Concepto probabilidad on Uvide</title>
+    <link>/tags/concepto-probabilidad/</link>
+    <description>Recent content in Concepto probabilidad on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 06 Nov 2014 19:43:18 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/concepto-probabilidad/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Introducción a la probabilidad |  | UPV</title>
+      <link>/blog/2014/11/06/introduccion-a-la-probabilidad-upv-1/</link>
+      <pubDate>Thu, 06 Nov 2014 19:43:18 +0000</pubDate>
+      
+      <guid>/blog/2014/11/06/introduccion-a-la-probabilidad-upv-1/</guid>
+      <description>Título: Introducción a la probabilidad
+Descripción: Descripción del concepto y las propiedades de la probabilidad
+Autor/a: Clemente Císcar Mónica
+ Universitat Politècnica de València UPV: https://www.upv.es Más vídeos en: https://www.youtube.com/valenciaupv Accede a nuestros MOOC: https://upvx.es    </description>
+    </item>
+    
+    <item>
+      <title>Introducción a la probabilidad |  | UPV</title>
+      <link>/blog/2014/11/06/introduccion-a-la-probabilidad-upv/</link>
+      <pubDate>Thu, 06 Nov 2014 19:43:18 +0000</pubDate>
+      
+      <guid>/blog/2014/11/06/introduccion-a-la-probabilidad-upv/</guid>
+      <description>Título: Introducción a la probabilidad
+Descripción: Descripción del concepto y las propiedades de la probabilidad
+Autor/a: Clemente Císcar Mónica
+ Universitat Politècnica de València UPV: https://www.upv.es Más vídeos en: https://www.youtube.com/valenciaupv Accede a nuestros MOOC: https://upvx.es    </description>
+    </item>
+    
+  </channel>
+</rss>

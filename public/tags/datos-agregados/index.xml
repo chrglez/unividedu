@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Datos agregados on Uvide</title>
+    <link>/tags/datos-agregados/</link>
+    <description>Recent content in Datos agregados on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 22 Feb 2013 14:20:59 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/datos-agregados/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Practica - Variable bidimensional - 05/05 - Regresión lineal simple con datos agregados</title>
+      <link>/blog/2013/02/22/practica-variable-bidimensional-05-05-regresio%CC%81n-lineal-simple-con-datos-agregados/</link>
+      <pubDate>Fri, 22 Feb 2013 14:20:59 +0000</pubDate>
+      
+      <guid>/blog/2013/02/22/practica-variable-bidimensional-05-05-regresio%CC%81n-lineal-simple-con-datos-agregados/</guid>
+      <description>Tutorial en Excel para estimar una Regresión Lineal Simple cuando se parte de datos agregados.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

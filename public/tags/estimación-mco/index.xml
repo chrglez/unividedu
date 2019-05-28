@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Estimación MCO on Uvide</title>
+    <link>/tags/estimaci%C3%B3n-mco/</link>
+    <description>Recent content in Estimación MCO on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 21 Sep 2017 17:09:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/estimaci%C3%B3n-mco/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>3.Modelo de Consumo: La Estimación. Introducción a la Econometría III (VRLR)</title>
+      <link>/blog/2017/09/21/3modelo-de-consumo-la-estimacion-introduccion-a-la-econometria-iii-vrlr/</link>
+      <pubDate>Thu, 21 Sep 2017 17:09:00 +0000</pubDate>
+      
+      <guid>/blog/2017/09/21/3modelo-de-consumo-la-estimacion-introduccion-a-la-econometria-iii-vrlr/</guid>
+      <description>III Video-tutorial de la colección Introducción a la Econometría en el que se realiza la estimación MCO de los parámetros y residuos para una versión inicial del modelo con un template en Excel. Por Prof. Víctor Raúl López Ruiz (VRLR)
+  </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>investigación de operaciones on Uvide</title>
+    <link>/tags/investigaci%C3%B3n-de-operaciones/</link>
+    <description>Recent content in investigación de operaciones on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 01 Dec 2016 16:02:15 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/investigaci%C3%B3n-de-operaciones/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Programación dinámica. Problema de la Mochila.</title>
+      <link>/blog/2016/12/01/programacion-dinamica-problema-de-la-mochila/</link>
+      <pubDate>Thu, 01 Dec 2016 16:02:15 +0000</pubDate>
+      
+      <guid>/blog/2016/12/01/programacion-dinamica-problema-de-la-mochila/</guid>
+      <description>Asignatura: Investigación Operativa. Profesor: Fco. David de la Peña Esteban. Universidad de Distancia de Madrid, Udima.
+  </description>
+    </item>
+    
+    <item>
+      <title>Flujo máximo entre dos nodos. Caso práctico.</title>
+      <link>/blog/2015/03/12/flujo-maximo-entre-dos-nodos-caso-practico/</link>
+      <pubDate>Thu, 12 Mar 2015 16:35:30 +0000</pubDate>
+      
+      <guid>/blog/2015/03/12/flujo-maximo-entre-dos-nodos-caso-practico/</guid>
+      <description>Este contenido se imparte en el Grado de Ingeniería de Organización Industrial: https://www.udima.es/es/grado-ingenieria-organizacion-industrial.html Caso práctico. Flujo máximo entre dos nodos. Autor: F. David de la Peña Esteban. Universidad a Distancia de Madrid, Udima.
+  </description>
+    </item>
+    
+    <item>
+      <title>Ruta más corta. Algoritmo de Dijkstra. Caso práctico.</title>
+      <link>/blog/2015/03/12/ruta-mas-corta-algoritmo-de-dijkstra-caso-practico/</link>
+      <pubDate>Thu, 12 Mar 2015 16:32:50 +0000</pubDate>
+      
+      <guid>/blog/2015/03/12/ruta-mas-corta-algoritmo-de-dijkstra-caso-practico/</guid>
+      <description>Caso práctico. Ruta más corta. Algoritmo de Dijkstra (versión gráfica). Autor: F. David de la Peña Esteban. Universidad a Distancia de Madrid, Udima.
+  </description>
+    </item>
+    
+    <item>
+      <title>Programación lineal con ayuda del complemento solver (hojas de cálculo). Caso práctico.</title>
+      <link>/blog/2014/03/10/programacion-lineal-con-ayuda-del-complemento-solver-hojas-de-calculo-caso-practico/</link>
+      <pubDate>Mon, 10 Mar 2014 17:47:23 +0000</pubDate>
+      
+      <guid>/blog/2014/03/10/programacion-lineal-con-ayuda-del-complemento-solver-hojas-de-calculo-caso-practico/</guid>
+      <description>Nota: Poner en formato HD para una mejor visualización pinchando sobre el icono de configuración del vídeo (engranaje). Resolución de este tipo de problemas con ayuda del complemento solver de las hojas de cálculo. Profesor: Fco. David de la Peña Esteban. Universidad a Distancia de Madrid. Udima.
+  </description>
+    </item>
+    
+    <item>
+      <title>Toma de decisiones con incertidumbre. Caso práctico.</title>
+      <link>/blog/2014/03/03/toma-de-decisiones-con-incertidumbre-caso-practico/</link>
+      <pubDate>Mon, 03 Mar 2014 17:10:43 +0000</pubDate>
+      
+      <guid>/blog/2014/03/03/toma-de-decisiones-con-incertidumbre-caso-practico/</guid>
+      <description>Este contenido se imparte en el Grado de Ingeniería de Organización Industrial: https://www.udima.es/es/grado-ingenieria-organizacion-industrial.html Toma de decisiones con incertidumbre. Caso práctico. Profesor: David de la Peña Esteban. Udima, Universidad a Distancia de Madrid.
+  </description>
+    </item>
+    
+    <item>
+      <title>Caso práctico Programación lineal: Empresa de distribución. Formulación del problema.</title>
+      <link>/blog/2014/02/26/caso-practico-programacio%CC%81n-lineal-empresa-de-distribucion-formulacion-del-problema/</link>
+      <pubDate>Wed, 26 Feb 2014 12:56:44 +0000</pubDate>
+      
+      <guid>/blog/2014/02/26/caso-practico-programacio%CC%81n-lineal-empresa-de-distribucion-formulacion-del-problema/</guid>
+      <description>Caso práctico Programación lineal: Empresa de distribución. Formulación del problema. Profesor: David de la Peña Esteban. Udima, Universidad a Distancia de Madrid.
+  </description>
+    </item>
+    
+    <item>
+      <title>Caso práctico Programación lineal: Planificación de la producción. Formulación del problema.</title>
+      <link>/blog/2014/02/26/caso-practico-programacio%CC%81n-lineal-planificacion-de-la-produccion-formulacion-del-problema/</link>
+      <pubDate>Wed, 26 Feb 2014 12:43:23 +0000</pubDate>
+      
+      <guid>/blog/2014/02/26/caso-practico-programacio%CC%81n-lineal-planificacion-de-la-produccion-formulacion-del-problema/</guid>
+      <description>Caso práctico Programación lineal: Planificación de la producción. Formulación del problema. Profesor: David de la Peña Esteban. Udima, Universidad a Distancia de Madrid.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

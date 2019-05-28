@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Neural Networks on Uvide</title>
+    <link>/tags/neural-networks/</link>
+    <description>Recent content in Neural Networks on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 30 May 2017 06:06:28 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/neural-networks/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tema Transversal 3.2: Redes Neuronales Artificiales</title>
+      <link>/blog/2017/05/30/tema-transversal-32-redes-neuronales-artificiales/</link>
+      <pubDate>Tue, 30 May 2017 06:06:28 +0000</pubDate>
+      
+      <guid>/blog/2017/05/30/tema-transversal-32-redes-neuronales-artificiales/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/20XaPkS
+Redes Neuronales Artificiales. Asignatura: Técnicas Estadísticas en Investigación de Mercados. Grado en Estadística Empresarial. Profesor: Xavier Barber i Vallés. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE. Universidad Miguel Hernández de Elche.
+Vídeo para introducir al alumno en las Redes Neuronales Artificiales utilizando R.
+web asignatura: http://umh1480.edu.umh.es/ web: http://umh.es
+  </description>
+    </item>
+    
+  </channel>
+</rss>

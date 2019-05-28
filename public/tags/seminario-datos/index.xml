@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Seminario Datos on Uvide</title>
+    <link>/tags/seminario-datos/</link>
+    <description>Recent content in Seminario Datos on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 05 Oct 2018 11:45:29 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/seminario-datos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Seminario Datos 5 edición</title>
+      <link>/blog/2018/10/05/seminario-datos-5-edicion/</link>
+      <pubDate>Fri, 05 Oct 2018 11:45:29 +0000</pubDate>
+      
+      <guid>/blog/2018/10/05/seminario-datos-5-edicion/</guid>
+      <description>Promoción Seminario de especialización en Bases de Datos para La Medición Económica y empresarial. UCLM, Noviembre 15 y 16, 2018. ICRGroup
+  </description>
+    </item>
+    
+  </channel>
+</rss>

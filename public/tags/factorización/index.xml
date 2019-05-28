@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>factorización on Uvide</title>
+    <link>/tags/factorizaci%C3%B3n/</link>
+    <description>Recent content in factorización on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 06 Oct 2015 01:25:41 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/factorizaci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Factorización polinomios grado 3 con soluciones no enteras</title>
+      <link>/blog/2015/10/06/factorizacion-polinomios-grado-3-con-soluciones-no-enteras/</link>
+      <pubDate>Tue, 06 Oct 2015 01:25:41 +0000</pubDate>
+      
+      <guid>/blog/2015/10/06/factorizacion-polinomios-grado-3-con-soluciones-no-enteras/</guid>
+      <description>Factorización polinomios grado 3 con soluciones no enteras
+  </description>
+    </item>
+    
+    <item>
+      <title>Factorización de polinomios de grado 2</title>
+      <link>/blog/2015/10/05/factorizacion-de-polinomios-de-grado-2/</link>
+      <pubDate>Mon, 05 Oct 2015 00:54:44 +0000</pubDate>
+      
+      <guid>/blog/2015/10/05/factorizacion-de-polinomios-de-grado-2/</guid>
+      <description>Factorización de polinomios de grado 2
+  </description>
+    </item>
+    
+    <item>
+      <title>Factorización de polinomios</title>
+      <link>/blog/2015/10/04/factorizacion-de-polinomios/</link>
+      <pubDate>Sun, 04 Oct 2015 14:56:23 +0000</pubDate>
+      
+      <guid>/blog/2015/10/04/factorizacion-de-polinomios/</guid>
+      <description>Factorización de polinomios con algunas de sus raíces complejas
+  </description>
+    </item>
+    
+    <item>
+      <title>Factorización de polinomios</title>
+      <link>/blog/2014/09/30/factorizacion-de-polinomios-1/</link>
+      <pubDate>Tue, 30 Sep 2014 20:16:02 +0000</pubDate>
+      
+      <guid>/blog/2014/09/30/factorizacion-de-polinomios-1/</guid>
+      <description>Factorización de polinomios
+  </description>
+    </item>
+    
+  </channel>
+</rss>

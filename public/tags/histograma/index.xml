@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Histograma on Uvide</title>
+    <link>/tags/histograma/</link>
+    <description>Recent content in Histograma on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 11 Mar 2015 12:05:51 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/histograma/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Histograma. Caso práctico.</title>
+      <link>/blog/2015/03/11/histograma-caso-practico/</link>
+      <pubDate>Wed, 11 Mar 2015 12:05:51 +0000</pubDate>
+      
+      <guid>/blog/2015/03/11/histograma-caso-practico/</guid>
+      <description>Caso práctico de Histograma. Autor: F. David de la Peña Esteban. Universidad a Distancia de Madrid, Udima.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

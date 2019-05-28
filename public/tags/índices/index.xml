@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>índices on Uvide</title>
+    <link>/tags/%C3%ADndices/</link>
+    <description>Recent content in índices on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 22 Apr 2016 11:18:34 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/%C3%ADndices/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Asignación de carga a talleres: método de los índices</title>
+      <link>/blog/2016/04/22/asignacion-de-carga-a-talleres-metodo-de-los-indices/</link>
+      <pubDate>Fri, 22 Apr 2016 11:18:34 +0000</pubDate>
+      
+      <guid>/blog/2016/04/22/asignacion-de-carga-a-talleres-metodo-de-los-indices/</guid>
+      <description>Caso práctico. Profesor: David de la Peña Esteban. Udima, Universidad a Distancia de Madrid
+  </description>
+    </item>
+    
+    <item>
+      <title>umh1263 2012-13 Lec013 Prácticas Series Temporales</title>
+      <link>/blog/2013/04/15/umh1263-2012-13-lec013-practicas-series-temporales/</link>
+      <pubDate>Mon, 15 Apr 2013 08:29:23 +0000</pubDate>
+      
+      <guid>/blog/2013/04/15/umh1263-2012-13-lec013-practicas-series-temporales/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/15vMRE0
+Práctica de Series Temporales. Asignatura: Análisis Exploratorio de Datos. Grado en Administración y Dirección de Empresas (Elche). Profesora: Mª Asunción Martínez Mayoral. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE 2013. Universidad Miguel Hernández de Elche.
+Descripción gráfica de series temporales. Ajuste de tendencia con medias móviles y modelos lineal, parabólico y exponencial. Elección del modelo de tendencia.</description>
+    </item>
+    
+    <item>
+      <title>umh1263 2012-13 Lec009. Práctica Números índice simples</title>
+      <link>/blog/2013/03/21/umh1263-2012-13-lec009-practica-numeros-indice-simples/</link>
+      <pubDate>Thu, 21 Mar 2013 07:31:55 +0000</pubDate>
+      
+      <guid>/blog/2013/03/21/umh1263-2012-13-lec009-practica-numeros-indice-simples/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/15vMRE0
+Práctica de Números Índice Simples. Asignatura: Análisis Exploratorio de Datos. Grado en Administración y Dirección de Empresas (Elche). Profesora: Mª Asunción Martínez Mayoral. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE 2013. Universidad Miguel Hernández de Elche.
+Cálculo con Excel de números índice simples, tasas de variación, tasas de crecimiento promedio, índices interanuales y enlazado de series.</description>
+    </item>
+    
+    <item>
+      <title>umh1263 2012-13 Lec008. Números índice. Introducción y conceptos básicos</title>
+      <link>/blog/2013/03/11/umh1263-2012-13-lec008-numeros-indice-introduccion-y-conceptos-basicos/</link>
+      <pubDate>Mon, 11 Mar 2013 13:40:40 +0000</pubDate>
+      
+      <guid>/blog/2013/03/11/umh1263-2012-13-lec008-numeros-indice-introduccion-y-conceptos-basicos/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/15vMRE0
+Números Índice: Introducción y Conceptos Básicos. Asignatura: Análisis Exploratorio de Datos. Grado en Administración y Dirección de Empresas (Elche). Profesora: Mª Asunción Martínez Mayoral. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE 2013. Universidad Miguel Hernández de Elche.
+Introducción a los números índice. Números índice simples, tasas de variación, tasa de crecimiento promedio, índices encadenados.</description>
+    </item>
+    
+  </channel>
+</rss>

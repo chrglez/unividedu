@@ -1,31 +1,373 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>UIB on Univideduc</title>
+    <title>UIB on Uvide</title>
     <link>/tags/uib/</link>
-    <description>Recent content in UIB on Univideduc</description>
+    <description>Recent content in UIB on Uvide</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Thu, 22 Sep 2016 12:48:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Sep 2016 12:53:17 +0000</lastBuildDate>
     
 	<atom:link href="/tags/uib/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>9.2 Medidas de tendencia central y de posición</title>
-      <link>/blog/2016/09/22/9.2-medidas-de-tendencia-central-y-de-posicion/</link>
-      <pubDate>Thu, 22 Sep 2016 12:48:24 +0000</pubDate>
+      <title>6.4 Cómo añadir elementos a un gráfico</title>
+      <link>/blog/2016/09/22/64-como-anadir-elementos-a-un-grafico/</link>
+      <pubDate>Thu, 22 Sep 2016 12:53:17 +0000</pubDate>
       
-      <guid>/blog/2016/09/22/9.2-medidas-de-tendencia-central-y-de-posicion/</guid>
+      <guid>/blog/2016/09/22/64-como-anadir-elementos-a-un-grafico/</guid>
       <description>   </description>
     </item>
     
     <item>
-      <title>12.3 Dendrogramas</title>
-      <link>/blog/2016/09/22/12.3-dendrogramas/</link>
-      <pubDate>Thu, 22 Sep 2016 12:44:14 +0000</pubDate>
+      <title>2.4 Rectas de regresión y transformaciones logarítmicas</title>
+      <link>/blog/2016/09/22/24-rectas-de-regresion-y-transformaciones-logaritmicas/</link>
+      <pubDate>Thu, 22 Sep 2016 12:51:51 +0000</pubDate>
       
-      <guid>/blog/2016/09/22/12.3-dendrogramas/</guid>
+      <guid>/blog/2016/09/22/24-rectas-de-regresion-y-transformaciones-logaritmicas/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>2.3 Formas básicas de lectura de datos externos</title>
+      <link>/blog/2016/09/22/23-formas-basicas-de-lectura-de-datos-externos/</link>
+      <pubDate>Thu, 22 Sep 2016 12:51:05 +0000</pubDate>
+      
+      <guid>/blog/2016/09/22/23-formas-basicas-de-lectura-de-datos-externos/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>2.1 Data frames y plots</title>
+      <link>/blog/2016/09/22/21-data-frames-y-plots/</link>
+      <pubDate>Thu, 22 Sep 2016 12:49:36 +0000</pubDate>
+      
+      <guid>/blog/2016/09/22/21-data-frames-y-plots/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>0.1 Como instalar R y Rstudio</title>
+      <link>/blog/2016/09/22/01-como-instalar-r-y-rstudio/</link>
+      <pubDate>Thu, 22 Sep 2016 12:49:21 +0000</pubDate>
+      
+      <guid>/blog/2016/09/22/01-como-instalar-r-y-rstudio/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>2.2 Calculando regresiones lineales</title>
+      <link>/blog/2016/09/22/22-calculando-regresiones-lineales/</link>
+      <pubDate>Thu, 22 Sep 2016 12:48:56 +0000</pubDate>
+      
+      <guid>/blog/2016/09/22/22-calculando-regresiones-lineales/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>7.1 Tablas unidimensionales de frecuencias</title>
+      <link>/blog/2016/09/22/71-tablas-unidimensionales-de-frecuencias/</link>
+      <pubDate>Thu, 22 Sep 2016 12:47:52 +0000</pubDate>
+      
+      <guid>/blog/2016/09/22/71-tablas-unidimensionales-de-frecuencias/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>7.2 Tablas bidimensionales de frecuencias</title>
+      <link>/blog/2016/09/22/72-tablas-bidimensionales-de-frecuencias/</link>
+      <pubDate>Thu, 22 Sep 2016 12:47:37 +0000</pubDate>
+      
+      <guid>/blog/2016/09/22/72-tablas-bidimensionales-de-frecuencias/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>0.3 Cómo guardar el trabajo</title>
+      <link>/blog/2016/09/22/03-como-guardar-el-trabajo/</link>
+      <pubDate>Thu, 22 Sep 2016 12:43:25 +0000</pubDate>
+      
+      <guid>/blog/2016/09/22/03-como-guardar-el-trabajo/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>0.2 Los paneles de R Studio</title>
+      <link>/blog/2016/09/22/02-los-paneles-de-r-studio/</link>
+      <pubDate>Thu, 22 Sep 2016 12:43:10 +0000</pubDate>
+      
+      <guid>/blog/2016/09/22/02-los-paneles-de-r-studio/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>6.3 Parámetros de la función plot (II)</title>
+      <link>/blog/2016/09/22/63-parametros-de-la-funcion-plot-ii/</link>
+      <pubDate>Thu, 22 Sep 2016 12:42:39 +0000</pubDate>
+      
+      <guid>/blog/2016/09/22/63-parametros-de-la-funcion-plot-ii/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>0.4 Paquetes</title>
+      <link>/blog/2016/09/22/04-paquetes/</link>
+      <pubDate>Thu, 22 Sep 2016 12:42:12 +0000</pubDate>
+      
+      <guid>/blog/2016/09/22/04-paquetes/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>6.2 Parámetros de la función plot (I)</title>
+      <link>/blog/2016/09/22/62-parametros-de-la-funcion-plot-i/</link>
+      <pubDate>Thu, 22 Sep 2016 12:40:32 +0000</pubDate>
+      
+      <guid>/blog/2016/09/22/62-parametros-de-la-funcion-plot-i/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>6.1 La función plot</title>
+      <link>/blog/2016/07/29/61-la-funcion-plot/</link>
+      <pubDate>Fri, 29 Jul 2016 12:35:25 +0000</pubDate>
+      
+      <guid>/blog/2016/07/29/61-la-funcion-plot/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>4.1 Construcción de matrices</title>
+      <link>/blog/2016/07/29/41-construccion-de-matrices/</link>
+      <pubDate>Fri, 29 Jul 2016 12:33:08 +0000</pubDate>
+      
+      <guid>/blog/2016/07/29/41-construccion-de-matrices/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>4.5 Cálculo de valores y vectores propios</title>
+      <link>/blog/2016/07/29/45-calculo-de-valores-y-vectores-propios/</link>
+      <pubDate>Fri, 29 Jul 2016 12:31:52 +0000</pubDate>
+      
+      <guid>/blog/2016/07/29/45-calculo-de-valores-y-vectores-propios/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>4.2 Entradas y trozos de matrices</title>
+      <link>/blog/2016/07/29/42-entradas-y-trozos-de-matrices/</link>
+      <pubDate>Fri, 29 Jul 2016 12:30:59 +0000</pubDate>
+      
+      <guid>/blog/2016/07/29/42-entradas-y-trozos-de-matrices/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>4.3 Funciones para matrices</title>
+      <link>/blog/2016/07/29/43-funciones-para-matrices/</link>
+      <pubDate>Fri, 29 Jul 2016 12:30:17 +0000</pubDate>
+      
+      <guid>/blog/2016/07/29/43-funciones-para-matrices/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>3.1 Construcción de vectores I</title>
+      <link>/blog/2016/07/29/31-construccion-de-vectores-i/</link>
+      <pubDate>Fri, 29 Jul 2016 12:29:36 +0000</pubDate>
+      
+      <guid>/blog/2016/07/29/31-construccion-de-vectores-i/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>3.7 Listas generalizadas</title>
+      <link>/blog/2016/07/29/37-listas-generalizadas/</link>
+      <pubDate>Fri, 29 Jul 2016 12:28:34 +0000</pubDate>
+      
+      <guid>/blog/2016/07/29/37-listas-generalizadas/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>4.4 Álgebra matricial</title>
+      <link>/blog/2016/07/27/44-%C3%A1lgebra-matricial/</link>
+      <pubDate>Wed, 27 Jul 2016 11:52:19 +0000</pubDate>
+      
+      <guid>/blog/2016/07/27/44-%C3%A1lgebra-matricial/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>5.9 Cómo aplicar una función a un data frame</title>
+      <link>/blog/2016/07/27/59-como-aplicar-una-funcion-a-un-data-frame/</link>
+      <pubDate>Wed, 27 Jul 2016 07:58:48 +0000</pubDate>
+      
+      <guid>/blog/2016/07/27/59-como-aplicar-una-funcion-a-un-data-frame/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>5.7 Cómo añadir filas y columnas a un data frame</title>
+      <link>/blog/2016/07/27/57-como-anadir-filas-y-columnas-a-un-data-frame/</link>
+      <pubDate>Wed, 27 Jul 2016 07:57:46 +0000</pubDate>
+      
+      <guid>/blog/2016/07/27/57-como-anadir-filas-y-columnas-a-un-data-frame/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>5.10 Cómo añadir las variables de un data frame al entorno global</title>
+      <link>/blog/2016/07/27/510-como-anadir-las-variables-de-un-data-frame-al-entorno-global/</link>
+      <pubDate>Wed, 27 Jul 2016 07:49:22 +0000</pubDate>
+      
+      <guid>/blog/2016/07/27/510-como-anadir-las-variables-de-un-data-frame-al-entorno-global/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>5.8 Cómo seleccionar trozos de un data frame</title>
+      <link>/blog/2016/07/27/58-como-seleccionar-trozos-de-un-data-frame/</link>
+      <pubDate>Wed, 27 Jul 2016 07:48:38 +0000</pubDate>
+      
+      <guid>/blog/2016/07/27/58-como-seleccionar-trozos-de-un-data-frame/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>5.6 Cómo modificar un data frame</title>
+      <link>/blog/2016/07/27/56-como-modificar-un-data-frame/</link>
+      <pubDate>Wed, 27 Jul 2016 07:45:01 +0000</pubDate>
+      
+      <guid>/blog/2016/07/27/56-como-modificar-un-data-frame/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>5.4 Cómo importar y exportar data frames</title>
+      <link>/blog/2016/07/26/54-como-importar-y-exportar-data-frames/</link>
+      <pubDate>Tue, 26 Jul 2016 09:48:43 +0000</pubDate>
+      
+      <guid>/blog/2016/07/26/54-como-importar-y-exportar-data-frames/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>5.3 Estructura de un data frame II</title>
+      <link>/blog/2016/07/26/53-estructura-de-un-data-frame-ii/</link>
+      <pubDate>Tue, 26 Jul 2016 09:46:41 +0000</pubDate>
+      
+      <guid>/blog/2016/07/26/53-estructura-de-un-data-frame-ii/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>5.5 Cómo crear data frames</title>
+      <link>/blog/2016/07/12/55-como-crear-data-frames/</link>
+      <pubDate>Tue, 12 Jul 2016 12:04:28 +0000</pubDate>
+      
+      <guid>/blog/2016/07/12/55-como-crear-data-frames/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>5.2 Estructura de un data frame I</title>
+      <link>/blog/2016/07/12/52-estructura-de-un-data-frame-i/</link>
+      <pubDate>Tue, 12 Jul 2016 12:03:43 +0000</pubDate>
+      
+      <guid>/blog/2016/07/12/52-estructura-de-un-data-frame-i/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>5.1 Introducción a los data frame</title>
+      <link>/blog/2016/07/12/51-introduccion-a-los-data-frame/</link>
+      <pubDate>Tue, 12 Jul 2016 12:03:08 +0000</pubDate>
+      
+      <guid>/blog/2016/07/12/51-introduccion-a-los-data-frame/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>3.6 Factores</title>
+      <link>/blog/2016/07/12/36-factores/</link>
+      <pubDate>Tue, 12 Jul 2016 12:02:48 +0000</pubDate>
+      
+      <guid>/blog/2016/07/12/36-factores/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>3.5 Entradas vacías</title>
+      <link>/blog/2016/07/12/35-entradas-vacias/</link>
+      <pubDate>Tue, 12 Jul 2016 12:02:31 +0000</pubDate>
+      
+      <guid>/blog/2016/07/12/35-entradas-vacias/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>3.4 Entradas y trozos de vectores</title>
+      <link>/blog/2016/07/12/34-entradas-y-trozos-de-vectores/</link>
+      <pubDate>Tue, 12 Jul 2016 12:02:13 +0000</pubDate>
+      
+      <guid>/blog/2016/07/12/34-entradas-y-trozos-de-vectores/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>3.3 Operaciones con vectores</title>
+      <link>/blog/2016/07/12/33-operaciones-con-vectores/</link>
+      <pubDate>Tue, 12 Jul 2016 12:01:57 +0000</pubDate>
+      
+      <guid>/blog/2016/07/12/33-operaciones-con-vectores/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>3.2 Construcción de vectores II</title>
+      <link>/blog/2016/07/12/32-construccion-de-vectores-ii/</link>
+      <pubDate>Tue, 12 Jul 2016 12:01:38 +0000</pubDate>
+      
+      <guid>/blog/2016/07/12/32-construccion-de-vectores-ii/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>1.4 Números complejos</title>
+      <link>/blog/2016/07/12/14-numeros-complejos/</link>
+      <pubDate>Tue, 12 Jul 2016 12:01:06 +0000</pubDate>
+      
+      <guid>/blog/2016/07/12/14-numeros-complejos/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>1.3 Definición de variables y funciones</title>
+      <link>/blog/2016/07/12/13-definicion-de-variables-y-funciones/</link>
+      <pubDate>Tue, 12 Jul 2016 12:00:14 +0000</pubDate>
+      
+      <guid>/blog/2016/07/12/13-definicion-de-variables-y-funciones/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>1.2 Cifras significativas y redondeos</title>
+      <link>/blog/2016/07/12/12-cifras-significativas-y-redondeos/</link>
+      <pubDate>Tue, 12 Jul 2016 11:59:51 +0000</pubDate>
+      
+      <guid>/blog/2016/07/12/12-cifras-significativas-y-redondeos/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>1.1 Operaciones y funciones reales básicas</title>
+      <link>/blog/2016/07/12/11-operaciones-y-funciones-reales-basicas/</link>
+      <pubDate>Tue, 12 Jul 2016 11:59:17 +0000</pubDate>
+      
+      <guid>/blog/2016/07/12/11-operaciones-y-funciones-reales-basicas/</guid>
       <description>   </description>
     </item>
     

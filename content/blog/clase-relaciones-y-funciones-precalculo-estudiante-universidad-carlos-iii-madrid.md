@@ -18,7 +18,7 @@ tags:
 - orden
 - producto
 - cartesiano
-title: Clase relaciones y funciones precalculo Estudiante Universidad Carlos III Madrid
+title: 'Clase relaciones y funciones precalculo Estudiante Universidad Carlos III Madrid'
 ---
 
 • Profesor Universitario Licenciado José Arturo Barreto. M.A, Universidad de Texas en Austin, USA

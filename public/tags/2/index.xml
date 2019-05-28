@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on Uvide</title>
+    <link>/tags/2/</link>
+    <description>Recent content in 2 on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 18 Dec 2012 11:28:35 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Curso R - Infraestructura</title>
+      <link>/blog/2012/12/18/curso-r-infraestructura/</link>
+      <pubDate>Tue, 18 Dec 2012 11:28:35 +0000</pubDate>
+      
+      <guid>/blog/2012/12/18/curso-r-infraestructura/</guid>
+      <description>   </description>
+    </item>
+    
+  </channel>
+</rss>

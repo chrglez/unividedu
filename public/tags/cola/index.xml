@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cola on Uvide</title>
+    <link>/tags/cola/</link>
+    <description>Recent content in cola on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 25 Mar 2015 11:17:42 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/cola/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Gestión de colas de espera. Caso práctico.</title>
+      <link>/blog/2015/03/25/gestion-de-colas-de-espera-caso-practico/</link>
+      <pubDate>Wed, 25 Mar 2015 11:17:42 +0000</pubDate>
+      
+      <guid>/blog/2015/03/25/gestion-de-colas-de-espera-caso-practico/</guid>
+      <description>Otra aproximación distinta a la teoría de colas. David de la Peña Esteban. Universidad a Distancia de Madrid, Udima.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

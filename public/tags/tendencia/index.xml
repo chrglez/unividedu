@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tendencia on Uvide</title>
+    <link>/tags/tendencia/</link>
+    <description>Recent content in Tendencia on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 21 May 2013 06:24:36 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/tendencia/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>umh1263 2012-13 Lec012 Series Temporales</title>
+      <link>/blog/2013/05/21/umh1263-2012-13-lec012-series-temporales/</link>
+      <pubDate>Tue, 21 May 2013 06:24:36 +0000</pubDate>
+      
+      <guid>/blog/2013/05/21/umh1263-2012-13-lec012-series-temporales/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/15vMRE0
+Series Temporales. Asignatura: Análisis Exploratorio de Datos. Grado en Administración y Dirección de Empresas (Elche). Profesora: Mª Asunción Martínez Mayoral. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE 2013. Universidad Miguel Hernández de Elche.
+Introducción a las series temporales. Descripción de las componentes básicas: tendencia, estacionalidad, componente cíclica e irregular. Modelos aditivos y multiplicativos; identificación.</description>
+    </item>
+    
+    <item>
+      <title>umh1263 2012-13 Lec013 Prácticas Series Temporales</title>
+      <link>/blog/2013/04/15/umh1263-2012-13-lec013-practicas-series-temporales/</link>
+      <pubDate>Mon, 15 Apr 2013 08:29:23 +0000</pubDate>
+      
+      <guid>/blog/2013/04/15/umh1263-2012-13-lec013-practicas-series-temporales/</guid>
+      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/15vMRE0
+Práctica de Series Temporales. Asignatura: Análisis Exploratorio de Datos. Grado en Administración y Dirección de Empresas (Elche). Profesora: Mª Asunción Martínez Mayoral. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE 2013. Universidad Miguel Hernández de Elche.
+Descripción gráfica de series temporales. Ajuste de tendencia con medias móviles y modelos lineal, parabólico y exponencial. Elección del modelo de tendencia.</description>
+    </item>
+    
+    <item>
+      <title>Practica - Series Temporales - 10/12 - Eliminación de la tendencia por diferencias</title>
+      <link>/blog/2013/02/22/practica-series-temporales-10-12-eliminacio%CC%81n-de-la-tendencia-por-diferencias/</link>
+      <pubDate>Fri, 22 Feb 2013 14:19:08 +0000</pubDate>
+      
+      <guid>/blog/2013/02/22/practica-series-temporales-10-12-eliminacio%CC%81n-de-la-tendencia-por-diferencias/</guid>
+      <description>Tutorial de Excel para la eliminación de la tendencia por el método de las diferencias.
+  </description>
+    </item>
+    
+    <item>
+      <title>Practica - Series Temporales - 09/12 - Calculo de la tendencia (método analítico)</title>
+      <link>/blog/2013/02/22/practica-series-temporales-09-12-calculo-de-la-tendencia-me%CC%81todo-anali%CC%81tico/</link>
+      <pubDate>Fri, 22 Feb 2013 14:19:01 +0000</pubDate>
+      
+      <guid>/blog/2013/02/22/practica-series-temporales-09-12-calculo-de-la-tendencia-me%CC%81todo-anali%CC%81tico/</guid>
+      <description>Tutorial de Excel para el cálculo de la tendencia de una serie temporal por el método analítico.
+  </description>
+    </item>
+    
+    <item>
+      <title>Teoría - Estadística Básica - Introducción - Series temporales</title>
+      <link>/blog/2013/02/22/teori%CC%81a-estadi%CC%81stica-ba%CC%81sica-introduccio%CC%81n-series-temporales/</link>
+      <pubDate>Fri, 22 Feb 2013 14:17:59 +0000</pubDate>
+      
+      <guid>/blog/2013/02/22/teori%CC%81a-estadi%CC%81stica-ba%CC%81sica-introduccio%CC%81n-series-temporales/</guid>
+      <description>En este vídeo se abordan los siguientes aspectos relacionados con las series temporales: - Cálculo de la tendencia por medias móviles - Eliminación de la tendencia por medias móviles - Cálculo de la estacionalidad por medias móviles - Eliminación de la estacionalidad por medias móviles
+  </description>
+    </item>
+    
+    <item>
+      <title>Practica - Series Temporales - 05/12 - Calculo de la tendencia (p impar)</title>
+      <link>/blog/2013/01/22/practica-series-temporales-05-12-calculo-de-la-tendencia-p-impar/</link>
+      <pubDate>Tue, 22 Jan 2013 17:24:07 +0000</pubDate>
+      
+      <guid>/blog/2013/01/22/practica-series-temporales-05-12-calculo-de-la-tendencia-p-impar/</guid>
+      <description>Tutorial de Excel para el cálculo de la tendencia de una serie temporal cuando tenemos un número par de datos al año.
+  </description>
+    </item>
+    
+    <item>
+      <title>Practica - Series Temporales - 01/12 - Calculo de la tendencia (p par)</title>
+      <link>/blog/2013/01/22/practica-series-temporales-01-12-calculo-de-la-tendencia-p-par/</link>
+      <pubDate>Tue, 22 Jan 2013 16:47:11 +0000</pubDate>
+      
+      <guid>/blog/2013/01/22/practica-series-temporales-01-12-calculo-de-la-tendencia-p-par/</guid>
+      <description>Tutorial de Excel para el cálculo de la tendencia por medias móviles de una serie temporal cuando tenemos un número de datos par al año.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

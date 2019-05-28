@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Student on Uvide</title>
+    <link>/tags/student/</link>
+    <description>Recent content in Student on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 21 Sep 2011 17:43:08 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/student/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DISTRIBUCIÓN t DE STUDENT |  | UPV</title>
+      <link>/blog/2011/09/21/distribuci%C3%B3n-t-de-student-upv-1/</link>
+      <pubDate>Wed, 21 Sep 2011 17:43:08 +0000</pubDate>
+      
+      <guid>/blog/2011/09/21/distribuci%C3%B3n-t-de-student-upv-1/</guid>
+      <description>Título: DISTRIBUCIÓN t DE STUDENT
+Descripción: se describe la distribucion de probabilidades t de student
+Autor/a: Cabrera García Suitberto
+ Universitat Politècnica de València UPV: https://www.upv.es Más vídeos en: https://www.youtube.com/valenciaupv Accede a nuestros MOOC: https://upvx.es    </description>
+    </item>
+    
+    <item>
+      <title>DISTRIBUCIÓN t DE STUDENT |  | UPV</title>
+      <link>/blog/2011/09/21/distribuci%C3%B3n-t-de-student-upv/</link>
+      <pubDate>Wed, 21 Sep 2011 17:43:08 +0000</pubDate>
+      
+      <guid>/blog/2011/09/21/distribuci%C3%B3n-t-de-student-upv/</guid>
+      <description>Título: DISTRIBUCIÓN t DE STUDENT
+Descripción: se describe la distribucion de probabilidades t de student
+Autor/a: Cabrera García Suitberto
+ Universitat Politècnica de València UPV: https://www.upv.es Más vídeos en: https://www.youtube.com/valenciaupv Accede a nuestros MOOC: https://upvx.es    </description>
+    </item>
+    
+  </channel>
+</rss>

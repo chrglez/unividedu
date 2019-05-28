@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Extramuestral on Uvide</title>
+    <link>/tags/extramuestral/</link>
+    <description>Recent content in Extramuestral on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 06 May 2013 14:37:23 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/extramuestral/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>(Econometría) Predicción a futuro en Eviews</title>
+      <link>/blog/2013/05/06/econometria-prediccio%CC%81n-a-futuro-en-eviews/</link>
+      <pubDate>Mon, 06 May 2013 14:37:23 +0000</pubDate>
+      
+      <guid>/blog/2013/05/06/econometria-prediccio%CC%81n-a-futuro-en-eviews/</guid>
+      <description>En este tutorial de EViews se explica cómo abordar la fase de predicción extramuestral mediante un modelo SARIMA que ha pasado todas las fases de validación.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

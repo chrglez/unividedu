@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Estacionariedad en media on Uvide</title>
+    <link>/tags/estacionariedad-en-media/</link>
+    <description>Recent content in Estacionariedad en media on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 13 Mar 2013 01:06:17 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/estacionariedad-en-media/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>(Econometría) Estacionariedad en media: 3. Contraste de Dickey y Fuller</title>
+      <link>/blog/2013/03/13/econometria-estacionariedad-en-media-3-contraste-de-dickey-y-fuller/</link>
+      <pubDate>Wed, 13 Mar 2013 01:06:17 +0000</pubDate>
+      
+      <guid>/blog/2013/03/13/econometria-estacionariedad-en-media-3-contraste-de-dickey-y-fuller/</guid>
+      <description>En este tutorial se explica cómo analizar la estacionariedad en media de una serie temporal, a través del contraste de Dickey y Fuller, mediante el paquete estadístico EViews.
+  </description>
+    </item>
+    
+    <item>
+      <title>(Econometría) Estacionariedad en media: 4. Parte estacional</title>
+      <link>/blog/2013/03/13/econometria-estacionariedad-en-media-4-parte-estacional/</link>
+      <pubDate>Wed, 13 Mar 2013 01:05:53 +0000</pubDate>
+      
+      <guid>/blog/2013/03/13/econometria-estacionariedad-en-media-4-parte-estacional/</guid>
+      <description>En este tutorial se explica cómo analizar la estacionariedad en media de una serie temporal, en su parte estacional, a través del análisis del correlograma estacionario en media en a parte regular, mediante el paquete estadístico EViews.
+  </description>
+    </item>
+    
+    <item>
+      <title>(Econometría) Estacionariedad en media: 2. Correlograma</title>
+      <link>/blog/2013/03/13/econometria-estacionariedad-en-media-2-correlograma/</link>
+      <pubDate>Wed, 13 Mar 2013 00:25:39 +0000</pubDate>
+      
+      <guid>/blog/2013/03/13/econometria-estacionariedad-en-media-2-correlograma/</guid>
+      <description>En este tutorial se explica cómo analizar la estacionariedad en media de una serie temporal, a través del análisis de su correlograma, mediante el paquete estadístico EViews.
+  </description>
+    </item>
+    
+    <item>
+      <title>(Econometría) Estacionariedad en media: 1. Método Gráfico</title>
+      <link>/blog/2013/03/13/econometria-estacionariedad-en-media-1-metodo-grafico/</link>
+      <pubDate>Wed, 13 Mar 2013 00:17:21 +0000</pubDate>
+      
+      <guid>/blog/2013/03/13/econometria-estacionariedad-en-media-1-metodo-grafico/</guid>
+      <description>En este tutorial se explica cómo analizar la estacionariedad en media de una serie temporal, a través del análisis de su gráfico de líneas, mediante el paquete estadístico EViews.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

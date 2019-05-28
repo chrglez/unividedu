@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ejemplo on Uvide</title>
+    <link>/tags/ejemplo/</link>
+    <description>Recent content in ejemplo on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 03 Mar 2014 17:10:43 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/ejemplo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Toma de decisiones con incertidumbre. Caso práctico.</title>
+      <link>/blog/2014/03/03/toma-de-decisiones-con-incertidumbre-caso-practico/</link>
+      <pubDate>Mon, 03 Mar 2014 17:10:43 +0000</pubDate>
+      
+      <guid>/blog/2014/03/03/toma-de-decisiones-con-incertidumbre-caso-practico/</guid>
+      <description>Este contenido se imparte en el Grado de Ingeniería de Organización Industrial: https://www.udima.es/es/grado-ingenieria-organizacion-industrial.html Toma de decisiones con incertidumbre. Caso práctico. Profesor: David de la Peña Esteban. Udima, Universidad a Distancia de Madrid.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

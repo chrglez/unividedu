@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Flujo máximo on Uvide</title>
+    <link>/tags/flujo-m%C3%A1ximo/</link>
+    <description>Recent content in Flujo máximo on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 12 Mar 2015 16:35:30 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/flujo-m%C3%A1ximo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Flujo máximo entre dos nodos. Caso práctico.</title>
+      <link>/blog/2015/03/12/flujo-maximo-entre-dos-nodos-caso-practico/</link>
+      <pubDate>Thu, 12 Mar 2015 16:35:30 +0000</pubDate>
+      
+      <guid>/blog/2015/03/12/flujo-maximo-entre-dos-nodos-caso-practico/</guid>
+      <description>Este contenido se imparte en el Grado de Ingeniería de Organización Industrial: https://www.udima.es/es/grado-ingenieria-organizacion-industrial.html Caso práctico. Flujo máximo entre dos nodos. Autor: F. David de la Peña Esteban. Universidad a Distancia de Madrid, Udima.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

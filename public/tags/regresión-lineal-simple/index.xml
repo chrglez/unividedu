@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Regresión Lineal Simple on Uvide</title>
+    <link>/tags/regresi%C3%B3n-lineal-simple/</link>
+    <description>Recent content in Regresión Lineal Simple on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 22 Feb 2013 14:21:12 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/regresi%C3%B3n-lineal-simple/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Practica - Variable bidimensional - 04/05 - Activación del módulo de regresión en Excel</title>
+      <link>/blog/2013/02/22/practica-variable-bidimensional-04-05-activacio%CC%81n-del-mo%CC%81dulo-de-regresio%CC%81n-en-excel/</link>
+      <pubDate>Fri, 22 Feb 2013 14:21:12 +0000</pubDate>
+      
+      <guid>/blog/2013/02/22/practica-variable-bidimensional-04-05-activacio%CC%81n-del-mo%CC%81dulo-de-regresio%CC%81n-en-excel/</guid>
+      <description>Cómo activar el módulo de Excel que permite realizar Regresión Lineal Simple.
+  </description>
+    </item>
+    
+    <item>
+      <title>Practica - Variable bidimensional - 05/05 - Regresión lineal simple con datos agregados</title>
+      <link>/blog/2013/02/22/practica-variable-bidimensional-05-05-regresio%CC%81n-lineal-simple-con-datos-agregados/</link>
+      <pubDate>Fri, 22 Feb 2013 14:20:59 +0000</pubDate>
+      
+      <guid>/blog/2013/02/22/practica-variable-bidimensional-05-05-regresio%CC%81n-lineal-simple-con-datos-agregados/</guid>
+      <description>Tutorial en Excel para estimar una Regresión Lineal Simple cuando se parte de datos agregados.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

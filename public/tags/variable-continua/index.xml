@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Variable continua on Uvide</title>
+    <link>/tags/variable-continua/</link>
+    <description>Recent content in Variable continua on Uvide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 22 Feb 2013 14:17:47 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/variable-continua/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Teoría   Estadística Básica   Introducción   Univariante</title>
+      <link>/blog/2013/02/22/teori%CC%81a-estadi%CC%81stica-ba%CC%81sica-introduccio%CC%81n-univariante/</link>
+      <pubDate>Fri, 22 Feb 2013 14:17:47 +0000</pubDate>
+      
+      <guid>/blog/2013/02/22/teori%CC%81a-estadi%CC%81stica-ba%CC%81sica-introduccio%CC%81n-univariante/</guid>
+      <description>En este vídeo se abordan los siguientes aspectos relacionados con el análisis de una variable estadística: - tabla de distribución de frecuencias (caso discreto y continuo) - representaciones gráficas (caso discreto y continuo)
+  </description>
+    </item>
+    
+  </channel>
+</rss>
