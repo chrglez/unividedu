@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://uvide.netlify.com/"
 title = "Uvide"
 theme = "hugo-universal-theme"
 languageCode = "es"
