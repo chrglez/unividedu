@@ -1,28 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hipótesis on Uvide</title>
+    <title>Hipótesis on Unitube</title>
     <link>/tags/hip%C3%B3tesis/</link>
-    <description>Recent content in Hipótesis on Uvide</description>
+    <description>Recent content in Hipótesis on Unitube</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Sat, 12 Oct 2013 03:40:36 +0000</lastBuildDate>
     
 	<atom:link href="/tags/hip%C3%B3tesis/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Contraste de hipótesis sobre los parámetros del modelo mediante la utilización del estadístico | UPV</title>
-      <link>/blog/2013/10/12/contraste-de-hipotesis-sobre-los-parametros-del-modelo-mediante-la-utilizacion-del-estadistico-upv-1/</link>
-      <pubDate>Sat, 12 Oct 2013 03:40:36 +0000</pubDate>
-      
-      <guid>/blog/2013/10/12/contraste-de-hipotesis-sobre-los-parametros-del-modelo-mediante-la-utilizacion-del-estadistico-upv-1/</guid>
-      <description>Título: Contraste de hipótesis sobre los parámetros del modelo mediante la utilización del estadístico F
-Descripción: Contraste de hipótesis sobre los parámetros del modelo mediante la utilización del estadístico F
-Autor: Cabrera García Suitberto
-Universitat Politècnica de València UPV: https://www.upv.es Más vídeos en: https://www.youtube.com/valenciaupv Accede a nuestros MOOC: https://upvx.es
-  </description>
-    </item>
     
     <item>
       <title>Contraste de hipótesis sobre los parámetros del modelo mediante la utilización del estadístico | UPV</title>

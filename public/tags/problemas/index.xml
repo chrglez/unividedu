@@ -1,15 +1,94 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>problemas on Uvide</title>
+    <title>problemas on Unitube</title>
     <link>/tags/problemas/</link>
-    <description>Recent content in problemas on Uvide</description>
+    <description>Recent content in problemas on Unitube</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Tue, 04 Dec 2012 15:07:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 May 2014 14:37:31 +0000</lastBuildDate>
     
 	<atom:link href="/tags/problemas/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Tema 2. Ejercicio 2 - Alfonso Rosa</title>
+      <link>/blog/2014/05/22/matematicas-para-la-empresa-ii-tema-2-ejercicio-2-alfonso-rosa/</link>
+      <pubDate>Thu, 22 May 2014 14:37:31 +0000</pubDate>
+      
+      <guid>/blog/2014/05/22/matematicas-para-la-empresa-ii-tema-2-ejercicio-2-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Problemas. Límites direccionales e iterados
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Tema 1. Ejercicio 1 - Alfonso Rosa</title>
+      <link>/blog/2014/03/25/matematicas-para-la-empresa-ii-tema-1-ejercicio-1-alfonso-rosa/</link>
+      <pubDate>Tue, 25 Mar 2014 16:09:07 +0000</pubDate>
+      
+      <guid>/blog/2014/03/25/matematicas-para-la-empresa-ii-tema-1-ejercicio-1-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Problemas. Dominio de funciones de varias variables
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Tema 4. Ejercicio 3 - Alfonso Rosa</title>
+      <link>/blog/2013/12/12/matematicas-para-la-empresa-i-tema-4-ejercicio-3-alfonso-rosa/</link>
+      <pubDate>Thu, 12 Dec 2013 11:50:57 +0000</pubDate>
+      
+      <guid>/blog/2013/12/12/matematicas-para-la-empresa-i-tema-4-ejercicio-3-alfonso-rosa/</guid>
+      <description>Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas Ejemplo núcleo de una aplicación lineal
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Tema 2. Ejercicio 4 - Alfonso Rosa</title>
+      <link>/blog/2013/11/14/matematicas-para-la-empresa-i-tema-2-ejercicio-4-alfonso-rosa/</link>
+      <pubDate>Thu, 14 Nov 2013 11:00:43 +0000</pubDate>
+      
+      <guid>/blog/2013/11/14/matematicas-para-la-empresa-i-tema-2-ejercicio-4-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas Problema. Ecuaciones matriciales
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Tema 2. Ejercicio 3 - Alfonso Rosa</title>
+      <link>/blog/2013/11/14/matematicas-para-la-empresa-i-tema-2-ejercicio-3-alfonso-rosa/</link>
+      <pubDate>Thu, 14 Nov 2013 10:59:12 +0000</pubDate>
+      
+      <guid>/blog/2013/11/14/matematicas-para-la-empresa-i-tema-2-ejercicio-3-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Problema. Matriz ortogonal
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Ejercicio 2. Subespacios vectoriales - Alfonso Rosa</title>
+      <link>/blog/2013/11/04/matematicas-para-la-empresa-i-ejercicio-2-subespacios-vectoriales-alfonso-rosa/</link>
+      <pubDate>Mon, 04 Nov 2013 10:29:57 +0000</pubDate>
+      
+      <guid>/blog/2013/11/04/matematicas-para-la-empresa-i-ejercicio-2-subespacios-vectoriales-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/a... Departamento: Facultad de Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas
+Resolución del problema subespacios vectoriales
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Ejercicio 1. Independencia Lineal - Alfonso Rosa</title>
+      <link>/blog/2013/11/04/matematicas-para-la-empresa-i-ejercicio-1-independencia-lineal-alfonso-rosa/</link>
+      <pubDate>Mon, 04 Nov 2013 10:28:21 +0000</pubDate>
+      
+      <guid>/blog/2013/11/04/matematicas-para-la-empresa-i-ejercicio-1-independencia-lineal-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial Departamento: Facultad de Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas
+Resolución del problema independencia lineal
+  </description>
+    </item>
     
     <item>
       <title>ÁLGEBRA: Examen 1 - 3ª parte (1c)</title>

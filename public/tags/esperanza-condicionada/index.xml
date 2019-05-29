@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Esperanza condicionada on Unitube</title>
+    <link>/tags/esperanza-condicionada/</link>
+    <description>Recent content in Esperanza condicionada on Unitube</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 18 May 2015 09:11:06 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/esperanza-condicionada/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ejercicio 3 pág 110 apdo 3</title>
+      <link>/blog/2015/05/18/ejercicio-3-pag-110-apdo-3/</link>
+      <pubDate>Mon, 18 May 2015 09:11:06 +0000</pubDate>
+      
+      <guid>/blog/2015/05/18/ejercicio-3-pag-110-apdo-3/</guid>
+      <description>Esperanza de Y condicionada por X=x
+  </description>
+    </item>
+    
+  </channel>
+</rss>

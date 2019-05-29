@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Números racionales on Unitube</title>
+    <link>/tags/n%C3%BAmeros-racionales/</link>
+    <description>Recent content in Números racionales on Unitube</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Sat, 24 Oct 2015 09:35:01 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/n%C3%BAmeros-racionales/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>3. Clasificación de los numeros</title>
+      <link>/blog/2015/10/24/3-clasificacion-de-los-numeros/</link>
+      <pubDate>Sat, 24 Oct 2015 09:35:01 +0000</pubDate>
+      
+      <guid>/blog/2015/10/24/3-clasificacion-de-los-numeros/</guid>
+      <description>En este vídeo repasamos todas las clases de números, desde los naturales, pasando por los enteros, racionales y reales, hasta los complejos.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

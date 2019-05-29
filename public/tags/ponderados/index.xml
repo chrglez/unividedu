@@ -1,15 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ponderados on Uvide</title>
+    <title>ponderados on Unitube</title>
     <link>/tags/ponderados/</link>
-    <description>Recent content in Ponderados on Uvide</description>
+    <description>Recent content in ponderados on Unitube</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Tue, 22 Jan 2013 16:53:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 Nov 2013 18:23:15 +0000</lastBuildDate>
     
 	<atom:link href="/tags/ponderados/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Fundamentos de Estadística - Indices de precios complejos ponderados - Conchi Pérez</title>
+      <link>/blog/2013/11/04/fundamentos-de-estadistica-indices-de-precios-complejos-ponderados-conchi-perez/</link>
+      <pubDate>Mon, 04 Nov 2013 18:23:15 +0000</pubDate>
+      
+      <guid>/blog/2013/11/04/fundamentos-de-estadistica-indices-de-precios-complejos-ponderados-conchi-perez/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas
+Indices de precios complejos ponderados
+  </description>
+    </item>
     
     <item>
       <title>Práctica - Números Índice - 03/03 - Índices complejos ponderados</title>

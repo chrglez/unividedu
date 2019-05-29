@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Parámetros on Uvide</title>
+    <title>Parámetros on Unitube</title>
     <link>/tags/par%C3%A1metros/</link>
-    <description>Recent content in Parámetros on Uvide</description>
+    <description>Recent content in Parámetros on Unitube</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Wed, 25 Jun 2014 21:19:47 +0000</lastBuildDate>
@@ -22,6 +22,17 @@ Descripción: En este objeto se muestran ejemplos de cómo resolver sistemas de 
 Autor/a: Herrero Debón Alicia
 Curso: Este vídeo es el 6&amp;frasl;14 del curso MOOC Bases Matemáticas: Álgebra | Universitat Politècnica de València (UPV). https://www.youtube.com/playlist?list=PL6kQim6ljTJtkMNu8kOYKCUhUdd_jDbMD
 Inscríbete en: https://upvx.</description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Tema 3. Ejercicio 5 - Alfonso Rosa</title>
+      <link>/blog/2013/12/03/matematicas-para-la-empresa-i-tema-3-ejercicio-5-alfonso-rosa/</link>
+      <pubDate>Tue, 03 Dec 2013 12:12:52 +0000</pubDate>
+      
+      <guid>/blog/2013/12/03/matematicas-para-la-empresa-i-tema-3-ejercicio-5-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas Problema. Sistema en función de parámetros
+  </description>
     </item>
     
   </channel>

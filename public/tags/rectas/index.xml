@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>rectas on Uvide</title>
+    <title>rectas on Unitube</title>
     <link>/tags/rectas/</link>
-    <description>Recent content in rectas on Uvide</description>
+    <description>Recent content in rectas on Unitube</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Sun, 04 Oct 2015 21:32:58 +0000</lastBuildDate>
@@ -18,6 +18,41 @@
       
       <guid>/blog/2015/10/04/puntos-de-una-recta/</guid>
       <description>Puntos de una recta
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II -  Tema 2. Ejercicio 1 - Alfonso Rosa</title>
+      <link>/blog/2014/03/27/matematicas-para-la-empresa-ii-tema-2-ejercicio-1-alfonso-rosa/</link>
+      <pubDate>Thu, 27 Mar 2014 13:51:15 +0000</pubDate>
+      
+      <guid>/blog/2014/03/27/matematicas-para-la-empresa-ii-tema-2-ejercicio-1-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Problemas. Límites direccionales e iterados
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II -  Tema 2. Lección 4 - Alfonso Rosa</title>
+      <link>/blog/2014/02/24/matematicas-para-la-empresa-ii-tema-2-leccion-4-alfonso-rosa/</link>
+      <pubDate>Mon, 24 Feb 2014 18:00:29 +0000</pubDate>
+      
+      <guid>/blog/2014/02/24/matematicas-para-la-empresa-ii-tema-2-leccion-4-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Límites direccionales
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II -  Tema 1. Lección 2 - Alfonso Rosa</title>
+      <link>/blog/2014/02/20/matematicas-para-la-empresa-ii-tema-1-leccion-2-alfonso-rosa/</link>
+      <pubDate>Thu, 20 Feb 2014 16:56:51 +0000</pubDate>
+      
+      <guid>/blog/2014/02/20/matematicas-para-la-empresa-ii-tema-1-leccion-2-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas Ejemplos de funciones reales
   </description>
     </item>
     

@@ -1,26 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Regresión on Uvide</title>
+    <title>Regresión on Unitube</title>
     <link>/tags/regresi%C3%B3n/</link>
-    <description>Recent content in Regresión on Uvide</description>
+    <description>Recent content in Regresión on Unitube</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Thu, 06 Nov 2014 21:31:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2015 08:17:48 +0000</lastBuildDate>
     
 	<atom:link href="/tags/regresi%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Regresion y correlacion con Statgraphics |  | UPV</title>
-      <link>/blog/2014/11/06/regresion-y-correlacion-con-statgraphics-upv-1/</link>
-      <pubDate>Thu, 06 Nov 2014 21:31:07 +0000</pubDate>
+      <title>Ejercicio 1 descriptiva examen 13/7/15</title>
+      <link>/blog/2015/09/15/ejercicio-1-descriptiva-examen-13-7-15/</link>
+      <pubDate>Tue, 15 Sep 2015 08:17:48 +0000</pubDate>
       
-      <guid>/blog/2014/11/06/regresion-y-correlacion-con-statgraphics-upv-1/</guid>
-      <description>Título: Regresion y correlacion con Statgraphics
-Descripción: En este objeto se muestra cómo utilizar el programa Statgraphics para hacer regresión y correlación. Se indica cómo obtener el ajuste de dos variables a distintos modelos, obteniendo los parámetros del ajuste, comparándolos con el fin de elegir el mejor.
-Autor/a: Monreal Mengual Llucía
- Universitat Politècnica de València UPV: https://www.upv.es Más vídeos en: https://www.youtube.com/valenciaupv Accede a nuestros MOOC: https://upvx.es    </description>
+      <guid>/blog/2015/09/15/ejercicio-1-descriptiva-examen-13-7-15/</guid>
+      <description>Ejercicio de regresión
+  </description>
     </item>
     
     <item>
@@ -33,57 +31,6 @@ Autor/a: Monreal Mengual Llucía
 Descripción: En este objeto se muestra cómo utilizar el programa Statgraphics para hacer regresión y correlación. Se indica cómo obtener el ajuste de dos variables a distintos modelos, obteniendo los parámetros del ajuste, comparándolos con el fin de elegir el mejor.
 Autor/a: Monreal Mengual Llucía
  Universitat Politècnica de València UPV: https://www.upv.es Más vídeos en: https://www.youtube.com/valenciaupv Accede a nuestros MOOC: https://upvx.es    </description>
-    </item>
-    
-    <item>
-      <title>Ejecución II - Regresión lineal simple y múltiple (parte 4 de 5)</title>
-      <link>/blog/2014/06/12/ejecucion-ii-regresion-lineal-simple-y-multiple-parte-4-de-5/</link>
-      <pubDate>Thu, 12 Jun 2014 14:47:00 +0000</pubDate>
-      
-      <guid>/blog/2014/06/12/ejecucion-ii-regresion-lineal-simple-y-multiple-parte-4-de-5/</guid>
-      <description>Autor: Serra Añó, Pilar; Ponce Darós, María José; López Bueno, Laura; González Moreno, Luis Millán; García Massó, Xavier; Regresión lineal simple y múltiple; Data: 2014; Resum: Cuarto vídeo de una serie de cinco, donde se muestra cómo la regresión lineal es utilizada para obtener un modelo de estimación de una variable objetivo a través de una o varias variables predictoras; Producció:SFPIE (www.uv.es/sfpie)-VLC Campus
-  </description>
-    </item>
-    
-    <item>
-      <title>Ejecución I - Regresión lineal simple y múltiple (parte 3 de 5)</title>
-      <link>/blog/2014/06/12/ejecucion-i-regresion-lineal-simple-y-multiple-parte-3-de-5/</link>
-      <pubDate>Thu, 12 Jun 2014 14:41:49 +0000</pubDate>
-      
-      <guid>/blog/2014/06/12/ejecucion-i-regresion-lineal-simple-y-multiple-parte-3-de-5/</guid>
-      <description>Autor: Serra Añó, Pilar; Ponce Darós, María José; López Bueno, Laura; González Moreno, Luis Millán; García Massó, Xavier; Regresión lineal simple y múltiple; Data: 2014; Resum: Tercer vídeo de una serie de cinco, donde se muestra cómo la regresión lineal es utilizada para obtener un modelo de estimación de una variable objetivo a través de una o varias variables predictoras; Producció:SFPIE (www.uv.es/sfpie)-VLC Campus
-  </description>
-    </item>
-    
-    <item>
-      <title>Introducción II -  Regresión lineal simple y múltiple (parte 2 de 5)</title>
-      <link>/blog/2014/06/12/introduccion-ii-regresion-lineal-simple-y-multiple-parte-2-de-5/</link>
-      <pubDate>Thu, 12 Jun 2014 14:39:10 +0000</pubDate>
-      
-      <guid>/blog/2014/06/12/introduccion-ii-regresion-lineal-simple-y-multiple-parte-2-de-5/</guid>
-      <description>Autor: Serra Añó, Pilar; Ponce Darós, María José; López Bueno, Laura; González Moreno, Luis Millán; García Massó, Xavier; Regresión lineal simple y múltiple; Data: 2014; Resum: Segundo Video de una serie de cinco donde se muestra cómo la regresión lineal es utilizada para obtener un modelo de estimación de una variable objetivo a través de una o varias variables predictoras;
-Producció:SFPIE (www.uv.es/sfpie)-VLC Campus
-  </description>
-    </item>
-    
-    <item>
-      <title>Escritura de los resultados - Regresión lineal simple y múltiple (parte 5 de 5)</title>
-      <link>/blog/2014/06/12/escritura-de-los-resultados-regresion-lineal-simple-y-multiple-parte-5-de-5/</link>
-      <pubDate>Thu, 12 Jun 2014 14:36:13 +0000</pubDate>
-      
-      <guid>/blog/2014/06/12/escritura-de-los-resultados-regresion-lineal-simple-y-multiple-parte-5-de-5/</guid>
-      <description>Autor: Serra Añó, Pilar; Ponce Darós, María José; López Bueno, Laura; González Moreno, Luis Millán; García Massó, Xavier; Regresión lineal simple y múltiple; Data: 2014; Resum: Último vídeo de una serie de cinco, donde se muestra cómo la regresión lineal es utilizada para obtener un modelo de estimación de una variable objetivo a través de una o varias variables predictoras; Producció:SFPIE (www.uv.es/sfpie)-VLC Campus
-  </description>
-    </item>
-    
-    <item>
-      <title>Introducción I - Regresión lineal simple y múltiple (parte 1 de 5)</title>
-      <link>/blog/2014/06/12/introduccion-i-regresion-lineal-simple-y-multiple-parte-1-de-5/</link>
-      <pubDate>Thu, 12 Jun 2014 14:35:21 +0000</pubDate>
-      
-      <guid>/blog/2014/06/12/introduccion-i-regresion-lineal-simple-y-multiple-parte-1-de-5/</guid>
-      <description>Autor: Serra Añó, Pilar; Ponce Darós, María José; López Bueno, Laura; González Moreno, Luis Millán; García Massó, Xavier; Regresión lineal simple y múltiple; Data: 2014; Resum: Primer video de una serie de cinco, donde se muestra cómo la regresión lineal es utilizada para obtener un modelo de estimación de una variable objetivo a través de una o varias variables predictoras; Producció:SFPIE (www.uv.es/sfpie)-VLC Campus
-  </description>
     </item>
     
     <item>

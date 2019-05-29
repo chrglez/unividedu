@@ -1,25 +1,2055 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>UCAM on Uvide</title>
+    <title>UCAM on Unitube</title>
     <link>/categories/ucam/</link>
-    <description>Recent content in UCAM on Uvide</description>
+    <description>Recent content in UCAM on Unitube</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Mon, 17 Mar 2014 08:07:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jun 2016 09:47:58 +0000</lastBuildDate>
     
 	<atom:link href="/categories/ucam/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Matemáticas para la Empresa II - Tema 3. Ejercicio 4 - Alfonso Rosa</title>
-      <link>/blog/2014/03/17/matematicas-para-la-empresa-ii-tema-3.-ejercicio-4-alfonso-rosa/</link>
+      <title>Fundamentos de estadística - Sesgo y curtosis - Jorge López Puga</title>
+      <link>/blog/2016/06/20/fundamentos-de-estadistica-sesgo-y-curtosis-jorge-lopez-puga/</link>
+      <pubDate>Mon, 20 Jun 2016 09:47:58 +0000</pubDate>
+      
+      <guid>/blog/2016/06/20/fundamentos-de-estadistica-sesgo-y-curtosis-jorge-lopez-puga/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Fundamentos de estadística - Correlación lineal - Jorge López Puga</title>
+      <link>/blog/2016/05/24/fundamentos-de-estadistica-correlacion-lineal-jorge-lopez-puga/</link>
+      <pubDate>Tue, 24 May 2016 11:44:04 +0000</pubDate>
+      
+      <guid>/blog/2016/05/24/fundamentos-de-estadistica-correlacion-lineal-jorge-lopez-puga/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Fundamentos de estadística - Regresión lineal simple - Jorge López Puga</title>
+      <link>/blog/2016/05/24/fundamentos-de-estadistica-regresion-lineal-simple-jorge-lopez-puga/</link>
+      <pubDate>Tue, 24 May 2016 11:44:04 +0000</pubDate>
+      
+      <guid>/blog/2016/05/24/fundamentos-de-estadistica-regresion-lineal-simple-jorge-lopez-puga/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Fundamentos de estadística - Gráfico de dispersión - Jorge Lopez Puga</title>
+      <link>/blog/2016/05/16/fundamentos-de-estadistica-grafico-de-dispersion-jorge-lopez-puga/</link>
+      <pubDate>Mon, 16 May 2016 11:28:26 +0000</pubDate>
+      
+      <guid>/blog/2016/05/16/fundamentos-de-estadistica-grafico-de-dispersion-jorge-lopez-puga/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Fundamentos de estadística-Estadísticos de tendencia central y dispersión con JASP-Jorge López Puga</title>
+      <link>/blog/2016/04/18/fundamentos-de-estadistica-estadisticos-de-tendencia-central-y-dispersion-con-jasp-jorge-lopez-puga/</link>
+      <pubDate>Mon, 18 Apr 2016 15:41:23 +0000</pubDate>
+      
+      <guid>/blog/2016/04/18/fundamentos-de-estadistica-estadisticos-de-tendencia-central-y-dispersion-con-jasp-jorge-lopez-puga/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Fundamentos de estadística - Puntuaciones típicas y derivadas - Jorge López Puga</title>
+      <link>/blog/2016/04/18/fundamentos-de-estadistica-puntuaciones-tipicas-y-derivadas-jorge-lopez-puga/</link>
+      <pubDate>Mon, 18 Apr 2016 15:41:16 +0000</pubDate>
+      
+      <guid>/blog/2016/04/18/fundamentos-de-estadistica-puntuaciones-tipicas-y-derivadas-jorge-lopez-puga/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Fundamentos de estadística - Dispersión - Jorge López Puga</title>
+      <link>/blog/2016/04/18/fundamentos-de-estadistica-dispersion-jorge-lopez-puga/</link>
+      <pubDate>Mon, 18 Apr 2016 15:41:08 +0000</pubDate>
+      
+      <guid>/blog/2016/04/18/fundamentos-de-estadistica-dispersion-jorge-lopez-puga/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Fundamentos de estadística - Índices de posición - Jorge López Puga</title>
+      <link>/blog/2016/04/18/fundamentos-de-estadistica-%C3%ADndices-de-posicion-jorge-lopez-puga/</link>
+      <pubDate>Mon, 18 Apr 2016 15:40:59 +0000</pubDate>
+      
+      <guid>/blog/2016/04/18/fundamentos-de-estadistica-%C3%ADndices-de-posicion-jorge-lopez-puga/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Fundamentos estadísticos - Fundamentos de estadística: ¿por qué son útiles? - Jorge López Puga</title>
+      <link>/blog/2016/03/16/fundamentos-estadisticos-fundamentos-de-estadistica-por-que-son-utiles-jorge-lopez-puga/</link>
+      <pubDate>Wed, 16 Mar 2016 11:25:16 +0000</pubDate>
+      
+      <guid>/blog/2016/03/16/fundamentos-estadisticos-fundamentos-de-estadistica-por-que-son-utiles-jorge-lopez-puga/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Fundamentos de estadística - Estadístico de tendencia central - Jorge López Puga</title>
+      <link>/blog/2016/03/16/fundamentos-de-estadistica-estadistico-de-tendencia-central-jorge-lopez-puga/</link>
+      <pubDate>Wed, 16 Mar 2016 11:24:04 +0000</pubDate>
+      
+      <guid>/blog/2016/03/16/fundamentos-de-estadistica-estadistico-de-tendencia-central-jorge-lopez-puga/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Fundamentos de estadística - Distribuciones de frecuencias. Gráficos - Jorge López Puga</title>
+      <link>/blog/2016/03/16/fundamentos-de-estadistica-distribuciones-de-frecuencias-graficos-jorge-lopez-puga/</link>
+      <pubDate>Wed, 16 Mar 2016 11:23:45 +0000</pubDate>
+      
+      <guid>/blog/2016/03/16/fundamentos-de-estadistica-distribuciones-de-frecuencias-graficos-jorge-lopez-puga/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Fundamentos de estadística - Distribuciones de frecuencias. Tablas - Jorge López Puga</title>
+      <link>/blog/2016/03/16/fundamentos-de-estadistica-distribuciones-de-frecuencias-tablas-jorge-lopez-puga/</link>
+      <pubDate>Wed, 16 Mar 2016 11:23:26 +0000</pubDate>
+      
+      <guid>/blog/2016/03/16/fundamentos-de-estadistica-distribuciones-de-frecuencias-tablas-jorge-lopez-puga/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Calculando Volúmenes - Alfonso Rosa</title>
+      <link>/blog/2015/05/19/matematicas-para-la-empresa-ii-calculando-volumenes-alfonso-rosa/</link>
+      <pubDate>Tue, 19 May 2015 10:01:59 +0000</pubDate>
+      
+      <guid>/blog/2015/05/19/matematicas-para-la-empresa-ii-calculando-volumenes-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas Calculando Volúmenes
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Ejemplo: Integral Doble - Alfonso Rosa</title>
+      <link>/blog/2015/05/19/matematicas-para-la-empresa-ii-ejemplo-integral-doble-alfonso-rosa/</link>
+      <pubDate>Tue, 19 May 2015 09:58:37 +0000</pubDate>
+      
+      <guid>/blog/2015/05/19/matematicas-para-la-empresa-ii-ejemplo-integral-doble-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas Ejemplo: Integral Doble
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la empresa II - Integrales Dobles: Cálculo - Alfonso Rosa</title>
+      <link>/blog/2015/05/12/matematicas-para-la-empresa-ii-integrales-dobles-calculo-alfonso-rosa/</link>
+      <pubDate>Tue, 12 May 2015 16:53:52 +0000</pubDate>
+      
+      <guid>/blog/2015/05/12/matematicas-para-la-empresa-ii-integrales-dobles-calculo-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas Integrales Dobles: Cálculo
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la empresa II - Integrales con Funciones Beta y Gamma - Alfonso Rosa</title>
+      <link>/blog/2015/05/12/matematicas-para-la-empresa-ii-integrales-con-funciones-beta-y-gamma-alfonso-rosa/</link>
+      <pubDate>Tue, 12 May 2015 16:48:28 +0000</pubDate>
+      
+      <guid>/blog/2015/05/12/matematicas-para-la-empresa-ii-integrales-con-funciones-beta-y-gamma-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas Integrales con Funciones Beta y Gamma
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la empresa II - Integrales Dobles: Propiedades- Alfonso Rosa</title>
+      <link>/blog/2015/05/12/matematicas-para-la-empresa-ii-integrales-dobles-propiedades-alfonso-rosa/</link>
+      <pubDate>Tue, 12 May 2015 16:44:40 +0000</pubDate>
+      
+      <guid>/blog/2015/05/12/matematicas-para-la-empresa-ii-integrales-dobles-propiedades-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas Integrales Dobles: Propiedades
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la empresa II - Ejemplo: Integrales Impropias de Primera Especie - Alfonso Rosa</title>
+      <link>/blog/2015/05/11/matematicas-para-la-empresa-ii-ejemplo-integrales-impropias-de-primera-especie-alfonso-rosa/</link>
+      <pubDate>Mon, 11 May 2015 10:01:17 +0000</pubDate>
+      
+      <guid>/blog/2015/05/11/matematicas-para-la-empresa-ii-ejemplo-integrales-impropias-de-primera-especie-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas Integrales Impropias de Primera Especie
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la empresa II - Ejemplo: Integrales con una función Beta - Alfonso Rosa</title>
+      <link>/blog/2015/05/11/matematicas-para-la-empresa-ii-ejemplo-integrales-con-una-funcion-beta-alfonso-rosa/</link>
+      <pubDate>Mon, 11 May 2015 10:01:17 +0000</pubDate>
+      
+      <guid>/blog/2015/05/11/matematicas-para-la-empresa-ii-ejemplo-integrales-con-una-funcion-beta-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresa Integrales con una función Beta
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la empresa II - Ejemplo: Integrales con una función Gamma - Alfonso Rosa</title>
+      <link>/blog/2015/05/11/matematicas-para-la-empresa-ii-ejemplo-integrales-con-una-funcion-gamma-alfonso-rosa/</link>
+      <pubDate>Mon, 11 May 2015 10:01:17 +0000</pubDate>
+      
+      <guid>/blog/2015/05/11/matematicas-para-la-empresa-ii-ejemplo-integrales-con-una-funcion-gamma-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas Integrales con una función Gamma
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la empresa II - Integrales Impropias de Segunda Especie - Alfonso Rosa</title>
+      <link>/blog/2015/05/11/matematicas-para-la-empresa-ii-integrales-impropias-de-segunda-especie-alfonso-rosa/</link>
+      <pubDate>Mon, 11 May 2015 10:01:17 +0000</pubDate>
+      
+      <guid>/blog/2015/05/11/matematicas-para-la-empresa-ii-integrales-impropias-de-segunda-especie-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas Integrales Impropias de Segunda Especie
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la empresa II - Integrales Impropias de Primera Especie - Alfonso Rosa</title>
+      <link>/blog/2015/05/08/matematicas-para-la-empresa-ii-integrales-impropias-de-primera-especie-alfonso-rosa/</link>
+      <pubDate>Fri, 08 May 2015 11:11:55 +0000</pubDate>
+      
+      <guid>/blog/2015/05/08/matematicas-para-la-empresa-ii-integrales-impropias-de-primera-especie-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas Integrales Impropias de Primera Especie
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la empresa II - Costes Marginales y Costes Totales - Alfonso Rosa</title>
+      <link>/blog/2015/05/08/matematicas-para-la-empresa-ii-costes-marginales-y-costes-totales-alfonso-rosa/</link>
+      <pubDate>Fri, 08 May 2015 11:10:38 +0000</pubDate>
+      
+      <guid>/blog/2015/05/08/matematicas-para-la-empresa-ii-costes-marginales-y-costes-totales-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas Costes Marginales y Costes Totales
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la empresa II - Métodos elementales de integración: Sustitución - Alfonso Rosa</title>
+      <link>/blog/2015/04/30/matematicas-para-la-empresa-ii-metodos-elementales-de-integracion-sustitucion-alfonso-rosa/</link>
+      <pubDate>Thu, 30 Apr 2015 08:17:52 +0000</pubDate>
+      
+      <guid>/blog/2015/04/30/matematicas-para-la-empresa-ii-metodos-elementales-de-integracion-sustitucion-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/i...
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: ADE Métodos elementales de integración: Sustitución
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la empresa II - Métodos elementales de integración: Inmediata - Alfonso Rosa</title>
+      <link>/blog/2015/04/30/matematicas-para-la-empresa-ii-metodos-elementales-de-integracion-inmediata-alfonso-rosa/</link>
+      <pubDate>Thu, 30 Apr 2015 07:58:54 +0000</pubDate>
+      
+      <guid>/blog/2015/04/30/matematicas-para-la-empresa-ii-metodos-elementales-de-integracion-inmediata-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/informatica-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: ADE Métodos elementales de integración: Inmediata
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - La Función Integral- Alfonso Rosa</title>
+      <link>/blog/2015/04/30/matematicas-para-la-empresa-ii-la-funcion-integral-alfonso-rosa/</link>
+      <pubDate>Thu, 30 Apr 2015 07:48:50 +0000</pubDate>
+      
+      <guid>/blog/2015/04/30/matematicas-para-la-empresa-ii-la-funcion-integral-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/informatica-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: ADE La Función Integral
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Integral Definida y sus Propiedades - Alfonso Rosa</title>
+      <link>/blog/2015/04/30/matematicas-para-la-empresa-ii-integral-definida-y-sus-propiedades-alfonso-rosa/</link>
+      <pubDate>Thu, 30 Apr 2015 07:38:16 +0000</pubDate>
+      
+      <guid>/blog/2015/04/30/matematicas-para-la-empresa-ii-integral-definida-y-sus-propiedades-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/i...
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: ADE Integral Definida y sus Propiedades
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Convergencia y Divergencia de Sucesiones - Alfonso Rosa</title>
+      <link>/blog/2015/04/27/matematicas-para-la-empresa-ii-convergencia-y-divergencia-de-sucesiones-alfonso-rosa/</link>
+      <pubDate>Mon, 27 Apr 2015 11:33:16 +0000</pubDate>
+      
+      <guid>/blog/2015/04/27/matematicas-para-la-empresa-ii-convergencia-y-divergencia-de-sucesiones-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/informatica-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: ADE
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Verificación del Teorema de Euler - Alfonso Rosa</title>
+      <link>/blog/2015/04/24/matematicas-para-la-empresa-ii-verificacion-del-teorema-de-euler-alfonso-rosa/</link>
+      <pubDate>Fri, 24 Apr 2015 07:13:45 +0000</pubDate>
+      
+      <guid>/blog/2015/04/24/matematicas-para-la-empresa-ii-verificacion-del-teorema-de-euler-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/informatica-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: ADE
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Sucesiones aritméticas y geométricas - Alfonso Rosa</title>
+      <link>/blog/2015/04/24/matematicas-para-la-empresa-ii-sucesiones-aritmeticas-y-geometricas-alfonso-rosa/</link>
+      <pubDate>Fri, 24 Apr 2015 07:12:25 +0000</pubDate>
+      
+      <guid>/blog/2015/04/24/matematicas-para-la-empresa-ii-sucesiones-aritmeticas-y-geometricas-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/informatica-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: ADE
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Aplicación del Teorema de Euler - Alfonso Rosa</title>
+      <link>/blog/2015/04/24/matematicas-para-la-empresa-ii-aplicacion-del-teorema-de-euler-alfonso-rosa/</link>
+      <pubDate>Fri, 24 Apr 2015 07:10:18 +0000</pubDate>
+      
+      <guid>/blog/2015/04/24/matematicas-para-la-empresa-ii-aplicacion-del-teorema-de-euler-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/informatica-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: ADE
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Derivación de sistemas de ecuaciones - Alfonso Rosa</title>
+      <link>/blog/2015/03/09/matematicas-para-la-empresa-ii-derivacion-de-sistemas-de-ecuaciones-alfonso-rosa/</link>
+      <pubDate>Mon, 09 Mar 2015 11:55:39 +0000</pubDate>
+      
+      <guid>/blog/2015/03/09/matematicas-para-la-empresa-ii-derivacion-de-sistemas-de-ecuaciones-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/informatica-a-distancia
+Facultad: Escuela Superior Politécnica Titulación: Grado en Ingeniería Informática Derivación de sistemas de ecuaciones
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Sistemas de Ecuaciones y su Derivación - Alfonso Rosa</title>
+      <link>/blog/2015/03/09/matematicas-para-la-empresa-ii-sistemas-de-ecuaciones-y-su-derivacion-alfonso-rosa/</link>
+      <pubDate>Mon, 09 Mar 2015 11:48:53 +0000</pubDate>
+      
+      <guid>/blog/2015/03/09/matematicas-para-la-empresa-ii-sistemas-de-ecuaciones-y-su-derivacion-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/informatica-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: ADE Sistemas de Ecuaciones y su Derivación
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Derivación de Funciones Implícitas - Alfonso Rosa</title>
+      <link>/blog/2015/03/03/matematicas-para-la-empresa-ii-derivacion-de-funciones-implicitas-alfonso-rosa/</link>
+      <pubDate>Tue, 03 Mar 2015 11:05:14 +0000</pubDate>
+      
+      <guid>/blog/2015/03/03/matematicas-para-la-empresa-ii-derivacion-de-funciones-implicitas-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas Derivación de Funciones Implícitas
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Teorema de la existencia de la Función Implícita - Alfonso Rosa</title>
+      <link>/blog/2015/03/03/matematicas-para-la-empresa-ii-teorema-de-la-existencia-de-la-funcion-implicita-alfonso-rosa/</link>
+      <pubDate>Tue, 03 Mar 2015 10:54:08 +0000</pubDate>
+      
+      <guid>/blog/2015/03/03/matematicas-para-la-empresa-ii-teorema-de-la-existencia-de-la-funcion-implicita-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas Teorema de la existencia de la Función Implícita
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Qué son las funciones implícitas - Alfonso Rosa</title>
+      <link>/blog/2015/03/03/matematicas-para-la-empresa-ii-que-son-las-funciones-implicitas-alfonso-rosa/</link>
+      <pubDate>Tue, 03 Mar 2015 10:41:35 +0000</pubDate>
+      
+      <guid>/blog/2015/03/03/matematicas-para-la-empresa-ii-que-son-las-funciones-implicitas-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas Qué son las funciones implícitas
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Límites Direccionales según Parábolas- Alfonso Rosa</title>
+      <link>/blog/2015/02/24/matematicas-para-la-empresa-ii-limites-direccionales-segun-parabolas-alfonso-rosa/</link>
+      <pubDate>Tue, 24 Feb 2015 08:47:06 +0000</pubDate>
+      
+      <guid>/blog/2015/02/24/matematicas-para-la-empresa-ii-limites-direccionales-segun-parabolas-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas Límites Direccionales según Parábolas
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Límites Direccionales Según Rectas - Alfonso Rosa</title>
+      <link>/blog/2015/02/24/matematicas-para-la-empresa-ii-limites-direccionales-segun-rectas-alfonso-rosa/</link>
+      <pubDate>Tue, 24 Feb 2015 08:44:20 +0000</pubDate>
+      
+      <guid>/blog/2015/02/24/matematicas-para-la-empresa-ii-limites-direccionales-segun-rectas-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas Límites Direccionales según Rectas
+  </description>
+    </item>
+    
+    <item>
+      <title>Estadística aplicada a la empresa - Distribución binomial negativa - Conchi Pérez</title>
+      <link>/blog/2015/02/18/estadistica-aplicada-a-la-empresa-distribucion-binomial-negativa-conchi-perez/</link>
+      <pubDate>Wed, 18 Feb 2015 11:07:27 +0000</pubDate>
+      
+      <guid>/blog/2015/02/18/estadistica-aplicada-a-la-empresa-distribucion-binomial-negativa-conchi-perez/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas Distribución binomial negativa
+  </description>
+    </item>
+    
+    <item>
+      <title>Estadística aplicada a la empresa - Presentación - Conchi Pérez</title>
+      <link>/blog/2015/02/18/estadistica-aplicada-a-la-empresa-presentacion-conchi-perez/</link>
+      <pubDate>Wed, 18 Feb 2015 11:04:11 +0000</pubDate>
+      
+      <guid>/blog/2015/02/18/estadistica-aplicada-a-la-empresa-presentacion-conchi-perez/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas Presentación
+  </description>
+    </item>
+    
+    <item>
+      <title>Estadística aplicada a la empresa - Distribución binomial - Conchi Pérez</title>
+      <link>/blog/2015/02/18/estadistica-aplicada-a-la-empresa-distribucion-binomial-conchi-perez/</link>
+      <pubDate>Wed, 18 Feb 2015 10:47:58 +0000</pubDate>
+      
+      <guid>/blog/2015/02/18/estadistica-aplicada-a-la-empresa-distribucion-binomial-conchi-perez/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas Distribución binomial
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Presentación - Alfonso Rosa</title>
+      <link>/blog/2015/02/16/matematicas-para-la-empresa-ii-presentacion-alfonso-rosa/</link>
+      <pubDate>Mon, 16 Feb 2015 11:52:25 +0000</pubDate>
+      
+      <guid>/blog/2015/02/16/matematicas-para-la-empresa-ii-presentacion-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas Presentación
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I  -  Formas Cuadráticas Reales  - Alfonso Rosa</title>
+      <link>/blog/2015/01/21/matematicas-para-la-empresa-i-formas-cuadraticas-reales-alfonso-rosa/</link>
+      <pubDate>Wed, 21 Jan 2015 13:29:32 +0000</pubDate>
+      
+      <guid>/blog/2015/01/21/matematicas-para-la-empresa-i-formas-cuadraticas-reales-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: Grado en Dirección y Administración de Empresas Formas Cuadráticas Reales
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I  - Criterios de los Valores Propios - Alfonso Rosa</title>
+      <link>/blog/2015/01/21/matematicas-para-la-empresa-i-criterios-de-los-valores-propios-alfonso-rosa/</link>
+      <pubDate>Wed, 21 Jan 2015 13:16:30 +0000</pubDate>
+      
+      <guid>/blog/2015/01/21/matematicas-para-la-empresa-i-criterios-de-los-valores-propios-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: Grado en Dirección y Administración de Empresas Criterios de los Valores Propios
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I  - Criterios de los Menores Principales - Alfonso Rosa</title>
+      <link>/blog/2015/01/21/matematicas-para-la-empresa-i-criterios-de-los-menores-principales-alfonso-rosa/</link>
+      <pubDate>Wed, 21 Jan 2015 13:16:27 +0000</pubDate>
+      
+      <guid>/blog/2015/01/21/matematicas-para-la-empresa-i-criterios-de-los-menores-principales-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: Grado en Dirección y Administración de Empresas Criterios de los Menores Principales
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Formas Cuadráticas Reales: Definición  - Alfonso Rosa García</title>
+      <link>/blog/2015/01/19/matematicas-para-la-empresa-i-formas-cuadraticas-reales-definicion-alfonso-rosa-garcia/</link>
+      <pubDate>Mon, 19 Jan 2015 12:38:53 +0000</pubDate>
+      
+      <guid>/blog/2015/01/19/matematicas-para-la-empresa-i-formas-cuadraticas-reales-definicion-alfonso-rosa-garcia/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas Formas Cuadráticas Reales: Definición
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Expresiones Diagonales y Canónicas - Alfonso Rosa García</title>
+      <link>/blog/2015/01/19/matematicas-para-la-empresa-i-expresiones-diagonales-y-canonicas-alfonso-rosa-garcia/</link>
+      <pubDate>Mon, 19 Jan 2015 12:36:01 +0000</pubDate>
+      
+      <guid>/blog/2015/01/19/matematicas-para-la-empresa-i-expresiones-diagonales-y-canonicas-alfonso-rosa-garcia/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas Expresiones Diagonales y Canónicas
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Formas Cuadráticas Reales: Clasificación  - Alfonso Rosa García</title>
+      <link>/blog/2015/01/19/matematicas-para-la-empresa-i-formas-cuadraticas-reales-clasificacion-alfonso-rosa-garcia/</link>
+      <pubDate>Mon, 19 Jan 2015 12:36:01 +0000</pubDate>
+      
+      <guid>/blog/2015/01/19/matematicas-para-la-empresa-i-formas-cuadraticas-reales-clasificacion-alfonso-rosa-garcia/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas Formas Cuadráticas Reales: Clasificación
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa - Expresar Formas Cuadráticas - Alfonso Rosa García</title>
+      <link>/blog/2015/01/13/matematicas-para-la-empresa-expresar-formas-cuadraticas-alfonso-rosa-garcia/</link>
+      <pubDate>Tue, 13 Jan 2015 09:54:09 +0000</pubDate>
+      
+      <guid>/blog/2015/01/13/matematicas-para-la-empresa-expresar-formas-cuadraticas-alfonso-rosa-garcia/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-a-distancia
+Facultad: Titulación: Ejemplo: Expresar Formas Cuadráticas
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa - Signo de una Forma Cuadratica: Menores Principales - Alfonso Rosa</title>
+      <link>/blog/2015/01/13/matematicas-para-la-empresa-signo-de-una-forma-cuadratica-menores-principales-alfonso-rosa/</link>
+      <pubDate>Tue, 13 Jan 2015 09:54:09 +0000</pubDate>
+      
+      <guid>/blog/2015/01/13/matematicas-para-la-empresa-signo-de-una-forma-cuadratica-menores-principales-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-a-distancia
+Facultad: Titulación: Signo de una Forma Cuadrática: Menores Principales
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa - Signo de una Forma Cuadrática: Valores propios - Alfonso Rosa García</title>
+      <link>/blog/2015/01/13/matematicas-para-la-empresa-signo-de-una-forma-cuadratica-valores-propios-alfonso-rosa-garcia/</link>
+      <pubDate>Tue, 13 Jan 2015 09:54:09 +0000</pubDate>
+      
+      <guid>/blog/2015/01/13/matematicas-para-la-empresa-signo-de-una-forma-cuadratica-valores-propios-alfonso-rosa-garcia/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-a-distancia
+Facultad: Titulación: Signo de una Forma Cuadrática: Valores propios
+  </description>
+    </item>
+    
+    <item>
+      <title>Fundamentos de Estadística - Teorema de Bayes - Conchi Pérez</title>
+      <link>/blog/2014/12/15/fundamentos-de-estadistica-teorema-de-bayes-conchi-perez/</link>
+      <pubDate>Mon, 15 Dec 2014 15:23:52 +0000</pubDate>
+      
+      <guid>/blog/2014/12/15/fundamentos-de-estadistica-teorema-de-bayes-conchi-perez/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas
+  </description>
+    </item>
+    
+    <item>
+      <title>Fundamentos de Estadística - Teorema de la probabilidad total - Conchi Pérez</title>
+      <link>/blog/2014/12/15/fundamentos-de-estadistica-teorema-de-la-probabilidad-total-conchi-perez/</link>
+      <pubDate>Mon, 15 Dec 2014 15:23:52 +0000</pubDate>
+      
+      <guid>/blog/2014/12/15/fundamentos-de-estadistica-teorema-de-la-probabilidad-total-conchi-perez/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas
+  </description>
+    </item>
+    
+    <item>
+      <title>Fundamentos de Estadística - Desestacionalización de la serie temporal - Conchi Pérez</title>
+      <link>/blog/2014/11/21/fundamentos-de-estadistica-desestacionalizacion-de-la-serie-temporal-conchi-perez/</link>
+      <pubDate>Fri, 21 Nov 2014 10:17:04 +0000</pubDate>
+      
+      <guid>/blog/2014/11/21/fundamentos-de-estadistica-desestacionalizacion-de-la-serie-temporal-conchi-perez/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas
+  </description>
+    </item>
+    
+    <item>
+      <title>Fundamentos de Estadística - Índices de variación estacional - Conchi Pérez</title>
+      <link>/blog/2014/11/21/fundamentos-de-estadistica-%C3%ADndices-de-variacion-estacional-conchi-perez/</link>
+      <pubDate>Fri, 21 Nov 2014 10:17:00 +0000</pubDate>
+      
+      <guid>/blog/2014/11/21/fundamentos-de-estadistica-%C3%ADndices-de-variacion-estacional-conchi-perez/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas
+  </description>
+    </item>
+    
+    <item>
+      <title>Fundamentos de Estadística - Tendencia por mínimos cuadrados - Conchi Pérez</title>
+      <link>/blog/2014/11/21/fundamentos-de-estadistica-tendencia-por-minimos-cuadrados-conchi-perez/</link>
+      <pubDate>Fri, 21 Nov 2014 10:16:58 +0000</pubDate>
+      
+      <guid>/blog/2014/11/21/fundamentos-de-estadistica-tendencia-por-minimos-cuadrados-conchi-perez/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas
+  </description>
+    </item>
+    
+    <item>
+      <title>Fundamentos de Estadística - Fiabilidad de las predicciones- Conchi Pérez</title>
+      <link>/blog/2014/11/21/fundamentos-de-estadistica-fiabilidad-de-las-predicciones-conchi-perez/</link>
+      <pubDate>Fri, 21 Nov 2014 10:16:54 +0000</pubDate>
+      
+      <guid>/blog/2014/11/21/fundamentos-de-estadistica-fiabilidad-de-las-predicciones-conchi-perez/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas
+  </description>
+    </item>
+    
+    <item>
+      <title>Econometría - Modelos mixtos de variables ficticias - Mercedes Carmona</title>
+      <link>/blog/2014/11/07/econometria-modelos-mixtos-de-variables-ficticias-mercedes-carmona/</link>
+      <pubDate>Fri, 07 Nov 2014 17:41:49 +0000</pubDate>
+      
+      <guid>/blog/2014/11/07/econometria-modelos-mixtos-de-variables-ficticias-mercedes-carmona/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas Modelos mixtos de variables ficticias
+  </description>
+    </item>
+    
+    <item>
+      <title>Econometría - Variables ficticias aditivas - Mercedes Carmona</title>
+      <link>/blog/2014/11/07/econometria-variables-ficticias-aditivas-mercedes-carmona/</link>
+      <pubDate>Fri, 07 Nov 2014 17:41:49 +0000</pubDate>
+      
+      <guid>/blog/2014/11/07/econometria-variables-ficticias-aditivas-mercedes-carmona/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas Variables ficticias aditivas
+  </description>
+    </item>
+    
+    <item>
+      <title>Econometría - Contrastes de Hipótesis Individuales- Mercedes Carmona</title>
+      <link>/blog/2014/10/30/econometria-contrastes-de-hipotesis-individuales-mercedes-carmona/</link>
+      <pubDate>Thu, 30 Oct 2014 12:38:54 +0000</pubDate>
+      
+      <guid>/blog/2014/10/30/econometria-contrastes-de-hipotesis-individuales-mercedes-carmona/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas Online Contrastes de Hipótesis Individuales
+  </description>
+    </item>
+    
+    <item>
+      <title>Econometría - La Modelización Econométrica - Mercedes Carmona</title>
+      <link>/blog/2014/10/30/econometria-la-modelizacion-econometrica-mercedes-carmona/</link>
+      <pubDate>Thu, 30 Oct 2014 12:38:54 +0000</pubDate>
+      
+      <guid>/blog/2014/10/30/econometria-la-modelizacion-econometrica-mercedes-carmona/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas Online La Modelización Econométrica
+  </description>
+    </item>
+    
+    <item>
+      <title>Fundamentos de Estadística - Variables Discretas - Conchi Pérez</title>
+      <link>/blog/2014/10/16/fundamentos-de-estadistica-variables-discretas-conchi-perez/</link>
+      <pubDate>Thu, 16 Oct 2014 14:05:21 +0000</pubDate>
+      
+      <guid>/blog/2014/10/16/fundamentos-de-estadistica-variables-discretas-conchi-perez/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: Administración y Dirección de Empresas Online Variables Discretas
+  </description>
+    </item>
+    
+    <item>
+      <title>Fundamentos de Estadística - Independencia Estadística - Conchi Pérez</title>
+      <link>/blog/2014/10/16/fundamentos-de-estadistica-independencia-estadistica-conchi-perez/</link>
+      <pubDate>Thu, 16 Oct 2014 14:04:22 +0000</pubDate>
+      
+      <guid>/blog/2014/10/16/fundamentos-de-estadistica-independencia-estadistica-conchi-perez/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: Administración y Dirección de Empresas Online
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Tema 3. Ejercicio 2 - Alfonso Rosa</title>
+      <link>/blog/2014/07/21/matematicas-para-la-empresa-i-tema-3-ejercicio-2-alfonso-rosa/</link>
+      <pubDate>Mon, 21 Jul 2014 07:43:16 +0000</pubDate>
+      
+      <guid>/blog/2014/07/21/matematicas-para-la-empresa-i-tema-3-ejercicio-2-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas Problemas. Regla de Cramer
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Tema 7. Ejercicio 2 - Alfonso Rosa</title>
+      <link>/blog/2014/05/29/matematicas-para-la-empresa-ii-tema-7-ejercicio-2-alfonso-rosa/</link>
+      <pubDate>Thu, 29 May 2014 08:30:25 +0000</pubDate>
+      
+      <guid>/blog/2014/05/29/matematicas-para-la-empresa-ii-tema-7-ejercicio-2-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Costes totales desde los costes marginales
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Tema 7. Ejercicio 1 - Alfonso Rosa</title>
+      <link>/blog/2014/05/26/matematicas-para-la-empresa-ii-tema-7-ejercicio-1-alfonso-rosa/</link>
+      <pubDate>Mon, 26 May 2014 11:42:12 +0000</pubDate>
+      
+      <guid>/blog/2014/05/26/matematicas-para-la-empresa-ii-tema-7-ejercicio-1-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Costes totales desde los costes marginales
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Tema 6. Ejercicio 2 - Alfonso Rosa</title>
+      <link>/blog/2014/05/26/matematicas-para-la-empresa-ii-tema-6-ejercicio-2-alfonso-rosa/</link>
+      <pubDate>Mon, 26 May 2014 11:41:48 +0000</pubDate>
+      
+      <guid>/blog/2014/05/26/matematicas-para-la-empresa-ii-tema-6-ejercicio-2-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Convergencia y divergencia de series
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Tema 6. Ejercicio 1 - Alfonso Rosa</title>
+      <link>/blog/2014/05/26/matematicas-para-la-empresa-ii-tema-6-ejercicio-1-alfonso-rosa/</link>
+      <pubDate>Mon, 26 May 2014 11:41:16 +0000</pubDate>
+      
+      <guid>/blog/2014/05/26/matematicas-para-la-empresa-ii-tema-6-ejercicio-1-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Series aritméticas y geométricas
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Tema 4. Ejercicio 3 - Alfonso Rosa</title>
+      <link>/blog/2014/05/22/matematicas-para-la-empresa-ii-tema-4-ejercicio-3-alfonso-rosa/</link>
+      <pubDate>Thu, 22 May 2014 14:49:12 +0000</pubDate>
+      
+      <guid>/blog/2014/05/22/matematicas-para-la-empresa-ii-tema-4-ejercicio-3-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Tema 2. Ejercicio 2 - Alfonso Rosa</title>
+      <link>/blog/2014/05/22/matematicas-para-la-empresa-ii-tema-2-ejercicio-2-alfonso-rosa/</link>
+      <pubDate>Thu, 22 May 2014 14:37:31 +0000</pubDate>
+      
+      <guid>/blog/2014/05/22/matematicas-para-la-empresa-ii-tema-2-ejercicio-2-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Problemas. Límites direccionales e iterados
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Tema 2. Ejercicio 3 - Alfonso Rosa</title>
+      <link>/blog/2014/05/22/matematicas-para-la-empresa-ii-tema-2-ejercicio-3-alfonso-rosa/</link>
+      <pubDate>Thu, 22 May 2014 14:37:01 +0000</pubDate>
+      
+      <guid>/blog/2014/05/22/matematicas-para-la-empresa-ii-tema-2-ejercicio-3-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Problemas. Existencia de límite
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Tema 5. Ejercicio 1 - Alfonso Rosa</title>
+      <link>/blog/2014/05/20/matematicas-para-la-empresa-ii-tema-5-ejercicio-1-alfonso-rosa/</link>
+      <pubDate>Tue, 20 May 2014 11:27:35 +0000</pubDate>
+      
+      <guid>/blog/2014/05/20/matematicas-para-la-empresa-ii-tema-5-ejercicio-1-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Grado de homogeneidad
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Tema 6. Lección 8 - Alfonso Rosa</title>
+      <link>/blog/2014/05/19/matematicas-para-la-empresa-ii-tema-6-leccion-8-alfonso-rosa/</link>
+      <pubDate>Mon, 19 May 2014 11:17:39 +0000</pubDate>
+      
+      <guid>/blog/2014/05/19/matematicas-para-la-empresa-ii-tema-6-leccion-8-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas Criterios de convergencia: ejemplos
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Tema 6. Lección 7 - Alfonso Rosa</title>
+      <link>/blog/2014/05/19/matematicas-para-la-empresa-ii-tema-6-leccion-7-alfonso-rosa/</link>
+      <pubDate>Mon, 19 May 2014 11:16:40 +0000</pubDate>
+      
+      <guid>/blog/2014/05/19/matematicas-para-la-empresa-ii-tema-6-leccion-7-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas Convergencia de series: propiedades
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Tema 6. Lección 6 - Alfonso Rosa</title>
+      <link>/blog/2014/05/19/matematicas-para-la-empresa-ii-tema-6-leccion-6-alfonso-rosa/</link>
+      <pubDate>Mon, 19 May 2014 11:15:10 +0000</pubDate>
+      
+      <guid>/blog/2014/05/19/matematicas-para-la-empresa-ii-tema-6-leccion-6-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Criterios suficientes de convergencia
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Tema 6. Lección 5 - Alfonso Rosa</title>
+      <link>/blog/2014/05/19/matematicas-para-la-empresa-ii-tema-6-leccion-5-alfonso-rosa/</link>
+      <pubDate>Mon, 19 May 2014 11:13:18 +0000</pubDate>
+      
+      <guid>/blog/2014/05/19/matematicas-para-la-empresa-ii-tema-6-leccion-5-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas Criterio de convergencia de Cauchy
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Tema 5. Lección 4 - Alfonso Rosa</title>
+      <link>/blog/2014/05/19/matematicas-para-la-empresa-ii-tema-5-leccion-4-alfonso-rosa/</link>
+      <pubDate>Mon, 19 May 2014 11:10:53 +0000</pubDate>
+      
+      <guid>/blog/2014/05/19/matematicas-para-la-empresa-ii-tema-5-leccion-4-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Propiedades de funciones homogéneas
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Tema 6. Lección 4- Alfonso Rosa</title>
+      <link>/blog/2014/05/16/matematicas-para-la-empresa-ii-tema-6-leccion-4-alfonso-rosa/</link>
+      <pubDate>Fri, 16 May 2014 08:46:32 +0000</pubDate>
+      
+      <guid>/blog/2014/05/16/matematicas-para-la-empresa-ii-tema-6-leccion-4-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+convergencia en series aritméticas y geométricas
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Tema 6. Lección 3- Alfonso Rosa</title>
+      <link>/blog/2014/05/16/matematicas-para-la-empresa-ii-tema-6-leccion-3-alfonso-rosa/</link>
+      <pubDate>Fri, 16 May 2014 07:51:12 +0000</pubDate>
+      
+      <guid>/blog/2014/05/16/matematicas-para-la-empresa-ii-tema-6-leccion-3-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Clasificación de las series
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Tema 6. Lección 2- Alfonso Rosa</title>
+      <link>/blog/2014/05/16/matematicas-para-la-empresa-ii-tema-6-leccion-2-alfonso-rosa/</link>
+      <pubDate>Fri, 16 May 2014 07:50:13 +0000</pubDate>
+      
+      <guid>/blog/2014/05/16/matematicas-para-la-empresa-ii-tema-6-leccion-2-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Series numéricas aritméticas y geométricas
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Tema 6 lección 1 - Alfonso Rosa</title>
+      <link>/blog/2014/05/16/matematicas-para-la-empresa-ii-tema-6-leccion-1-alfonso-rosa/</link>
+      <pubDate>Fri, 16 May 2014 07:48:03 +0000</pubDate>
+      
+      <guid>/blog/2014/05/16/matematicas-para-la-empresa-ii-tema-6-leccion-1-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas Sucesiones
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Tema 5. Lección 3 - Alfonso Rosa</title>
+      <link>/blog/2014/05/07/matematicas-para-la-empresa-ii-tema-5-leccion-3-alfonso-rosa/</link>
+      <pubDate>Wed, 07 May 2014 09:56:11 +0000</pubDate>
+      
+      <guid>/blog/2014/05/07/matematicas-para-la-empresa-ii-tema-5-leccion-3-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Tema 5. Lección 2- Alfonso Rosa</title>
+      <link>/blog/2014/05/07/matematicas-para-la-empresa-ii-tema-5-leccion-2-alfonso-rosa/</link>
+      <pubDate>Wed, 07 May 2014 09:54:31 +0000</pubDate>
+      
+      <guid>/blog/2014/05/07/matematicas-para-la-empresa-ii-tema-5-leccion-2-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Tema 5. Lección 1- Alfonso Rosa</title>
+      <link>/blog/2014/05/07/matematicas-para-la-empresa-ii-tema-5-leccion-1-alfonso-rosa/</link>
+      <pubDate>Wed, 07 May 2014 09:52:40 +0000</pubDate>
+      
+      <guid>/blog/2014/05/07/matematicas-para-la-empresa-ii-tema-5-leccion-1-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II -  Tema 2. Ejercicio 1 - Alfonso Rosa</title>
+      <link>/blog/2014/03/27/matematicas-para-la-empresa-ii-tema-2-ejercicio-1-alfonso-rosa/</link>
+      <pubDate>Thu, 27 Mar 2014 13:51:15 +0000</pubDate>
+      
+      <guid>/blog/2014/03/27/matematicas-para-la-empresa-ii-tema-2-ejercicio-1-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Problemas. Límites direccionales e iterados
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Tema 1. Ejercicio 1 - Alfonso Rosa</title>
+      <link>/blog/2014/03/25/matematicas-para-la-empresa-ii-tema-1-ejercicio-1-alfonso-rosa/</link>
+      <pubDate>Tue, 25 Mar 2014 16:09:07 +0000</pubDate>
+      
+      <guid>/blog/2014/03/25/matematicas-para-la-empresa-ii-tema-1-ejercicio-1-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Problemas. Dominio de funciones de varias variables
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Tema 1. Ejercicio 2 - Alfonso Rosa</title>
+      <link>/blog/2014/03/25/matematicas-para-la-empresa-ii-tema-1-ejercicio-2-alfonso-rosa/</link>
+      <pubDate>Tue, 25 Mar 2014 16:09:07 +0000</pubDate>
+      
+      <guid>/blog/2014/03/25/matematicas-para-la-empresa-ii-tema-1-ejercicio-2-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Problemas. Curvas de nivel
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Tema 1. Ejercicio 3 - Alfonso Rosa</title>
+      <link>/blog/2014/03/25/matematicas-para-la-empresa-ii-tema-1-ejercicio-3-alfonso-rosa/</link>
+      <pubDate>Tue, 25 Mar 2014 16:09:07 +0000</pubDate>
+      
+      <guid>/blog/2014/03/25/matematicas-para-la-empresa-ii-tema-1-ejercicio-3-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Problemas. Composición de funciones
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Tema 3. Lección 10 - Alfonso Rosa</title>
+      <link>/blog/2014/03/25/matematicas-para-la-empresa-ii-tema-3-leccion-10-alfonso-rosa/</link>
+      <pubDate>Tue, 25 Mar 2014 16:09:07 +0000</pubDate>
+      
+      <guid>/blog/2014/03/25/matematicas-para-la-empresa-ii-tema-3-leccion-10-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Regla de la Cadena
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Tema 3. Lección 7- Alfonso Rosa</title>
+      <link>/blog/2014/03/25/matematicas-para-la-empresa-ii-tema-3-leccion-7-alfonso-rosa/</link>
+      <pubDate>Tue, 25 Mar 2014 16:09:07 +0000</pubDate>
+      
+      <guid>/blog/2014/03/25/matematicas-para-la-empresa-ii-tema-3-leccion-7-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Diferenciabilidad
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Tema 3. Lección 9 - Alfonso Rosa</title>
+      <link>/blog/2014/03/25/matematicas-para-la-empresa-ii-tema-3-leccion-9-alfonso-rosa/</link>
+      <pubDate>Tue, 25 Mar 2014 16:09:07 +0000</pubDate>
+      
+      <guid>/blog/2014/03/25/matematicas-para-la-empresa-ii-tema-3-leccion-9-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Matriz Jacobiana
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Tema 3. Lección 8- Alfonso Rosa</title>
+      <link>/blog/2014/03/25/matematicas-para-la-empresa-ii-tema-3-leccion-8-alfonso-rosa/</link>
+      <pubDate>Tue, 25 Mar 2014 16:09:06 +0000</pubDate>
+      
+      <guid>/blog/2014/03/25/matematicas-para-la-empresa-ii-tema-3-leccion-8-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Diferenciabilidad de funciones de varias variables
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Tema 3. Lección 5 - Alfonso Rosa</title>
+      <link>/blog/2014/03/24/matematicas-para-la-empresa-ii-tema-3-leccion-5-alfonso-rosa/</link>
+      <pubDate>Mon, 24 Mar 2014 12:59:35 +0000</pubDate>
+      
+      <guid>/blog/2014/03/24/matematicas-para-la-empresa-ii-tema-3-leccion-5-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Derivadas direccionales
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Tema 3. Lección 6 - Alfonso Rosa</title>
+      <link>/blog/2014/03/20/matematicas-para-la-empresa-ii-tema-3-leccion-6-alfonso-rosa/</link>
+      <pubDate>Thu, 20 Mar 2014 18:18:00 +0000</pubDate>
+      
+      <guid>/blog/2014/03/20/matematicas-para-la-empresa-ii-tema-3-leccion-6-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Matriz hessiana
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Tema 3. Lección 4 - Alfonso Rosa</title>
+      <link>/blog/2014/03/20/matematicas-para-la-empresa-ii-tema-3-leccion-4-alfonso-rosa/</link>
+      <pubDate>Thu, 20 Mar 2014 18:05:38 +0000</pubDate>
+      
+      <guid>/blog/2014/03/20/matematicas-para-la-empresa-ii-tema-3-leccion-4-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas Derivadas con una variable independiente Derivadas parciales
+Vector gradiente
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Tema 3. Lección 3 - Alfonso Rosa</title>
+      <link>/blog/2014/03/20/matematicas-para-la-empresa-ii-tema-3-leccion-3-alfonso-rosa/</link>
+      <pubDate>Thu, 20 Mar 2014 18:04:20 +0000</pubDate>
+      
+      <guid>/blog/2014/03/20/matematicas-para-la-empresa-ii-tema-3-leccion-3-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas Derivadas con una variable independiente Derivadas parciales
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Tema 3. Lección 2 - Alfonso Rosa</title>
+      <link>/blog/2014/03/20/matematicas-para-la-empresa-ii-tema-3-leccion-2-alfonso-rosa/</link>
+      <pubDate>Thu, 20 Mar 2014 18:02:57 +0000</pubDate>
+      
+      <guid>/blog/2014/03/20/matematicas-para-la-empresa-ii-tema-3-leccion-2-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas Derivadas con una variable independiente
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Tema 3. Lección 1 - Alfonso Rosa</title>
+      <link>/blog/2014/03/20/matematicas-para-la-empresa-ii-tema-3-leccion-1-alfonso-rosa/</link>
+      <pubDate>Thu, 20 Mar 2014 18:02:12 +0000</pubDate>
+      
+      <guid>/blog/2014/03/20/matematicas-para-la-empresa-ii-tema-3-leccion-1-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Problemas. Derivación implícita en sistemas de ecuaciones
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Tema 4. Ejercicio 2 - Alfonso Rosa</title>
+      <link>/blog/2014/03/20/matematicas-para-la-empresa-ii-tema-4-ejercicio-2-alfonso-rosa/</link>
+      <pubDate>Thu, 20 Mar 2014 18:01:07 +0000</pubDate>
+      
+      <guid>/blog/2014/03/20/matematicas-para-la-empresa-ii-tema-4-ejercicio-2-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Problemas. Derivación de funciones implícitas
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II -  Tema 3. Ejercicio 3 - Alfonso Rosa</title>
+      <link>/blog/2014/03/17/matematicas-para-la-empresa-ii-tema-3-ejercicio-3-alfonso-rosa/</link>
       <pubDate>Mon, 17 Mar 2014 08:07:24 +0000</pubDate>
       
-      <guid>/blog/2014/03/17/matematicas-para-la-empresa-ii-tema-3.-ejercicio-4-alfonso-rosa/</guid>
+      <guid>/blog/2014/03/17/matematicas-para-la-empresa-ii-tema-3-ejercicio-3-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Problemas. Obtención del hessiano
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II -  Tema 4. Ejercicio 1 - Alfonso Rosa</title>
+      <link>/blog/2014/03/17/matematicas-para-la-empresa-ii-tema-4-ejercicio-1-alfonso-rosa/</link>
+      <pubDate>Mon, 17 Mar 2014 08:07:24 +0000</pubDate>
+      
+      <guid>/blog/2014/03/17/matematicas-para-la-empresa-ii-tema-4-ejercicio-1-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Problemas. Existencia de la función implícita
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Tema 3. Ejercicio 4 - Alfonso Rosa</title>
+      <link>/blog/2014/03/17/matematicas-para-la-empresa-ii-tema-3-ejercicio-4-alfonso-rosa/</link>
+      <pubDate>Mon, 17 Mar 2014 08:07:24 +0000</pubDate>
+      
+      <guid>/blog/2014/03/17/matematicas-para-la-empresa-ii-tema-3-ejercicio-4-alfonso-rosa/</guid>
       <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
 Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
 Obtención del jacobiano
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Tema 3. Ejercicio 1 - Alfonso Rosa</title>
+      <link>/blog/2014/03/12/matematicas-para-la-empresa-ii-tema-3-ejercicio-1-alfonso-rosa/</link>
+      <pubDate>Wed, 12 Mar 2014 08:59:25 +0000</pubDate>
+      
+      <guid>/blog/2014/03/12/matematicas-para-la-empresa-ii-tema-3-ejercicio-1-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas Problemas. Obtención del Gradiente
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Tema 3. Ejercicio 2 - Alfonso Rosa</title>
+      <link>/blog/2014/03/12/matematicas-para-la-empresa-ii-tema-3-ejercicio-2-alfonso-rosa/</link>
+      <pubDate>Wed, 12 Mar 2014 08:59:18 +0000</pubDate>
+      
+      <guid>/blog/2014/03/12/matematicas-para-la-empresa-ii-tema-3-ejercicio-2-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Problemas. Derivada direccional
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II -  Tema 2. Lección 6 - Alfonso Rosa</title>
+      <link>/blog/2014/02/25/matematicas-para-la-empresa-ii-tema-2-leccion-6-alfonso-rosa/</link>
+      <pubDate>Tue, 25 Feb 2014 09:55:45 +0000</pubDate>
+      
+      <guid>/blog/2014/02/25/matematicas-para-la-empresa-ii-tema-2-leccion-6-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II -  Tema 2. Lección 7 - Alfonso Rosa</title>
+      <link>/blog/2014/02/25/matematicas-para-la-empresa-ii-tema-2-leccion-7-alfonso-rosa/</link>
+      <pubDate>Tue, 25 Feb 2014 09:52:50 +0000</pubDate>
+      
+      <guid>/blog/2014/02/25/matematicas-para-la-empresa-ii-tema-2-leccion-7-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II -  Tema 2. Lección 3 - Alfonso Rosa</title>
+      <link>/blog/2014/02/24/matematicas-para-la-empresa-ii-tema-2-leccion-3-alfonso-rosa/</link>
+      <pubDate>Mon, 24 Feb 2014 18:01:24 +0000</pubDate>
+      
+      <guid>/blog/2014/02/24/matematicas-para-la-empresa-ii-tema-2-leccion-3-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Ejemplo de límite según definción
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II -  Tema 2. Lección 5 - Alfonso Rosa</title>
+      <link>/blog/2014/02/24/matematicas-para-la-empresa-ii-tema-2-leccion-5-alfonso-rosa/</link>
+      <pubDate>Mon, 24 Feb 2014 18:01:04 +0000</pubDate>
+      
+      <guid>/blog/2014/02/24/matematicas-para-la-empresa-ii-tema-2-leccion-5-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Límites iterados
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II -  Tema 2. Lección 4 - Alfonso Rosa</title>
+      <link>/blog/2014/02/24/matematicas-para-la-empresa-ii-tema-2-leccion-4-alfonso-rosa/</link>
+      <pubDate>Mon, 24 Feb 2014 18:00:29 +0000</pubDate>
+      
+      <guid>/blog/2014/02/24/matematicas-para-la-empresa-ii-tema-2-leccion-4-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Límites direccionales
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II -  Tema 2. Lección 2 - Alfonso Rosa</title>
+      <link>/blog/2014/02/24/matematicas-para-la-empresa-ii-tema-2-leccion-2-alfonso-rosa/</link>
+      <pubDate>Mon, 24 Feb 2014 17:59:00 +0000</pubDate>
+      
+      <guid>/blog/2014/02/24/matematicas-para-la-empresa-ii-tema-2-leccion-2-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Limite con varias variables independientes
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Tema 2. Lección 1 - Alfonso Rosa</title>
+      <link>/blog/2014/02/24/matematicas-para-la-empresa-ii-tema-2-leccion-1-alfonso-rosa/</link>
+      <pubDate>Mon, 24 Feb 2014 17:58:22 +0000</pubDate>
+      
+      <guid>/blog/2014/02/24/matematicas-para-la-empresa-ii-tema-2-leccion-1-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Limite con una variable independiente
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II -  Tema 1. Lección 1 - Alfonso Rosa</title>
+      <link>/blog/2014/02/20/matematicas-para-la-empresa-ii-tema-1-leccion-1-alfonso-rosa/</link>
+      <pubDate>Thu, 20 Feb 2014 16:56:51 +0000</pubDate>
+      
+      <guid>/blog/2014/02/20/matematicas-para-la-empresa-ii-tema-1-leccion-1-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas Funciones reales
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II -  Tema 1. Lección 2 - Alfonso Rosa</title>
+      <link>/blog/2014/02/20/matematicas-para-la-empresa-ii-tema-1-leccion-2-alfonso-rosa/</link>
+      <pubDate>Thu, 20 Feb 2014 16:56:51 +0000</pubDate>
+      
+      <guid>/blog/2014/02/20/matematicas-para-la-empresa-ii-tema-1-leccion-2-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas Ejemplos de funciones reales
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II -  Tema 1. Lección 3 - Alfonso Rosa</title>
+      <link>/blog/2014/02/20/matematicas-para-la-empresa-ii-tema-1-leccion-3-alfonso-rosa/</link>
+      <pubDate>Thu, 20 Feb 2014 16:56:51 +0000</pubDate>
+      
+      <guid>/blog/2014/02/20/matematicas-para-la-empresa-ii-tema-1-leccion-3-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas Funciones de varias variables reales
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II -  Tema 1. Lección 4 - Alfonso Rosa</title>
+      <link>/blog/2014/02/20/matematicas-para-la-empresa-ii-tema-1-leccion-4-alfonso-rosa/</link>
+      <pubDate>Thu, 20 Feb 2014 16:56:51 +0000</pubDate>
+      
+      <guid>/blog/2014/02/20/matematicas-para-la-empresa-ii-tema-1-leccion-4-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas curvas de nivel
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II -  Tema 1. Lección 5 - Alfonso Rosa</title>
+      <link>/blog/2014/02/20/matematicas-para-la-empresa-ii-tema-1-leccion-5-alfonso-rosa/</link>
+      <pubDate>Thu, 20 Feb 2014 16:56:51 +0000</pubDate>
+      
+      <guid>/blog/2014/02/20/matematicas-para-la-empresa-ii-tema-1-leccion-5-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas Funciones vectoriales y composición
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II -  Tema 1. Lección 6 - Alfonso Rosa</title>
+      <link>/blog/2014/02/20/matematicas-para-la-empresa-ii-tema-1-leccion-6-alfonso-rosa/</link>
+      <pubDate>Thu, 20 Feb 2014 16:56:51 +0000</pubDate>
+      
+      <guid>/blog/2014/02/20/matematicas-para-la-empresa-ii-tema-1-leccion-6-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas operaciones con funciones
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Tema 5. Lección 7 - Alfonso Rosa</title>
+      <link>/blog/2014/01/27/matematicas-para-la-empresa-i-tema-5-leccion-7-alfonso-rosa/</link>
+      <pubDate>Mon, 27 Jan 2014 09:56:00 +0000</pubDate>
+      
+      <guid>/blog/2014/01/27/matematicas-para-la-empresa-i-tema-5-leccion-7-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas Diagolanización de matrices
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Tema 5. Ejercicio 4 - Alfonso Rosa</title>
+      <link>/blog/2014/01/22/matematicas-para-la-empresa-i-tema-5-ejercicio-4-alfonso-rosa/</link>
+      <pubDate>Wed, 22 Jan 2014 16:12:25 +0000</pubDate>
+      
+      <guid>/blog/2014/01/22/matematicas-para-la-empresa-i-tema-5-ejercicio-4-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas Problema. potencia de una matriz
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Tema 5. Ejercicio 3 - Alfonso Rosa</title>
+      <link>/blog/2014/01/21/matematicas-para-la-empresa-i-tema-5-ejercicio-3-alfonso-rosa/</link>
+      <pubDate>Tue, 21 Jan 2014 09:56:48 +0000</pubDate>
+      
+      <guid>/blog/2014/01/21/matematicas-para-la-empresa-i-tema-5-ejercicio-3-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas Problema. Diagonalizar matriz simétrica
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Tema 5. Ejercicio 2 - Alfonso Rosa</title>
+      <link>/blog/2014/01/15/matematicas-para-la-empresa-i-tema-5-ejercicio-2-alfonso-rosa/</link>
+      <pubDate>Wed, 15 Jan 2014 16:27:13 +0000</pubDate>
+      
+      <guid>/blog/2014/01/15/matematicas-para-la-empresa-i-tema-5-ejercicio-2-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas Problema. Diagonalizar Matriz
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Tema 5. Ejercicio 1 - Alfonso Rosa</title>
+      <link>/blog/2014/01/15/matematicas-para-la-empresa-i-tema-5-ejercicio-1-alfonso-rosa/</link>
+      <pubDate>Wed, 15 Jan 2014 16:26:02 +0000</pubDate>
+      
+      <guid>/blog/2014/01/15/matematicas-para-la-empresa-i-tema-5-ejercicio-1-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas Problema. Discutir matriz diagonalizable
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Tema 5. Lección 10 - Alfonso Rosa</title>
+      <link>/blog/2013/12/27/matematicas-para-la-empresa-i-tema-5-leccion-10-alfonso-rosa/</link>
+      <pubDate>Fri, 27 Dec 2013 07:30:03 +0000</pubDate>
+      
+      <guid>/blog/2013/12/27/matematicas-para-la-empresa-i-tema-5-leccion-10-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas Ejemplo diagonalización de una matriz simétrica
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Tema 5. Lección 9 - Alfonso Rosa</title>
+      <link>/blog/2013/12/27/matematicas-para-la-empresa-i-tema-5-leccion-9-alfonso-rosa/</link>
+      <pubDate>Fri, 27 Dec 2013 07:28:10 +0000</pubDate>
+      
+      <guid>/blog/2013/12/27/matematicas-para-la-empresa-i-tema-5-leccion-9-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas Diagonalización de matrices simétricas
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Tema 5. Lección 6 - Alfonso Rosa</title>
+      <link>/blog/2013/12/27/matematicas-para-la-empresa-i-tema-5-leccion-6-alfonso-rosa/</link>
+      <pubDate>Fri, 27 Dec 2013 07:24:14 +0000</pubDate>
+      
+      <guid>/blog/2013/12/27/matematicas-para-la-empresa-i-tema-5-leccion-6-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+matrices semejantes propiedades
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Tema 5. Lección 5 - Alfonso Rosa</title>
+      <link>/blog/2013/12/27/matematicas-para-la-empresa-i-tema-5-leccion-5-alfonso-rosa/</link>
+      <pubDate>Fri, 27 Dec 2013 07:23:01 +0000</pubDate>
+      
+      <guid>/blog/2013/12/27/matematicas-para-la-empresa-i-tema-5-leccion-5-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas valores y vectores propios de una matriz diagonal
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Tema 5. Lección 3 - Alfonso Rosa</title>
+      <link>/blog/2013/12/27/matematicas-para-la-empresa-i-tema-5-leccion-3-alfonso-rosa/</link>
+      <pubDate>Fri, 27 Dec 2013 07:19:35 +0000</pubDate>
+      
+      <guid>/blog/2013/12/27/matematicas-para-la-empresa-i-tema-5-leccion-3-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Valores propios repetidos
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Tema 5. Lección 2 - Alfonso Rosa</title>
+      <link>/blog/2013/12/27/matematicas-para-la-empresa-i-tema-5-leccion-2-alfonso-rosa/</link>
+      <pubDate>Fri, 27 Dec 2013 07:18:14 +0000</pubDate>
+      
+      <guid>/blog/2013/12/27/matematicas-para-la-empresa-i-tema-5-leccion-2-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Obtener vectores y valores propios
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Tema 5. Lección 1 - Alfonso Rosa</title>
+      <link>/blog/2013/12/27/matematicas-para-la-empresa-i-tema-5-leccion-1-alfonso-rosa/</link>
+      <pubDate>Fri, 27 Dec 2013 07:17:06 +0000</pubDate>
+      
+      <guid>/blog/2013/12/27/matematicas-para-la-empresa-i-tema-5-leccion-1-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas Vectores y valores propios de una matriz
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Tema 4. Ejercicio 8. Alfonso Rosa</title>
+      <link>/blog/2013/12/17/matematicas-para-la-empresa-i-tema-4-ejercicio-8-alfonso-rosa/</link>
+      <pubDate>Tue, 17 Dec 2013 17:53:41 +0000</pubDate>
+      
+      <guid>/blog/2013/12/17/matematicas-para-la-empresa-i-tema-4-ejercicio-8-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas Ejemplo. Discusión de una aplicación lineal (ipimorfismo)
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Tema 4. Ejercicio 7. Alfonso Rosa</title>
+      <link>/blog/2013/12/17/matematicas-para-la-empresa-i-tema-4-ejercicio-7-alfonso-rosa/</link>
+      <pubDate>Tue, 17 Dec 2013 17:52:00 +0000</pubDate>
+      
+      <guid>/blog/2013/12/17/matematicas-para-la-empresa-i-tema-4-ejercicio-7-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas Ejemplo. Discusión de una aplicación lineal
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Tema 4. Ejercicio 6. Alfonso Rosa</title>
+      <link>/blog/2013/12/17/matematicas-para-la-empresa-i-tema-4-ejercicio-6-alfonso-rosa/</link>
+      <pubDate>Tue, 17 Dec 2013 17:50:43 +0000</pubDate>
+      
+      <guid>/blog/2013/12/17/matematicas-para-la-empresa-i-tema-4-ejercicio-6-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas Ejemplo. Discusión de una aplicación lineal (epimorfismo)
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Tema 4. Ejercicio 5. Alfonso Rosa</title>
+      <link>/blog/2013/12/17/matematicas-para-la-empresa-i-tema-4-ejercicio-5-alfonso-rosa/</link>
+      <pubDate>Tue, 17 Dec 2013 17:48:10 +0000</pubDate>
+      
+      <guid>/blog/2013/12/17/matematicas-para-la-empresa-i-tema-4-ejercicio-5-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas Ejemplo. Imagen de una aplicación lineal
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Tema 4. Ejercicio 4 - Alfonso Rosa</title>
+      <link>/blog/2013/12/12/matematicas-para-la-empresa-i-tema-4-ejercicio-4-alfonso-rosa/</link>
+      <pubDate>Thu, 12 Dec 2013 11:52:10 +0000</pubDate>
+      
+      <guid>/blog/2013/12/12/matematicas-para-la-empresa-i-tema-4-ejercicio-4-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas Ejemplo matriz asociada a aplicación lineal
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Tema 4. Ejercicio 3 - Alfonso Rosa</title>
+      <link>/blog/2013/12/12/matematicas-para-la-empresa-i-tema-4-ejercicio-3-alfonso-rosa/</link>
+      <pubDate>Thu, 12 Dec 2013 11:50:57 +0000</pubDate>
+      
+      <guid>/blog/2013/12/12/matematicas-para-la-empresa-i-tema-4-ejercicio-3-alfonso-rosa/</guid>
+      <description>Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas Ejemplo núcleo de una aplicación lineal
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Tema 4. Ejercicio 2 - Alfonso Rosa</title>
+      <link>/blog/2013/12/12/matematicas-para-la-empresa-i-tema-4-ejercicio-2-alfonso-rosa/</link>
+      <pubDate>Thu, 12 Dec 2013 11:48:17 +0000</pubDate>
+      
+      <guid>/blog/2013/12/12/matematicas-para-la-empresa-i-tema-4-ejercicio-2-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas Ejemplo demostración de que una aplicación no es lineal
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Tema 4. Ejercicio 1 - Alfonso Rosa</title>
+      <link>/blog/2013/12/12/matematicas-para-la-empresa-i-tema-4-ejercicio-1-alfonso-rosa/</link>
+      <pubDate>Thu, 12 Dec 2013 11:47:19 +0000</pubDate>
+      
+      <guid>/blog/2013/12/12/matematicas-para-la-empresa-i-tema-4-ejercicio-1-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Ejemplo- Demostración de que una aplicación es lineal
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Tema 4. Lección 4 - Alfonso Rosa</title>
+      <link>/blog/2013/12/11/matematicas-para-la-empresa-i-tema-4-leccion-4-alfonso-rosa/</link>
+      <pubDate>Wed, 11 Dec 2013 10:25:15 +0000</pubDate>
+      
+      <guid>/blog/2013/12/11/matematicas-para-la-empresa-i-tema-4-leccion-4-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas Matriz asociada a una aplicación lineal
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Tema 4. Lección 3 - Alfonso Rosa</title>
+      <link>/blog/2013/12/11/matematicas-para-la-empresa-i-tema-4-leccion-3-alfonso-rosa/</link>
+      <pubDate>Wed, 11 Dec 2013 10:23:25 +0000</pubDate>
+      
+      <guid>/blog/2013/12/11/matematicas-para-la-empresa-i-tema-4-leccion-3-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Clasificación de las aplicaciones lineales
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Tema 4. Lección 1 - Alfonso Rosa</title>
+      <link>/blog/2013/12/11/matematicas-para-la-empresa-i-tema-4-leccion-1-alfonso-rosa/</link>
+      <pubDate>Wed, 11 Dec 2013 10:21:15 +0000</pubDate>
+      
+      <guid>/blog/2013/12/11/matematicas-para-la-empresa-i-tema-4-leccion-1-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Aplicaciones Lineales, definición.
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Tema 4. Lección 2 - Alfonso Rosa</title>
+      <link>/blog/2013/12/11/matematicas-para-la-empresa-i-tema-4-leccion-2-alfonso-rosa/</link>
+      <pubDate>Wed, 11 Dec 2013 10:20:31 +0000</pubDate>
+      
+      <guid>/blog/2013/12/11/matematicas-para-la-empresa-i-tema-4-leccion-2-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Nucleo e imagen de una aplicación lineal
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Tema 3. Ejercicio 5 - Alfonso Rosa</title>
+      <link>/blog/2013/12/03/matematicas-para-la-empresa-i-tema-3-ejercicio-5-alfonso-rosa/</link>
+      <pubDate>Tue, 03 Dec 2013 12:12:52 +0000</pubDate>
+      
+      <guid>/blog/2013/12/03/matematicas-para-la-empresa-i-tema-3-ejercicio-5-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas Problema. Sistema en función de parámetros
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Tema 3. Ejercicio 4 - Alfonso Rosa</title>
+      <link>/blog/2013/12/03/matematicas-para-la-empresa-i-tema-3-ejercicio-4-alfonso-rosa/</link>
+      <pubDate>Tue, 03 Dec 2013 12:12:48 +0000</pubDate>
+      
+      <guid>/blog/2013/12/03/matematicas-para-la-empresa-i-tema-3-ejercicio-4-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Tema 3. Ejercicio 3 - Alfonso Rosa</title>
+      <link>/blog/2013/12/03/matematicas-para-la-empresa-i-tema-3-ejercicio-3-alfonso-rosa/</link>
+      <pubDate>Tue, 03 Dec 2013 12:12:43 +0000</pubDate>
+      
+      <guid>/blog/2013/12/03/matematicas-para-la-empresa-i-tema-3-ejercicio-3-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Problema. Método Gauss-Jordan
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Tema 3. Ejercicio 1 - Alfonso Rosa</title>
+      <link>/blog/2013/11/26/matematicas-para-la-empresa-i-tema-3-ejercicio-1-alfonso-rosa/</link>
+      <pubDate>Tue, 26 Nov 2013 17:39:03 +0000</pubDate>
+      
+      <guid>/blog/2013/11/26/matematicas-para-la-empresa-i-tema-3-ejercicio-1-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas Problemas. Discusión de sistemas de ecuaciones
+  </description>
+    </item>
+    
+    <item>
+      <title>Curso MOOC UCAM. Análisis Estadístico con R. Epílogo</title>
+      <link>/blog/2013/11/22/curso-mooc-ucam-analisis-estadistico-con-r-epilogo/</link>
+      <pubDate>Fri, 22 Nov 2013 17:30:42 +0000</pubDate>
+      
+      <guid>/blog/2013/11/22/curso-mooc-ucam-analisis-estadistico-con-r-epilogo/</guid>
+      <description>Matricúlate gratis en: http://analisis-estadistico-r.appspot.com/course Jorge López Puga, profesor de la Universidad Católica de Murcia en el área de Psicología y Educación. Y profesor del MOOC Análisis estadístico con R Más info: http://www.ucam.edu/estudios/mooc
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Tema 3. Lección 6 - Alfonso Rosa</title>
+      <link>/blog/2013/11/22/matematicas-para-la-empresa-i-tema-3-leccion-6-alfonso-rosa/</link>
+      <pubDate>Fri, 22 Nov 2013 10:28:24 +0000</pubDate>
+      
+      <guid>/blog/2013/11/22/matematicas-para-la-empresa-i-tema-3-leccion-6-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Resolución de sistemas compatibles indeterminados
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Tema 3. Lección 5 - Alfonso Rosa</title>
+      <link>/blog/2013/11/22/matematicas-para-la-empresa-i-tema-3-leccion-5-alfonso-rosa/</link>
+      <pubDate>Fri, 22 Nov 2013 10:27:27 +0000</pubDate>
+      
+      <guid>/blog/2013/11/22/matematicas-para-la-empresa-i-tema-3-leccion-5-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Método de Gauss-Jordan
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Tema 3. Lección 4 - Alfonso Rosa</title>
+      <link>/blog/2013/11/21/matematicas-para-la-empresa-i-tema-3-leccion-4-alfonso-rosa/</link>
+      <pubDate>Thu, 21 Nov 2013 16:59:48 +0000</pubDate>
+      
+      <guid>/blog/2013/11/21/matematicas-para-la-empresa-i-tema-3-leccion-4-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas Rango de una matriz
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Tema 3. Lección3 - Alfonso Rosa</title>
+      <link>/blog/2013/11/21/matematicas-para-la-empresa-i-tema-3-leccion3-alfonso-rosa/</link>
+      <pubDate>Thu, 21 Nov 2013 16:58:49 +0000</pubDate>
+      
+      <guid>/blog/2013/11/21/matematicas-para-la-empresa-i-tema-3-leccion3-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Discusión de un sistema lineal.
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Tema 3. Lección 2 - Alfonso Rosa</title>
+      <link>/blog/2013/11/21/matematicas-para-la-empresa-i-tema-3-leccion-2-alfonso-rosa/</link>
+      <pubDate>Thu, 21 Nov 2013 16:57:38 +0000</pubDate>
+      
+      <guid>/blog/2013/11/21/matematicas-para-la-empresa-i-tema-3-leccion-2-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Soluciones de un sistema de ecuaciones lineales.
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Tema 3 Lección 1 - Alfonso Rosa</title>
+      <link>/blog/2013/11/21/matematicas-para-la-empresa-i-tema-3-leccion-1-alfonso-rosa/</link>
+      <pubDate>Thu, 21 Nov 2013 16:53:33 +0000</pubDate>
+      
+      <guid>/blog/2013/11/21/matematicas-para-la-empresa-i-tema-3-leccion-1-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Tema 2. Ejercicio 7 - Alfonso Rosa</title>
+      <link>/blog/2013/11/18/matematicas-para-la-empresa-i-tema-2-ejercicio-7-alfonso-rosa/</link>
+      <pubDate>Mon, 18 Nov 2013 16:36:35 +0000</pubDate>
+      
+      <guid>/blog/2013/11/18/matematicas-para-la-empresa-i-tema-2-ejercicio-7-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Problema. Matriz inversa
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Tema 2. Ejercicio 8 - Alfonso Rosa</title>
+      <link>/blog/2013/11/18/matematicas-para-la-empresa-i-tema-2-ejercicio-8-alfonso-rosa/</link>
+      <pubDate>Mon, 18 Nov 2013 16:20:32 +0000</pubDate>
+      
+      <guid>/blog/2013/11/18/matematicas-para-la-empresa-i-tema-2-ejercicio-8-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Problema. Rango
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Tema 2. Ejercicio 5 - Alfonso Rosa</title>
+      <link>/blog/2013/11/15/matematicas-para-la-empresa-i-tema-2-ejercicio-5-alfonso-rosa/</link>
+      <pubDate>Fri, 15 Nov 2013 11:52:19 +0000</pubDate>
+      
+      <guid>/blog/2013/11/15/matematicas-para-la-empresa-i-tema-2-ejercicio-5-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas Problemas. Determinantes y triangulación
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Tema 2. Ejercicio 4 - Alfonso Rosa</title>
+      <link>/blog/2013/11/14/matematicas-para-la-empresa-i-tema-2-ejercicio-4-alfonso-rosa/</link>
+      <pubDate>Thu, 14 Nov 2013 11:00:43 +0000</pubDate>
+      
+      <guid>/blog/2013/11/14/matematicas-para-la-empresa-i-tema-2-ejercicio-4-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas Problema. Ecuaciones matriciales
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Tema 2. Ejercicio 3 - Alfonso Rosa</title>
+      <link>/blog/2013/11/14/matematicas-para-la-empresa-i-tema-2-ejercicio-3-alfonso-rosa/</link>
+      <pubDate>Thu, 14 Nov 2013 10:59:12 +0000</pubDate>
+      
+      <guid>/blog/2013/11/14/matematicas-para-la-empresa-i-tema-2-ejercicio-3-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Problema. Matriz ortogonal
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Tema 2. Ejercicio 1 - Alfonso Rosa</title>
+      <link>/blog/2013/11/14/matematicas-para-la-empresa-i-tema-2-ejercicio-1-alfonso-rosa/</link>
+      <pubDate>Thu, 14 Nov 2013 10:28:42 +0000</pubDate>
+      
+      <guid>/blog/2013/11/14/matematicas-para-la-empresa-i-tema-2-ejercicio-1-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Problema. Suma de matrices
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Tema 2. Lección 3 - Alfonso Rosa</title>
+      <link>/blog/2013/11/12/matematicas-para-la-empresa-i-tema-2-leccion-3-alfonso-rosa/</link>
+      <pubDate>Tue, 12 Nov 2013 08:14:56 +0000</pubDate>
+      
+      <guid>/blog/2013/11/12/matematicas-para-la-empresa-i-tema-2-leccion-3-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas Matriz traspuesta y tipos de matriz cuadrada
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Tema 2. Lección 5 - Alfonso Rosa</title>
+      <link>/blog/2013/11/12/matematicas-para-la-empresa-i-tema-2-leccion-5-alfonso-rosa/</link>
+      <pubDate>Tue, 12 Nov 2013 08:14:42 +0000</pubDate>
+      
+      <guid>/blog/2013/11/12/matematicas-para-la-empresa-i-tema-2-leccion-5-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Cálculo de un determinante
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Tema 2. Lección 7 - Alfonso Rosa</title>
+      <link>/blog/2013/11/11/matematicas-para-la-empresa-i-tema-2-leccion-7-alfonso-rosa/</link>
+      <pubDate>Mon, 11 Nov 2013 17:22:39 +0000</pubDate>
+      
+      <guid>/blog/2013/11/11/matematicas-para-la-empresa-i-tema-2-leccion-7-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Rango de una matriz
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Tema 2. Lección 6 - Alfonso Rosa</title>
+      <link>/blog/2013/11/11/matematicas-para-la-empresa-i-tema-2-leccion-6-alfonso-rosa/</link>
+      <pubDate>Mon, 11 Nov 2013 17:21:27 +0000</pubDate>
+      
+      <guid>/blog/2013/11/11/matematicas-para-la-empresa-i-tema-2-leccion-6-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas Inversa de una matriz
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Tema 2. Lección 4 - Alfonso Rosa</title>
+      <link>/blog/2013/11/11/matematicas-para-la-empresa-i-tema-2-leccion-4-alfonso-rosa/</link>
+      <pubDate>Mon, 11 Nov 2013 17:19:27 +0000</pubDate>
+      
+      <guid>/blog/2013/11/11/matematicas-para-la-empresa-i-tema-2-leccion-4-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Traza y determinante
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Tema 2. Lección 2 - Alfonso Rosa</title>
+      <link>/blog/2013/11/08/matematicas-para-la-empresa-i-tema-2-leccion-2-alfonso-rosa/</link>
+      <pubDate>Fri, 08 Nov 2013 09:22:36 +0000</pubDate>
+      
+      <guid>/blog/2013/11/08/matematicas-para-la-empresa-i-tema-2-leccion-2-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/a... Departamento: Facultad de Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas
+Operaciones con matrices
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Tema 2. Lección 1 - Alfonso Rosa</title>
+      <link>/blog/2013/11/08/matematicas-para-la-empresa-i-tema-2-leccion-1-alfonso-rosa/</link>
+      <pubDate>Fri, 08 Nov 2013 09:22:21 +0000</pubDate>
+      
+      <guid>/blog/2013/11/08/matematicas-para-la-empresa-i-tema-2-leccion-1-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/a... Departamento: Facultad de Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas
+Matrices
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Ejercicio 3. Base y dimensión  - Alfonso Rosa</title>
+      <link>/blog/2013/11/06/matematicas-para-la-empresa-i-ejercicio-3-base-y-dimension-alfonso-rosa/</link>
+      <pubDate>Wed, 06 Nov 2013 10:04:01 +0000</pubDate>
+      
+      <guid>/blog/2013/11/06/matematicas-para-la-empresa-i-ejercicio-3-base-y-dimension-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/a... Departamento: Facultad de Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas
+Resolución del problema base y dimensión
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Ejercicio 4. Cambio de coordenadas - Alfonso Rosa</title>
+      <link>/blog/2013/11/06/matematicas-para-la-empresa-i-ejercicio-4-cambio-de-coordenadas-alfonso-rosa/</link>
+      <pubDate>Wed, 06 Nov 2013 10:04:01 +0000</pubDate>
+      
+      <guid>/blog/2013/11/06/matematicas-para-la-empresa-i-ejercicio-4-cambio-de-coordenadas-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/a... Departamento: Facultad de Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas
+Resolución del problema. Cambio de coordenadas
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Ejercicio 5. Ortogonalidad - Alfonso Rosa</title>
+      <link>/blog/2013/11/06/matematicas-para-la-empresa-i-ejercicio-5-ortogonalidad-alfonso-rosa/</link>
+      <pubDate>Wed, 06 Nov 2013 10:04:01 +0000</pubDate>
+      
+      <guid>/blog/2013/11/06/matematicas-para-la-empresa-i-ejercicio-5-ortogonalidad-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/a... Departamento: Facultad de Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas
+Resolución del problema. Ortogonalidad
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Ejercicio 6. Base ortonormal  - Alfonso Rosa</title>
+      <link>/blog/2013/11/06/matematicas-para-la-empresa-i-ejercicio-6-base-ortonormal-alfonso-rosa/</link>
+      <pubDate>Wed, 06 Nov 2013 10:04:01 +0000</pubDate>
+      
+      <guid>/blog/2013/11/06/matematicas-para-la-empresa-i-ejercicio-6-base-ortonormal-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/a... Departamento: Facultad de Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas
+Resolución del problema. Base ortonormal
+  </description>
+    </item>
+    
+    <item>
+      <title>Fundamentos de Estadística - Estadísticos descriptivos - Conchi Pérez</title>
+      <link>/blog/2013/11/04/fundamentos-de-estadistica-estadisticos-descriptivos-conchi-perez/</link>
+      <pubDate>Mon, 04 Nov 2013 18:23:19 +0000</pubDate>
+      
+      <guid>/blog/2013/11/04/fundamentos-de-estadistica-estadisticos-descriptivos-conchi-perez/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial Departamento: Facultad de Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas
+Estadísticos descriptivos
+  </description>
+    </item>
+    
+    <item>
+      <title>Fundamentos de Estadística - Indices de precios complejos ponderados - Conchi Pérez</title>
+      <link>/blog/2013/11/04/fundamentos-de-estadistica-indices-de-precios-complejos-ponderados-conchi-perez/</link>
+      <pubDate>Mon, 04 Nov 2013 18:23:15 +0000</pubDate>
+      
+      <guid>/blog/2013/11/04/fundamentos-de-estadistica-indices-de-precios-complejos-ponderados-conchi-perez/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas
+Indices de precios complejos ponderados
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Ejercicio 2. Subespacios vectoriales - Alfonso Rosa</title>
+      <link>/blog/2013/11/04/matematicas-para-la-empresa-i-ejercicio-2-subespacios-vectoriales-alfonso-rosa/</link>
+      <pubDate>Mon, 04 Nov 2013 10:29:57 +0000</pubDate>
+      
+      <guid>/blog/2013/11/04/matematicas-para-la-empresa-i-ejercicio-2-subespacios-vectoriales-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/a... Departamento: Facultad de Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas
+Resolución del problema subespacios vectoriales
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Ejercicio 1. Independencia Lineal - Alfonso Rosa</title>
+      <link>/blog/2013/11/04/matematicas-para-la-empresa-i-ejercicio-1-independencia-lineal-alfonso-rosa/</link>
+      <pubDate>Mon, 04 Nov 2013 10:28:21 +0000</pubDate>
+      
+      <guid>/blog/2013/11/04/matematicas-para-la-empresa-i-ejercicio-1-independencia-lineal-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial Departamento: Facultad de Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas
+Resolución del problema independencia lineal
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la empresa I - Tema 1. Lección 9 - Alfonso Rosa</title>
+      <link>/blog/2013/10/24/matematicas-para-la-empresa-i-tema-1-leccion-9-alfonso-rosa/</link>
+      <pubDate>Thu, 24 Oct 2013 12:20:35 +0000</pubDate>
+      
+      <guid>/blog/2013/10/24/matematicas-para-la-empresa-i-tema-1-leccion-9-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/a... Departamento: Facultad de Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas
+Ortogonalidad
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la empresa I - Tema 1. Lección 8 - Alfonso Rosa</title>
+      <link>/blog/2013/10/24/matematicas-para-la-empresa-i-tema-1-leccion-8-alfonso-rosa/</link>
+      <pubDate>Thu, 24 Oct 2013 12:19:42 +0000</pubDate>
+      
+      <guid>/blog/2013/10/24/matematicas-para-la-empresa-i-tema-1-leccion-8-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/a... Departamento: Facultad de Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas
+Norma o Módulo de un vector
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la empresa I - Tema 1. Lección 7 - Alfonso Rosa</title>
+      <link>/blog/2013/10/24/matematicas-para-la-empresa-i-tema-1-leccion-7-alfonso-rosa/</link>
+      <pubDate>Thu, 24 Oct 2013 12:18:32 +0000</pubDate>
+      
+      <guid>/blog/2013/10/24/matematicas-para-la-empresa-i-tema-1-leccion-7-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/a... Departamento: Facultad de Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas
+Producto Escalar
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la empresa I - Tema 1. Lección 6 - Alfonso Rosa</title>
+      <link>/blog/2013/10/24/matematicas-para-la-empresa-i-tema-1-leccion-6-alfonso-rosa/</link>
+      <pubDate>Thu, 24 Oct 2013 12:17:15 +0000</pubDate>
+      
+      <guid>/blog/2013/10/24/matematicas-para-la-empresa-i-tema-1-leccion-6-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/a... Departamento: Facultad de Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas
+Coordenadas respecto a una base
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la empresa I - Tema 1. Lección 5 - Alfonso Rosa</title>
+      <link>/blog/2013/10/24/matematicas-para-la-empresa-i-tema-1-leccion-5-alfonso-rosa/</link>
+      <pubDate>Thu, 24 Oct 2013 12:16:19 +0000</pubDate>
+      
+      <guid>/blog/2013/10/24/matematicas-para-la-empresa-i-tema-1-leccion-5-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/a... Departamento: Facultad de Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas
+Sistema Generador y Bases
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la empresa I - Tema 1. Lección 4 - Alfonso Rosa</title>
+      <link>/blog/2013/10/24/matematicas-para-la-empresa-i-tema-1-leccion-4-alfonso-rosa/</link>
+      <pubDate>Thu, 24 Oct 2013 12:15:27 +0000</pubDate>
+      
+      <guid>/blog/2013/10/24/matematicas-para-la-empresa-i-tema-1-leccion-4-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/a... Departamento: Facultad de Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas
+Combinaciones Lineales
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la empresa I - Tema 1. Lección 3 - Alfonso Rosa</title>
+      <link>/blog/2013/10/18/matematicas-para-la-empresa-i-tema-1-leccion-3-alfonso-rosa/</link>
+      <pubDate>Fri, 18 Oct 2013 07:33:47 +0000</pubDate>
+      
+      <guid>/blog/2013/10/18/matematicas-para-la-empresa-i-tema-1-leccion-3-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/a... Departamento: Facultad de Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas
+Subespacios Vectoriales de Rn
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la empresa I - Tema 1. Lección 2 - Alfonso Rosa</title>
+      <link>/blog/2013/10/18/matematicas-para-la-empresa-i-tema-1-leccion-2-alfonso-rosa/</link>
+      <pubDate>Fri, 18 Oct 2013 07:32:52 +0000</pubDate>
+      
+      <guid>/blog/2013/10/18/matematicas-para-la-empresa-i-tema-1-leccion-2-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/a... Departamento: Facultad de Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas
+Propiedades del espacio Vectorial en Rn
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la empresa I -  Tema 1. Lección 1 - Alfonso Rosa</title>
+      <link>/blog/2013/10/18/matematicas-para-la-empresa-i-tema-1-leccion-1-alfonso-rosa/</link>
+      <pubDate>Fri, 18 Oct 2013 07:32:18 +0000</pubDate>
+      
+      <guid>/blog/2013/10/18/matematicas-para-la-empresa-i-tema-1-leccion-1-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/a... Departamento: Facultad de Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas
+El Espacio Vectorial Rn
+  </description>
+    </item>
+    
+    <item>
+      <title>Curso MOOC UCAM en MiriadaX · Bienvenido al curso</title>
+      <link>/blog/2013/10/09/curso-mooc-ucam-en-miriadax-bienvenido-al-curso/</link>
+      <pubDate>Wed, 09 Oct 2013 15:23:58 +0000</pubDate>
+      
+      <guid>/blog/2013/10/09/curso-mooc-ucam-en-miriadax-bienvenido-al-curso/</guid>
+      <description>Apúntate gratis en: https://www.miriadax.net/web/curso-basico-economia https://www.miriadax.net/web/aprende-analisis-estadistico-datos-r
+El profesor Josep Martínez Polo de la Universidad Católica de Murcia nos recibe en los cursos MOOC de la UCAM en MiriadaX.
+Más info en: www.ucam.edu/estudios/mooc https://twitter.com/UCAM_MOOC mooc@ucam.edu
   </description>
     </item>
     

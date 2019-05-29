@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>verificación on Unitube</title>
+    <link>/tags/verificaci%C3%B3n/</link>
+    <description>Recent content in verificación on Unitube</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 24 Apr 2015 07:13:45 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/verificaci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Verificación del Teorema de Euler - Alfonso Rosa</title>
+      <link>/blog/2015/04/24/matematicas-para-la-empresa-ii-verificacion-del-teorema-de-euler-alfonso-rosa/</link>
+      <pubDate>Fri, 24 Apr 2015 07:13:45 +0000</pubDate>
+      
+      <guid>/blog/2015/04/24/matematicas-para-la-empresa-ii-verificacion-del-teorema-de-euler-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/informatica-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: ADE
+  </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,15 +1,73 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>varias variables on Uvide</title>
+    <title>varias variables on Unitube</title>
     <link>/tags/varias-variables/</link>
-    <description>Recent content in varias variables on Uvide</description>
+    <description>Recent content in varias variables on Unitube</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Sat, 15 Feb 2014 20:16:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Feb 2014 09:55:45 +0000</lastBuildDate>
     
 	<atom:link href="/tags/varias-variables/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Matemáticas para la Empresa II -  Tema 2. Lección 6 - Alfonso Rosa</title>
+      <link>/blog/2014/02/25/matematicas-para-la-empresa-ii-tema-2-leccion-6-alfonso-rosa/</link>
+      <pubDate>Tue, 25 Feb 2014 09:55:45 +0000</pubDate>
+      
+      <guid>/blog/2014/02/25/matematicas-para-la-empresa-ii-tema-2-leccion-6-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II -  Tema 2. Lección 7 - Alfonso Rosa</title>
+      <link>/blog/2014/02/25/matematicas-para-la-empresa-ii-tema-2-leccion-7-alfonso-rosa/</link>
+      <pubDate>Tue, 25 Feb 2014 09:52:50 +0000</pubDate>
+      
+      <guid>/blog/2014/02/25/matematicas-para-la-empresa-ii-tema-2-leccion-7-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II -  Tema 2. Lección 3 - Alfonso Rosa</title>
+      <link>/blog/2014/02/24/matematicas-para-la-empresa-ii-tema-2-leccion-3-alfonso-rosa/</link>
+      <pubDate>Mon, 24 Feb 2014 18:01:24 +0000</pubDate>
+      
+      <guid>/blog/2014/02/24/matematicas-para-la-empresa-ii-tema-2-leccion-3-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Ejemplo de límite según definción
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II -  Tema 2. Lección 5 - Alfonso Rosa</title>
+      <link>/blog/2014/02/24/matematicas-para-la-empresa-ii-tema-2-leccion-5-alfonso-rosa/</link>
+      <pubDate>Mon, 24 Feb 2014 18:01:04 +0000</pubDate>
+      
+      <guid>/blog/2014/02/24/matematicas-para-la-empresa-ii-tema-2-leccion-5-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Límites iterados
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II -  Tema 2. Lección 2 - Alfonso Rosa</title>
+      <link>/blog/2014/02/24/matematicas-para-la-empresa-ii-tema-2-leccion-2-alfonso-rosa/</link>
+      <pubDate>Mon, 24 Feb 2014 17:59:00 +0000</pubDate>
+      
+      <guid>/blog/2014/02/24/matematicas-para-la-empresa-ii-tema-2-leccion-2-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Limite con varias variables independientes
+  </description>
+    </item>
     
     <item>
       <title>Límites de funciones de varias variables con DERIVE</title>

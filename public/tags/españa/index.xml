@@ -1,45 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>españa on Uvide</title>
+    <title>españa on Unitube</title>
     <link>/tags/espa%C3%B1a/</link>
-    <description>Recent content in españa on Uvide</description>
+    <description>Recent content in españa on Unitube</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Tue, 04 Apr 2017 05:43:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Oct 2013 07:56:48 +0000</lastBuildDate>
     
 	<atom:link href="/tags/espa%C3%B1a/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Estadistica Estatal INE (AUDE 4/6)</title>
-      <link>/blog/2017/04/04/estadistica-estatal-ine-aude-4-6/</link>
-      <pubDate>Tue, 04 Apr 2017 05:43:41 +0000</pubDate>
-      
-      <guid>/blog/2017/04/04/estadistica-estatal-ine-aude-4-6/</guid>
-      <description>ENTIDADES PÚBLICAS PROVEEDORAS DE DATOS Las estadísticas sociodemográfi cas del INE como fuentes para el análisis regional y urbano Antonio Argüeso Jimenez Subdirector General de Estadísticas Sociodemográfi cas / Instituto Nacional de Estadística Cambio social, crisis económica y escasez de recursos, su impacto sobre las áreas urbanas PLAN ESTATAL DE I+D+i 2013-2016 Convocatoria REDES de EXCELENCIA ÁREAS URBANAS Y DATOS ESTADÍSTICOS Tercer seminario del proyecto CSO2015-71866-REDT // 24 de febrero de 2017</description>
-    </item>
-    
-    <item>
-      <title>20170224 05 Estadística Municipal (AUDE 5/6)</title>
-      <link>/blog/2017/04/04/20170224-05-estadistica-municipal-aude-5-6/</link>
-      <pubDate>Tue, 04 Apr 2017 05:43:35 +0000</pubDate>
-      
-      <guid>/blog/2017/04/04/20170224-05-estadistica-municipal-aude-5-6/</guid>
-      <description>Canales de difusión y fuentes de información estadística empleadas por la S.G. Estadística del Ayuntamiento de Madrid Antonio Bermejo Aguña Jefe del Departamento de Datos Estadísticos / Subdirección General de Estadística. Ayuntamiento de Madrid Cambio social, crisis económica y escasez de recursos, su impacto sobre las áreas urbanas PLAN ESTATAL DE I+D+i 2013-2016 Convocatoria REDES de EXCELENCIA ÁREAS URBANAS Y DATOS ESTADÍSTICOS Tercer seminario del proyecto CSO2015-71866-REDT // 24 de febrero de 2017</description>
-    </item>
-    
-    <item>
-      <title>Universidad de Salamanca (Dpto. Estadística) - La combinatoria</title>
-      <link>/blog/2013/10/08/universidad-de-salamanca-dpto-estadistica-la-combinatoria-1/</link>
-      <pubDate>Tue, 08 Oct 2013 07:56:48 +0000</pubDate>
-      
-      <guid>/blog/2013/10/08/universidad-de-salamanca-dpto-estadistica-la-combinatoria-1/</guid>
-      <description>Proyecto realizado para presentar los nuevos cursos en materia de estadística que ofrecerá la Universidad de Salamanca.
-Con Christian Moreno Dirección: Fran Duarte
-#usal #salamanca #combinatoria Cámara: José Luis Barea/ Fran Duarte Sonido: Alejandro Ruiz - Ricardo Ruiz
-  </description>
-    </item>
     
     <item>
       <title>Universidad de Salamanca (Dpto. Estadística) - La combinatoria</title>

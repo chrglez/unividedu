@@ -1,25 +1,60 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>gradiente on Uvide</title>
+    <title>gradiente on Unitube</title>
     <link>/tags/gradiente/</link>
-    <description>Recent content in gradiente on Uvide</description>
+    <description>Recent content in gradiente on Unitube</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Mon, 17 Mar 2014 08:07:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Mar 2014 16:09:07 +0000</lastBuildDate>
     
 	<atom:link href="/tags/gradiente/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Matemáticas para la Empresa II - Tema 3. Ejercicio 4 - Alfonso Rosa</title>
-      <link>/blog/2014/03/17/matematicas-para-la-empresa-ii-tema-3.-ejercicio-4-alfonso-rosa/</link>
+      <title>Matemáticas para la Empresa II - Tema 3. Lección 7- Alfonso Rosa</title>
+      <link>/blog/2014/03/25/matematicas-para-la-empresa-ii-tema-3-leccion-7-alfonso-rosa/</link>
+      <pubDate>Tue, 25 Mar 2014 16:09:07 +0000</pubDate>
+      
+      <guid>/blog/2014/03/25/matematicas-para-la-empresa-ii-tema-3-leccion-7-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Diferenciabilidad
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II -  Tema 3. Ejercicio 3 - Alfonso Rosa</title>
+      <link>/blog/2014/03/17/matematicas-para-la-empresa-ii-tema-3-ejercicio-3-alfonso-rosa/</link>
       <pubDate>Mon, 17 Mar 2014 08:07:24 +0000</pubDate>
       
-      <guid>/blog/2014/03/17/matematicas-para-la-empresa-ii-tema-3.-ejercicio-4-alfonso-rosa/</guid>
+      <guid>/blog/2014/03/17/matematicas-para-la-empresa-ii-tema-3-ejercicio-3-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Problemas. Obtención del hessiano
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Tema 3. Ejercicio 4 - Alfonso Rosa</title>
+      <link>/blog/2014/03/17/matematicas-para-la-empresa-ii-tema-3-ejercicio-4-alfonso-rosa/</link>
+      <pubDate>Mon, 17 Mar 2014 08:07:24 +0000</pubDate>
+      
+      <guid>/blog/2014/03/17/matematicas-para-la-empresa-ii-tema-3-ejercicio-4-alfonso-rosa/</guid>
       <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
 Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
 Obtención del jacobiano
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Tema 3. Ejercicio 1 - Alfonso Rosa</title>
+      <link>/blog/2014/03/12/matematicas-para-la-empresa-ii-tema-3-ejercicio-1-alfonso-rosa/</link>
+      <pubDate>Wed, 12 Mar 2014 08:59:25 +0000</pubDate>
+      
+      <guid>/blog/2014/03/12/matematicas-para-la-empresa-ii-tema-3-ejercicio-1-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas Problemas. Obtención del Gradiente
   </description>
     </item>
     

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>empresa on Uvide</title>
+    <title>empresa on Unitube</title>
     <link>/tags/empresa/</link>
-    <description>Recent content in empresa on Uvide</description>
+    <description>Recent content in empresa on Unitube</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Thu, 08 Oct 2015 22:11:21 +0000</lastBuildDate>
@@ -38,16 +38,6 @@
       
       <guid>/blog/2015/10/06/factorizacion-polinomios-grado-3-con-soluciones-no-enteras/</guid>
       <description>Factorización polinomios grado 3 con soluciones no enteras
-  </description>
-    </item>
-    
-    <item>
-      <title>Factorización de polinomios de grado 2</title>
-      <link>/blog/2015/10/05/factorizacion-de-polinomios-de-grado-2/</link>
-      <pubDate>Mon, 05 Oct 2015 00:54:44 +0000</pubDate>
-      
-      <guid>/blog/2015/10/05/factorizacion-de-polinomios-de-grado-2/</guid>
-      <description>Factorización de polinomios de grado 2
   </description>
     </item>
     
@@ -92,12 +82,68 @@
     </item>
     
     <item>
-      <title>Factorización de polinomios</title>
-      <link>/blog/2014/09/30/factorizacion-de-polinomios-1/</link>
-      <pubDate>Tue, 30 Sep 2014 20:16:02 +0000</pubDate>
+      <title>Matemáticas para la empresa II - Ejemplo: Integrales Impropias de Primera Especie - Alfonso Rosa</title>
+      <link>/blog/2015/05/11/matematicas-para-la-empresa-ii-ejemplo-integrales-impropias-de-primera-especie-alfonso-rosa/</link>
+      <pubDate>Mon, 11 May 2015 10:01:17 +0000</pubDate>
       
-      <guid>/blog/2014/09/30/factorizacion-de-polinomios-1/</guid>
-      <description>Factorización de polinomios
+      <guid>/blog/2015/05/11/matematicas-para-la-empresa-ii-ejemplo-integrales-impropias-de-primera-especie-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas Integrales Impropias de Primera Especie
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la empresa II - Ejemplo: Integrales con una función Beta - Alfonso Rosa</title>
+      <link>/blog/2015/05/11/matematicas-para-la-empresa-ii-ejemplo-integrales-con-una-funcion-beta-alfonso-rosa/</link>
+      <pubDate>Mon, 11 May 2015 10:01:17 +0000</pubDate>
+      
+      <guid>/blog/2015/05/11/matematicas-para-la-empresa-ii-ejemplo-integrales-con-una-funcion-beta-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresa Integrales con una función Beta
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la empresa II - Ejemplo: Integrales con una función Gamma - Alfonso Rosa</title>
+      <link>/blog/2015/05/11/matematicas-para-la-empresa-ii-ejemplo-integrales-con-una-funcion-gamma-alfonso-rosa/</link>
+      <pubDate>Mon, 11 May 2015 10:01:17 +0000</pubDate>
+      
+      <guid>/blog/2015/05/11/matematicas-para-la-empresa-ii-ejemplo-integrales-con-una-funcion-gamma-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas Integrales con una función Gamma
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la empresa II - Integrales Impropias de Segunda Especie - Alfonso Rosa</title>
+      <link>/blog/2015/05/11/matematicas-para-la-empresa-ii-integrales-impropias-de-segunda-especie-alfonso-rosa/</link>
+      <pubDate>Mon, 11 May 2015 10:01:17 +0000</pubDate>
+      
+      <guid>/blog/2015/05/11/matematicas-para-la-empresa-ii-integrales-impropias-de-segunda-especie-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas Integrales Impropias de Segunda Especie
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Sucesiones aritméticas y geométricas - Alfonso Rosa</title>
+      <link>/blog/2015/04/24/matematicas-para-la-empresa-ii-sucesiones-aritmeticas-y-geometricas-alfonso-rosa/</link>
+      <pubDate>Fri, 24 Apr 2015 07:12:25 +0000</pubDate>
+      
+      <guid>/blog/2015/04/24/matematicas-para-la-empresa-ii-sucesiones-aritmeticas-y-geometricas-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/informatica-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: ADE
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Aplicación del Teorema de Euler - Alfonso Rosa</title>
+      <link>/blog/2015/04/24/matematicas-para-la-empresa-ii-aplicacion-del-teorema-de-euler-alfonso-rosa/</link>
+      <pubDate>Fri, 24 Apr 2015 07:10:18 +0000</pubDate>
+      
+      <guid>/blog/2015/04/24/matematicas-para-la-empresa-ii-aplicacion-del-teorema-de-euler-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/informatica-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: ADE
   </description>
     </item>
     
@@ -130,6 +176,17 @@ Grado en ADE http://www.viu.es/grado-administracion-direccion-empresas-ade/
       
       <guid>/blog/2014/02/07/conjuntos-y-bolas-en-r2-con-derive/</guid>
       <description>Gráfica de conjuntos y bolas en R2. Resolución analítica y gráfica a ejercicios sobre bolas en R2.
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Tema 4. Ejercicio 8. Alfonso Rosa</title>
+      <link>/blog/2013/12/17/matematicas-para-la-empresa-i-tema-4-ejercicio-8-alfonso-rosa/</link>
+      <pubDate>Tue, 17 Dec 2013 17:53:41 +0000</pubDate>
+      
+      <guid>/blog/2013/12/17/matematicas-para-la-empresa-i-tema-4-ejercicio-8-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas Ejemplo. Discusión de una aplicación lineal (ipimorfismo)
   </description>
     </item>
     

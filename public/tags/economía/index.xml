@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>economía on Uvide</title>
+    <title>economía on Unitube</title>
     <link>/tags/econom%C3%ADa/</link>
-    <description>Recent content in economía on Uvide</description>
+    <description>Recent content in economía on Unitube</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Thu, 08 Oct 2015 22:11:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jun 2016 08:20:03 +0000</lastBuildDate>
     
 	<atom:link href="/tags/econom%C3%ADa/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Máster Universitario en Economía Cuantitativa | Universidad CEU San Pablo</title>
+      <link>/blog/2016/06/08/master-universitario-en-economia-cuantitativa-universidad-ceu-san-pablo/</link>
+      <pubDate>Wed, 08 Jun 2016 08:20:03 +0000</pubDate>
+      
+      <guid>/blog/2016/06/08/master-universitario-en-economia-cuantitativa-universidad-ceu-san-pablo/</guid>
+      <description>En el Máster en Economía Cuantitativa se analizan las técnicas estadísticas imprescindibles para hacer frente a la abrumadora información que tienen las empresas de sus clientes y proveedores. Datos que hay que interpretar mediante software informático, técnicas multivariantes, econométricas, ecuaciones estructurales, etc. El máster en Economía Cuantitativa garantiza las habilidades y conocimientos que las empresas están buscando en la era de la digitalización, en la que se buscan personas capaces de llevar a cabo proyectos, que aporten valor con sus ideas.</description>
+    </item>
     
     <item>
       <title>Operaciones con polinomios</title>
@@ -38,16 +47,6 @@
       
       <guid>/blog/2015/10/06/factorizacion-polinomios-grado-3-con-soluciones-no-enteras/</guid>
       <description>Factorización polinomios grado 3 con soluciones no enteras
-  </description>
-    </item>
-    
-    <item>
-      <title>Factorización de polinomios de grado 2</title>
-      <link>/blog/2015/10/05/factorizacion-de-polinomios-de-grado-2/</link>
-      <pubDate>Mon, 05 Oct 2015 00:54:44 +0000</pubDate>
-      
-      <guid>/blog/2015/10/05/factorizacion-de-polinomios-de-grado-2/</guid>
-      <description>Factorización de polinomios de grado 2
   </description>
     </item>
     
@@ -88,16 +87,6 @@
       
       <guid>/blog/2015/10/04/factorizacion-de-polinomios/</guid>
       <description>Factorización de polinomios con algunas de sus raíces complejas
-  </description>
-    </item>
-    
-    <item>
-      <title>Factorización de polinomios</title>
-      <link>/blog/2014/09/30/factorizacion-de-polinomios-1/</link>
-      <pubDate>Tue, 30 Sep 2014 20:16:02 +0000</pubDate>
-      
-      <guid>/blog/2014/09/30/factorizacion-de-polinomios-1/</guid>
-      <description>Factorización de polinomios
   </description>
     </item>
     
@@ -158,6 +147,28 @@
       
       <guid>/blog/2013/11/13/integracion-partes-i/</guid>
       <description>Integral de xe^x resuelta mediante integración por partes Enlaces de las anotaciones: http://goo.gl/uqWtoj Reglas mnemotécnicas de la fórmula y sobre la elección de &amp;lsquo;u&amp;rsquo; y &amp;lsquo;dv&amp;rsquo; http://goo.gl/ZYRX9l Origen de la fórmula en Wikipedia http://goo.gl/csB4mU Origen de la fórmula en Wolfram MathWorld
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Ejercicio 2. Subespacios vectoriales - Alfonso Rosa</title>
+      <link>/blog/2013/11/04/matematicas-para-la-empresa-i-ejercicio-2-subespacios-vectoriales-alfonso-rosa/</link>
+      <pubDate>Mon, 04 Nov 2013 10:29:57 +0000</pubDate>
+      
+      <guid>/blog/2013/11/04/matematicas-para-la-empresa-i-ejercicio-2-subespacios-vectoriales-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/a... Departamento: Facultad de Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas
+Resolución del problema subespacios vectoriales
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Ejercicio 1. Independencia Lineal - Alfonso Rosa</title>
+      <link>/blog/2013/11/04/matematicas-para-la-empresa-i-ejercicio-1-independencia-lineal-alfonso-rosa/</link>
+      <pubDate>Mon, 04 Nov 2013 10:28:21 +0000</pubDate>
+      
+      <guid>/blog/2013/11/04/matematicas-para-la-empresa-i-ejercicio-1-independencia-lineal-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial Departamento: Facultad de Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas
+Resolución del problema independencia lineal
   </description>
     </item>
     

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>DERIVE on Uvide</title>
+    <title>DERIVE on Unitube</title>
     <link>/tags/derive/</link>
-    <description>Recent content in DERIVE on Uvide</description>
+    <description>Recent content in DERIVE on Unitube</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Thu, 08 Oct 2015 22:11:21 +0000</lastBuildDate>
@@ -38,16 +38,6 @@
       
       <guid>/blog/2015/10/06/factorizacion-polinomios-grado-3-con-soluciones-no-enteras/</guid>
       <description>Factorización polinomios grado 3 con soluciones no enteras
-  </description>
-    </item>
-    
-    <item>
-      <title>Factorización de polinomios de grado 2</title>
-      <link>/blog/2015/10/05/factorizacion-de-polinomios-de-grado-2/</link>
-      <pubDate>Mon, 05 Oct 2015 00:54:44 +0000</pubDate>
-      
-      <guid>/blog/2015/10/05/factorizacion-de-polinomios-de-grado-2/</guid>
-      <description>Factorización de polinomios de grado 2
   </description>
     </item>
     

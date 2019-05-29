@@ -1,28 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Inegración por partes on Uvide</title>
+    <title>Inegración por partes on Unitube</title>
     <link>/tags/inegraci%C3%B3n-por-partes/</link>
-    <description>Recent content in Inegración por partes on Uvide</description>
+    <description>Recent content in Inegración por partes on Unitube</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Wed, 05 Mar 2014 20:45:47 +0000</lastBuildDate>
     
 	<atom:link href="/tags/inegraci%C3%B3n-por-partes/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Integración por Partes. Herramienta fundamental II | 20/21 | UPV</title>
-      <link>/blog/2014/03/05/integracion-por-partes-herramienta-fundamental-ii-20-21-upv-1/</link>
-      <pubDate>Wed, 05 Mar 2014 20:45:47 +0000</pubDate>
-      
-      <guid>/blog/2014/03/05/integracion-por-partes-herramienta-fundamental-ii-20-21-upv-1/</guid>
-      <description>Título: Integración por Partes. Herramienta fundamental II
-Descripción: En este polimedia se explica la herramienta &amp;ldquo;Integración por partes&amp;rdquo; en el contexto del cálculo de primitivas de una funcion real de variable real. Se establecen los principios teóricos y se muestran ejemplos de aplicación.
-Autor/a: Guirao Sánchez Antonio José
-Curso: Este vídeo es el 20&amp;frasl;21 del curso MOOC Bases matemáticas: Integrales | Universitat Politècnica de València (UPV). https://www.youtube.com/playlist?list=PL6kQim6ljTJtRVxA17U3QgmYKNlzAaQYP
-Inscríbete en: https://upvx.es/courses/course-v1:edxorg+bases-matematicas-integrales+bmi101x-0/about</description>
-    </item>
     
     <item>
       <title>Integración por Partes. Herramienta fundamental II | 20/21 | UPV</title>

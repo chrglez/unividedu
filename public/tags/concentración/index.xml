@@ -1,15 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Concentración on Uvide</title>
+    <title>concentración on Unitube</title>
     <link>/tags/concentraci%C3%B3n/</link>
-    <description>Recent content in Concentración on Uvide</description>
+    <description>Recent content in concentración on Unitube</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Tue, 22 Jan 2013 10:19:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Jul 2014 11:25:15 +0000</lastBuildDate>
     
 	<atom:link href="/tags/concentraci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>MEDIDAS DE CONCENTRACION</title>
+      <link>/blog/2014/07/09/medidas-de-concentracion/</link>
+      <pubDate>Wed, 09 Jul 2014 11:25:15 +0000</pubDate>
+      
+      <guid>/blog/2014/07/09/medidas-de-concentracion/</guid>
+      <description>MEDIDAS DE CONCENTRACIÓN. Estadística 1. Ursicino Carrascal Arranz. Universidad de Valladolid.
+  </description>
+    </item>
     
     <item>
       <title>Practica   Variable unidimensional continua   06/06   Medidas de concentración</title>

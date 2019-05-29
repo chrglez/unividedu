@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Uvide</title>
+    <title>Tags on Unitube</title>
     <link>/tags/</link>
-    <description>Recent content in Tags on Uvide</description>
+    <description>Recent content in Tags on Unitube</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Tue, 13 Nov 2018 19:13:04 +0000</lastBuildDate>
@@ -219,7 +219,16 @@
     </item>
     
     <item>
-      <title>ADE para emprendedores</title>
+      <title>ADE Valencia</title>
+      <link>/tags/ade-valencia/</link>
+      <pubDate>Wed, 26 Sep 2018 15:09:36 +0000</pubDate>
+      
+      <guid>/tags/ade-valencia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ADE para Emprendedores</title>
       <link>/tags/ade-para-emprendedores/</link>
       <pubDate>Wed, 26 Sep 2018 15:09:36 +0000</pubDate>
       
@@ -291,29 +300,20 @@
     </item>
     
     <item>
+      <title>Matemáticas</title>
+      <link>/tags/matem%C3%A1ticas/</link>
+      <pubDate>Wed, 26 Sep 2018 15:09:36 +0000</pubDate>
+      
+      <guid>/tags/matem%C3%A1ticas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Matemáticas I</title>
       <link>/tags/matem%C3%A1ticas-i/</link>
       <pubDate>Wed, 26 Sep 2018 15:09:36 +0000</pubDate>
       
       <guid>/tags/matem%C3%A1ticas-i/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ade valencia</title>
-      <link>/tags/ade-valencia/</link>
-      <pubDate>Wed, 26 Sep 2018 15:09:36 +0000</pubDate>
-      
-      <guid>/tags/ade-valencia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>matemáticas</title>
-      <link>/tags/matem%C3%A1ticas/</link>
-      <pubDate>Wed, 26 Sep 2018 15:09:36 +0000</pubDate>
-      
-      <guid>/tags/matem%C3%A1ticas/</guid>
       <description></description>
     </item>
     
@@ -363,6 +363,15 @@
     </item>
     
     <item>
+      <title>Becas universidad</title>
+      <link>/tags/becas-universidad/</link>
+      <pubDate>Fri, 27 Apr 2018 12:02:41 +0000</pubDate>
+      
+      <guid>/tags/becas-universidad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Emprendimiento Valencia</title>
       <link>/tags/emprendimiento-valencia/</link>
       <pubDate>Fri, 27 Apr 2018 12:02:41 +0000</pubDate>
@@ -395,15 +404,6 @@
       <pubDate>Fri, 27 Apr 2018 12:02:41 +0000</pubDate>
       
       <guid>/tags/grado-ade-para-emprendedores/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>becas universidad</title>
-      <link>/tags/becas-universidad/</link>
-      <pubDate>Fri, 27 Apr 2018 12:02:41 +0000</pubDate>
-      
-      <guid>/tags/becas-universidad/</guid>
       <description></description>
     </item>
     
@@ -552,15 +552,6 @@
     </item>
     
     <item>
-      <title>ADE</title>
-      <link>/tags/ade/</link>
-      <pubDate>Wed, 15 Nov 2017 12:56:16 +0000</pubDate>
-      
-      <guid>/tags/ade/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Centro Universitario EDEM</title>
       <link>/tags/centro-universitario-edem/</link>
       <pubDate>Wed, 15 Nov 2017 12:56:16 +0000</pubDate>
@@ -597,6 +588,15 @@
     </item>
     
     <item>
+      <title>ade</title>
+      <link>/tags/ade/</link>
+      <pubDate>Wed, 15 Nov 2017 12:56:16 +0000</pubDate>
+      
+      <guid>/tags/ade/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>alicia gómez</title>
       <link>/tags/alicia-g%C3%B3mez/</link>
       <pubDate>Wed, 15 Nov 2017 12:56:16 +0000</pubDate>
@@ -606,7 +606,7 @@
     </item>
     
     <item>
-      <title>becas ade</title>
+      <title>becas ADE</title>
       <link>/tags/becas-ade/</link>
       <pubDate>Wed, 15 Nov 2017 12:56:16 +0000</pubDate>
       
@@ -939,15 +939,6 @@
     </item>
     
     <item>
-      <title>Big Data</title>
-      <link>/tags/big-data/</link>
-      <pubDate>Fri, 19 May 2017 08:07:01 +0000</pubDate>
-      
-      <guid>/tags/big-data/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>DEEP LEARNING</title>
       <link>/tags/deep-learning/</link>
       <pubDate>Fri, 19 May 2017 08:07:01 +0000</pubDate>
@@ -1016,6 +1007,15 @@
       <pubDate>Fri, 19 May 2017 08:07:01 +0000</pubDate>
       
       <guid>/tags/wordcloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>big data</title>
+      <link>/tags/big-data/</link>
+      <pubDate>Fri, 19 May 2017 08:07:01 +0000</pubDate>
+      
+      <guid>/tags/big-data/</guid>
       <description></description>
     </item>
     
@@ -1137,137 +1137,56 @@
     </item>
     
     <item>
-      <title>ciencia</title>
-      <link>/tags/ciencia/</link>
-      <pubDate>Tue, 04 Apr 2017 05:43:41 +0000</pubDate>
-      
-      <guid>/tags/ciencia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>clases</title>
-      <link>/tags/clases/</link>
-      <pubDate>Tue, 04 Apr 2017 05:43:41 +0000</pubDate>
-      
-      <guid>/tags/clases/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>docencia</title>
-      <link>/tags/docencia/</link>
-      <pubDate>Tue, 04 Apr 2017 05:43:41 +0000</pubDate>
-      
-      <guid>/tags/docencia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>educacion</title>
-      <link>/tags/educacion/</link>
-      <pubDate>Tue, 04 Apr 2017 05:43:41 +0000</pubDate>
-      
-      <guid>/tags/educacion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>educativos</title>
-      <link>/tags/educativos/</link>
-      <pubDate>Tue, 04 Apr 2017 05:43:41 +0000</pubDate>
-      
-      <guid>/tags/educativos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>españa</title>
-      <link>/tags/espa%C3%B1a/</link>
-      <pubDate>Tue, 04 Apr 2017 05:43:41 +0000</pubDate>
-      
-      <guid>/tags/espa%C3%B1a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ingenieria</title>
-      <link>/tags/ingenieria/</link>
-      <pubDate>Tue, 04 Apr 2017 05:43:41 +0000</pubDate>
-      
-      <guid>/tags/ingenieria/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>innovacion</title>
-      <link>/tags/innovacion/</link>
-      <pubDate>Tue, 04 Apr 2017 05:43:41 +0000</pubDate>
-      
-      <guid>/tags/innovacion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>madrid</title>
-      <link>/tags/madrid/</link>
-      <pubDate>Tue, 04 Apr 2017 05:43:41 +0000</pubDate>
-      
-      <guid>/tags/madrid/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>politecnica</title>
-      <link>/tags/politecnica/</link>
-      <pubDate>Tue, 04 Apr 2017 05:43:41 +0000</pubDate>
-      
-      <guid>/tags/politecnica/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>politécnica</title>
-      <link>/tags/polit%C3%A9cnica/</link>
-      <pubDate>Tue, 04 Apr 2017 05:43:41 +0000</pubDate>
-      
-      <guid>/tags/polit%C3%A9cnica/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>seminarios</title>
-      <link>/tags/seminarios/</link>
-      <pubDate>Tue, 04 Apr 2017 05:43:41 +0000</pubDate>
-      
-      <guid>/tags/seminarios/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>upm</title>
-      <link>/tags/upm/</link>
-      <pubDate>Tue, 04 Apr 2017 05:43:41 +0000</pubDate>
-      
-      <guid>/tags/upm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>videos</title>
-      <link>/tags/videos/</link>
-      <pubDate>Tue, 04 Apr 2017 05:43:41 +0000</pubDate>
-      
-      <guid>/tags/videos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Bondad de Ajuste</title>
       <link>/tags/bondad-de-ajuste/</link>
       <pubDate>Tue, 28 Mar 2017 13:30:16 +0000</pubDate>
       
       <guid>/tags/bondad-de-ajuste/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>facultad económicas</title>
+      <link>/tags/facultad-econ%C3%B3micas/</link>
+      <pubDate>Mon, 27 Mar 2017 13:25:13 +0000</pubDate>
+      
+      <guid>/tags/facultad-econ%C3%B3micas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ics</title>
+      <link>/tags/ics/</link>
+      <pubDate>Mon, 27 Mar 2017 13:25:13 +0000</pubDate>
+      
+      <guid>/tags/ics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>instituto cultura y sociedad</title>
+      <link>/tags/instituto-cultura-y-sociedad/</link>
+      <pubDate>Mon, 27 Mar 2017 13:25:13 +0000</pubDate>
+      
+      <guid>/tags/instituto-cultura-y-sociedad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>unav</title>
+      <link>/tags/unav/</link>
+      <pubDate>Mon, 27 Mar 2017 13:25:13 +0000</pubDate>
+      
+      <guid>/tags/unav/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>universidad de navarra</title>
+      <link>/tags/universidad-de-navarra/</link>
+      <pubDate>Mon, 27 Mar 2017 13:25:13 +0000</pubDate>
+      
+      <guid>/tags/universidad-de-navarra/</guid>
       <description></description>
     </item>
     
@@ -1425,6 +1344,42 @@
     </item>
     
     <item>
+      <title>Gini</title>
+      <link>/tags/gini/</link>
+      <pubDate>Tue, 07 Mar 2017 08:44:04 +0000</pubDate>
+      
+      <guid>/tags/gini/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lorenz</title>
+      <link>/tags/lorenz/</link>
+      <pubDate>Tue, 07 Mar 2017 08:44:04 +0000</pubDate>
+      
+      <guid>/tags/lorenz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>desigualdad</title>
+      <link>/tags/desigualdad/</link>
+      <pubDate>Tue, 07 Mar 2017 08:44:04 +0000</pubDate>
+      
+      <guid>/tags/desigualdad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>equidad</title>
+      <link>/tags/equidad/</link>
+      <pubDate>Tue, 07 Mar 2017 08:44:04 +0000</pubDate>
+      
+      <guid>/tags/equidad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>ggplot2</title>
       <link>/tags/ggplot2/</link>
       <pubDate>Mon, 06 Mar 2017 07:08:09 +0000</pubDate>
@@ -1457,168 +1412,6 @@
       <pubDate>Mon, 06 Mar 2017 07:06:46 +0000</pubDate>
       
       <guid>/tags/dplyr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CSIC</title>
-      <link>/tags/csic/</link>
-      <pubDate>Fri, 24 Feb 2017 12:52:37 +0000</pubDate>
-      
-      <guid>/tags/csic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Curso de verano</title>
-      <link>/tags/curso-de-verano/</link>
-      <pubDate>Fri, 24 Feb 2017 12:52:37 +0000</pubDate>
-      
-      <guid>/tags/curso-de-verano/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cursos de verano 2016</title>
-      <link>/tags/cursos-de-verano-2016/</link>
-      <pubDate>Fri, 24 Feb 2017 12:52:37 +0000</pubDate>
-      
-      <guid>/tags/cursos-de-verano-2016/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>EHU/UPV</title>
-      <link>/tags/ehu/upv/</link>
-      <pubDate>Fri, 24 Feb 2017 12:52:37 +0000</pubDate>
-      
-      <guid>/tags/ehu/upv/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Euskadi</title>
-      <link>/tags/euskadi/</link>
-      <pubDate>Fri, 24 Feb 2017 12:52:37 +0000</pubDate>
-      
-      <guid>/tags/euskadi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Euskal Herriko Unibertsitatea</title>
-      <link>/tags/euskal-herriko-unibertsitatea/</link>
-      <pubDate>Fri, 24 Feb 2017 12:52:37 +0000</pubDate>
-      
-      <guid>/tags/euskal-herriko-unibertsitatea/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Eustat</title>
-      <link>/tags/eustat/</link>
-      <pubDate>Fri, 24 Feb 2017 12:52:37 +0000</pubDate>
-      
-      <guid>/tags/eustat/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Género</title>
-      <link>/tags/g%C3%A9nero/</link>
-      <pubDate>Fri, 24 Feb 2017 12:52:37 +0000</pubDate>
-      
-      <guid>/tags/g%C3%A9nero/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Igualdad</title>
-      <link>/tags/igualdad/</link>
-      <pubDate>Fri, 24 Feb 2017 12:52:37 +0000</pubDate>
-      
-      <guid>/tags/igualdad/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Instituto de estudios fiscales</title>
-      <link>/tags/instituto-de-estudios-fiscales/</link>
-      <pubDate>Fri, 24 Feb 2017 12:52:37 +0000</pubDate>
-      
-      <guid>/tags/instituto-de-estudios-fiscales/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ponencia</title>
-      <link>/tags/ponencia/</link>
-      <pubDate>Fri, 24 Feb 2017 12:52:37 +0000</pubDate>
-      
-      <guid>/tags/ponencia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ricardo Gatzagaetxebarria</title>
-      <link>/tags/ricardo-gatzagaetxebarria/</link>
-      <pubDate>Fri, 24 Feb 2017 12:52:37 +0000</pubDate>
-      
-      <guid>/tags/ricardo-gatzagaetxebarria/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Universidad del País Vasco</title>
-      <link>/tags/universidad-del-pa%C3%ADs-vasco/</link>
-      <pubDate>Fri, 24 Feb 2017 12:52:37 +0000</pubDate>
-      
-      <guid>/tags/universidad-del-pa%C3%ADs-vasco/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Emakunde</title>
-      <link>/tags/emakunde/</link>
-      <pubDate>Fri, 24 Feb 2017 12:52:36 +0000</pubDate>
-      
-      <guid>/tags/emakunde/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Enrique Morán</title>
-      <link>/tags/enrique-mor%C3%A1n/</link>
-      <pubDate>Fri, 24 Feb 2017 12:52:36 +0000</pubDate>
-      
-      <guid>/tags/enrique-mor%C3%A1n/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Izaskun Landaida</title>
-      <link>/tags/izaskun-landaida/</link>
-      <pubDate>Fri, 24 Feb 2017 12:52:36 +0000</pubDate>
-      
-      <guid>/tags/izaskun-landaida/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Josu Iradi</title>
-      <link>/tags/josu-iradi/</link>
-      <pubDate>Fri, 24 Feb 2017 12:52:36 +0000</pubDate>
-      
-      <guid>/tags/josu-iradi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Teresa Remírez de Ganuza</title>
-      <link>/tags/teresa-rem%C3%ADrez-de-ganuza/</link>
-      <pubDate>Fri, 24 Feb 2017 12:52:36 +0000</pubDate>
-      
-      <guid>/tags/teresa-rem%C3%ADrez-de-ganuza/</guid>
       <description></description>
     </item>
     
@@ -1704,6 +1497,69 @@
     </item>
     
     <item>
+      <title>Cuartiles</title>
+      <link>/tags/cuartiles/</link>
+      <pubDate>Thu, 16 Feb 2017 10:01:16 +0000</pubDate>
+      
+      <guid>/tags/cuartiles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mediana</title>
+      <link>/tags/mediana/</link>
+      <pubDate>Thu, 16 Feb 2017 10:01:16 +0000</pubDate>
+      
+      <guid>/tags/mediana/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deciles</title>
+      <link>/tags/deciles/</link>
+      <pubDate>Thu, 16 Feb 2017 10:01:16 +0000</pubDate>
+      
+      <guid>/tags/deciles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>percentiles</title>
+      <link>/tags/percentiles/</link>
+      <pubDate>Thu, 16 Feb 2017 10:01:16 +0000</pubDate>
+      
+      <guid>/tags/percentiles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diagrama de caja y bigotes</title>
+      <link>/tags/diagrama-de-caja-y-bigotes/</link>
+      <pubDate>Thu, 16 Feb 2017 09:48:40 +0000</pubDate>
+      
+      <guid>/tags/diagrama-de-caja-y-bigotes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>box and whisker plot</title>
+      <link>/tags/box-and-whisker-plot/</link>
+      <pubDate>Thu, 16 Feb 2017 09:48:40 +0000</pubDate>
+      
+      <guid>/tags/box-and-whisker-plot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>frecuencia</title>
+      <link>/tags/frecuencia/</link>
+      <pubDate>Thu, 16 Feb 2017 08:35:19 +0000</pubDate>
+      
+      <guid>/tags/frecuencia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Hangouts On Air</title>
       <link>/tags/hangouts-on-air/</link>
       <pubDate>Tue, 17 Jan 2017 19:59:01 +0000</pubDate>
@@ -1727,6 +1583,15 @@
       <pubDate>Tue, 17 Jan 2017 19:59:01 +0000</pubDate>
       
       <guid>/tags/asesor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>clases</title>
+      <link>/tags/clases/</link>
+      <pubDate>Tue, 17 Jan 2017 19:59:01 +0000</pubDate>
+      
+      <guid>/tags/clases/</guid>
       <description></description>
     </item>
     
@@ -2739,6 +2604,123 @@
     </item>
     
     <item>
+      <title>CEU</title>
+      <link>/tags/ceu/</link>
+      <pubDate>Wed, 08 Jun 2016 08:20:03 +0000</pubDate>
+      
+      <guid>/tags/ceu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CEUMEDIA</title>
+      <link>/tags/ceumedia/</link>
+      <pubDate>Wed, 08 Jun 2016 08:20:03 +0000</pubDate>
+      
+      <guid>/tags/ceumedia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Economía cuantitativa</title>
+      <link>/tags/econom%C3%ADa-cuantitativa/</link>
+      <pubDate>Wed, 08 Jun 2016 08:20:03 +0000</pubDate>
+      
+      <guid>/tags/econom%C3%ADa-cuantitativa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Económicas</title>
+      <link>/tags/econ%C3%B3micas/</link>
+      <pubDate>Wed, 08 Jun 2016 08:20:03 +0000</pubDate>
+      
+      <guid>/tags/econ%C3%B3micas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Empresariales</title>
+      <link>/tags/empresariales/</link>
+      <pubDate>Wed, 08 Jun 2016 08:20:03 +0000</pubDate>
+      
+      <guid>/tags/empresariales/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fundación Universitaria San Pablo CEU</title>
+      <link>/tags/fundaci%C3%B3n-universitaria-san-pablo-ceu/</link>
+      <pubDate>Wed, 08 Jun 2016 08:20:03 +0000</pubDate>
+      
+      <guid>/tags/fundaci%C3%B3n-universitaria-san-pablo-ceu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Máster Universitario</title>
+      <link>/tags/m%C3%A1ster-universitario/</link>
+      <pubDate>Wed, 08 Jun 2016 08:20:03 +0000</pubDate>
+      
+      <guid>/tags/m%C3%A1ster-universitario/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Posgrado</title>
+      <link>/tags/posgrado/</link>
+      <pubDate>Wed, 08 Jun 2016 08:20:03 +0000</pubDate>
+      
+      <guid>/tags/posgrado/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>San Pablo CEU</title>
+      <link>/tags/san-pablo-ceu/</link>
+      <pubDate>Wed, 08 Jun 2016 08:20:03 +0000</pubDate>
+      
+      <guid>/tags/san-pablo-ceu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Universidad CEU San Pablo</title>
+      <link>/tags/universidad-ceu-san-pablo/</link>
+      <pubDate>Wed, 08 Jun 2016 08:20:03 +0000</pubDate>
+      
+      <guid>/tags/universidad-ceu-san-pablo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>economía</title>
+      <link>/tags/econom%C3%ADa/</link>
+      <pubDate>Wed, 08 Jun 2016 08:20:03 +0000</pubDate>
+      
+      <guid>/tags/econom%C3%ADa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>educación</title>
+      <link>/tags/educaci%C3%B3n/</link>
+      <pubDate>Wed, 08 Jun 2016 08:20:03 +0000</pubDate>
+      
+      <guid>/tags/educaci%C3%B3n/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>formación</title>
+      <link>/tags/formaci%C3%B3n/</link>
+      <pubDate>Wed, 08 Jun 2016 08:20:03 +0000</pubDate>
+      
+      <guid>/tags/formaci%C3%B3n/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Capacidad</title>
       <link>/tags/capacidad/</link>
       <pubDate>Thu, 28 Apr 2016 16:52:10 +0000</pubDate>
@@ -2892,6 +2874,24 @@
     </item>
     
     <item>
+      <title>distribución</title>
+      <link>/tags/distribuci%C3%B3n/</link>
+      <pubDate>Wed, 16 Mar 2016 08:25:22 +0000</pubDate>
+      
+      <guid>/tags/distribuci%C3%B3n/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>distribución condicionada</title>
+      <link>/tags/distribuci%C3%B3n-condicionada/</link>
+      <pubDate>Wed, 16 Mar 2016 08:25:22 +0000</pubDate>
+      
+      <guid>/tags/distribuci%C3%B3n-condicionada/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Carlos III de Madrid</title>
       <link>/tags/carlos-iii-de-madrid/</link>
       <pubDate>Tue, 15 Mar 2016 12:09:01 +0000</pubDate>
@@ -2928,6 +2928,15 @@
     </item>
     
     <item>
+      <title>cambio de escala</title>
+      <link>/tags/cambio-de-escala/</link>
+      <pubDate>Wed, 09 Mar 2016 08:34:24 +0000</pubDate>
+      
+      <guid>/tags/cambio-de-escala/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>MARDOWN</title>
       <link>/tags/mardown/</link>
       <pubDate>Wed, 02 Mar 2016 12:44:42 +0000</pubDate>
@@ -2946,7 +2955,7 @@
     </item>
     
     <item>
-      <title>Universidad miguel hernández</title>
+      <title>universidad miguel hernández</title>
       <link>/tags/universidad-miguel-hern%C3%A1ndez/</link>
       <pubDate>Wed, 02 Mar 2016 12:44:42 +0000</pubDate>
       
@@ -3032,6 +3041,60 @@
       <pubDate>Tue, 16 Feb 2016 09:24:33 +0000</pubDate>
       
       <guid>/tags/presentaci%C3%B3n/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Calculadora</title>
+      <link>/tags/calculadora/</link>
+      <pubDate>Wed, 13 Jan 2016 09:11:39 +0000</pubDate>
+      
+      <guid>/tags/calculadora/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Descriptiva</title>
+      <link>/tags/descriptiva/</link>
+      <pubDate>Wed, 13 Jan 2016 09:11:39 +0000</pubDate>
+      
+      <guid>/tags/descriptiva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estadística e Investigación Operativa [265]</title>
+      <link>/tags/estad%C3%ADstica-e-investigaci%C3%B3n-operativa-265/</link>
+      <pubDate>Wed, 13 Jan 2016 09:11:39 +0000</pubDate>
+      
+      <guid>/tags/estad%C3%ADstica-e-investigaci%C3%B3n-operativa-265/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Media</title>
+      <link>/tags/media/</link>
+      <pubDate>Wed, 13 Jan 2016 09:11:39 +0000</pubDate>
+      
+      <guid>/tags/media/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>casio</title>
+      <link>/tags/casio/</link>
+      <pubDate>Wed, 13 Jan 2016 09:11:39 +0000</pubDate>
+      
+      <guid>/tags/casio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>desviación tipica</title>
+      <link>/tags/desviaci%C3%B3n-tipica/</link>
+      <pubDate>Wed, 13 Jan 2016 09:11:39 +0000</pubDate>
+      
+      <guid>/tags/desviaci%C3%B3n-tipica/</guid>
       <description></description>
     </item>
     
@@ -3279,6 +3342,312 @@
     </item>
     
     <item>
+      <title>Aritmética</title>
+      <link>/tags/aritm%C3%A9tica/</link>
+      <pubDate>Sat, 24 Oct 2015 09:35:01 +0000</pubDate>
+      
+      <guid>/tags/aritm%C3%A9tica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cero</title>
+      <link>/tags/cero/</link>
+      <pubDate>Sat, 24 Oct 2015 09:35:01 +0000</pubDate>
+      
+      <guid>/tags/cero/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fracciones</title>
+      <link>/tags/fracciones/</link>
+      <pubDate>Sat, 24 Oct 2015 09:35:01 +0000</pubDate>
+      
+      <guid>/tags/fracciones/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Number</title>
+      <link>/tags/number/</link>
+      <pubDate>Sat, 24 Oct 2015 09:35:01 +0000</pubDate>
+      
+      <guid>/tags/number/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Número imaginario</title>
+      <link>/tags/n%C3%BAmero-imaginario/</link>
+      <pubDate>Sat, 24 Oct 2015 09:35:01 +0000</pubDate>
+      
+      <guid>/tags/n%C3%BAmero-imaginario/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Números</title>
+      <link>/tags/n%C3%BAmeros/</link>
+      <pubDate>Sat, 24 Oct 2015 09:35:01 +0000</pubDate>
+      
+      <guid>/tags/n%C3%BAmeros/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Números complejos</title>
+      <link>/tags/n%C3%BAmeros-complejos/</link>
+      <pubDate>Sat, 24 Oct 2015 09:35:01 +0000</pubDate>
+      
+      <guid>/tags/n%C3%BAmeros-complejos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Números enteros</title>
+      <link>/tags/n%C3%BAmeros-enteros/</link>
+      <pubDate>Sat, 24 Oct 2015 09:35:01 +0000</pubDate>
+      
+      <guid>/tags/n%C3%BAmeros-enteros/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Números fraccionarios</title>
+      <link>/tags/n%C3%BAmeros-fraccionarios/</link>
+      <pubDate>Sat, 24 Oct 2015 09:35:01 +0000</pubDate>
+      
+      <guid>/tags/n%C3%BAmeros-fraccionarios/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Números irracionales</title>
+      <link>/tags/n%C3%BAmeros-irracionales/</link>
+      <pubDate>Sat, 24 Oct 2015 09:35:01 +0000</pubDate>
+      
+      <guid>/tags/n%C3%BAmeros-irracionales/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Números naturales</title>
+      <link>/tags/n%C3%BAmeros-naturales/</link>
+      <pubDate>Sat, 24 Oct 2015 09:35:01 +0000</pubDate>
+      
+      <guid>/tags/n%C3%BAmeros-naturales/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Números negativos</title>
+      <link>/tags/n%C3%BAmeros-negativos/</link>
+      <pubDate>Sat, 24 Oct 2015 09:35:01 +0000</pubDate>
+      
+      <guid>/tags/n%C3%BAmeros-negativos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Números racionales</title>
+      <link>/tags/n%C3%BAmeros-racionales/</link>
+      <pubDate>Sat, 24 Oct 2015 09:35:01 +0000</pubDate>
+      
+      <guid>/tags/n%C3%BAmeros-racionales/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Números reales</title>
+      <link>/tags/n%C3%BAmeros-reales/</link>
+      <pubDate>Sat, 24 Oct 2015 09:35:01 +0000</pubDate>
+      
+      <guid>/tags/n%C3%BAmeros-reales/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open University Of Catalonia (College/University)</title>
+      <link>/tags/open-university-of-catalonia-college/university/</link>
+      <pubDate>Sat, 24 Oct 2015 09:35:01 +0000</pubDate>
+      
+      <guid>/tags/open-university-of-catalonia-college/university/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quebrados</title>
+      <link>/tags/quebrados/</link>
+      <pubDate>Sat, 24 Oct 2015 09:35:01 +0000</pubDate>
+      
+      <guid>/tags/quebrados/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UOC</title>
+      <link>/tags/uoc/</link>
+      <pubDate>Sat, 24 Oct 2015 09:35:01 +0000</pubDate>
+      
+      <guid>/tags/uoc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unidad imaginaria</title>
+      <link>/tags/unidad-imaginaria/</link>
+      <pubDate>Sat, 24 Oct 2015 09:35:01 +0000</pubDate>
+      
+      <guid>/tags/unidad-imaginaria/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Universitat Oberta de Catalunya</title>
+      <link>/tags/universitat-oberta-de-catalunya/</link>
+      <pubDate>Sat, 24 Oct 2015 09:35:01 +0000</pubDate>
+      
+      <guid>/tags/universitat-oberta-de-catalunya/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decimal</title>
+      <link>/tags/decimal/</link>
+      <pubDate>Fri, 23 Oct 2015 13:09:00 +0000</pubDate>
+      
+      <guid>/tags/decimal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerales arábigos</title>
+      <link>/tags/numerales-ar%C3%A1bigos/</link>
+      <pubDate>Fri, 23 Oct 2015 13:09:00 +0000</pubDate>
+      
+      <guid>/tags/numerales-ar%C3%A1bigos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerales indoarábigos</title>
+      <link>/tags/numerales-indoar%C3%A1bigos/</link>
+      <pubDate>Fri, 23 Oct 2015 13:09:00 +0000</pubDate>
+      
+      <guid>/tags/numerales-indoar%C3%A1bigos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arithmetic</title>
+      <link>/tags/arithmetic/</link>
+      <pubDate>Fri, 23 Oct 2015 12:29:00 +0000</pubDate>
+      
+      <guid>/tags/arithmetic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brahmagupta</title>
+      <link>/tags/brahmagupta/</link>
+      <pubDate>Fri, 23 Oct 2015 12:29:00 +0000</pubDate>
+      
+      <guid>/tags/brahmagupta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fibonacci Number (Literature Subject)</title>
+      <link>/tags/fibonacci-number-literature-subject/</link>
+      <pubDate>Fri, 23 Oct 2015 12:29:00 +0000</pubDate>
+      
+      <guid>/tags/fibonacci-number-literature-subject/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ishango</title>
+      <link>/tags/ishango/</link>
+      <pubDate>Fri, 23 Oct 2015 12:29:00 +0000</pubDate>
+      
+      <guid>/tags/ishango/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leonardo Fibonacci (Academic)</title>
+      <link>/tags/leonardo-fibonacci-academic/</link>
+      <pubDate>Fri, 23 Oct 2015 12:29:00 +0000</pubDate>
+      
+      <guid>/tags/leonardo-fibonacci-academic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leonardo de Pisa</title>
+      <link>/tags/leonardo-de-pisa/</link>
+      <pubDate>Fri, 23 Oct 2015 12:29:00 +0000</pubDate>
+      
+      <guid>/tags/leonardo-de-pisa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerales babilonios</title>
+      <link>/tags/numerales-babilonios/</link>
+      <pubDate>Fri, 23 Oct 2015 12:29:00 +0000</pubDate>
+      
+      <guid>/tags/numerales-babilonios/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerales hindoarábigos</title>
+      <link>/tags/numerales-hindoar%C3%A1bigos/</link>
+      <pubDate>Fri, 23 Oct 2015 12:29:00 +0000</pubDate>
+      
+      <guid>/tags/numerales-hindoar%C3%A1bigos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerales romanos</title>
+      <link>/tags/numerales-romanos/</link>
+      <pubDate>Fri, 23 Oct 2015 12:29:00 +0000</pubDate>
+      
+      <guid>/tags/numerales-romanos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SIstema hexadecimal</title>
+      <link>/tags/sistema-hexadecimal/</link>
+      <pubDate>Fri, 23 Oct 2015 12:29:00 +0000</pubDate>
+      
+      <guid>/tags/sistema-hexadecimal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Serie de Fibonacci</title>
+      <link>/tags/serie-de-fibonacci/</link>
+      <pubDate>Fri, 23 Oct 2015 12:29:00 +0000</pubDate>
+      
+      <guid>/tags/serie-de-fibonacci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sistema decimal</title>
+      <link>/tags/sistema-decimal/</link>
+      <pubDate>Fri, 23 Oct 2015 12:29:00 +0000</pubDate>
+      
+      <guid>/tags/sistema-decimal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>La</title>
       <link>/tags/la/</link>
       <pubDate>Wed, 21 Oct 2015 16:30:30 +0000</pubDate>
@@ -3333,6 +3702,33 @@
     </item>
     
     <item>
+      <title>Statistics (Field Of Study)</title>
+      <link>/tags/statistics-field-of-study/</link>
+      <pubDate>Mon, 19 Oct 2015 10:12:11 +0000</pubDate>
+      
+      <guid>/tags/statistics-field-of-study/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moda</title>
+      <link>/tags/moda/</link>
+      <pubDate>Mon, 19 Oct 2015 09:42:36 +0000</pubDate>
+      
+      <guid>/tags/moda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>media aritmética</title>
+      <link>/tags/media-aritm%C3%A9tica/</link>
+      <pubDate>Mon, 19 Oct 2015 08:19:47 +0000</pubDate>
+      
+      <guid>/tags/media-aritm%C3%A9tica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>DERIVE</title>
       <link>/tags/derive/</link>
       <pubDate>Thu, 08 Oct 2015 22:11:21 +0000</pubDate>
@@ -3347,15 +3743,6 @@
       <pubDate>Thu, 08 Oct 2015 22:11:21 +0000</pubDate>
       
       <guid>/tags/c%C3%A1lculo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>economía</title>
-      <link>/tags/econom%C3%ADa/</link>
-      <pubDate>Thu, 08 Oct 2015 22:11:21 +0000</pubDate>
-      
-      <guid>/tags/econom%C3%ADa/</guid>
       <description></description>
     </item>
     
@@ -3378,20 +3765,29 @@
     </item>
     
     <item>
+      <title>Distribuciones normales</title>
+      <link>/tags/distribuciones-normales/</link>
+      <pubDate>Wed, 07 Oct 2015 10:21:29 +0000</pubDate>
+      
+      <guid>/tags/distribuciones-normales/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probabilidad condicionada</title>
+      <link>/tags/probabilidad-condicionada/</link>
+      <pubDate>Wed, 07 Oct 2015 09:02:36 +0000</pubDate>
+      
+      <guid>/tags/probabilidad-condicionada/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>división</title>
       <link>/tags/divisi%C3%B3n/</link>
       <pubDate>Tue, 06 Oct 2015 23:17:12 +0000</pubDate>
       
       <guid>/tags/divisi%C3%B3n/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>fracciones</title>
-      <link>/tags/fracciones/</link>
-      <pubDate>Tue, 06 Oct 2015 23:17:12 +0000</pubDate>
-      
-      <guid>/tags/fracciones/</guid>
       <description></description>
     </item>
     
@@ -3486,6 +3882,123 @@
     </item>
     
     <item>
+      <title>Distribuciones</title>
+      <link>/tags/distribuciones/</link>
+      <pubDate>Fri, 02 Oct 2015 11:18:32 +0000</pubDate>
+      
+      <guid>/tags/distribuciones/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>condicionadas</title>
+      <link>/tags/condicionadas/</link>
+      <pubDate>Fri, 02 Oct 2015 11:18:32 +0000</pubDate>
+      
+      <guid>/tags/condicionadas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>continuas</title>
+      <link>/tags/continuas/</link>
+      <pubDate>Fri, 02 Oct 2015 11:18:32 +0000</pubDate>
+      
+      <guid>/tags/continuas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>esperanza</title>
+      <link>/tags/esperanza/</link>
+      <pubDate>Fri, 02 Oct 2015 11:18:32 +0000</pubDate>
+      
+      <guid>/tags/esperanza/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>marginales</title>
+      <link>/tags/marginales/</link>
+      <pubDate>Fri, 02 Oct 2015 11:18:32 +0000</pubDate>
+      
+      <guid>/tags/marginales/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>variables</title>
+      <link>/tags/variables/</link>
+      <pubDate>Fri, 02 Oct 2015 11:18:32 +0000</pubDate>
+      
+      <guid>/tags/variables/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probability (Measurement System)</title>
+      <link>/tags/probability-measurement-system/</link>
+      <pubDate>Thu, 01 Oct 2015 11:00:08 +0000</pubDate>
+      
+      <guid>/tags/probability-measurement-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>distribución binomial</title>
+      <link>/tags/distribuci%C3%B3n-binomial/</link>
+      <pubDate>Thu, 01 Oct 2015 11:00:08 +0000</pubDate>
+      
+      <guid>/tags/distribuci%C3%B3n-binomial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>distribución geométrica</title>
+      <link>/tags/distribuci%C3%B3n-geom%C3%A9trica/</link>
+      <pubDate>Thu, 01 Oct 2015 11:00:08 +0000</pubDate>
+      
+      <guid>/tags/distribuci%C3%B3n-geom%C3%A9trica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teorema de Bayes</title>
+      <link>/tags/teorema-de-bayes/</link>
+      <pubDate>Thu, 01 Oct 2015 09:29:36 +0000</pubDate>
+      
+      <guid>/tags/teorema-de-bayes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>probabilidades totales</title>
+      <link>/tags/probabilidades-totales/</link>
+      <pubDate>Thu, 01 Oct 2015 09:29:36 +0000</pubDate>
+      
+      <guid>/tags/probabilidades-totales/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Series Temporales</title>
+      <link>/tags/series-temporales/</link>
+      <pubDate>Mon, 28 Sep 2015 08:30:36 +0000</pubDate>
+      
+      <guid>/tags/series-temporales/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tasas</title>
+      <link>/tags/tasas/</link>
+      <pubDate>Mon, 28 Sep 2015 08:30:36 +0000</pubDate>
+      
+      <guid>/tags/tasas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Universidad Miguel Hernández De Elche (College/University)</title>
       <link>/tags/universidad-miguel-hern%C3%A1ndez-de-elche-college/university/</link>
       <pubDate>Fri, 18 Sep 2015 11:45:49 +0000</pubDate>
@@ -3522,6 +4035,78 @@
     </item>
     
     <item>
+      <title>Curtosis</title>
+      <link>/tags/curtosis/</link>
+      <pubDate>Wed, 16 Sep 2015 07:22:10 +0000</pubDate>
+      
+      <guid>/tags/curtosis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>asimetría</title>
+      <link>/tags/asimetr%C3%ADa/</link>
+      <pubDate>Wed, 16 Sep 2015 07:22:10 +0000</pubDate>
+      
+      <guid>/tags/asimetr%C3%ADa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>independencia</title>
+      <link>/tags/independencia/</link>
+      <pubDate>Wed, 16 Sep 2015 07:22:10 +0000</pubDate>
+      
+      <guid>/tags/independencia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>consejos</title>
+      <link>/tags/consejos/</link>
+      <pubDate>Tue, 15 Sep 2015 20:29:02 +0000</pubDate>
+      
+      <guid>/tags/consejos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>grado universitario</title>
+      <link>/tags/grado-universitario/</link>
+      <pubDate>Tue, 15 Sep 2015 20:29:02 +0000</pubDate>
+      
+      <guid>/tags/grado-universitario/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Descriptive Statistics</title>
+      <link>/tags/descriptive-statistics/</link>
+      <pubDate>Tue, 15 Sep 2015 11:43:34 +0000</pubDate>
+      
+      <guid>/tags/descriptive-statistics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>índice de Gini</title>
+      <link>/tags/%C3%ADndice-de-gini/</link>
+      <pubDate>Tue, 15 Sep 2015 11:43:34 +0000</pubDate>
+      
+      <guid>/tags/%C3%ADndice-de-gini/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regresión</title>
+      <link>/tags/regresi%C3%B3n/</link>
+      <pubDate>Tue, 15 Sep 2015 08:17:48 +0000</pubDate>
+      
+      <guid>/tags/regresi%C3%B3n/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>ice</title>
       <link>/tags/ice/</link>
       <pubDate>Mon, 27 Jul 2015 15:36:18 +0000</pubDate>
@@ -3545,6 +4130,411 @@
       <pubDate>Tue, 21 Jul 2015 12:13:05 +0000</pubDate>
       
       <guid>/tags/verano/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>curva de Lorenz</title>
+      <link>/tags/curva-de-lorenz/</link>
+      <pubDate>Fri, 19 Jun 2015 08:28:08 +0000</pubDate>
+      
+      <guid>/tags/curva-de-lorenz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>distribución normal</title>
+      <link>/tags/distribuci%C3%B3n-normal/</link>
+      <pubDate>Fri, 19 Jun 2015 08:09:10 +0000</pubDate>
+      
+      <guid>/tags/distribuci%C3%B3n-normal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bidimensional discreta</title>
+      <link>/tags/bidimensional-discreta/</link>
+      <pubDate>Thu, 18 Jun 2015 11:03:30 +0000</pubDate>
+      
+      <guid>/tags/bidimensional-discreta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distribución continua bidimensional</title>
+      <link>/tags/distribuci%C3%B3n-continua-bidimensional/</link>
+      <pubDate>Sun, 14 Jun 2015 23:20:33 +0000</pubDate>
+      
+      <guid>/tags/distribuci%C3%B3n-continua-bidimensional/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exponencial negativa</title>
+      <link>/tags/exponencial-negativa/</link>
+      <pubDate>Thu, 11 Jun 2015 18:24:47 +0000</pubDate>
+      
+      <guid>/tags/exponencial-negativa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variable continua</title>
+      <link>/tags/variable-continua/</link>
+      <pubDate>Thu, 11 Jun 2015 18:24:47 +0000</pubDate>
+      
+      <guid>/tags/variable-continua/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tabla estadística</title>
+      <link>/tags/tabla-estad%C3%ADstica/</link>
+      <pubDate>Wed, 03 Jun 2015 09:05:35 +0000</pubDate>
+      
+      <guid>/tags/tabla-estad%C3%ADstica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diagrama de árbol</title>
+      <link>/tags/diagrama-de-%C3%A1rbol/</link>
+      <pubDate>Sat, 30 May 2015 17:33:42 +0000</pubDate>
+      
+      <guid>/tags/diagrama-de-%C3%A1rbol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>probabilidades condicionadas</title>
+      <link>/tags/probabilidades-condicionadas/</link>
+      <pubDate>Sat, 30 May 2015 17:33:42 +0000</pubDate>
+      
+      <guid>/tags/probabilidades-condicionadas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Laspeyres</title>
+      <link>/tags/laspeyres/</link>
+      <pubDate>Thu, 28 May 2015 11:45:50 +0000</pubDate>
+      
+      <guid>/tags/laspeyres/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paasche</title>
+      <link>/tags/paasche/</link>
+      <pubDate>Thu, 28 May 2015 11:45:50 +0000</pubDate>
+      
+      <guid>/tags/paasche/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>correlación</title>
+      <link>/tags/correlaci%C3%B3n/</link>
+      <pubDate>Mon, 25 May 2015 18:52:40 +0000</pubDate>
+      
+      <guid>/tags/correlaci%C3%B3n/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>covarianza</title>
+      <link>/tags/covarianza/</link>
+      <pubDate>Mon, 25 May 2015 18:52:40 +0000</pubDate>
+      
+      <guid>/tags/covarianza/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probabilidades</title>
+      <link>/tags/probabilidades/</link>
+      <pubDate>Sun, 24 May 2015 15:07:05 +0000</pubDate>
+      
+      <guid>/tags/probabilidades/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Varianza</title>
+      <link>/tags/varianza/</link>
+      <pubDate>Sun, 24 May 2015 00:42:04 +0000</pubDate>
+      
+      <guid>/tags/varianza/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cambio de origen</title>
+      <link>/tags/cambio-de-origen/</link>
+      <pubDate>Sun, 24 May 2015 00:42:04 +0000</pubDate>
+      
+      <guid>/tags/cambio-de-origen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>polimedia</title>
+      <link>/tags/polimedia/</link>
+      <pubDate>Tue, 19 May 2015 10:01:59 +0000</pubDate>
+      
+      <guid>/tags/polimedia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ucam</title>
+      <link>/tags/ucam/</link>
+      <pubDate>Tue, 19 May 2015 10:01:59 +0000</pubDate>
+      
+      <guid>/tags/ucam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>uca</title>
+      <link>/tags/uca/</link>
+      <pubDate>Tue, 19 May 2015 09:58:37 +0000</pubDate>
+      
+      <guid>/tags/uca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>desviación típica</title>
+      <link>/tags/desviaci%C3%B3n-t%C3%ADpica/</link>
+      <pubDate>Tue, 12 May 2015 12:21:08 +0000</pubDate>
+      
+      <guid>/tags/desviaci%C3%B3n-t%C3%ADpica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cuartil</title>
+      <link>/tags/cuartil/</link>
+      <pubDate>Tue, 12 May 2015 12:01:58 +0000</pubDate>
+      
+      <guid>/tags/cuartil/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>función de distribución</title>
+      <link>/tags/funci%C3%B3n-de-distribuci%C3%B3n/</link>
+      <pubDate>Tue, 12 May 2015 12:01:58 +0000</pubDate>
+      
+      <guid>/tags/funci%C3%B3n-de-distribuci%C3%B3n/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>desviación</title>
+      <link>/tags/desviaci%C3%B3n/</link>
+      <pubDate>Mon, 11 May 2015 18:47:32 +0000</pubDate>
+      
+      <guid>/tags/desviaci%C3%B3n/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>típica</title>
+      <link>/tags/t%C3%ADpica/</link>
+      <pubDate>Mon, 11 May 2015 18:47:32 +0000</pubDate>
+      
+      <guid>/tags/t%C3%ADpica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>beta</title>
+      <link>/tags/beta/</link>
+      <pubDate>Mon, 11 May 2015 10:01:17 +0000</pubDate>
+      
+      <guid>/tags/beta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gamma</title>
+      <link>/tags/gamma/</link>
+      <pubDate>Mon, 11 May 2015 10:01:17 +0000</pubDate>
+      
+      <guid>/tags/gamma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>integrales</title>
+      <link>/tags/integrales/</link>
+      <pubDate>Mon, 11 May 2015 10:01:17 +0000</pubDate>
+      
+      <guid>/tags/integrales/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>empresas</title>
+      <link>/tags/empresas/</link>
+      <pubDate>Thu, 30 Apr 2015 08:17:52 +0000</pubDate>
+      
+      <guid>/tags/empresas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sustitución</title>
+      <link>/tags/sustituci%C3%B3n/</link>
+      <pubDate>Thu, 30 Apr 2015 08:17:52 +0000</pubDate>
+      
+      <guid>/tags/sustituci%C3%B3n/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>inmediata</title>
+      <link>/tags/inmediata/</link>
+      <pubDate>Thu, 30 Apr 2015 07:58:54 +0000</pubDate>
+      
+      <guid>/tags/inmediata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>función integral</title>
+      <link>/tags/funci%C3%B3n-integral/</link>
+      <pubDate>Thu, 30 Apr 2015 07:48:50 +0000</pubDate>
+      
+      <guid>/tags/funci%C3%B3n-integral/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integral Definida</title>
+      <link>/tags/integral-definida/</link>
+      <pubDate>Thu, 30 Apr 2015 07:38:16 +0000</pubDate>
+      
+      <guid>/tags/integral-definida/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>propiedades</title>
+      <link>/tags/propiedades/</link>
+      <pubDate>Thu, 30 Apr 2015 07:38:16 +0000</pubDate>
+      
+      <guid>/tags/propiedades/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>alfonso</title>
+      <link>/tags/alfonso/</link>
+      <pubDate>Mon, 27 Apr 2015 11:33:16 +0000</pubDate>
+      
+      <guid>/tags/alfonso/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>convergencia</title>
+      <link>/tags/convergencia/</link>
+      <pubDate>Mon, 27 Apr 2015 11:33:16 +0000</pubDate>
+      
+      <guid>/tags/convergencia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>divergencia</title>
+      <link>/tags/divergencia/</link>
+      <pubDate>Mon, 27 Apr 2015 11:33:16 +0000</pubDate>
+      
+      <guid>/tags/divergencia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ejercicios</title>
+      <link>/tags/ejercicios/</link>
+      <pubDate>Mon, 27 Apr 2015 11:33:16 +0000</pubDate>
+      
+      <guid>/tags/ejercicios/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rosa</title>
+      <link>/tags/rosa/</link>
+      <pubDate>Mon, 27 Apr 2015 11:33:16 +0000</pubDate>
+      
+      <guid>/tags/rosa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>alfonso rosa</title>
+      <link>/tags/alfonso-rosa/</link>
+      <pubDate>Fri, 24 Apr 2015 07:13:45 +0000</pubDate>
+      
+      <guid>/tags/alfonso-rosa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>euler</title>
+      <link>/tags/euler/</link>
+      <pubDate>Fri, 24 Apr 2015 07:13:45 +0000</pubDate>
+      
+      <guid>/tags/euler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>teorema</title>
+      <link>/tags/teorema/</link>
+      <pubDate>Fri, 24 Apr 2015 07:13:45 +0000</pubDate>
+      
+      <guid>/tags/teorema/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>verificación</title>
+      <link>/tags/verificaci%C3%B3n/</link>
+      <pubDate>Fri, 24 Apr 2015 07:13:45 +0000</pubDate>
+      
+      <guid>/tags/verificaci%C3%B3n/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>aritméticas</title>
+      <link>/tags/aritm%C3%A9ticas/</link>
+      <pubDate>Fri, 24 Apr 2015 07:12:25 +0000</pubDate>
+      
+      <guid>/tags/aritm%C3%A9ticas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>geométricas</title>
+      <link>/tags/geom%C3%A9tricas/</link>
+      <pubDate>Fri, 24 Apr 2015 07:12:25 +0000</pubDate>
+      
+      <guid>/tags/geom%C3%A9tricas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>aplicación</title>
+      <link>/tags/aplicaci%C3%B3n/</link>
+      <pubDate>Fri, 24 Apr 2015 07:10:18 +0000</pubDate>
+      
+      <guid>/tags/aplicaci%C3%B3n/</guid>
       <description></description>
     </item>
     
@@ -3837,6 +4827,258 @@
     </item>
     
     <item>
+      <title>Galileo Galilei (Academic)</title>
+      <link>/tags/galileo-galilei-academic/</link>
+      <pubDate>Thu, 05 Mar 2015 04:55:02 +0000</pubDate>
+      
+      <guid>/tags/galileo-galilei-academic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gottfried Wilhelm Von Leibniz (Academic)</title>
+      <link>/tags/gottfried-wilhelm-von-leibniz-academic/</link>
+      <pubDate>Thu, 05 Mar 2015 04:55:02 +0000</pubDate>
+      
+      <guid>/tags/gottfried-wilhelm-von-leibniz-academic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Isaac Newton (Academic)</title>
+      <link>/tags/isaac-newton-academic/</link>
+      <pubDate>Thu, 05 Mar 2015 04:55:02 +0000</pubDate>
+      
+      <guid>/tags/isaac-newton-academic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cálculo diferencial</title>
+      <link>/tags/c%C3%A1lculo-diferencial/</link>
+      <pubDate>Thu, 05 Mar 2015 04:55:02 +0000</pubDate>
+      
+      <guid>/tags/c%C3%A1lculo-diferencial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>derivación</title>
+      <link>/tags/derivaci%C3%B3n/</link>
+      <pubDate>Thu, 05 Mar 2015 04:55:02 +0000</pubDate>
+      
+      <guid>/tags/derivaci%C3%B3n/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>derivada</title>
+      <link>/tags/derivada/</link>
+      <pubDate>Thu, 05 Mar 2015 04:55:02 +0000</pubDate>
+      
+      <guid>/tags/derivada/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>diferenciación</title>
+      <link>/tags/diferenciaci%C3%B3n/</link>
+      <pubDate>Thu, 05 Mar 2015 04:55:02 +0000</pubDate>
+      
+      <guid>/tags/diferenciaci%C3%B3n/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gravedad</title>
+      <link>/tags/gravedad/</link>
+      <pubDate>Thu, 05 Mar 2015 04:55:02 +0000</pubDate>
+      
+      <guid>/tags/gravedad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ley de los números impares</title>
+      <link>/tags/ley-de-los-n%C3%BAmeros-impares/</link>
+      <pubDate>Thu, 05 Mar 2015 04:55:02 +0000</pubDate>
+      
+      <guid>/tags/ley-de-los-n%C3%BAmeros-impares/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tasa de cambio</title>
+      <link>/tags/tasa-de-cambio/</link>
+      <pubDate>Thu, 05 Mar 2015 04:55:02 +0000</pubDate>
+      
+      <guid>/tags/tasa-de-cambio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>velocidad exacta</title>
+      <link>/tags/velocidad-exacta/</link>
+      <pubDate>Thu, 05 Mar 2015 04:55:02 +0000</pubDate>
+      
+      <guid>/tags/velocidad-exacta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>velocidad media</title>
+      <link>/tags/velocidad-media/</link>
+      <pubDate>Thu, 05 Mar 2015 04:55:02 +0000</pubDate>
+      
+      <guid>/tags/velocidad-media/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>consejos para estudiar matemáticas</title>
+      <link>/tags/consejos-para-estudiar-matem%C3%A1ticas/</link>
+      <pubDate>Thu, 19 Feb 2015 21:49:07 +0000</pubDate>
+      
+      <guid>/tags/consejos-para-estudiar-matem%C3%A1ticas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Segovia (City/Town/Village)</title>
+      <link>/tags/segovia-city/town/village/</link>
+      <pubDate>Mon, 16 Feb 2015 07:43:28 +0000</pubDate>
+      
+      <guid>/tags/segovia-city/town/village/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>audiovisuales</title>
+      <link>/tags/audiovisuales/</link>
+      <pubDate>Mon, 16 Feb 2015 07:43:28 +0000</pubDate>
+      
+      <guid>/tags/audiovisuales/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>estadístico</title>
+      <link>/tags/estad%C3%ADstico/</link>
+      <pubDate>Mon, 16 Feb 2015 07:43:28 +0000</pubDate>
+      
+      <guid>/tags/estad%C3%ADstico/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mariño</title>
+      <link>/tags/mari%C3%B1o/</link>
+      <pubDate>Mon, 16 Feb 2015 07:43:28 +0000</pubDate>
+      
+      <guid>/tags/mari%C3%B1o/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>muestreo</title>
+      <link>/tags/muestreo/</link>
+      <pubDate>Mon, 16 Feb 2015 07:43:28 +0000</pubDate>
+      
+      <guid>/tags/muestreo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sociología</title>
+      <link>/tags/sociolog%C3%ADa/</link>
+      <pubDate>Mon, 16 Feb 2015 07:43:28 +0000</pubDate>
+      
+      <guid>/tags/sociolog%C3%ADa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>universidad de valladolid</title>
+      <link>/tags/universidad-de-valladolid/</link>
+      <pubDate>Mon, 16 Feb 2015 07:43:28 +0000</pubDate>
+      
+      <guid>/tags/universidad-de-valladolid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>university</title>
+      <link>/tags/university/</link>
+      <pubDate>Mon, 16 Feb 2015 07:43:28 +0000</pubDate>
+      
+      <guid>/tags/university/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>university of Valladolid</title>
+      <link>/tags/university-of-valladolid/</link>
+      <pubDate>Mon, 16 Feb 2015 07:43:28 +0000</pubDate>
+      
+      <guid>/tags/university-of-valladolid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>valladolid</title>
+      <link>/tags/valladolid/</link>
+      <pubDate>Mon, 16 Feb 2015 07:43:28 +0000</pubDate>
+      
+      <guid>/tags/valladolid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vicente</title>
+      <link>/tags/vicente/</link>
+      <pubDate>Mon, 16 Feb 2015 07:43:28 +0000</pubDate>
+      
+      <guid>/tags/vicente/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>formascuadráticas</title>
+      <link>/tags/formascuadr%C3%A1ticas/</link>
+      <pubDate>Tue, 13 Jan 2015 09:54:09 +0000</pubDate>
+      
+      <guid>/tags/formascuadr%C3%A1ticas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>signo</title>
+      <link>/tags/signo/</link>
+      <pubDate>Tue, 13 Jan 2015 09:54:09 +0000</pubDate>
+      
+      <guid>/tags/signo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tema6</title>
+      <link>/tags/tema6/</link>
+      <pubDate>Tue, 13 Jan 2015 09:54:09 +0000</pubDate>
+      
+      <guid>/tags/tema6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>econometria</title>
+      <link>/tags/econometria/</link>
+      <pubDate>Fri, 07 Nov 2014 17:41:49 +0000</pubDate>
+      
+      <guid>/tags/econometria/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>MATEMATICA APLICADA</title>
       <link>/tags/matematica-aplicada/</link>
       <pubDate>Thu, 06 Nov 2014 21:41:43 +0000</pubDate>
@@ -3851,6 +5093,15 @@
       <pubDate>Thu, 06 Nov 2014 21:41:43 +0000</pubDate>
       
       <guid>/tags/statgraphics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chi-cuadrado</title>
+      <link>/tags/chi-cuadrado/</link>
+      <pubDate>Thu, 06 Nov 2014 21:36:24 +0000</pubDate>
+      
+      <guid>/tags/chi-cuadrado/</guid>
       <description></description>
     </item>
     
@@ -3873,15 +5124,6 @@
     </item>
     
     <item>
-      <title>chi cuadrado</title>
-      <link>/tags/chi-cuadrado/</link>
-      <pubDate>Thu, 06 Nov 2014 21:36:24 +0000</pubDate>
-      
-      <guid>/tags/chi-cuadrado/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Binomial</title>
       <link>/tags/binomial/</link>
       <pubDate>Thu, 06 Nov 2014 21:34:17 +0000</pubDate>
@@ -3900,15 +5142,6 @@
     </item>
     
     <item>
-      <title>Regresión</title>
-      <link>/tags/regresi%C3%B3n/</link>
-      <pubDate>Thu, 06 Nov 2014 21:31:07 +0000</pubDate>
-      
-      <guid>/tags/regresi%C3%B3n/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Coeficiente asimetría</title>
       <link>/tags/coeficiente-asimetr%C3%ADa/</link>
       <pubDate>Thu, 06 Nov 2014 20:49:22 +0000</pubDate>
@@ -3918,38 +5151,11 @@
     </item>
     
     <item>
-      <title>Curtosis</title>
-      <link>/tags/curtosis/</link>
-      <pubDate>Thu, 06 Nov 2014 20:49:22 +0000</pubDate>
-      
-      <guid>/tags/curtosis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>ESTADISTICA E INVESTIGACION OPERATIVA</title>
       <link>/tags/estadistica-e-investigacion-operativa/</link>
       <pubDate>Thu, 06 Nov 2014 20:49:22 +0000</pubDate>
       
       <guid>/tags/estadistica-e-investigacion-operativa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Media</title>
-      <link>/tags/media/</link>
-      <pubDate>Thu, 06 Nov 2014 20:49:22 +0000</pubDate>
-      
-      <guid>/tags/media/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mediana</title>
-      <link>/tags/mediana/</link>
-      <pubDate>Thu, 06 Nov 2014 20:49:22 +0000</pubDate>
-      
-      <guid>/tags/mediana/</guid>
       <description></description>
     </item>
     
@@ -3968,15 +5174,6 @@
       <pubDate>Thu, 06 Nov 2014 20:49:22 +0000</pubDate>
       
       <guid>/tags/quartil/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Varianza</title>
-      <link>/tags/varianza/</link>
-      <pubDate>Thu, 06 Nov 2014 20:49:22 +0000</pubDate>
-      
-      <guid>/tags/varianza/</guid>
       <description></description>
     </item>
     
@@ -4053,20 +5250,11 @@
     </item>
     
     <item>
-      <title>raíces de un polinomio</title>
-      <link>/tags/ra%C3%ADces-de-un-polinomio/</link>
-      <pubDate>Tue, 30 Sep 2014 20:16:02 +0000</pubDate>
+      <title>variables discretas</title>
+      <link>/tags/variables-discretas/</link>
+      <pubDate>Thu, 16 Oct 2014 14:05:21 +0000</pubDate>
       
-      <guid>/tags/ra%C3%ADces-de-un-polinomio/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>soluciones de un polinomio</title>
-      <link>/tags/soluciones-de-un-polinomio/</link>
-      <pubDate>Tue, 30 Sep 2014 20:16:02 +0000</pubDate>
-      
-      <guid>/tags/soluciones-de-un-polinomio/</guid>
+      <guid>/tags/variables-discretas/</guid>
       <description></description>
     </item>
     
@@ -4143,15 +5331,6 @@
     </item>
     
     <item>
-      <title>empresariales</title>
-      <link>/tags/empresariales/</link>
-      <pubDate>Sun, 28 Sep 2014 11:48:22 +0000</pubDate>
-      
-      <guid>/tags/empresariales/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>fracción</title>
       <link>/tags/fracci%C3%B3n/</link>
       <pubDate>Sun, 28 Sep 2014 11:48:22 +0000</pubDate>
@@ -4175,15 +5354,6 @@
       <pubDate>Thu, 31 Jul 2014 00:00:10 +0000</pubDate>
       
       <guid>/tags/criterios/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>derivada</title>
-      <link>/tags/derivada/</link>
-      <pubDate>Thu, 31 Jul 2014 00:00:10 +0000</pubDate>
-      
-      <guid>/tags/derivada/</guid>
       <description></description>
     </item>
     
@@ -4431,6 +5601,69 @@
     </item>
     
     <item>
+      <title>cramer</title>
+      <link>/tags/cramer/</link>
+      <pubDate>Mon, 21 Jul 2014 07:43:16 +0000</pubDate>
+      
+      <guid>/tags/cramer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ecuaciones lineales</title>
+      <link>/tags/ecuaciones-lineales/</link>
+      <pubDate>Mon, 21 Jul 2014 07:43:16 +0000</pubDate>
+      
+      <guid>/tags/ecuaciones-lineales/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>regla de Cramer</title>
+      <link>/tags/regla-de-cramer/</link>
+      <pubDate>Mon, 21 Jul 2014 07:43:16 +0000</pubDate>
+      
+      <guid>/tags/regla-de-cramer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sistema de ecuaciones</title>
+      <link>/tags/sistema-de-ecuaciones/</link>
+      <pubDate>Mon, 21 Jul 2014 07:43:16 +0000</pubDate>
+      
+      <guid>/tags/sistema-de-ecuaciones/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>carrascal</title>
+      <link>/tags/carrascal/</link>
+      <pubDate>Wed, 09 Jul 2014 11:25:15 +0000</pubDate>
+      
+      <guid>/tags/carrascal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>concentración</title>
+      <link>/tags/concentraci%C3%B3n/</link>
+      <pubDate>Wed, 09 Jul 2014 11:25:15 +0000</pubDate>
+      
+      <guid>/tags/concentraci%C3%B3n/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>medidas</title>
+      <link>/tags/medidas/</link>
+      <pubDate>Wed, 09 Jul 2014 11:25:15 +0000</pubDate>
+      
+      <guid>/tags/medidas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Administración de empresas</title>
       <link>/tags/administraci%C3%B3n-de-empresas/</link>
       <pubDate>Tue, 01 Jul 2014 07:40:07 +0000</pubDate>
@@ -4517,15 +5750,6 @@
       <pubDate>Thu, 26 Jun 2014 16:41:42 +0000</pubDate>
       
       <guid>/tags/propiedades-derivadas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cramer</title>
-      <link>/tags/cramer/</link>
-      <pubDate>Wed, 25 Jun 2014 22:15:06 +0000</pubDate>
-      
-      <guid>/tags/cramer/</guid>
       <description></description>
     </item>
     
@@ -4721,43 +5945,61 @@
     <item>
       <title>Análisis varianza</title>
       <link>/tags/an%C3%A1lisis-varianza/</link>
-      <pubDate>Thu, 12 Jun 2014 17:04:05 +0000</pubDate>
+      <pubDate>Wed, 11 Jun 2014 12:47:40 +0000</pubDate>
       
       <guid>/tags/an%C3%A1lisis-varianza/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>mUVie</title>
-      <link>/tags/muvie/</link>
-      <pubDate>Thu, 12 Jun 2014 17:04:05 +0000</pubDate>
+      <title>diferencia de medias</title>
+      <link>/tags/diferencia-de-medias/</link>
+      <pubDate>Wed, 11 Jun 2014 12:47:40 +0000</pubDate>
       
-      <guid>/tags/muvie/</guid>
+      <guid>/tags/diferencia-de-medias/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>docentic</title>
+      <link>/tags/docentic/</link>
+      <pubDate>Wed, 11 Jun 2014 12:47:40 +0000</pubDate>
+      
+      <guid>/tags/docentic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>factorial</title>
+      <link>/tags/factorial/</link>
+      <pubDate>Wed, 11 Jun 2014 12:47:40 +0000</pubDate>
+      
+      <guid>/tags/factorial/</guid>
       <description></description>
     </item>
     
     <item>
       <title>medidas repetidas</title>
       <link>/tags/medidas-repetidas/</link>
-      <pubDate>Thu, 12 Jun 2014 17:04:05 +0000</pubDate>
+      <pubDate>Wed, 11 Jun 2014 12:47:40 +0000</pubDate>
       
       <guid>/tags/medidas-repetidas/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>serra</title>
-      <link>/tags/serra/</link>
-      <pubDate>Thu, 12 Jun 2014 17:04:05 +0000</pubDate>
+      <title>muvie</title>
+      <link>/tags/muvie/</link>
+      <pubDate>Wed, 11 Jun 2014 12:47:40 +0000</pubDate>
       
-      <guid>/tags/serra/</guid>
+      <guid>/tags/muvie/</guid>
       <description></description>
     </item>
     
     <item>
       <title>sfpie</title>
       <link>/tags/sfpie/</link>
-      <pubDate>Thu, 12 Jun 2014 17:04:05 +0000</pubDate>
+      <pubDate>Wed, 11 Jun 2014 12:47:40 +0000</pubDate>
       
       <guid>/tags/sfpie/</guid>
       <description></description>
@@ -4766,99 +6008,9 @@
     <item>
       <title>statisTIC</title>
       <link>/tags/statistic/</link>
-      <pubDate>Thu, 12 Jun 2014 17:04:05 +0000</pubDate>
+      <pubDate>Wed, 11 Jun 2014 12:47:40 +0000</pubDate>
       
       <guid>/tags/statistic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>diferencia de medias</title>
-      <link>/tags/diferencia-de-medias/</link>
-      <pubDate>Thu, 12 Jun 2014 16:45:54 +0000</pubDate>
-      
-      <guid>/tags/diferencia-de-medias/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>factorial</title>
-      <link>/tags/factorial/</link>
-      <pubDate>Thu, 12 Jun 2014 15:16:27 +0000</pubDate>
-      
-      <guid>/tags/factorial/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Coeficiente de determinación</title>
-      <link>/tags/coeficiente-de-determinaci%C3%B3n/</link>
-      <pubDate>Thu, 12 Jun 2014 14:57:13 +0000</pubDate>
-      
-      <guid>/tags/coeficiente-de-determinaci%C3%B3n/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Correlación</title>
-      <link>/tags/correlaci%C3%B3n/</link>
-      <pubDate>Thu, 12 Jun 2014 14:57:13 +0000</pubDate>
-      
-      <guid>/tags/correlaci%C3%B3n/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>covarianza</title>
-      <link>/tags/covarianza/</link>
-      <pubDate>Thu, 12 Jun 2014 14:57:13 +0000</pubDate>
-      
-      <guid>/tags/covarianza/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>pearson</title>
-      <link>/tags/pearson/</link>
-      <pubDate>Thu, 12 Jun 2014 14:57:13 +0000</pubDate>
-      
-      <guid>/tags/pearson/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>análisis multivariados</title>
-      <link>/tags/an%C3%A1lisis-multivariados/</link>
-      <pubDate>Thu, 12 Jun 2014 14:47:00 +0000</pubDate>
-      
-      <guid>/tags/an%C3%A1lisis-multivariados/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>diseño mixto</title>
-      <link>/tags/dise%C3%B1o-mixto/</link>
-      <pubDate>Thu, 12 Jun 2014 14:19:04 +0000</pubDate>
-      
-      <guid>/tags/dise%C3%B1o-mixto/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>docentic</title>
-      <link>/tags/docentic/</link>
-      <pubDate>Thu, 12 Jun 2014 14:19:04 +0000</pubDate>
-      
-      <guid>/tags/docentic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>split-plot</title>
-      <link>/tags/split-plot/</link>
-      <pubDate>Thu, 12 Jun 2014 14:19:04 +0000</pubDate>
-      
-      <guid>/tags/split-plot/</guid>
       <description></description>
     </item>
     
@@ -4935,6 +6087,15 @@
     </item>
     
     <item>
+      <title>serra</title>
+      <link>/tags/serra/</link>
+      <pubDate>Wed, 11 Jun 2014 11:08:28 +0000</pubDate>
+      
+      <guid>/tags/serra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Tablas de contingencia</title>
       <link>/tags/tablas-de-contingencia/</link>
       <pubDate>Wed, 11 Jun 2014 11:03:56 +0000</pubDate>
@@ -4980,6 +6141,555 @@
     </item>
     
     <item>
+      <title>cambio de variables</title>
+      <link>/tags/cambio-de-variables/</link>
+      <pubDate>Thu, 29 May 2014 08:30:25 +0000</pubDate>
+      
+      <guid>/tags/cambio-de-variables/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ejemplos</title>
+      <link>/tags/ejemplos/</link>
+      <pubDate>Thu, 29 May 2014 08:30:25 +0000</pubDate>
+      
+      <guid>/tags/ejemplos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>inmediatas</title>
+      <link>/tags/inmediatas/</link>
+      <pubDate>Thu, 29 May 2014 08:30:25 +0000</pubDate>
+      
+      <guid>/tags/inmediatas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>por partes</title>
+      <link>/tags/por-partes/</link>
+      <pubDate>Thu, 29 May 2014 08:30:25 +0000</pubDate>
+      
+      <guid>/tags/por-partes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>grado</title>
+      <link>/tags/grado/</link>
+      <pubDate>Mon, 26 May 2014 11:42:12 +0000</pubDate>
+      
+      <guid>/tags/grado/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>derivadas parciales</title>
+      <link>/tags/derivadas-parciales/</link>
+      <pubDate>Thu, 22 May 2014 14:49:12 +0000</pubDate>
+      
+      <guid>/tags/derivadas-parciales/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ejemplo</title>
+      <link>/tags/ejemplo/</link>
+      <pubDate>Thu, 22 May 2014 14:49:12 +0000</pubDate>
+      
+      <guid>/tags/ejemplo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>funciones implícitas</title>
+      <link>/tags/funciones-impl%C3%ADcitas/</link>
+      <pubDate>Thu, 22 May 2014 14:49:12 +0000</pubDate>
+      
+      <guid>/tags/funciones-impl%C3%ADcitas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>problema</title>
+      <link>/tags/problema/</link>
+      <pubDate>Thu, 22 May 2014 14:49:12 +0000</pubDate>
+      
+      <guid>/tags/problema/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>función de varias variables</title>
+      <link>/tags/funci%C3%B3n-de-varias-variables/</link>
+      <pubDate>Thu, 22 May 2014 14:37:31 +0000</pubDate>
+      
+      <guid>/tags/funci%C3%B3n-de-varias-variables/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>límites direccionales</title>
+      <link>/tags/l%C3%ADmites-direccionales/</link>
+      <pubDate>Thu, 22 May 2014 14:37:31 +0000</pubDate>
+      
+      <guid>/tags/l%C3%ADmites-direccionales/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>límites iterados</title>
+      <link>/tags/l%C3%ADmites-iterados/</link>
+      <pubDate>Thu, 22 May 2014 14:37:31 +0000</pubDate>
+      
+      <guid>/tags/l%C3%ADmites-iterados/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>problemas</title>
+      <link>/tags/problemas/</link>
+      <pubDate>Thu, 22 May 2014 14:37:31 +0000</pubDate>
+      
+      <guid>/tags/problemas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>alfons rosa</title>
+      <link>/tags/alfons-rosa/</link>
+      <pubDate>Tue, 20 May 2014 11:27:35 +0000</pubDate>
+      
+      <guid>/tags/alfons-rosa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>homogeneidad</title>
+      <link>/tags/homogeneidad/</link>
+      <pubDate>Tue, 20 May 2014 11:27:35 +0000</pubDate>
+      
+      <guid>/tags/homogeneidad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cociente</title>
+      <link>/tags/cociente/</link>
+      <pubDate>Mon, 19 May 2014 11:17:39 +0000</pubDate>
+      
+      <guid>/tags/cociente/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>comparación</title>
+      <link>/tags/comparaci%C3%B3n/</link>
+      <pubDate>Mon, 19 May 2014 11:17:39 +0000</pubDate>
+      
+      <guid>/tags/comparaci%C3%B3n/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>criterios suficientes</title>
+      <link>/tags/criterios-suficientes/</link>
+      <pubDate>Mon, 19 May 2014 11:17:39 +0000</pubDate>
+      
+      <guid>/tags/criterios-suficientes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>raabe</title>
+      <link>/tags/raabe/</link>
+      <pubDate>Mon, 19 May 2014 11:17:39 +0000</pubDate>
+      
+      <guid>/tags/raabe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>raíz</title>
+      <link>/tags/ra%C3%ADz/</link>
+      <pubDate>Mon, 19 May 2014 11:17:39 +0000</pubDate>
+      
+      <guid>/tags/ra%C3%ADz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>series</title>
+      <link>/tags/series/</link>
+      <pubDate>Mon, 19 May 2014 11:17:39 +0000</pubDate>
+      
+      <guid>/tags/series/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cauchy</title>
+      <link>/tags/cauchy/</link>
+      <pubDate>Mon, 19 May 2014 11:13:18 +0000</pubDate>
+      
+      <guid>/tags/cauchy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>serie armónica</title>
+      <link>/tags/serie-arm%C3%B3nica/</link>
+      <pubDate>Mon, 19 May 2014 11:13:18 +0000</pubDate>
+      
+      <guid>/tags/serie-arm%C3%B3nica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>funciones homogéneas</title>
+      <link>/tags/funciones-homog%C3%A9neas/</link>
+      <pubDate>Mon, 19 May 2014 11:10:53 +0000</pubDate>
+      
+      <guid>/tags/funciones-homog%C3%A9neas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>grado de homogeneidad</title>
+      <link>/tags/grado-de-homogeneidad/</link>
+      <pubDate>Mon, 19 May 2014 11:10:53 +0000</pubDate>
+      
+      <guid>/tags/grado-de-homogeneidad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>geométrica</title>
+      <link>/tags/geom%C3%A9trica/</link>
+      <pubDate>Fri, 16 May 2014 08:46:32 +0000</pubDate>
+      
+      <guid>/tags/geom%C3%A9trica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>convergentes</title>
+      <link>/tags/convergentes/</link>
+      <pubDate>Fri, 16 May 2014 07:51:12 +0000</pubDate>
+      
+      <guid>/tags/convergentes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>divergentes</title>
+      <link>/tags/divergentes/</link>
+      <pubDate>Fri, 16 May 2014 07:51:12 +0000</pubDate>
+      
+      <guid>/tags/divergentes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>oscilantes</title>
+      <link>/tags/oscilantes/</link>
+      <pubDate>Fri, 16 May 2014 07:51:12 +0000</pubDate>
+      
+      <guid>/tags/oscilantes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sucesiones</title>
+      <link>/tags/sucesiones/</link>
+      <pubDate>Fri, 16 May 2014 07:51:12 +0000</pubDate>
+      
+      <guid>/tags/sucesiones/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>acotadas</title>
+      <link>/tags/acotadas/</link>
+      <pubDate>Fri, 16 May 2014 07:48:03 +0000</pubDate>
+      
+      <guid>/tags/acotadas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>teorema de Euler</title>
+      <link>/tags/teorema-de-euler/</link>
+      <pubDate>Wed, 07 May 2014 09:56:11 +0000</pubDate>
+      
+      <guid>/tags/teorema-de-euler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rendimientos a escala</title>
+      <link>/tags/rendimientos-a-escala/</link>
+      <pubDate>Wed, 07 May 2014 09:54:31 +0000</pubDate>
+      
+      <guid>/tags/rendimientos-a-escala/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>desestacionalización</title>
+      <link>/tags/desestacionalizaci%C3%B3n/</link>
+      <pubDate>Wed, 07 May 2014 07:05:29 +0000</pubDate>
+      
+      <guid>/tags/desestacionalizaci%C3%B3n/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>multiplicativo</title>
+      <link>/tags/multiplicativo/</link>
+      <pubDate>Wed, 07 May 2014 07:05:29 +0000</pubDate>
+      
+      <guid>/tags/multiplicativo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>aditivo</title>
+      <link>/tags/aditivo/</link>
+      <pubDate>Wed, 07 May 2014 07:04:03 +0000</pubDate>
+      
+      <guid>/tags/aditivo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>componente</title>
+      <link>/tags/componente/</link>
+      <pubDate>Wed, 07 May 2014 07:01:59 +0000</pubDate>
+      
+      <guid>/tags/componente/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>estacional</title>
+      <link>/tags/estacional/</link>
+      <pubDate>Wed, 07 May 2014 07:01:59 +0000</pubDate>
+      
+      <guid>/tags/estacional/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estadistica</title>
+      <link>/tags/estadistica/</link>
+      <pubDate>Wed, 07 May 2014 07:00:43 +0000</pubDate>
+      
+      <guid>/tags/estadistica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tendencia</title>
+      <link>/tags/tendencia/</link>
+      <pubDate>Wed, 07 May 2014 06:59:04 +0000</pubDate>
+      
+      <guid>/tags/tendencia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>composición de funciones</title>
+      <link>/tags/composici%C3%B3n-de-funciones/</link>
+      <pubDate>Tue, 25 Mar 2014 16:09:07 +0000</pubDate>
+      
+      <guid>/tags/composici%C3%B3n-de-funciones/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>curvas de nivel</title>
+      <link>/tags/curvas-de-nivel/</link>
+      <pubDate>Tue, 25 Mar 2014 16:09:07 +0000</pubDate>
+      
+      <guid>/tags/curvas-de-nivel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>derivdad de la composición</title>
+      <link>/tags/derivdad-de-la-composici%C3%B3n/</link>
+      <pubDate>Tue, 25 Mar 2014 16:09:07 +0000</pubDate>
+      
+      <guid>/tags/derivdad-de-la-composici%C3%B3n/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>diferenciabilidad</title>
+      <link>/tags/diferenciabilidad/</link>
+      <pubDate>Tue, 25 Mar 2014 16:09:07 +0000</pubDate>
+      
+      <guid>/tags/diferenciabilidad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>diferencial</title>
+      <link>/tags/diferencial/</link>
+      <pubDate>Tue, 25 Mar 2014 16:09:07 +0000</pubDate>
+      
+      <guid>/tags/diferencial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>funciones de varias variables</title>
+      <link>/tags/funciones-de-varias-variables/</link>
+      <pubDate>Tue, 25 Mar 2014 16:09:07 +0000</pubDate>
+      
+      <guid>/tags/funciones-de-varias-variables/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gradiente</title>
+      <link>/tags/gradiente/</link>
+      <pubDate>Tue, 25 Mar 2014 16:09:07 +0000</pubDate>
+      
+      <guid>/tags/gradiente/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>derivada direccional</title>
+      <link>/tags/derivada-direccional/</link>
+      <pubDate>Mon, 24 Mar 2014 12:59:35 +0000</pubDate>
+      
+      <guid>/tags/derivada-direccional/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vector gradiente</title>
+      <link>/tags/vector-gradiente/</link>
+      <pubDate>Mon, 24 Mar 2014 12:59:35 +0000</pubDate>
+      
+      <guid>/tags/vector-gradiente/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>derivadas cruzadas</title>
+      <link>/tags/derivadas-cruzadas/</link>
+      <pubDate>Thu, 20 Mar 2014 18:18:00 +0000</pubDate>
+      
+      <guid>/tags/derivadas-cruzadas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>derivadas de segundo orden</title>
+      <link>/tags/derivadas-de-segundo-orden/</link>
+      <pubDate>Thu, 20 Mar 2014 18:18:00 +0000</pubDate>
+      
+      <guid>/tags/derivadas-de-segundo-orden/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>matriz hessiana</title>
+      <link>/tags/matriz-hessiana/</link>
+      <pubDate>Thu, 20 Mar 2014 18:18:00 +0000</pubDate>
+      
+      <guid>/tags/matriz-hessiana/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>parciales</title>
+      <link>/tags/parciales/</link>
+      <pubDate>Thu, 20 Mar 2014 18:04:20 +0000</pubDate>
+      
+      <guid>/tags/parciales/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>varias variables independientes</title>
+      <link>/tags/varias-variables-independientes/</link>
+      <pubDate>Thu, 20 Mar 2014 18:04:20 +0000</pubDate>
+      
+      <guid>/tags/varias-variables-independientes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sistemas de ecuaciones</title>
+      <link>/tags/sistemas-de-ecuaciones/</link>
+      <pubDate>Thu, 20 Mar 2014 18:02:12 +0000</pubDate>
+      
+      <guid>/tags/sistemas-de-ecuaciones/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>existencia</title>
+      <link>/tags/existencia/</link>
+      <pubDate>Mon, 17 Mar 2014 08:07:24 +0000</pubDate>
+      
+      <guid>/tags/existencia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>funciones vectoriales</title>
+      <link>/tags/funciones-vectoriales/</link>
+      <pubDate>Mon, 17 Mar 2014 08:07:24 +0000</pubDate>
+      
+      <guid>/tags/funciones-vectoriales/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>función implícita</title>
+      <link>/tags/funci%C3%B3n-impl%C3%ADcita/</link>
+      <pubDate>Mon, 17 Mar 2014 08:07:24 +0000</pubDate>
+      
+      <guid>/tags/funci%C3%B3n-impl%C3%ADcita/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hessiano</title>
+      <link>/tags/hessiano/</link>
+      <pubDate>Mon, 17 Mar 2014 08:07:24 +0000</pubDate>
+      
+      <guid>/tags/hessiano/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jacobiano</title>
+      <link>/tags/jacobiano/</link>
+      <pubDate>Mon, 17 Mar 2014 08:07:24 +0000</pubDate>
+      
+      <guid>/tags/jacobiano/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>segundo orden</title>
+      <link>/tags/segundo-orden/</link>
+      <pubDate>Mon, 17 Mar 2014 08:07:24 +0000</pubDate>
+      
+      <guid>/tags/segundo-orden/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>2º Bachillerato</title>
       <link>/tags/2%C2%BA-bachillerato/</link>
       <pubDate>Wed, 12 Mar 2014 11:09:03 +0000</pubDate>
@@ -4994,15 +6704,6 @@
       <pubDate>Wed, 12 Mar 2014 11:09:03 +0000</pubDate>
       
       <guid>/tags/matriz-adjunta/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Matriz inversa</title>
-      <link>/tags/matriz-inversa/</link>
-      <pubDate>Wed, 12 Mar 2014 11:09:03 +0000</pubDate>
-      
-      <guid>/tags/matriz-inversa/</guid>
       <description></description>
     </item>
     
@@ -5030,6 +6731,15 @@
       <pubDate>Wed, 12 Mar 2014 11:09:03 +0000</pubDate>
       
       <guid>/tags/vanessa-fern%C3%A1ndez-chamorro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>matriz inversa</title>
+      <link>/tags/matriz-inversa/</link>
+      <pubDate>Wed, 12 Mar 2014 11:09:03 +0000</pubDate>
+      
+      <guid>/tags/matriz-inversa/</guid>
       <description></description>
     </item>
     
@@ -5142,15 +6852,6 @@
     </item>
     
     <item>
-      <title>ejemplo</title>
-      <link>/tags/ejemplo/</link>
-      <pubDate>Mon, 03 Mar 2014 17:10:43 +0000</pubDate>
-      
-      <guid>/tags/ejemplo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>incertidumbre</title>
       <link>/tags/incertidumbre/</link>
       <pubDate>Mon, 03 Mar 2014 17:10:43 +0000</pubDate>
@@ -5196,6 +6897,240 @@
     </item>
     
     <item>
+      <title>varias variables</title>
+      <link>/tags/varias-variables/</link>
+      <pubDate>Tue, 25 Feb 2014 09:55:45 +0000</pubDate>
+      
+      <guid>/tags/varias-variables/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>alfoso rosa</title>
+      <link>/tags/alfoso-rosa/</link>
+      <pubDate>Mon, 24 Feb 2014 18:01:24 +0000</pubDate>
+      
+      <guid>/tags/alfoso-rosa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>direccional</title>
+      <link>/tags/direccional/</link>
+      <pubDate>Mon, 24 Feb 2014 18:01:24 +0000</pubDate>
+      
+      <guid>/tags/direccional/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>límite</title>
+      <link>/tags/l%C3%ADmite/</link>
+      <pubDate>Mon, 24 Feb 2014 18:01:24 +0000</pubDate>
+      
+      <guid>/tags/l%C3%ADmite/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>direccionales</title>
+      <link>/tags/direccionales/</link>
+      <pubDate>Mon, 24 Feb 2014 18:00:29 +0000</pubDate>
+      
+      <guid>/tags/direccionales/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>límites</title>
+      <link>/tags/l%C3%ADmites/</link>
+      <pubDate>Mon, 24 Feb 2014 18:00:29 +0000</pubDate>
+      
+      <guid>/tags/l%C3%ADmites/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>derecha</title>
+      <link>/tags/derecha/</link>
+      <pubDate>Mon, 24 Feb 2014 17:58:22 +0000</pubDate>
+      
+      <guid>/tags/derecha/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>izquierda</title>
+      <link>/tags/izquierda/</link>
+      <pubDate>Mon, 24 Feb 2014 17:58:22 +0000</pubDate>
+      
+      <guid>/tags/izquierda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>curvas de indiferencia</title>
+      <link>/tags/curvas-de-indiferencia/</link>
+      <pubDate>Thu, 20 Feb 2014 16:56:51 +0000</pubDate>
+      
+      <guid>/tags/curvas-de-indiferencia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>diferencia</title>
+      <link>/tags/diferencia/</link>
+      <pubDate>Thu, 20 Feb 2014 16:56:51 +0000</pubDate>
+      
+      <guid>/tags/diferencia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exponenciales</title>
+      <link>/tags/exponenciales/</link>
+      <pubDate>Thu, 20 Feb 2014 16:56:51 +0000</pubDate>
+      
+      <guid>/tags/exponenciales/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>funciones de varias variables reales</title>
+      <link>/tags/funciones-de-varias-variables-reales/</link>
+      <pubDate>Thu, 20 Feb 2014 16:56:51 +0000</pubDate>
+      
+      <guid>/tags/funciones-de-varias-variables-reales/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>funciones reales</title>
+      <link>/tags/funciones-reales/</link>
+      <pubDate>Thu, 20 Feb 2014 16:56:51 +0000</pubDate>
+      
+      <guid>/tags/funciones-reales/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>funciones trigonométricas</title>
+      <link>/tags/funciones-trigonom%C3%A9tricas/</link>
+      <pubDate>Thu, 20 Feb 2014 16:56:51 +0000</pubDate>
+      
+      <guid>/tags/funciones-trigonom%C3%A9tricas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>función componente</title>
+      <link>/tags/funci%C3%B3n-componente/</link>
+      <pubDate>Thu, 20 Feb 2014 16:56:51 +0000</pubDate>
+      
+      <guid>/tags/funci%C3%B3n-componente/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>igualdad</title>
+      <link>/tags/igualdad/</link>
+      <pubDate>Thu, 20 Feb 2014 16:56:51 +0000</pubDate>
+      
+      <guid>/tags/igualdad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>isocuantas</title>
+      <link>/tags/isocuantas/</link>
+      <pubDate>Thu, 20 Feb 2014 16:56:51 +0000</pubDate>
+      
+      <guid>/tags/isocuantas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>logarítmicas</title>
+      <link>/tags/logar%C3%ADtmicas/</link>
+      <pubDate>Thu, 20 Feb 2014 16:56:51 +0000</pubDate>
+      
+      <guid>/tags/logar%C3%ADtmicas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>operaciones con funciones</title>
+      <link>/tags/operaciones-con-funciones/</link>
+      <pubDate>Thu, 20 Feb 2014 16:56:51 +0000</pubDate>
+      
+      <guid>/tags/operaciones-con-funciones/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>producto por escalar</title>
+      <link>/tags/producto-por-escalar/</link>
+      <pubDate>Thu, 20 Feb 2014 16:56:51 +0000</pubDate>
+      
+      <guid>/tags/producto-por-escalar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>proyecciones</title>
+      <link>/tags/proyecciones/</link>
+      <pubDate>Thu, 20 Feb 2014 16:56:51 +0000</pubDate>
+      
+      <guid>/tags/proyecciones/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>racionales</title>
+      <link>/tags/racionales/</link>
+      <pubDate>Thu, 20 Feb 2014 16:56:51 +0000</pubDate>
+      
+      <guid>/tags/racionales/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>representación</title>
+      <link>/tags/representaci%C3%B3n/</link>
+      <pubDate>Thu, 20 Feb 2014 16:56:51 +0000</pubDate>
+      
+      <guid>/tags/representaci%C3%B3n/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>utilidad</title>
+      <link>/tags/utilidad/</link>
+      <pubDate>Thu, 20 Feb 2014 16:56:51 +0000</pubDate>
+      
+      <guid>/tags/utilidad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>variable dependiente</title>
+      <link>/tags/variable-dependiente/</link>
+      <pubDate>Thu, 20 Feb 2014 16:56:51 +0000</pubDate>
+      
+      <guid>/tags/variable-dependiente/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>variable independiente</title>
+      <link>/tags/variable-independiente/</link>
+      <pubDate>Thu, 20 Feb 2014 16:56:51 +0000</pubDate>
+      
+      <guid>/tags/variable-independiente/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Localización</title>
       <link>/tags/localizacio%CC%81n/</link>
       <pubDate>Mon, 17 Feb 2014 10:40:32 +0000</pubDate>
@@ -5219,15 +7154,6 @@
       <pubDate>Mon, 17 Feb 2014 10:40:32 +0000</pubDate>
       
       <guid>/tags/instalaciones/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>varias variables</title>
-      <link>/tags/varias-variables/</link>
-      <pubDate>Sat, 15 Feb 2014 20:16:25 +0000</pubDate>
-      
-      <guid>/tags/varias-variables/</guid>
       <description></description>
     </item>
     
@@ -5259,15 +7185,6 @@
     </item>
     
     <item>
-      <title>variables</title>
-      <link>/tags/variables/</link>
-      <pubDate>Sat, 15 Feb 2014 00:12:31 +0000</pubDate>
-      
-      <guid>/tags/variables/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Cambio de Variable</title>
       <link>/tags/cambio-de-variable/</link>
       <pubDate>Sat, 15 Feb 2014 00:04:13 +0000</pubDate>
@@ -5286,15 +7203,6 @@
     </item>
     
     <item>
-      <title>integrales</title>
-      <link>/tags/integrales/</link>
-      <pubDate>Fri, 14 Feb 2014 23:56:47 +0000</pubDate>
-      
-      <guid>/tags/integrales/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>áreas</title>
       <link>/tags/%C3%A1reas/</link>
       <pubDate>Fri, 14 Feb 2014 23:56:47 +0000</pubDate>
@@ -5309,15 +7217,6 @@
       <pubDate>Fri, 14 Feb 2014 23:53:43 +0000</pubDate>
       
       <guid>/tags/c%C3%A1lculo-de-%C3%A1reas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Integral Definida</title>
-      <link>/tags/integral-definida/</link>
-      <pubDate>Fri, 14 Feb 2014 23:53:43 +0000</pubDate>
-      
-      <guid>/tags/integral-definida/</guid>
       <description></description>
     </item>
     
@@ -5349,6 +7248,51 @@
     </item>
     
     <item>
+      <title>autovalores</title>
+      <link>/tags/autovalores/</link>
+      <pubDate>Mon, 27 Jan 2014 09:56:00 +0000</pubDate>
+      
+      <guid>/tags/autovalores/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>autovectores</title>
+      <link>/tags/autovectores/</link>
+      <pubDate>Mon, 27 Jan 2014 09:56:00 +0000</pubDate>
+      
+      <guid>/tags/autovectores/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>diagonalización</title>
+      <link>/tags/diagonalizaci%C3%B3n/</link>
+      <pubDate>Mon, 27 Jan 2014 09:56:00 +0000</pubDate>
+      
+      <guid>/tags/diagonalizaci%C3%B3n/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>valores propios</title>
+      <link>/tags/valores-propios/</link>
+      <pubDate>Mon, 27 Jan 2014 09:56:00 +0000</pubDate>
+      
+      <guid>/tags/valores-propios/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vectores propios</title>
+      <link>/tags/vectores-propios/</link>
+      <pubDate>Mon, 27 Jan 2014 09:56:00 +0000</pubDate>
+      
+      <guid>/tags/vectores-propios/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>ingegrales</title>
       <link>/tags/ingegrales/</link>
       <pubDate>Wed, 22 Jan 2014 21:51:58 +0000</pubDate>
@@ -5363,6 +7307,465 @@
       <pubDate>Wed, 22 Jan 2014 21:51:58 +0000</pubDate>
       
       <guid>/tags/presentacion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>potencia enésima</title>
+      <link>/tags/potencia-en%C3%A9sima/</link>
+      <pubDate>Wed, 22 Jan 2014 16:12:25 +0000</pubDate>
+      
+      <guid>/tags/potencia-en%C3%A9sima/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>matriz simétrica</title>
+      <link>/tags/matriz-sim%C3%A9trica/</link>
+      <pubDate>Tue, 21 Jan 2014 09:56:48 +0000</pubDate>
+      
+      <guid>/tags/matriz-sim%C3%A9trica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>diagonalizar</title>
+      <link>/tags/diagonalizar/</link>
+      <pubDate>Wed, 15 Jan 2014 16:27:13 +0000</pubDate>
+      
+      <guid>/tags/diagonalizar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>matriz de paso</title>
+      <link>/tags/matriz-de-paso/</link>
+      <pubDate>Wed, 15 Jan 2014 16:27:13 +0000</pubDate>
+      
+      <guid>/tags/matriz-de-paso/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>estudiar</title>
+      <link>/tags/estudiar/</link>
+      <pubDate>Wed, 15 Jan 2014 16:26:02 +0000</pubDate>
+      
+      <guid>/tags/estudiar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>valores propios repetidos</title>
+      <link>/tags/valores-propios-repetidos/</link>
+      <pubDate>Wed, 15 Jan 2014 16:26:02 +0000</pubDate>
+      
+      <guid>/tags/valores-propios-repetidos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>simétricas</title>
+      <link>/tags/sim%C3%A9tricas/</link>
+      <pubDate>Fri, 27 Dec 2013 07:30:03 +0000</pubDate>
+      
+      <guid>/tags/sim%C3%A9tricas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>matrices semejantes</title>
+      <link>/tags/matrices-semejantes/</link>
+      <pubDate>Fri, 27 Dec 2013 07:24:14 +0000</pubDate>
+      
+      <guid>/tags/matrices-semejantes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>matriz diagonal</title>
+      <link>/tags/matriz-diagonal/</link>
+      <pubDate>Fri, 27 Dec 2013 07:23:01 +0000</pubDate>
+      
+      <guid>/tags/matriz-diagonal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>obtención</title>
+      <link>/tags/obtenci%C3%B3n/</link>
+      <pubDate>Fri, 27 Dec 2013 07:19:35 +0000</pubDate>
+      
+      <guid>/tags/obtenci%C3%B3n/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>repetidos</title>
+      <link>/tags/repetidos/</link>
+      <pubDate>Fri, 27 Dec 2013 07:19:35 +0000</pubDate>
+      
+      <guid>/tags/repetidos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>aplicación lineal</title>
+      <link>/tags/aplicaci%C3%B3n-lineal/</link>
+      <pubDate>Tue, 17 Dec 2013 17:53:41 +0000</pubDate>
+      
+      <guid>/tags/aplicaci%C3%B3n-lineal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>discusión</title>
+      <link>/tags/discusi%C3%B3n/</link>
+      <pubDate>Tue, 17 Dec 2013 17:53:41 +0000</pubDate>
+      
+      <guid>/tags/discusi%C3%B3n/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>epimorfismo</title>
+      <link>/tags/epimorfismo/</link>
+      <pubDate>Tue, 17 Dec 2013 17:52:00 +0000</pubDate>
+      
+      <guid>/tags/epimorfismo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>suprayectiva</title>
+      <link>/tags/suprayectiva/</link>
+      <pubDate>Tue, 17 Dec 2013 17:50:43 +0000</pubDate>
+      
+      <guid>/tags/suprayectiva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>matriz asociada</title>
+      <link>/tags/matriz-asociada/</link>
+      <pubDate>Thu, 12 Dec 2013 11:52:10 +0000</pubDate>
+      
+      <guid>/tags/matriz-asociada/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kernel</title>
+      <link>/tags/kernel/</link>
+      <pubDate>Thu, 12 Dec 2013 11:50:57 +0000</pubDate>
+      
+      <guid>/tags/kernel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>núcleo</title>
+      <link>/tags/n%C3%BAcleo/</link>
+      <pubDate>Thu, 12 Dec 2013 11:50:57 +0000</pubDate>
+      
+      <guid>/tags/n%C3%BAcleo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>demostrar</title>
+      <link>/tags/demostrar/</link>
+      <pubDate>Thu, 12 Dec 2013 11:48:17 +0000</pubDate>
+      
+      <guid>/tags/demostrar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>aplicaciones lineales</title>
+      <link>/tags/aplicaciones-lineales/</link>
+      <pubDate>Wed, 11 Dec 2013 10:25:15 +0000</pubDate>
+      
+      <guid>/tags/aplicaciones-lineales/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>biyectiva</title>
+      <link>/tags/biyectiva/</link>
+      <pubDate>Wed, 11 Dec 2013 10:23:25 +0000</pubDate>
+      
+      <guid>/tags/biyectiva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>inyectiva</title>
+      <link>/tags/inyectiva/</link>
+      <pubDate>Wed, 11 Dec 2013 10:23:25 +0000</pubDate>
+      
+      <guid>/tags/inyectiva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>isomorfismo</title>
+      <link>/tags/isomorfismo/</link>
+      <pubDate>Wed, 11 Dec 2013 10:23:25 +0000</pubDate>
+      
+      <guid>/tags/isomorfismo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>monomorfismo</title>
+      <link>/tags/monomorfismo/</link>
+      <pubDate>Wed, 11 Dec 2013 10:23:25 +0000</pubDate>
+      
+      <guid>/tags/monomorfismo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sobreyectiva</title>
+      <link>/tags/sobreyectiva/</link>
+      <pubDate>Wed, 11 Dec 2013 10:23:25 +0000</pubDate>
+      
+      <guid>/tags/sobreyectiva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>endomorfismo</title>
+      <link>/tags/endomorfismo/</link>
+      <pubDate>Wed, 11 Dec 2013 10:21:15 +0000</pubDate>
+      
+      <guid>/tags/endomorfismo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>operador lineal</title>
+      <link>/tags/operador-lineal/</link>
+      <pubDate>Wed, 11 Dec 2013 10:21:15 +0000</pubDate>
+      
+      <guid>/tags/operador-lineal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sistema compatible</title>
+      <link>/tags/sistema-compatible/</link>
+      <pubDate>Tue, 03 Dec 2013 12:12:52 +0000</pubDate>
+      
+      <guid>/tags/sistema-compatible/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sistema de ecuaciones lineales</title>
+      <link>/tags/sistema-de-ecuaciones-lineales/</link>
+      <pubDate>Tue, 03 Dec 2013 12:12:52 +0000</pubDate>
+      
+      <guid>/tags/sistema-de-ecuaciones-lineales/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>compatible indeterminado</title>
+      <link>/tags/compatible-indeterminado/</link>
+      <pubDate>Tue, 03 Dec 2013 12:12:48 +0000</pubDate>
+      
+      <guid>/tags/compatible-indeterminado/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>resolver</title>
+      <link>/tags/resolver/</link>
+      <pubDate>Tue, 03 Dec 2013 12:12:48 +0000</pubDate>
+      
+      <guid>/tags/resolver/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jordan</title>
+      <link>/tags/jordan/</link>
+      <pubDate>Tue, 03 Dec 2013 12:12:43 +0000</pubDate>
+      
+      <guid>/tags/jordan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>análisis estadístico con r</title>
+      <link>/tags/an%C3%A1lisis-estad%C3%ADstico-con-r/</link>
+      <pubDate>Fri, 22 Nov 2013 17:30:42 +0000</pubDate>
+      
+      <guid>/tags/an%C3%A1lisis-estad%C3%ADstico-con-r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jorge lópez ucam</title>
+      <link>/tags/jorge-l%C3%B3pez-ucam/</link>
+      <pubDate>Fri, 22 Nov 2013 17:30:42 +0000</pubDate>
+      
+      <guid>/tags/jorge-l%C3%B3pez-ucam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>unidad mooc</title>
+      <link>/tags/unidad-mooc/</link>
+      <pubDate>Fri, 22 Nov 2013 17:30:42 +0000</pubDate>
+      
+      <guid>/tags/unidad-mooc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>resolución sistemas compatibles indeterminados</title>
+      <link>/tags/resoluci%C3%B3n-sistemas-compatibles-indeterminados/</link>
+      <pubDate>Fri, 22 Nov 2013 10:28:24 +0000</pubDate>
+      
+      <guid>/tags/resoluci%C3%B3n-sistemas-compatibles-indeterminados/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>polimedi</title>
+      <link>/tags/polimedi/</link>
+      <pubDate>Fri, 22 Nov 2013 10:27:27 +0000</pubDate>
+      
+      <guid>/tags/polimedi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>triangularizar</title>
+      <link>/tags/triangularizar/</link>
+      <pubDate>Fri, 22 Nov 2013 10:27:27 +0000</pubDate>
+      
+      <guid>/tags/triangularizar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>compatible</title>
+      <link>/tags/compatible/</link>
+      <pubDate>Thu, 21 Nov 2013 16:59:48 +0000</pubDate>
+      
+      <guid>/tags/compatible/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>soluciones</title>
+      <link>/tags/soluciones/</link>
+      <pubDate>Thu, 21 Nov 2013 16:59:48 +0000</pubDate>
+      
+      <guid>/tags/soluciones/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>determinado</title>
+      <link>/tags/determinado/</link>
+      <pubDate>Thu, 21 Nov 2013 16:58:49 +0000</pubDate>
+      
+      <guid>/tags/determinado/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>indeterminado</title>
+      <link>/tags/indeterminado/</link>
+      <pubDate>Thu, 21 Nov 2013 16:58:49 +0000</pubDate>
+      
+      <guid>/tags/indeterminado/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>coeficientes</title>
+      <link>/tags/coeficientes/</link>
+      <pubDate>Thu, 21 Nov 2013 16:53:33 +0000</pubDate>
+      
+      <guid>/tags/coeficientes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>término independiente</title>
+      <link>/tags/t%C3%A9rmino-independiente/</link>
+      <pubDate>Thu, 21 Nov 2013 16:53:33 +0000</pubDate>
+      
+      <guid>/tags/t%C3%A9rmino-independiente/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vectores linealmente independientes</title>
+      <link>/tags/vectores-linealmente-independientes/</link>
+      <pubDate>Mon, 18 Nov 2013 16:36:35 +0000</pubDate>
+      
+      <guid>/tags/vectores-linealmente-independientes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>determinante</title>
+      <link>/tags/determinante/</link>
+      <pubDate>Mon, 18 Nov 2013 16:20:32 +0000</pubDate>
+      
+      <guid>/tags/determinante/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ecuaciones matriciales</title>
+      <link>/tags/ecuaciones-matriciales/</link>
+      <pubDate>Thu, 14 Nov 2013 11:00:43 +0000</pubDate>
+      
+      <guid>/tags/ecuaciones-matriciales/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>base ortonormal</title>
+      <link>/tags/base-ortonormal/</link>
+      <pubDate>Thu, 14 Nov 2013 10:59:12 +0000</pubDate>
+      
+      <guid>/tags/base-ortonormal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>matriz ortogonal</title>
+      <link>/tags/matriz-ortogonal/</link>
+      <pubDate>Thu, 14 Nov 2013 10:59:12 +0000</pubDate>
+      
+      <guid>/tags/matriz-ortogonal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>probelas</title>
+      <link>/tags/probelas/</link>
+      <pubDate>Thu, 14 Nov 2013 10:28:42 +0000</pubDate>
+      
+      <guid>/tags/probelas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sumar</title>
+      <link>/tags/sumar/</link>
+      <pubDate>Thu, 14 Nov 2013 10:28:42 +0000</pubDate>
+      
+      <guid>/tags/sumar/</guid>
       <description></description>
     </item>
     
@@ -5385,18 +7788,162 @@
     </item>
     
     <item>
-      <title>causas significación</title>
-      <link>/tags/causas-significaci%C3%B3n/</link>
-      <pubDate>Thu, 07 Nov 2013 21:24:08 +0000</pubDate>
+      <title>antisimétrica</title>
+      <link>/tags/antisim%C3%A9trica/</link>
+      <pubDate>Tue, 12 Nov 2013 08:14:56 +0000</pubDate>
       
-      <guid>/tags/causas-significaci%C3%B3n/</guid>
+      <guid>/tags/antisim%C3%A9trica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>idempotente</title>
+      <link>/tags/idempotente/</link>
+      <pubDate>Tue, 12 Nov 2013 08:14:56 +0000</pubDate>
+      
+      <guid>/tags/idempotente/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>matriz traspuesta</title>
+      <link>/tags/matriz-traspuesta/</link>
+      <pubDate>Tue, 12 Nov 2013 08:14:56 +0000</pubDate>
+      
+      <guid>/tags/matriz-traspuesta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>simétrica</title>
+      <link>/tags/sim%C3%A9trica/</link>
+      <pubDate>Tue, 12 Nov 2013 08:14:56 +0000</pubDate>
+      
+      <guid>/tags/sim%C3%A9trica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>calcular determinante</title>
+      <link>/tags/calcular-determinante/</link>
+      <pubDate>Tue, 12 Nov 2013 08:14:42 +0000</pubDate>
+      
+      <guid>/tags/calcular-determinante/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>menor complementario</title>
+      <link>/tags/menor-complementario/</link>
+      <pubDate>Tue, 12 Nov 2013 08:14:42 +0000</pubDate>
+      
+      <guid>/tags/menor-complementario/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rango de una matriz</title>
+      <link>/tags/rango-de-una-matriz/</link>
+      <pubDate>Mon, 11 Nov 2013 17:22:39 +0000</pubDate>
+      
+      <guid>/tags/rango-de-una-matriz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>submatriz</title>
+      <link>/tags/submatriz/</link>
+      <pubDate>Mon, 11 Nov 2013 17:22:39 +0000</pubDate>
+      
+      <guid>/tags/submatriz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>adjunto</title>
+      <link>/tags/adjunto/</link>
+      <pubDate>Mon, 11 Nov 2013 17:21:27 +0000</pubDate>
+      
+      <guid>/tags/adjunto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>matriz cuadrada</title>
+      <link>/tags/matriz-cuadrada/</link>
+      <pubDate>Mon, 11 Nov 2013 17:19:27 +0000</pubDate>
+      
+      <guid>/tags/matriz-cuadrada/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>traza</title>
+      <link>/tags/traza/</link>
+      <pubDate>Mon, 11 Nov 2013 17:19:27 +0000</pubDate>
+      
+      <guid>/tags/traza/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>producto de matrices</title>
+      <link>/tags/producto-de-matrices/</link>
+      <pubDate>Fri, 08 Nov 2013 09:22:36 +0000</pubDate>
+      
+      <guid>/tags/producto-de-matrices/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>suma de matrices</title>
+      <link>/tags/suma-de-matrices/</link>
+      <pubDate>Fri, 08 Nov 2013 09:22:36 +0000</pubDate>
+      
+      <guid>/tags/suma-de-matrices/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>diagonal</title>
+      <link>/tags/diagonal/</link>
+      <pubDate>Fri, 08 Nov 2013 09:22:21 +0000</pubDate>
+      
+      <guid>/tags/diagonal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rectangular</title>
+      <link>/tags/rectangular/</link>
+      <pubDate>Fri, 08 Nov 2013 09:22:21 +0000</pubDate>
+      
+      <guid>/tags/rectangular/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>triangular</title>
+      <link>/tags/triangular/</link>
+      <pubDate>Fri, 08 Nov 2013 09:22:21 +0000</pubDate>
+      
+      <guid>/tags/triangular/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vector</title>
+      <link>/tags/vector/</link>
+      <pubDate>Fri, 08 Nov 2013 09:22:21 +0000</pubDate>
+      
+      <guid>/tags/vector/</guid>
       <description></description>
     </item>
     
     <item>
       <title>coma</title>
       <link>/tags/coma/</link>
-      <pubDate>Thu, 07 Nov 2013 21:24:08 +0000</pubDate>
+      <pubDate>Thu, 07 Nov 2013 21:23:18 +0000</pubDate>
       
       <guid>/tags/coma/</guid>
       <description></description>
@@ -5405,7 +7952,7 @@
     <item>
       <title>cursos masivos</title>
       <link>/tags/cursos-masivos/</link>
-      <pubDate>Thu, 07 Nov 2013 21:24:08 +0000</pubDate>
+      <pubDate>Thu, 07 Nov 2013 21:23:18 +0000</pubDate>
       
       <guid>/tags/cursos-masivos/</guid>
       <description></description>
@@ -5414,7 +7961,7 @@
     <item>
       <title>departamento estadística</title>
       <link>/tags/departamento-estad%C3%ADstica/</link>
-      <pubDate>Thu, 07 Nov 2013 21:24:08 +0000</pubDate>
+      <pubDate>Thu, 07 Nov 2013 21:23:18 +0000</pubDate>
       
       <guid>/tags/departamento-estad%C3%ADstica/</guid>
       <description></description>
@@ -5423,7 +7970,7 @@
     <item>
       <title>estadistica para investigadores</title>
       <link>/tags/estadistica-para-investigadores/</link>
-      <pubDate>Thu, 07 Nov 2013 21:24:08 +0000</pubDate>
+      <pubDate>Thu, 07 Nov 2013 21:23:18 +0000</pubDate>
       
       <guid>/tags/estadistica-para-investigadores/</guid>
       <description></description>
@@ -5432,7 +7979,7 @@
     <item>
       <title>estadística descriptiva</title>
       <link>/tags/estad%C3%ADstica-descriptiva/</link>
-      <pubDate>Thu, 07 Nov 2013 21:24:08 +0000</pubDate>
+      <pubDate>Thu, 07 Nov 2013 21:23:18 +0000</pubDate>
       
       <guid>/tags/estad%C3%ADstica-descriptiva/</guid>
       <description></description>
@@ -5441,7 +7988,7 @@
     <item>
       <title>medicina</title>
       <link>/tags/medicina/</link>
-      <pubDate>Thu, 07 Nov 2013 21:24:08 +0000</pubDate>
+      <pubDate>Thu, 07 Nov 2013 21:23:18 +0000</pubDate>
       
       <guid>/tags/medicina/</guid>
       <description></description>
@@ -5450,126 +7997,9 @@
     <item>
       <title>miriadax</title>
       <link>/tags/miriadax/</link>
-      <pubDate>Thu, 07 Nov 2013 21:24:08 +0000</pubDate>
+      <pubDate>Thu, 07 Nov 2013 21:23:18 +0000</pubDate>
       
       <guid>/tags/miriadax/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>modulo 4</title>
-      <link>/tags/modulo-4/</link>
-      <pubDate>Thu, 07 Nov 2013 21:24:08 +0000</pubDate>
-      
-      <guid>/tags/modulo-4/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>módulo 4</title>
-      <link>/tags/m%C3%B3dulo-4/</link>
-      <pubDate>Thu, 07 Nov 2013 21:24:08 +0000</pubDate>
-      
-      <guid>/tags/m%C3%B3dulo-4/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>purificación</title>
-      <link>/tags/purificaci%C3%B3n/</link>
-      <pubDate>Thu, 07 Nov 2013 21:24:08 +0000</pubDate>
-      
-      <guid>/tags/purificaci%C3%B3n/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>purificación galindo</title>
-      <link>/tags/purificaci%C3%B3n-galindo/</link>
-      <pubDate>Thu, 07 Nov 2013 21:24:08 +0000</pubDate>
-      
-      <guid>/tags/purificaci%C3%B3n-galindo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>universidad de salamanca</title>
-      <link>/tags/universidad-de-salamanca/</link>
-      <pubDate>Thu, 07 Nov 2013 21:24:08 +0000</pubDate>
-      
-      <guid>/tags/universidad-de-salamanca/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>usal</title>
-      <link>/tags/usal/</link>
-      <pubDate>Thu, 07 Nov 2013 21:24:08 +0000</pubDate>
-      
-      <guid>/tags/usal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>usalmedia</title>
-      <link>/tags/usalmedia/</link>
-      <pubDate>Thu, 07 Nov 2013 21:24:08 +0000</pubDate>
-      
-      <guid>/tags/usalmedia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>usalmooc</title>
-      <link>/tags/usalmooc/</link>
-      <pubDate>Thu, 07 Nov 2013 21:24:08 +0000</pubDate>
-      
-      <guid>/tags/usalmooc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>coeficiente de regresión</title>
-      <link>/tags/coeficiente-de-regresi%C3%B3n/</link>
-      <pubDate>Thu, 07 Nov 2013 21:23:50 +0000</pubDate>
-      
-      <guid>/tags/coeficiente-de-regresi%C3%B3n/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>módulo 3</title>
-      <link>/tags/m%C3%B3dulo-3/</link>
-      <pubDate>Thu, 07 Nov 2013 21:23:50 +0000</pubDate>
-      
-      <guid>/tags/m%C3%B3dulo-3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>medidas de síntesis</title>
-      <link>/tags/medidas-de-s%C3%ADntesis/</link>
-      <pubDate>Thu, 07 Nov 2013 21:23:37 +0000</pubDate>
-      
-      <guid>/tags/medidas-de-s%C3%ADntesis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>modulo 2</title>
-      <link>/tags/modulo-2/</link>
-      <pubDate>Thu, 07 Nov 2013 21:23:37 +0000</pubDate>
-      
-      <guid>/tags/modulo-2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tablas y graficos</title>
-      <link>/tags/tablas-y-graficos/</link>
-      <pubDate>Thu, 07 Nov 2013 21:23:37 +0000</pubDate>
-      
-      <guid>/tags/tablas-y-graficos/</guid>
       <description></description>
     </item>
     
@@ -5579,6 +8009,24 @@
       <pubDate>Thu, 07 Nov 2013 21:23:18 +0000</pubDate>
       
       <guid>/tags/m%C3%B3dulo-5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>purificación</title>
+      <link>/tags/purificaci%C3%B3n/</link>
+      <pubDate>Thu, 07 Nov 2013 21:23:18 +0000</pubDate>
+      
+      <guid>/tags/purificaci%C3%B3n/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>purificación galindo</title>
+      <link>/tags/purificaci%C3%B3n-galindo/</link>
+      <pubDate>Thu, 07 Nov 2013 21:23:18 +0000</pubDate>
+      
+      <guid>/tags/purificaci%C3%B3n-galindo/</guid>
       <description></description>
     </item>
     
@@ -5601,38 +8049,47 @@
     </item>
     
     <item>
+      <title>universidad de salamanca</title>
+      <link>/tags/universidad-de-salamanca/</link>
+      <pubDate>Thu, 07 Nov 2013 21:23:18 +0000</pubDate>
+      
+      <guid>/tags/universidad-de-salamanca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>usal</title>
+      <link>/tags/usal/</link>
+      <pubDate>Thu, 07 Nov 2013 21:23:18 +0000</pubDate>
+      
+      <guid>/tags/usal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>usalmedia</title>
+      <link>/tags/usalmedia/</link>
+      <pubDate>Thu, 07 Nov 2013 21:23:18 +0000</pubDate>
+      
+      <guid>/tags/usalmedia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>usalmooc</title>
+      <link>/tags/usalmooc/</link>
+      <pubDate>Thu, 07 Nov 2013 21:23:18 +0000</pubDate>
+      
+      <guid>/tags/usalmooc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>variables cualitativa y cuantitativa</title>
       <link>/tags/variables-cualitativa-y-cuantitativa/</link>
       <pubDate>Thu, 07 Nov 2013 21:23:18 +0000</pubDate>
       
       <guid>/tags/variables-cualitativa-y-cuantitativa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>módulo 1</title>
-      <link>/tags/m%C3%B3dulo-1/</link>
-      <pubDate>Thu, 07 Nov 2013 21:22:50 +0000</pubDate>
-      
-      <guid>/tags/m%C3%B3dulo-1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>representación datos</title>
-      <link>/tags/representaci%C3%B3n-datos/</link>
-      <pubDate>Thu, 07 Nov 2013 21:22:50 +0000</pubDate>
-      
-      <guid>/tags/representaci%C3%B3n-datos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>representación en tablas</title>
-      <link>/tags/representaci%C3%B3n-en-tablas/</link>
-      <pubDate>Thu, 07 Nov 2013 21:22:50 +0000</pubDate>
-      
-      <guid>/tags/representaci%C3%B3n-en-tablas/</guid>
       <description></description>
     </item>
     
@@ -5700,11 +8157,281 @@
     </item>
     
     <item>
-      <title>modulo</title>
-      <link>/tags/modulo/</link>
-      <pubDate>Thu, 07 Nov 2013 21:20:55 +0000</pubDate>
+      <title>pearson</title>
+      <link>/tags/pearson/</link>
+      <pubDate>Thu, 07 Nov 2013 21:22:13 +0000</pubDate>
       
-      <guid>/tags/modulo/</guid>
+      <guid>/tags/pearson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>base</title>
+      <link>/tags/base/</link>
+      <pubDate>Wed, 06 Nov 2013 10:04:01 +0000</pubDate>
+      
+      <guid>/tags/base/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cambio de coordenadas</title>
+      <link>/tags/cambio-de-coordenadas/</link>
+      <pubDate>Wed, 06 Nov 2013 10:04:01 +0000</pubDate>
+      
+      <guid>/tags/cambio-de-coordenadas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dimensión</title>
+      <link>/tags/dimensi%C3%B3n/</link>
+      <pubDate>Wed, 06 Nov 2013 10:04:01 +0000</pubDate>
+      
+      <guid>/tags/dimensi%C3%B3n/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>espacio vectorial</title>
+      <link>/tags/espacio-vectorial/</link>
+      <pubDate>Wed, 06 Nov 2013 10:04:01 +0000</pubDate>
+      
+      <guid>/tags/espacio-vectorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ortogonalidad</title>
+      <link>/tags/ortogonalidad/</link>
+      <pubDate>Wed, 06 Nov 2013 10:04:01 +0000</pubDate>
+      
+      <guid>/tags/ortogonalidad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sistema generador</title>
+      <link>/tags/sistema-generador/</link>
+      <pubDate>Wed, 06 Nov 2013 10:04:01 +0000</pubDate>
+      
+      <guid>/tags/sistema-generador/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>subespacio</title>
+      <link>/tags/subespacio/</link>
+      <pubDate>Wed, 06 Nov 2013 10:04:01 +0000</pubDate>
+      
+      <guid>/tags/subespacio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vector unitario</title>
+      <link>/tags/vector-unitario/</link>
+      <pubDate>Wed, 06 Nov 2013 10:04:01 +0000</pubDate>
+      
+      <guid>/tags/vector-unitario/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>conchi cárceles</title>
+      <link>/tags/conchi-c%C3%A1rceles/</link>
+      <pubDate>Mon, 04 Nov 2013 18:23:19 +0000</pubDate>
+      
+      <guid>/tags/conchi-c%C3%A1rceles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>descriptivos</title>
+      <link>/tags/descriptivos/</link>
+      <pubDate>Mon, 04 Nov 2013 18:23:19 +0000</pubDate>
+      
+      <guid>/tags/descriptivos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>complejos</title>
+      <link>/tags/complejos/</link>
+      <pubDate>Mon, 04 Nov 2013 18:23:15 +0000</pubDate>
+      
+      <guid>/tags/complejos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>conchi pérez</title>
+      <link>/tags/conchi-p%C3%A9rez/</link>
+      <pubDate>Mon, 04 Nov 2013 18:23:15 +0000</pubDate>
+      
+      <guid>/tags/conchi-p%C3%A9rez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>indice de precios</title>
+      <link>/tags/indice-de-precios/</link>
+      <pubDate>Mon, 04 Nov 2013 18:23:15 +0000</pubDate>
+      
+      <guid>/tags/indice-de-precios/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ponderados</title>
+      <link>/tags/ponderados/</link>
+      <pubDate>Mon, 04 Nov 2013 18:23:15 +0000</pubDate>
+      
+      <guid>/tags/ponderados/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>básica</title>
+      <link>/tags/b%C3%A1sica/</link>
+      <pubDate>Mon, 04 Nov 2013 10:29:57 +0000</pubDate>
+      
+      <guid>/tags/b%C3%A1sica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>matemáticas para la empresa</title>
+      <link>/tags/matem%C3%A1ticas-para-la-empresa/</link>
+      <pubDate>Mon, 04 Nov 2013 10:29:57 +0000</pubDate>
+      
+      <guid>/tags/matem%C3%A1ticas-para-la-empresa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>subespacios vectoriales</title>
+      <link>/tags/subespacios-vectoriales/</link>
+      <pubDate>Mon, 04 Nov 2013 10:29:57 +0000</pubDate>
+      
+      <guid>/tags/subespacios-vectoriales/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>independencia lineal</title>
+      <link>/tags/independencia-lineal/</link>
+      <pubDate>Mon, 04 Nov 2013 10:28:21 +0000</pubDate>
+      
+      <guid>/tags/independencia-lineal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>alfonso rosa ucam</title>
+      <link>/tags/alfonso-rosa-ucam/</link>
+      <pubDate>Thu, 24 Oct 2013 12:20:35 +0000</pubDate>
+      
+      <guid>/tags/alfonso-rosa-ucam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ortonormalidad</title>
+      <link>/tags/ortonormalidad/</link>
+      <pubDate>Thu, 24 Oct 2013 12:20:35 +0000</pubDate>
+      
+      <guid>/tags/ortonormalidad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>longitud</title>
+      <link>/tags/longitud/</link>
+      <pubDate>Thu, 24 Oct 2013 12:19:42 +0000</pubDate>
+      
+      <guid>/tags/longitud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>módulo</title>
+      <link>/tags/m%C3%B3dulo/</link>
+      <pubDate>Thu, 24 Oct 2013 12:19:42 +0000</pubDate>
+      
+      <guid>/tags/m%C3%B3dulo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>norma</title>
+      <link>/tags/norma/</link>
+      <pubDate>Thu, 24 Oct 2013 12:19:42 +0000</pubDate>
+      
+      <guid>/tags/norma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>producto escalar</title>
+      <link>/tags/producto-escalar/</link>
+      <pubDate>Thu, 24 Oct 2013 12:19:42 +0000</pubDate>
+      
+      <guid>/tags/producto-escalar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>coordenadas</title>
+      <link>/tags/coordenadas/</link>
+      <pubDate>Thu, 24 Oct 2013 12:17:15 +0000</pubDate>
+      
+      <guid>/tags/coordenadas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>base canónica</title>
+      <link>/tags/base-can%C3%B3nica/</link>
+      <pubDate>Thu, 24 Oct 2013 12:16:19 +0000</pubDate>
+      
+      <guid>/tags/base-can%C3%B3nica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>base de rn</title>
+      <link>/tags/base-de-rn/</link>
+      <pubDate>Thu, 24 Oct 2013 12:16:19 +0000</pubDate>
+      
+      <guid>/tags/base-de-rn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cominbinacion lineal</title>
+      <link>/tags/cominbinacion-lineal/</link>
+      <pubDate>Thu, 24 Oct 2013 12:15:27 +0000</pubDate>
+      
+      <guid>/tags/cominbinacion-lineal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dependencia lineal</title>
+      <link>/tags/dependencia-lineal/</link>
+      <pubDate>Thu, 24 Oct 2013 12:15:27 +0000</pubDate>
+      
+      <guid>/tags/dependencia-lineal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>independecia lineal</title>
+      <link>/tags/independecia-lineal/</link>
+      <pubDate>Thu, 24 Oct 2013 12:15:27 +0000</pubDate>
+      
+      <guid>/tags/independecia-lineal/</guid>
       <description></description>
     </item>
     
@@ -5732,15 +8459,6 @@
       <pubDate>Sat, 12 Oct 2013 03:49:58 +0000</pubDate>
       
       <guid>/tags/test-de-hipotesis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Distribuciones</title>
-      <link>/tags/distribuciones/</link>
-      <pubDate>Sat, 12 Oct 2013 03:45:53 +0000</pubDate>
-      
-      <guid>/tags/distribuciones/</guid>
       <description></description>
     </item>
     
@@ -5817,11 +8535,38 @@
     </item>
     
     <item>
-      <title>Estadistica</title>
-      <link>/tags/estadistica/</link>
-      <pubDate>Tue, 08 Oct 2013 07:56:48 +0000</pubDate>
+      <title>aprende análisis de datos con r</title>
+      <link>/tags/aprende-an%C3%A1lisis-de-datos-con-r/</link>
+      <pubDate>Wed, 09 Oct 2013 15:23:58 +0000</pubDate>
       
-      <guid>/tags/estadistica/</guid>
+      <guid>/tags/aprende-an%C3%A1lisis-de-datos-con-r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>curso básico economía</title>
+      <link>/tags/curso-b%C3%A1sico-econom%C3%ADa/</link>
+      <pubDate>Wed, 09 Oct 2013 15:23:58 +0000</pubDate>
+      
+      <guid>/tags/curso-b%C3%A1sico-econom%C3%ADa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>josep martínez polo</title>
+      <link>/tags/josep-mart%C3%ADnez-polo/</link>
+      <pubDate>Wed, 09 Oct 2013 15:23:58 +0000</pubDate>
+      
+      <guid>/tags/josep-mart%C3%ADnez-polo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mooc_ucam</title>
+      <link>/tags/mooc_ucam/</link>
+      <pubDate>Wed, 09 Oct 2013 15:23:58 +0000</pubDate>
+      
+      <guid>/tags/mooc_ucam/</guid>
       <description></description>
     </item>
     
@@ -5831,15 +8576,6 @@
       <pubDate>Tue, 08 Oct 2013 07:56:48 +0000</pubDate>
       
       <guid>/tags/salama/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>University</title>
-      <link>/tags/university/</link>
-      <pubDate>Tue, 08 Oct 2013 07:56:48 +0000</pubDate>
-      
-      <guid>/tags/university/</guid>
       <description></description>
     </item>
     
@@ -5876,6 +8612,15 @@
       <pubDate>Tue, 08 Oct 2013 07:56:48 +0000</pubDate>
       
       <guid>/tags/entrevista/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>españa</title>
+      <link>/tags/espa%C3%B1a/</link>
+      <pubDate>Tue, 08 Oct 2013 07:56:48 +0000</pubDate>
+      
+      <guid>/tags/espa%C3%B1a/</guid>
       <description></description>
     </item>
     
@@ -5997,15 +8742,6 @@
     </item>
     
     <item>
-      <title>grado</title>
-      <link>/tags/grado/</link>
-      <pubDate>Wed, 04 Sep 2013 10:41:09 +0000</pubDate>
-      
-      <guid>/tags/grado/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>UNED</title>
       <link>/tags/uned/</link>
       <pubDate>Sun, 04 Aug 2013 12:11:19 +0000</pubDate>
@@ -6096,24 +8832,6 @@
     </item>
     
     <item>
-      <title>Límite</title>
-      <link>/tags/l%C3%ADmite/</link>
-      <pubDate>Tue, 18 Jun 2013 09:44:14 +0000</pubDate>
-      
-      <guid>/tags/l%C3%ADmite/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Teorema</title>
-      <link>/tags/teorema/</link>
-      <pubDate>Tue, 18 Jun 2013 09:44:14 +0000</pubDate>
-      
-      <guid>/tags/teorema/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>análisis</title>
       <link>/tags/an%C3%A1lisis/</link>
       <pubDate>Tue, 18 Jun 2013 09:44:14 +0000</pubDate>
@@ -6137,15 +8855,6 @@
       <pubDate>Tue, 18 Jun 2013 09:44:14 +0000</pubDate>
       
       <guid>/tags/umh1263/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>distribución</title>
-      <link>/tags/distribuci%C3%B3n/</link>
-      <pubDate>Mon, 17 Jun 2013 12:36:15 +0000</pubDate>
-      
-      <guid>/tags/distribuci%C3%B3n/</guid>
       <description></description>
     </item>
     
@@ -6258,15 +8967,6 @@
     </item>
     
     <item>
-      <title>series</title>
-      <link>/tags/series/</link>
-      <pubDate>Thu, 13 Jun 2013 05:59:09 +0000</pubDate>
-      
-      <guid>/tags/series/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>temporales</title>
       <link>/tags/temporales/</link>
       <pubDate>Thu, 13 Jun 2013 05:59:09 +0000</pubDate>
@@ -6357,15 +9057,6 @@
     </item>
     
     <item>
-      <title>Probabilidades</title>
-      <link>/tags/probabilidades/</link>
-      <pubDate>Tue, 21 May 2013 06:43:24 +0000</pubDate>
-      
-      <guid>/tags/probabilidades/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>aleatorias</title>
       <link>/tags/aleatorias/</link>
       <pubDate>Tue, 21 May 2013 06:43:24 +0000</pubDate>
@@ -6420,29 +9111,11 @@
     </item>
     
     <item>
-      <title>Tendencia</title>
-      <link>/tags/tendencia/</link>
-      <pubDate>Tue, 21 May 2013 06:24:36 +0000</pubDate>
-      
-      <guid>/tags/tendencia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>aditivos</title>
       <link>/tags/aditivos/</link>
       <pubDate>Tue, 21 May 2013 06:24:36 +0000</pubDate>
       
       <guid>/tags/aditivos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>componente</title>
-      <link>/tags/componente/</link>
-      <pubDate>Tue, 21 May 2013 06:24:36 +0000</pubDate>
-      
-      <guid>/tags/componente/</guid>
       <description></description>
     </item>
     
@@ -6483,101 +9156,110 @@
     </item>
     
     <item>
-      <title>VAN</title>
-      <link>/tags/van/</link>
-      <pubDate>Fri, 17 May 2013 12:01:15 +0000</pubDate>
+      <title>ciencia</title>
+      <link>/tags/ciencia/</link>
+      <pubDate>Mon, 20 May 2013 17:19:52 +0000</pubDate>
       
-      <guid>/tags/van/</guid>
+      <guid>/tags/ciencia/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>VNANOPER</title>
-      <link>/tags/vnanoper/</link>
-      <pubDate>Fri, 17 May 2013 12:01:15 +0000</pubDate>
+      <title>docencia</title>
+      <link>/tags/docencia/</link>
+      <pubDate>Mon, 20 May 2013 17:19:52 +0000</pubDate>
       
-      <guid>/tags/vnanoper/</guid>
+      <guid>/tags/docencia/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>financieras</title>
-      <link>/tags/financieras/</link>
-      <pubDate>Fri, 17 May 2013 12:01:15 +0000</pubDate>
+      <title>educacion</title>
+      <link>/tags/educacion/</link>
+      <pubDate>Mon, 20 May 2013 17:19:52 +0000</pubDate>
       
-      <guid>/tags/financieras/</guid>
+      <guid>/tags/educacion/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>interés</title>
-      <link>/tags/inter%C3%A9s/</link>
-      <pubDate>Fri, 17 May 2013 12:01:15 +0000</pubDate>
+      <title>educativos</title>
+      <link>/tags/educativos/</link>
+      <pubDate>Mon, 20 May 2013 17:19:52 +0000</pubDate>
       
-      <guid>/tags/inter%C3%A9s/</guid>
+      <guid>/tags/educativos/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>umh5030</title>
-      <link>/tags/umh5030/</link>
-      <pubDate>Fri, 17 May 2013 12:01:15 +0000</pubDate>
+      <title>ingenieria</title>
+      <link>/tags/ingenieria/</link>
+      <pubDate>Mon, 20 May 2013 17:19:52 +0000</pubDate>
       
-      <guid>/tags/umh5030/</guid>
+      <guid>/tags/ingenieria/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Préstamos</title>
-      <link>/tags/pr%C3%A9stamos/</link>
-      <pubDate>Fri, 17 May 2013 11:56:58 +0000</pubDate>
+      <title>innovacion</title>
+      <link>/tags/innovacion/</link>
+      <pubDate>Mon, 20 May 2013 17:19:52 +0000</pubDate>
       
-      <guid>/tags/pr%C3%A9stamos/</guid>
+      <guid>/tags/innovacion/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>TIR</title>
-      <link>/tags/tir/</link>
-      <pubDate>Fri, 17 May 2013 11:56:58 +0000</pubDate>
+      <title>madrid</title>
+      <link>/tags/madrid/</link>
+      <pubDate>Mon, 20 May 2013 17:19:52 +0000</pubDate>
       
-      <guid>/tags/tir/</guid>
+      <guid>/tags/madrid/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>TIRNOPER</title>
-      <link>/tags/tirnoper/</link>
-      <pubDate>Fri, 17 May 2013 11:56:58 +0000</pubDate>
+      <title>politecnica</title>
+      <link>/tags/politecnica/</link>
+      <pubDate>Mon, 20 May 2013 17:19:52 +0000</pubDate>
       
-      <guid>/tags/tirnoper/</guid>
+      <guid>/tags/politecnica/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>matemáticas financieras</title>
-      <link>/tags/matem%C3%A1ticas-financieras/</link>
-      <pubDate>Fri, 17 May 2013 11:56:58 +0000</pubDate>
+      <title>politécnica</title>
+      <link>/tags/polit%C3%A9cnica/</link>
+      <pubDate>Mon, 20 May 2013 17:19:52 +0000</pubDate>
       
-      <guid>/tags/matem%C3%A1ticas-financieras/</guid>
+      <guid>/tags/polit%C3%A9cnica/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Distribución Binomial</title>
-      <link>/tags/distribuci%C3%B3n-binomial/</link>
-      <pubDate>Tue, 07 May 2013 21:18:42 +0000</pubDate>
+      <title>seminarios</title>
+      <link>/tags/seminarios/</link>
+      <pubDate>Mon, 20 May 2013 17:19:52 +0000</pubDate>
       
-      <guid>/tags/distribuci%C3%B3n-binomial/</guid>
+      <guid>/tags/seminarios/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Distribución normal</title>
-      <link>/tags/distribuci%C3%B3n-normal/</link>
-      <pubDate>Tue, 07 May 2013 21:18:42 +0000</pubDate>
+      <title>upm</title>
+      <link>/tags/upm/</link>
+      <pubDate>Mon, 20 May 2013 17:19:52 +0000</pubDate>
       
-      <guid>/tags/distribuci%C3%B3n-normal/</guid>
+      <guid>/tags/upm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>videos</title>
+      <link>/tags/videos/</link>
+      <pubDate>Mon, 20 May 2013 17:19:52 +0000</pubDate>
+      
+      <guid>/tags/videos/</guid>
       <description></description>
     </item>
     
@@ -6753,24 +9435,6 @@
     </item>
     
     <item>
-      <title>complejos</title>
-      <link>/tags/complejos/</link>
-      <pubDate>Tue, 09 Apr 2013 13:03:15 +0000</pubDate>
-      
-      <guid>/tags/complejos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>números</title>
-      <link>/tags/n%C3%BAmeros/</link>
-      <pubDate>Tue, 09 Apr 2013 13:03:15 +0000</pubDate>
-      
-      <guid>/tags/n%C3%BAmeros/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Box-Cox</title>
       <link>/tags/box-cox/</link>
       <pubDate>Wed, 03 Apr 2013 09:42:11 +0000</pubDate>
@@ -6852,15 +9516,6 @@
     </item>
     
     <item>
-      <title>empresas</title>
-      <link>/tags/empresas/</link>
-      <pubDate>Tue, 26 Mar 2013 23:16:15 +0000</pubDate>
-      
-      <guid>/tags/empresas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>comandos</title>
       <link>/tags/comandos/</link>
       <pubDate>Tue, 26 Mar 2013 23:01:56 +0000</pubDate>
@@ -6915,29 +9570,11 @@
     </item>
     
     <item>
-      <title>tasas</title>
-      <link>/tags/tasas/</link>
-      <pubDate>Thu, 21 Mar 2013 07:31:55 +0000</pubDate>
-      
-      <guid>/tags/tasas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>variación</title>
       <link>/tags/variaci%C3%B3n/</link>
       <pubDate>Thu, 21 Mar 2013 07:31:55 +0000</pubDate>
       
       <guid>/tags/variaci%C3%B3n/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Descriptiva</title>
-      <link>/tags/descriptiva/</link>
-      <pubDate>Wed, 20 Mar 2013 13:46:44 +0000</pubDate>
-      
-      <guid>/tags/descriptiva/</guid>
       <description></description>
     </item>
     
@@ -7005,15 +9642,6 @@
     </item>
     
     <item>
-      <title>Asimetría</title>
-      <link>/tags/asimetr%C3%ADa/</link>
-      <pubDate>Tue, 19 Mar 2013 16:27:34 +0000</pubDate>
-      
-      <guid>/tags/asimetr%C3%ADa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Funciones Estadísticas</title>
       <link>/tags/funciones-estad%C3%ADsticas/</link>
       <pubDate>Tue, 19 Mar 2013 16:27:34 +0000</pubDate>
@@ -7041,15 +9669,6 @@
     </item>
     
     <item>
-      <title>Desviación Típica</title>
-      <link>/tags/desviaci%C3%B3n-t%C3%ADpica/</link>
-      <pubDate>Tue, 19 Mar 2013 16:19:08 +0000</pubDate>
-      
-      <guid>/tags/desviaci%C3%B3n-t%C3%ADpica/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Recorrido</title>
       <link>/tags/recorrido/</link>
       <pubDate>Tue, 19 Mar 2013 16:19:08 +0000</pubDate>
@@ -7068,24 +9687,6 @@
     </item>
     
     <item>
-      <title>Moda</title>
-      <link>/tags/moda/</link>
-      <pubDate>Tue, 19 Mar 2013 16:03:47 +0000</pubDate>
-      
-      <guid>/tags/moda/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Percentiles</title>
-      <link>/tags/percentiles/</link>
-      <pubDate>Tue, 19 Mar 2013 16:03:47 +0000</pubDate>
-      
-      <guid>/tags/percentiles/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Posición no central</title>
       <link>/tags/posici%C3%B3n-no-central/</link>
       <pubDate>Tue, 19 Mar 2013 16:03:47 +0000</pubDate>
@@ -7100,15 +9701,6 @@
       <pubDate>Tue, 19 Mar 2013 15:51:27 +0000</pubDate>
       
       <guid>/tags/posici%C3%B3n-central/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>curvas de nivel</title>
-      <link>/tags/curvas-de-nivel/</link>
-      <pubDate>Sat, 16 Mar 2013 14:10:26 +0000</pubDate>
-      
-      <guid>/tags/curvas-de-nivel/</guid>
       <description></description>
     </item>
     
@@ -7239,15 +9831,6 @@
     </item>
     
     <item>
-      <title>base</title>
-      <link>/tags/base/</link>
-      <pubDate>Mon, 11 Mar 2013 13:40:40 +0000</pubDate>
-      
-      <guid>/tags/base/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>cambios</title>
       <link>/tags/cambios/</link>
       <pubDate>Mon, 11 Mar 2013 13:40:40 +0000</pubDate>
@@ -7329,15 +9912,6 @@
     </item>
     
     <item>
-      <title>derivación</title>
-      <link>/tags/derivaci%C3%B3n/</link>
-      <pubDate>Fri, 01 Mar 2013 20:01:11 +0000</pubDate>
-      
-      <guid>/tags/derivaci%C3%B3n/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Transformación</title>
       <link>/tags/transformaci%C3%B3n/</link>
       <pubDate>Tue, 26 Feb 2013 22:30:20 +0000</pubDate>
@@ -7352,15 +9926,6 @@
       <pubDate>Tue, 26 Feb 2013 21:58:57 +0000</pubDate>
       
       <guid>/tags/rango-media/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Series Temporales</title>
-      <link>/tags/series-temporales/</link>
-      <pubDate>Tue, 26 Feb 2013 21:27:01 +0000</pubDate>
-      
-      <guid>/tags/series-temporales/</guid>
       <description></description>
     </item>
     
@@ -7554,15 +10119,6 @@
     </item>
     
     <item>
-      <title>Distribución condicionada</title>
-      <link>/tags/distribuci%C3%B3n-condicionada/</link>
-      <pubDate>Fri, 22 Feb 2013 14:18:09 +0000</pubDate>
-      
-      <guid>/tags/distribuci%C3%B3n-condicionada/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Tabla de contingencia</title>
       <link>/tags/tabla-de-contingencia/</link>
       <pubDate>Fri, 22 Feb 2013 14:18:09 +0000</pubDate>
@@ -7604,15 +10160,6 @@
       <pubDate>Fri, 22 Feb 2013 14:17:47 +0000</pubDate>
       
       <guid>/tags/univariante/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Variable continua</title>
-      <link>/tags/variable-continua/</link>
-      <pubDate>Fri, 22 Feb 2013 14:17:47 +0000</pubDate>
-      
-      <guid>/tags/variable-continua/</guid>
       <description></description>
     </item>
     
@@ -7761,29 +10308,11 @@
     </item>
     
     <item>
-      <title>Desestacionalización</title>
-      <link>/tags/desestacionalizaci%C3%B3n/</link>
-      <pubDate>Tue, 22 Jan 2013 17:22:29 +0000</pubDate>
-      
-      <guid>/tags/desestacionalizaci%C3%B3n/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Medias móviles</title>
       <link>/tags/medias-m%C3%B3viles/</link>
       <pubDate>Tue, 22 Jan 2013 17:22:29 +0000</pubDate>
       
       <guid>/tags/medias-m%C3%B3viles/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ponderados</title>
-      <link>/tags/ponderados/</link>
-      <pubDate>Tue, 22 Jan 2013 16:53:48 +0000</pubDate>
-      
-      <guid>/tags/ponderados/</guid>
       <description></description>
     </item>
     
@@ -7829,42 +10358,6 @@
       <pubDate>Tue, 22 Jan 2013 16:46:14 +0000</pubDate>
       
       <guid>/tags/tasas-de-variaci%C3%B3n/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Concentración</title>
-      <link>/tags/concentraci%C3%B3n/</link>
-      <pubDate>Tue, 22 Jan 2013 10:19:45 +0000</pubDate>
-      
-      <guid>/tags/concentraci%C3%B3n/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gini</title>
-      <link>/tags/gini/</link>
-      <pubDate>Tue, 22 Jan 2013 10:19:45 +0000</pubDate>
-      
-      <guid>/tags/gini/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lorenz</title>
-      <link>/tags/lorenz/</link>
-      <pubDate>Tue, 22 Jan 2013 10:19:45 +0000</pubDate>
-      
-      <guid>/tags/lorenz/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cuartiles</title>
-      <link>/tags/cuartiles/</link>
-      <pubDate>Tue, 22 Jan 2013 10:18:04 +0000</pubDate>
-      
-      <guid>/tags/cuartiles/</guid>
       <description></description>
     </item>
     
@@ -7977,29 +10470,11 @@
     </item>
     
     <item>
-      <title>aplicaciones lineales</title>
-      <link>/tags/aplicaciones-lineales/</link>
-      <pubDate>Tue, 04 Dec 2012 15:07:13 +0000</pubDate>
-      
-      <guid>/tags/aplicaciones-lineales/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>espacios vectoriales</title>
       <link>/tags/espacios-vectoriales/</link>
       <pubDate>Tue, 04 Dec 2012 15:07:13 +0000</pubDate>
       
       <guid>/tags/espacios-vectoriales/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>problemas</title>
-      <link>/tags/problemas/</link>
-      <pubDate>Tue, 04 Dec 2012 15:07:13 +0000</pubDate>
-      
-      <guid>/tags/problemas/</guid>
       <description></description>
     </item>
     
@@ -8085,6 +10560,60 @@
     </item>
     
     <item>
+      <title>galicia</title>
+      <link>/tags/galicia/</link>
+      <pubDate>Wed, 18 Jan 2012 05:44:36 +0000</pubDate>
+      
+      <guid>/tags/galicia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>universidad de vigo</title>
+      <link>/tags/universidad-de-vigo/</link>
+      <pubDate>Wed, 18 Jan 2012 05:44:36 +0000</pubDate>
+      
+      <guid>/tags/universidad-de-vigo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>universidade de vigo</title>
+      <link>/tags/universidade-de-vigo/</link>
+      <pubDate>Wed, 18 Jan 2012 05:44:36 +0000</pubDate>
+      
+      <guid>/tags/universidade-de-vigo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>uvigo</title>
+      <link>/tags/uvigo/</link>
+      <pubDate>Wed, 18 Jan 2012 05:44:36 +0000</pubDate>
+      
+      <guid>/tags/uvigo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>uvigo universidad de vigo universidad universidade de vigo vigo galicia uvigo universidad de vigo universidad universidade de vigo vigo galicia</title>
+      <link>/tags/uvigo-universidad-de-vigo-universidad-universidade-de-vigo-vigo-galicia-uvigo-universidad-de-vigo-universidad-universidade-de-vigo-vigo-galicia/</link>
+      <pubDate>Wed, 18 Jan 2012 05:44:36 +0000</pubDate>
+      
+      <guid>/tags/uvigo-universidad-de-vigo-universidad-universidade-de-vigo-vigo-galicia-uvigo-universidad-de-vigo-universidad-universidade-de-vigo-vigo-galicia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vigo</title>
+      <link>/tags/vigo/</link>
+      <pubDate>Wed, 18 Jan 2012 05:44:36 +0000</pubDate>
+      
+      <guid>/tags/vigo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Barcelona</title>
       <link>/tags/barcelona/</link>
       <pubDate>Mon, 19 Dec 2011 17:09:36 +0000</pubDate>
@@ -8166,29 +10695,11 @@
     </item>
     
     <item>
-      <title>Teorema de bayes</title>
-      <link>/tags/teorema-de-bayes/</link>
-      <pubDate>Mon, 28 Nov 2011 21:05:09 +0000</pubDate>
-      
-      <guid>/tags/teorema-de-bayes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Inferencia</title>
       <link>/tags/inferencia/</link>
       <pubDate>Mon, 28 Nov 2011 20:58:15 +0000</pubDate>
       
       <guid>/tags/inferencia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Muestreo</title>
-      <link>/tags/muestreo/</link>
-      <pubDate>Mon, 28 Nov 2011 20:58:15 +0000</pubDate>
-      
-      <guid>/tags/muestreo/</guid>
       <description></description>
     </item>
     
@@ -8238,24 +10749,6 @@
     </item>
     
     <item>
-      <title>Normal reducida</title>
-      <link>/tags/normal-reducida/</link>
-      <pubDate>Mon, 26 Sep 2011 23:33:58 +0000</pubDate>
-      
-      <guid>/tags/normal-reducida/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Variables aleatotias continuas</title>
-      <link>/tags/variables-aleatotias-continuas/</link>
-      <pubDate>Mon, 26 Sep 2011 23:33:58 +0000</pubDate>
-      
-      <guid>/tags/variables-aleatotias-continuas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Distribucion</title>
       <link>/tags/distribucion/</link>
       <pubDate>Mon, 26 Sep 2011 10:45:52 +0000</pubDate>
@@ -8279,33 +10772,6 @@
       <pubDate>Wed, 21 Sep 2011 17:43:08 +0000</pubDate>
       
       <guid>/tags/student/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Investigación aplicada</title>
-      <link>/tags/investigaci%C3%B3n-aplicada/</link>
-      <pubDate>Wed, 13 Jul 2011 08:50:02 +0000</pubDate>
-      
-      <guid>/tags/investigaci%C3%B3n-aplicada/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Investigación cuantitativa cualitativa</title>
-      <link>/tags/investigaci%C3%B3n-cuantitativa-cualitativa/</link>
-      <pubDate>Wed, 13 Jul 2011 08:50:02 +0000</pubDate>
-      
-      <guid>/tags/investigaci%C3%B3n-cuantitativa-cualitativa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Técnicas de investigación</title>
-      <link>/tags/t%C3%A9cnicas-de-investigaci%C3%B3n/</link>
-      <pubDate>Wed, 13 Jul 2011 08:50:02 +0000</pubDate>
-      
-      <guid>/tags/t%C3%A9cnicas-de-investigaci%C3%B3n/</guid>
       <description></description>
     </item>
     
@@ -8346,15 +10812,6 @@
     </item>
     
     <item>
-      <title>frecuencia</title>
-      <link>/tags/frecuencia/</link>
-      <pubDate>Tue, 24 May 2011 15:11:29 +0000</pubDate>
-      
-      <guid>/tags/frecuencia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>internaciona</title>
       <link>/tags/internaciona/</link>
       <pubDate>Tue, 24 May 2011 15:11:29 +0000</pubDate>
@@ -8391,6 +10848,15 @@
     </item>
     
     <item>
+      <title>financieras</title>
+      <link>/tags/financieras/</link>
+      <pubDate>Thu, 12 May 2011 15:10:46 +0000</pubDate>
+      
+      <guid>/tags/financieras/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>masters</title>
       <link>/tags/masters/</link>
       <pubDate>Thu, 12 May 2011 15:10:46 +0000</pubDate>
@@ -8423,6 +10889,51 @@
       <pubDate>Thu, 12 May 2011 15:06:15 +0000</pubDate>
       
       <guid>/tags/integral-inmediata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>matemáticas financieras</title>
+      <link>/tags/matem%C3%A1ticas-financieras/</link>
+      <pubDate>Thu, 12 May 2011 15:06:15 +0000</pubDate>
+      
+      <guid>/tags/matem%C3%A1ticas-financieras/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>matematicas empresariales</title>
+      <link>/tags/matematicas-empresariales/</link>
+      <pubDate>Tue, 01 Feb 2011 10:39:38 +0000</pubDate>
+      
+      <guid>/tags/matematicas-empresariales/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>uem</title>
+      <link>/tags/uem/</link>
+      <pubDate>Tue, 01 Feb 2011 10:39:38 +0000</pubDate>
+      
+      <guid>/tags/uem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>uem personal</title>
+      <link>/tags/uem-personal/</link>
+      <pubDate>Tue, 01 Feb 2011 10:39:38 +0000</pubDate>
+      
+      <guid>/tags/uem-personal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>universidad europea de madrid</title>
+      <link>/tags/universidad-europea-de-madrid/</link>
+      <pubDate>Tue, 01 Feb 2011 10:39:38 +0000</pubDate>
+      
+      <guid>/tags/universidad-europea-de-madrid/</guid>
       <description></description>
     </item>
     

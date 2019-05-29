@@ -1,15 +1,55 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Universitat Oberta de Catalunya on Uvide</title>
+    <title>Universitat Oberta de Catalunya on Unitube</title>
     <link>/tags/universitat-oberta-de-catalunya/</link>
-    <description>Recent content in Universitat Oberta de Catalunya on Uvide</description>
+    <description>Recent content in Universitat Oberta de Catalunya on Unitube</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Thu, 05 Mar 2015 04:55:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2015 09:35:01 +0000</lastBuildDate>
     
 	<atom:link href="/tags/universitat-oberta-de-catalunya/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>3. Clasificación de los numeros</title>
+      <link>/blog/2015/10/24/3-clasificacion-de-los-numeros/</link>
+      <pubDate>Sat, 24 Oct 2015 09:35:01 +0000</pubDate>
+      
+      <guid>/blog/2015/10/24/3-clasificacion-de-los-numeros/</guid>
+      <description>En este vídeo repasamos todas las clases de números, desde los naturales, pasando por los enteros, racionales y reales, hasta los complejos.
+  </description>
+    </item>
+    
+    <item>
+      <title>2. Introducción al sistema decimal</title>
+      <link>/blog/2015/10/23/2-introduccion-al-sistema-decimal/</link>
+      <pubDate>Fri, 23 Oct 2015 13:09:00 +0000</pubDate>
+      
+      <guid>/blog/2015/10/23/2-introduccion-al-sistema-decimal/</guid>
+      <description>Este vídeo explica los fundamentos del sistema de numeración decimal que tenemos hoy en día.
+  </description>
+    </item>
+    
+    <item>
+      <title>1.  Brevísima historia de los números</title>
+      <link>/blog/2015/10/23/1-brevisima-historia-de-los-numeros/</link>
+      <pubDate>Fri, 23 Oct 2015 12:29:00 +0000</pubDate>
+      
+      <guid>/blog/2015/10/23/1-brevisima-historia-de-los-numeros/</guid>
+      <description>En este vídeo se hace un breve repaso de la historia de los números, empezando por el hueso Ishango hasta nuestro sistema decimal actual.
+  </description>
+    </item>
+    
+    <item>
+      <title>Siete consejos para estudiar matemáticas</title>
+      <link>/blog/2015/09/15/siete-consejos-para-estudiar-matematicas/</link>
+      <pubDate>Tue, 15 Sep 2015 20:29:02 +0000</pubDate>
+      
+      <guid>/blog/2015/09/15/siete-consejos-para-estudiar-matematicas/</guid>
+      <description>En este vídeo se dan siete consejos para el estudiante de matemáticas, en especial para aquellos que inician un grado universitario y desean fortalecer sus conocimientos y capacidades matemáticas.
+  </description>
+    </item>
     
     <item>
       <title>Cálculo I: Introducción a la derivada</title>
@@ -19,6 +59,16 @@
       <guid>/blog/2015/03/05/calculo-i-introduccion-a-la-derivada/</guid>
       <description>En este vídeo ofrecemos una introducción a la derivada muy intuitiva: a partir de la ley de los números imapres de Galileo. Analizamos el salto que damos desde la velocidad media a una expresión algebraica obtenida a partir del cálculo infinitesimal. Admeás, repasamos las diferentes maneras de expresar la derivada, y concluimos con un ejemplo aplicado a la distancia recorrida y la velocidad de un avión al despegar.
 Aquí tenemos el índice del vídeo:</description>
+    </item>
+    
+    <item>
+      <title>Introducción al curso y 7 consejos para estudiar matemáticas</title>
+      <link>/blog/2015/02/19/introduccion-al-curso-y-7-consejos-para-estudiar-matematicas/</link>
+      <pubDate>Thu, 19 Feb 2015 21:49:07 +0000</pubDate>
+      
+      <guid>/blog/2015/02/19/introduccion-al-curso-y-7-consejos-para-estudiar-matematicas/</guid>
+      <description>En este vídeo os presentamos el curso de matemáticas UOC, consistente en una serie de vídeos docentes en los cuales empezamos por álgebra elemental, y seguimos hacia álgebra lineal, trigonometría, cálculo infinitesimal cálculo diferencial y acabamos con temas más avanzados.
+  </description>
     </item>
     
   </channel>

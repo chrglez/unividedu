@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>grados online on Uvide</title>
+    <title>grados online on Unitube</title>
     <link>/tags/grados-online/</link>
-    <description>Recent content in grados online on Uvide</description>
+    <description>Recent content in grados online on Unitube</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Mon, 24 Oct 2016 12:43:07 +0000</lastBuildDate>
@@ -54,17 +54,6 @@ MOOC: MOOC Técnicas de análisis de datos y big data (URJCx107) URJCx: Abiertos
     
     <item>
       <title>Series Temporales (I)(URJCx)</title>
-      <link>/blog/2016/10/20/series-temporales-iurjcx-1/</link>
-      <pubDate>Thu, 20 Oct 2016 12:50:19 +0000</pubDate>
-      
-      <guid>/blog/2016/10/20/series-temporales-iurjcx-1/</guid>
-      <description>Tema 3: Técnicas econométricas (modelización y predicción) Apartado 3.3: Series temporales
-MOOC: MOOC Técnicas de análisis de datos y big data (URJCx107) URJCx: Abiertos al conocimiento www.urjcx.urjc.es www.online.urjc.es www.urjc.es
-  </description>
-    </item>
-    
-    <item>
-      <title>Series Temporales (I)(URJCx)</title>
       <link>/blog/2016/10/20/series-temporales-iurjcx/</link>
       <pubDate>Thu, 20 Oct 2016 12:50:19 +0000</pubDate>
       
@@ -91,17 +80,6 @@ MOOC: MOOC Técnicas de análisis de datos y big data (URJCx107) URJCx: Abiertos
       
       <guid>/blog/2015/12/11/estadistica-empresarial-ii-jose-maria-sa%CC%81nchez-lo%CC%81pez/</guid>
       <description>Presentación de la asignatura: Estadística empresarial II Profesor: José María Sánchez López Titulación: Grado Semipresencial en Administración y Dirección de Empresas
-Unidad de Producción de Contenidos Académicos (UPCA) www.aulavirtual.urjc.es www.online.urjc.es @URJConline
-  </description>
-    </item>
-    
-    <item>
-      <title>Estadística Empresarial I - Javier Otamendi</title>
-      <link>/blog/2015/09/21/estadistica-empresarial-i-javier-otamendi-1/</link>
-      <pubDate>Mon, 21 Sep 2015 07:52:13 +0000</pubDate>
-      
-      <guid>/blog/2015/09/21/estadistica-empresarial-i-javier-otamendi-1/</guid>
-      <description>Presentación de la asignatura: Estadística Empresarial I Profesor: Javier Otamendi Titulación: Grado Semipresencial en Administración y Dirección de Empresas
 Unidad de Producción de Contenidos Académicos (UPCA) www.aulavirtual.urjc.es www.online.urjc.es @URJConline
   </description>
     </item>

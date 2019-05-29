@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>resolución on Uvide</title>
+    <title>resolución on Unitube</title>
     <link>/tags/resoluci%C3%B3n/</link>
-    <description>Recent content in resolución on Uvide</description>
+    <description>Recent content in resolución on Unitube</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Mon, 23 Nov 2015 22:44:11 +0000</lastBuildDate>
@@ -28,6 +28,18 @@
       
       <guid>/blog/2014/03/10/programacion-lineal-con-ayuda-del-complemento-solver-hojas-de-calculo-caso-practico/</guid>
       <description>Nota: Poner en formato HD para una mejor visualización pinchando sobre el icono de configuración del vídeo (engranaje). Resolución de este tipo de problemas con ayuda del complemento solver de las hojas de cálculo. Profesor: Fco. David de la Peña Esteban. Universidad a Distancia de Madrid. Udima.
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Tema 3. Lección 5 - Alfonso Rosa</title>
+      <link>/blog/2013/11/22/matematicas-para-la-empresa-i-tema-3-leccion-5-alfonso-rosa/</link>
+      <pubDate>Fri, 22 Nov 2013 10:27:27 +0000</pubDate>
+      
+      <guid>/blog/2013/11/22/matematicas-para-la-empresa-i-tema-3-leccion-5-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Método de Gauss-Jordan
   </description>
     </item>
     

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ishango on Unitube</title>
+    <link>/tags/ishango/</link>
+    <description>Recent content in Ishango on Unitube</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 23 Oct 2015 12:29:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/ishango/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>1.  Brevísima historia de los números</title>
+      <link>/blog/2015/10/23/1-brevisima-historia-de-los-numeros/</link>
+      <pubDate>Fri, 23 Oct 2015 12:29:00 +0000</pubDate>
+      
+      <guid>/blog/2015/10/23/1-brevisima-historia-de-los-numeros/</guid>
+      <description>En este vídeo se hace un breve repaso de la historia de los números, empezando por el hueso Ishango hasta nuestro sistema decimal actual.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

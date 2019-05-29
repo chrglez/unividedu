@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>matrices on Uvide</title>
+    <title>matrices on Unitube</title>
     <link>/tags/matrices/</link>
-    <description>Recent content in matrices on Uvide</description>
+    <description>Recent content in matrices on Unitube</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Tue, 30 Sep 2014 10:16:09 +0000</lastBuildDate>
@@ -96,6 +96,74 @@ Inscríbete en: https://upvx.es/courses/course-v1:edxorg+bases-matematicas-algeb
       
       <guid>/blog/2014/03/12/resolucion-de-una-matriz-inversa-por-adjuntos/</guid>
       <description>Profesora: Vanessa Fernández Chamorro
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Tema 5. Lección 10 - Alfonso Rosa</title>
+      <link>/blog/2013/12/27/matematicas-para-la-empresa-i-tema-5-leccion-10-alfonso-rosa/</link>
+      <pubDate>Fri, 27 Dec 2013 07:30:03 +0000</pubDate>
+      
+      <guid>/blog/2013/12/27/matematicas-para-la-empresa-i-tema-5-leccion-10-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas Ejemplo diagonalización de una matriz simétrica
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Tema 5. Lección 9 - Alfonso Rosa</title>
+      <link>/blog/2013/12/27/matematicas-para-la-empresa-i-tema-5-leccion-9-alfonso-rosa/</link>
+      <pubDate>Fri, 27 Dec 2013 07:28:10 +0000</pubDate>
+      
+      <guid>/blog/2013/12/27/matematicas-para-la-empresa-i-tema-5-leccion-9-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas Diagonalización de matrices simétricas
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Tema 2. Ejercicio 7 - Alfonso Rosa</title>
+      <link>/blog/2013/11/18/matematicas-para-la-empresa-i-tema-2-ejercicio-7-alfonso-rosa/</link>
+      <pubDate>Mon, 18 Nov 2013 16:36:35 +0000</pubDate>
+      
+      <guid>/blog/2013/11/18/matematicas-para-la-empresa-i-tema-2-ejercicio-7-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Problema. Matriz inversa
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Tema 2. Ejercicio 1 - Alfonso Rosa</title>
+      <link>/blog/2013/11/14/matematicas-para-la-empresa-i-tema-2-ejercicio-1-alfonso-rosa/</link>
+      <pubDate>Thu, 14 Nov 2013 10:28:42 +0000</pubDate>
+      
+      <guid>/blog/2013/11/14/matematicas-para-la-empresa-i-tema-2-ejercicio-1-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Problema. Suma de matrices
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Tema 2. Lección 2 - Alfonso Rosa</title>
+      <link>/blog/2013/11/08/matematicas-para-la-empresa-i-tema-2-leccion-2-alfonso-rosa/</link>
+      <pubDate>Fri, 08 Nov 2013 09:22:36 +0000</pubDate>
+      
+      <guid>/blog/2013/11/08/matematicas-para-la-empresa-i-tema-2-leccion-2-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/a... Departamento: Facultad de Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas
+Operaciones con matrices
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Tema 2. Lección 1 - Alfonso Rosa</title>
+      <link>/blog/2013/11/08/matematicas-para-la-empresa-i-tema-2-leccion-1-alfonso-rosa/</link>
+      <pubDate>Fri, 08 Nov 2013 09:22:21 +0000</pubDate>
+      
+      <guid>/blog/2013/11/08/matematicas-para-la-empresa-i-tema-2-leccion-1-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/a... Departamento: Facultad de Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas
+Matrices
   </description>
     </item>
     

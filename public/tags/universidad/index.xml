@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>universidad on Uvide</title>
+    <title>universidad on Unitube</title>
     <link>/tags/universidad/</link>
-    <description>Recent content in universidad on Uvide</description>
+    <description>Recent content in universidad on Unitube</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Tue, 30 May 2017 06:06:28 +0000</lastBuildDate>
@@ -90,24 +90,6 @@ En este video se explica las dos actividades a realizar en el próximo mes de ma
 Resolución de Ejercicios: ANCOVA (3ª parte). Asignatura: Técnicas Estadísticas en Investigación de Mercados. Grado en Estadística Empresarial. Profesor: Xavier Barber i Vallés. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE. Universidad Miguel Hernández de Elche.
 Video en el que se resuelve el ejerccio 2 de ANCOVA desde RStudio con markdown.
 web asignatura: http://umh1480.edu.umh.es/ web: http://umh.</description>
-    </item>
-    
-    <item>
-      <title>Estadistica Estatal INE (AUDE 4/6)</title>
-      <link>/blog/2017/04/04/estadistica-estatal-ine-aude-4-6/</link>
-      <pubDate>Tue, 04 Apr 2017 05:43:41 +0000</pubDate>
-      
-      <guid>/blog/2017/04/04/estadistica-estatal-ine-aude-4-6/</guid>
-      <description>ENTIDADES PÚBLICAS PROVEEDORAS DE DATOS Las estadísticas sociodemográfi cas del INE como fuentes para el análisis regional y urbano Antonio Argüeso Jimenez Subdirector General de Estadísticas Sociodemográfi cas / Instituto Nacional de Estadística Cambio social, crisis económica y escasez de recursos, su impacto sobre las áreas urbanas PLAN ESTATAL DE I+D+i 2013-2016 Convocatoria REDES de EXCELENCIA ÁREAS URBANAS Y DATOS ESTADÍSTICOS Tercer seminario del proyecto CSO2015-71866-REDT // 24 de febrero de 2017</description>
-    </item>
-    
-    <item>
-      <title>20170224 05 Estadística Municipal (AUDE 5/6)</title>
-      <link>/blog/2017/04/04/20170224-05-estadistica-municipal-aude-5-6/</link>
-      <pubDate>Tue, 04 Apr 2017 05:43:35 +0000</pubDate>
-      
-      <guid>/blog/2017/04/04/20170224-05-estadistica-municipal-aude-5-6/</guid>
-      <description>Canales de difusión y fuentes de información estadística empleadas por la S.G. Estadística del Ayuntamiento de Madrid Antonio Bermejo Aguña Jefe del Departamento de Datos Estadísticos / Subdirección General de Estadística. Ayuntamiento de Madrid Cambio social, crisis económica y escasez de recursos, su impacto sobre las áreas urbanas PLAN ESTATAL DE I+D+i 2013-2016 Convocatoria REDES de EXCELENCIA ÁREAS URBANAS Y DATOS ESTADÍSTICOS Tercer seminario del proyecto CSO2015-71866-REDT // 24 de febrero de 2017</description>
     </item>
     
     <item>
@@ -374,6 +356,25 @@ web: http://umh.es
     </item>
     
     <item>
+      <title>Siete consejos para estudiar matemáticas</title>
+      <link>/blog/2015/09/15/siete-consejos-para-estudiar-matematicas/</link>
+      <pubDate>Tue, 15 Sep 2015 20:29:02 +0000</pubDate>
+      
+      <guid>/blog/2015/09/15/siete-consejos-para-estudiar-matematicas/</guid>
+      <description>En este vídeo se dan siete consejos para el estudiante de matemáticas, en especial para aquellos que inician un grado universitario y desean fortalecer sus conocimientos y capacidades matemáticas.
+  </description>
+    </item>
+    
+    <item>
+      <title>06. MUESTREO ESTADÍSTICO</title>
+      <link>/blog/2015/02/16/06-muestreo-estad%C3%ADstico/</link>
+      <pubDate>Mon, 16 Feb 2015 07:43:28 +0000</pubDate>
+      
+      <guid>/blog/2015/02/16/06-muestreo-estad%C3%ADstico/</guid>
+      <description> MUESTREO ESTADÍSTICO. Métodos y Técnicas de Investigación. Miguel Vicente Mariño. Universidad de Valladolid.    </description>
+    </item>
+    
+    <item>
       <title>Lec001.4 Álgebra lineal. Operaciones con Matrices. Producto (umh1251 2014-15)</title>
       <link>/blog/2014/09/30/lec0014-%C3%A1lgebra-lineal-operaciones-con-matrices-producto-umh1251-2014-15/</link>
       <pubDate>Tue, 30 Sep 2014 10:16:09 +0000</pubDate>
@@ -426,6 +427,77 @@ web asignatura: http://umh0966.edu.umh.es
     </item>
     
     <item>
+      <title>Matemáticas para la Empresa I - Tema 3. Ejercicio 2 - Alfonso Rosa</title>
+      <link>/blog/2014/07/21/matematicas-para-la-empresa-i-tema-3-ejercicio-2-alfonso-rosa/</link>
+      <pubDate>Mon, 21 Jul 2014 07:43:16 +0000</pubDate>
+      
+      <guid>/blog/2014/07/21/matematicas-para-la-empresa-i-tema-3-ejercicio-2-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas Problemas. Regla de Cramer
+  </description>
+    </item>
+    
+    <item>
+      <title>MEDIDAS DE CONCENTRACION</title>
+      <link>/blog/2014/07/09/medidas-de-concentracion/</link>
+      <pubDate>Wed, 09 Jul 2014 11:25:15 +0000</pubDate>
+      
+      <guid>/blog/2014/07/09/medidas-de-concentracion/</guid>
+      <description>MEDIDAS DE CONCENTRACIÓN. Estadística 1. Ursicino Carrascal Arranz. Universidad de Valladolid.
+  </description>
+    </item>
+    
+    <item>
+      <title>ESQUEMA MULTIPLICATIVO: DESESTACIONALIZACIÓN Y PREDICCION.</title>
+      <link>/blog/2014/05/07/esquema-multiplicativo-desestacionalizaci%C3%B3n-y-prediccion/</link>
+      <pubDate>Wed, 07 May 2014 07:05:29 +0000</pubDate>
+      
+      <guid>/blog/2014/05/07/esquema-multiplicativo-desestacionalizaci%C3%B3n-y-prediccion/</guid>
+      <description>ESQUEMA MULTIPLICATIVO: DESESTACIONALIZACIÓN Y PREDICCIÓN. Estadística 1. Ursicino Carrascal Arranz. Universidad de Valladolid.
+  </description>
+    </item>
+    
+    <item>
+      <title>ESQUEMA ADITIVO: DESESTACIONALIZACIÓN Y PREDICCIÓN.</title>
+      <link>/blog/2014/05/07/esquema-aditivo-desestacionalizaci%C3%B3n-y-predicci%C3%B3n/</link>
+      <pubDate>Wed, 07 May 2014 07:04:03 +0000</pubDate>
+      
+      <guid>/blog/2014/05/07/esquema-aditivo-desestacionalizaci%C3%B3n-y-predicci%C3%B3n/</guid>
+      <description>ESQUEMA ADITIVO: DESESTACIONALIZACIÓN Y PREDICCIÓN. Estadística 1. Ursicino Carrascal Arranz. Universidad de Valladolid.
+  </description>
+    </item>
+    
+    <item>
+      <title>EL COMPONENTE ESTACIONAL EN UN ESQUEMA MULTIPLICATIVO</title>
+      <link>/blog/2014/05/07/el-componente-estacional-en-un-esquema-multiplicativo/</link>
+      <pubDate>Wed, 07 May 2014 07:01:59 +0000</pubDate>
+      
+      <guid>/blog/2014/05/07/el-componente-estacional-en-un-esquema-multiplicativo/</guid>
+      <description>EL COMPONENTE ESTACIONAL EN UN ESQUEMA MULTIPLICATIVO. Estadística 1. Ursicino Carrascal Arranz. Universidad de Valladolid.
+  </description>
+    </item>
+    
+    <item>
+      <title>EL COMPONENTE ESTACIONAL EN UN ESQUEMA ADITIVO.</title>
+      <link>/blog/2014/05/07/el-componente-estacional-en-un-esquema-aditivo/</link>
+      <pubDate>Wed, 07 May 2014 07:00:43 +0000</pubDate>
+      
+      <guid>/blog/2014/05/07/el-componente-estacional-en-un-esquema-aditivo/</guid>
+      <description>EL COMPONENTE ESTACIONAL EN UN ESQUEMA ADITIVO. Estadística 1. Ursicino Carrascal Arranz. Universidad de Valladolid.
+  </description>
+    </item>
+    
+    <item>
+      <title>PRIMERA APROXIMACIÓN A LA TENDENCIA</title>
+      <link>/blog/2014/05/07/primera-aproximaci%C3%B3n-a-la-tendencia/</link>
+      <pubDate>Wed, 07 May 2014 06:59:04 +0000</pubDate>
+      
+      <guid>/blog/2014/05/07/primera-aproximaci%C3%B3n-a-la-tendencia/</guid>
+      <description>PRIMERA APROXIMACIÓN A LA TENDENCIA Estadística 1. Ursicino Carrascal Arranz. Universidad de Valladolid.
+  </description>
+    </item>
+    
+    <item>
       <title>Límites de funciones de varias variables con DERIVE</title>
       <link>/blog/2014/02/15/limites-de-funciones-de-varias-variables-con-derive/</link>
       <pubDate>Sat, 15 Feb 2014 20:16:25 +0000</pubDate>
@@ -446,6 +518,28 @@ web asignatura: http://umh0966.edu.umh.es
     </item>
     
     <item>
+      <title>Matemáticas para la Empresa I - Tema 4. Ejercicio 8. Alfonso Rosa</title>
+      <link>/blog/2013/12/17/matematicas-para-la-empresa-i-tema-4-ejercicio-8-alfonso-rosa/</link>
+      <pubDate>Tue, 17 Dec 2013 17:53:41 +0000</pubDate>
+      
+      <guid>/blog/2013/12/17/matematicas-para-la-empresa-i-tema-4-ejercicio-8-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas Ejemplo. Discusión de una aplicación lineal (ipimorfismo)
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Tema 3 Lección 1 - Alfonso Rosa</title>
+      <link>/blog/2013/11/21/matematicas-para-la-empresa-i-tema-3-leccion-1-alfonso-rosa/</link>
+      <pubDate>Thu, 21 Nov 2013 16:53:33 +0000</pubDate>
+      
+      <guid>/blog/2013/11/21/matematicas-para-la-empresa-i-tema-3-leccion-1-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+  </description>
+    </item>
+    
+    <item>
       <title>Presentacion MOOC Estadística para investigadores: Todo lo que quiso saber y nunca...</title>
       <link>/blog/2013/11/07/presentacion-mooc-estadistica-para-investigadores-todo-lo-que-quiso-saber-y-nunca/</link>
       <pubDate>Thu, 07 Nov 2013 21:22:32 +0000</pubDate>
@@ -454,18 +548,6 @@ web asignatura: http://umh0966.edu.umh.es
       <description>Titulo curso: Estadística para investigadores, todo lo que siempre quiso saber y no se atrevió a preguntar
 Cursos Online Masivos y Abiertos de la Universidad de Salamanca.
 Breve info: Si alguna vez has tenido problemas con la estadística, este curso está hecho para ti. Es ideal para investigadores y alumnos que se encuentran cursando trabajos fin de grado, trabajos fin de máster o realizando la tesis y que quieren realizar un análisis cuantitativo en sus estudios.</description>
-    </item>
-    
-    <item>
-      <title>Universidad de Salamanca (Dpto. Estadística) - La combinatoria</title>
-      <link>/blog/2013/10/08/universidad-de-salamanca-dpto-estadistica-la-combinatoria-1/</link>
-      <pubDate>Tue, 08 Oct 2013 07:56:48 +0000</pubDate>
-      
-      <guid>/blog/2013/10/08/universidad-de-salamanca-dpto-estadistica-la-combinatoria-1/</guid>
-      <description>Proyecto realizado para presentar los nuevos cursos en materia de estadística que ofrecerá la Universidad de Salamanca.
-Con Christian Moreno Dirección: Fran Duarte
-#usal #salamanca #combinatoria Cámara: José Luis Barea/ Fran Duarte Sonido: Alejandro Ruiz - Ricardo Ruiz
-  </description>
     </item>
     
     <item>
@@ -610,28 +692,6 @@ Introducción a las series temporales. Descripción de las componentes básicas:
       <description>En este minivídeo se calcula la integral de probabilidad relacionando la integral impropia con una integral doble e integrando en sectores circulares. Se comprueba asimismo que la integral de probabilidad coincide con la función gamma en 1&amp;frasl;2.
 Vídeo producido por el Gabinete de Tele-Educación de la Universidad Politécnica de Madrid
   </description>
-    </item>
-    
-    <item>
-      <title>umh5030 2013-14 Lec001 Conceptos Básicos con Excel. (1/2)</title>
-      <link>/blog/2013/05/17/umh5030-2013-14-lec001-conceptos-basicos-con-excel-1-2/</link>
-      <pubDate>Fri, 17 May 2013 12:01:15 +0000</pubDate>
-      
-      <guid>/blog/2013/05/17/umh5030-2013-14-lec001-conceptos-basicos-con-excel-1-2/</guid>
-      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/13cxLxh
-Conceptos Básicos con Excel (1&amp;frasl;2). Asignatura: Matemática Financiera II. Licenciado en Ciencias Actuariales y Financieras. Profesor: José Manuel Brotons Martínez. Dpto. de Estudios Económicos y Financieros. Área de Economía Financiera y Contabilidad. Proyecto PLE 2013. Universidad Miguel Hernández de Elche.
-Conceptos Financieros introductorios con Excel. Se plantean las nociones básicas para usar el Excel en el ámbito de las Matemáticas Financieras.</description>
-    </item>
-    
-    <item>
-      <title>umh5030 2013-14 Lec002 Conceptos Básicos con excel. (2/2)</title>
-      <link>/blog/2013/05/17/umh5030-2013-14-lec002-conceptos-basicos-con-excel-2-2/</link>
-      <pubDate>Fri, 17 May 2013 11:56:58 +0000</pubDate>
-      
-      <guid>/blog/2013/05/17/umh5030-2013-14-lec002-conceptos-basicos-con-excel-2-2/</guid>
-      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/13cxLxh
-Conceptos Básicos con Excel (2&amp;frasl;2). Asignatura: Matemática Financiera II. Licenciado en Ciencias Actuariales y Financieras. Profesor: José Manuel Brotons Martínez. Dpto. de Estudios Económicos y Financieros. Área de Economía Financiera y Contabilidad. Proyecto PLE 2013. Universidad Miguel Hernández de Elche.
-Es continuacion de la lección 1: Conceptos Financieros introductorios con Excel. Se plantean las nociones básicas para usar el Excel en el ámbito de las Matemáticas Financieras.</description>
     </item>
     
     <item>
@@ -919,6 +979,17 @@ web asignatura: http://umh1263.edu.umh.es web: http://umh.</description>
     </item>
     
     <item>
+      <title>Modelo de regresión lineal múltiple</title>
+      <link>/blog/2012/01/18/modelo-de-regresion-lineal-multiple/</link>
+      <pubDate>Wed, 18 Jan 2012 05:44:36 +0000</pubDate>
+      
+      <guid>/blog/2012/01/18/modelo-de-regresion-lineal-multiple/</guid>
+      <description>Modelo de regresión lineal múltiple - Modelo de regresión lineal múltiple
+En esta presentación se explica el modelo de regresión lineal múltiple, incluyendo su expresión matemática, y el porqué de su denominación. A continuación se trata la presentación del MRLM en álgebra ordinaria y en álgrebra matricial. Vídeo disponible en: http://tv.uvigo.es/gl/video/mm/11528.html
+  </description>
+    </item>
+    
+    <item>
       <title>Lección: Cálculo desviación típica - Investitgación educativa - UNIR</title>
       <link>/blog/2011/05/24/leccion-calculo-desviacion-tipica-investitgacion-educativa-unir/</link>
       <pubDate>Tue, 24 May 2011 15:30:01 +0000</pubDate>
@@ -940,31 +1011,11 @@ web asignatura: http://umh1263.edu.umh.es web: http://umh.</description>
     
     <item>
       <title>GRADO ADE - Lección: convenciones de fechas en finanzas - Matemáticas economía - UNIR 2014</title>
-      <link>/blog/2011/05/12/grado-ade-leccion-convenciones-de-fechas-en-finanzas-matematicas-economia-unir-2014-1/</link>
-      <pubDate>Thu, 12 May 2011 15:10:46 +0000</pubDate>
-      
-      <guid>/blog/2011/05/12/grado-ade-leccion-convenciones-de-fechas-en-finanzas-matematicas-economia-unir-2014-1/</guid>
-      <description>Convenciones de fechas en finanzas UNIR, grado en ADE http://www.unir.net/grado-ade-administracion-direccion-empresas.aspx
-  </description>
-    </item>
-    
-    <item>
-      <title>GRADO ADE - Lección: convenciones de fechas en finanzas - Matemáticas economía - UNIR 2014</title>
       <link>/blog/2011/05/12/grado-ade-leccion-convenciones-de-fechas-en-finanzas-matematicas-economia-unir-2014/</link>
       <pubDate>Thu, 12 May 2011 15:10:46 +0000</pubDate>
       
       <guid>/blog/2011/05/12/grado-ade-leccion-convenciones-de-fechas-en-finanzas-matematicas-economia-unir-2014/</guid>
       <description>Convenciones de fechas en finanzas UNIR, grado en ADE http://www.unir.net/grado-ade-administracion-direccion-empresas.aspx
-  </description>
-    </item>
-    
-    <item>
-      <title>GRADO ADE - Lección: el valor temporal del dinero - Matemáticas economía - UNIR 2014</title>
-      <link>/blog/2011/05/12/grado-ade-leccion-el-valor-temporal-del-dinero-matematicas-economia-unir-2014-1/</link>
-      <pubDate>Thu, 12 May 2011 15:08:19 +0000</pubDate>
-      
-      <guid>/blog/2011/05/12/grado-ade-leccion-el-valor-temporal-del-dinero-matematicas-economia-unir-2014-1/</guid>
-      <description>El valor temporal del dinero
   </description>
     </item>
     

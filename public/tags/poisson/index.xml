@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Poisson on Uvide</title>
+    <title>Poisson on Unitube</title>
     <link>/tags/poisson/</link>
-    <description>Recent content in Poisson on Uvide</description>
+    <description>Recent content in Poisson on Unitube</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Thu, 06 Nov 2014 21:34:17 +0000</lastBuildDate>
@@ -44,18 +44,6 @@ web asignatura: http://umh1263.edu.umh.es web: http://umh.es
       <guid>/blog/2013/05/07/teorema-central-del-li%CC%81mite-04-04/</guid>
       <description>A continuación se demuestra, mediante el uso del Excel, cómo la función de cuantía de la Distribución Poisson se asemeja a la función de densidad de la Distribución Normal de igual media y varianza que la Distribución Poisson de origen, cuando el tamaño muestral &amp;ldquo;n&amp;rdquo; es lo suficientemente grande.
   </description>
-    </item>
-    
-    <item>
-      <title>Distribución de Poisson |  | UPV</title>
-      <link>/blog/2011/09/26/distribucion-de-poisson-upv-1/</link>
-      <pubDate>Mon, 26 Sep 2011 10:44:26 +0000</pubDate>
-      
-      <guid>/blog/2011/09/26/distribucion-de-poisson-upv-1/</guid>
-      <description>Título: Distribución de Poisson
-Descripción: Se describe la distribucion de probabilidades de Poisson
-Autor/a: Cabrera García Suitberto
- Universitat Politècnica de València UPV: https://www.upv.es Más vídeos en: https://www.youtube.com/valenciaupv Accede a nuestros MOOC: https://upvx.es    </description>
     </item>
     
     <item>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ULPGC on Uvide</title>
+    <title>ULPGC on Unitube</title>
     <link>/categories/ulpgc/</link>
-    <description>Recent content in ULPGC on Uvide</description>
+    <description>Recent content in ULPGC on Unitube</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Thu, 12 Nov 2015 09:40:02 +0000</lastBuildDate>
@@ -52,16 +52,6 @@
     </item>
     
     <item>
-      <title>Factorización de polinomios de grado 2</title>
-      <link>/blog/2015/10/05/factorizacion-de-polinomios-de-grado-2/</link>
-      <pubDate>Mon, 05 Oct 2015 00:54:44 +0000</pubDate>
-      
-      <guid>/blog/2015/10/05/factorizacion-de-polinomios-de-grado-2/</guid>
-      <description>Factorización de polinomios de grado 2
-  </description>
-    </item>
-    
-    <item>
       <title>Puntos de una recta</title>
       <link>/blog/2015/10/04/puntos-de-una-recta/</link>
       <pubDate>Sun, 04 Oct 2015 21:32:58 +0000</pubDate>
@@ -98,16 +88,6 @@
       
       <guid>/blog/2015/10/04/factorizacion-de-polinomios/</guid>
       <description>Factorización de polinomios con algunas de sus raíces complejas
-  </description>
-    </item>
-    
-    <item>
-      <title>Factorización de polinomios</title>
-      <link>/blog/2014/09/30/factorizacion-de-polinomios-1/</link>
-      <pubDate>Tue, 30 Sep 2014 20:16:02 +0000</pubDate>
-      
-      <guid>/blog/2014/09/30/factorizacion-de-polinomios-1/</guid>
-      <description>Factorización de polinomios
   </description>
     </item>
     

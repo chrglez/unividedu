@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Exponencial negativa on Unitube</title>
+    <link>/tags/exponencial-negativa/</link>
+    <description>Recent content in Exponencial negativa on Unitube</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 11 Jun 2015 18:24:47 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/exponencial-negativa/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ejercicio 2 examen 8/6/15</title>
+      <link>/blog/2015/06/11/ejercicio-2-examen-8-6-15/</link>
+      <pubDate>Thu, 11 Jun 2015 18:24:47 +0000</pubDate>
+      
+      <guid>/blog/2015/06/11/ejercicio-2-examen-8-6-15/</guid>
+      <description>Exponencial negativa
+  </description>
+    </item>
+    
+  </channel>
+</rss>

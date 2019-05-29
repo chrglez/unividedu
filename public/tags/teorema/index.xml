@@ -1,15 +1,49 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Teorema on Uvide</title>
+    <title>teorema on Unitube</title>
     <link>/tags/teorema/</link>
-    <description>Recent content in Teorema on Uvide</description>
+    <description>Recent content in teorema on Unitube</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Tue, 18 Jun 2013 09:44:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2015 07:13:45 +0000</lastBuildDate>
     
 	<atom:link href="/tags/teorema/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Verificación del Teorema de Euler - Alfonso Rosa</title>
+      <link>/blog/2015/04/24/matematicas-para-la-empresa-ii-verificacion-del-teorema-de-euler-alfonso-rosa/</link>
+      <pubDate>Fri, 24 Apr 2015 07:13:45 +0000</pubDate>
+      
+      <guid>/blog/2015/04/24/matematicas-para-la-empresa-ii-verificacion-del-teorema-de-euler-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/informatica-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: ADE
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Aplicación del Teorema de Euler - Alfonso Rosa</title>
+      <link>/blog/2015/04/24/matematicas-para-la-empresa-ii-aplicacion-del-teorema-de-euler-alfonso-rosa/</link>
+      <pubDate>Fri, 24 Apr 2015 07:10:18 +0000</pubDate>
+      
+      <guid>/blog/2015/04/24/matematicas-para-la-empresa-ii-aplicacion-del-teorema-de-euler-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/informatica-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: ADE
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II -  Tema 4. Ejercicio 1 - Alfonso Rosa</title>
+      <link>/blog/2014/03/17/matematicas-para-la-empresa-ii-tema-4-ejercicio-1-alfonso-rosa/</link>
+      <pubDate>Mon, 17 Mar 2014 08:07:24 +0000</pubDate>
+      
+      <guid>/blog/2014/03/17/matematicas-para-la-empresa-ii-tema-4-ejercicio-1-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Problemas. Existencia de la función implícita
+  </description>
+    </item>
     
     <item>
       <title>umh1263 2012-13 Lec028 Práctica Teorema Central del Límite</title>

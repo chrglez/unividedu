@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Laspeyres on Unitube</title>
+    <link>/tags/laspeyres/</link>
+    <description>Recent content in Laspeyres on Unitube</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 28 May 2015 11:45:50 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/laspeyres/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tema 3. Números índices</title>
+      <link>/blog/2015/05/28/tema-3-numeros-indices/</link>
+      <pubDate>Thu, 28 May 2015 11:45:50 +0000</pubDate>
+      
+      <guid>/blog/2015/05/28/tema-3-numeros-indices/</guid>
+      <description>Cálculo de índices de Laspeyres y Paasche
+  </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,5 +1,5 @@
-baseurl = "https://uvide.netlify.com/"
-title = "Uvide"
+baseurl = "https://unitube.netlify.com/"
+title = "Unitube"
 theme = "hugo-universal-theme"
 languageCode = "es"
 # Site language. Available translations in the theme's `/i18n` directory.
@@ -99,7 +99,7 @@ paginate = 15
     contact_form_ajax = false
 
     about_us = "<p>Christian González,<br> Miguel Ángel Negrín,<br> José María Pérez,<br> Jaime Pinilla</p>"
-    copyright = "Bajo licencia CC."
+    copyright = "Bajo licencia CC-BY-NC-SA."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"

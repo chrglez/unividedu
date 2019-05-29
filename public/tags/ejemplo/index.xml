@@ -1,15 +1,85 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ejemplo on Uvide</title>
+    <title>ejemplo on Unitube</title>
     <link>/tags/ejemplo/</link>
-    <description>Recent content in ejemplo on Uvide</description>
+    <description>Recent content in ejemplo on Unitube</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Mon, 03 Mar 2014 17:10:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 May 2014 14:49:12 +0000</lastBuildDate>
     
 	<atom:link href="/tags/ejemplo/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Tema 4. Ejercicio 3 - Alfonso Rosa</title>
+      <link>/blog/2014/05/22/matematicas-para-la-empresa-ii-tema-4-ejercicio-3-alfonso-rosa/</link>
+      <pubDate>Thu, 22 May 2014 14:49:12 +0000</pubDate>
+      
+      <guid>/blog/2014/05/22/matematicas-para-la-empresa-ii-tema-4-ejercicio-3-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Tema 1. Ejercicio 2 - Alfonso Rosa</title>
+      <link>/blog/2014/03/25/matematicas-para-la-empresa-ii-tema-1-ejercicio-2-alfonso-rosa/</link>
+      <pubDate>Tue, 25 Mar 2014 16:09:07 +0000</pubDate>
+      
+      <guid>/blog/2014/03/25/matematicas-para-la-empresa-ii-tema-1-ejercicio-2-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Problemas. Curvas de nivel
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Tema 1. Ejercicio 3 - Alfonso Rosa</title>
+      <link>/blog/2014/03/25/matematicas-para-la-empresa-ii-tema-1-ejercicio-3-alfonso-rosa/</link>
+      <pubDate>Tue, 25 Mar 2014 16:09:07 +0000</pubDate>
+      
+      <guid>/blog/2014/03/25/matematicas-para-la-empresa-ii-tema-1-ejercicio-3-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Problemas. Composición de funciones
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Tema 3. Lección 3 - Alfonso Rosa</title>
+      <link>/blog/2014/03/20/matematicas-para-la-empresa-ii-tema-3-leccion-3-alfonso-rosa/</link>
+      <pubDate>Thu, 20 Mar 2014 18:04:20 +0000</pubDate>
+      
+      <guid>/blog/2014/03/20/matematicas-para-la-empresa-ii-tema-3-leccion-3-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas Derivadas con una variable independiente Derivadas parciales
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Tema 3. Lección 1 - Alfonso Rosa</title>
+      <link>/blog/2014/03/20/matematicas-para-la-empresa-ii-tema-3-leccion-1-alfonso-rosa/</link>
+      <pubDate>Thu, 20 Mar 2014 18:02:12 +0000</pubDate>
+      
+      <guid>/blog/2014/03/20/matematicas-para-la-empresa-ii-tema-3-leccion-1-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Problemas. Derivación implícita en sistemas de ecuaciones
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Tema 4. Ejercicio 2 - Alfonso Rosa</title>
+      <link>/blog/2014/03/20/matematicas-para-la-empresa-ii-tema-4-ejercicio-2-alfonso-rosa/</link>
+      <pubDate>Thu, 20 Mar 2014 18:01:07 +0000</pubDate>
+      
+      <guid>/blog/2014/03/20/matematicas-para-la-empresa-ii-tema-4-ejercicio-2-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Problemas. Derivación de funciones implícitas
+  </description>
+    </item>
     
     <item>
       <title>Toma de decisiones con incertidumbre. Caso práctico.</title>
@@ -18,6 +88,196 @@
       
       <guid>/blog/2014/03/03/toma-de-decisiones-con-incertidumbre-caso-practico/</guid>
       <description>Este contenido se imparte en el Grado de Ingeniería de Organización Industrial: https://www.udima.es/es/grado-ingenieria-organizacion-industrial.html Toma de decisiones con incertidumbre. Caso práctico. Profesor: David de la Peña Esteban. Udima, Universidad a Distancia de Madrid.
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II -  Tema 2. Lección 6 - Alfonso Rosa</title>
+      <link>/blog/2014/02/25/matematicas-para-la-empresa-ii-tema-2-leccion-6-alfonso-rosa/</link>
+      <pubDate>Tue, 25 Feb 2014 09:55:45 +0000</pubDate>
+      
+      <guid>/blog/2014/02/25/matematicas-para-la-empresa-ii-tema-2-leccion-6-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II -  Tema 2. Lección 5 - Alfonso Rosa</title>
+      <link>/blog/2014/02/24/matematicas-para-la-empresa-ii-tema-2-leccion-5-alfonso-rosa/</link>
+      <pubDate>Mon, 24 Feb 2014 18:01:04 +0000</pubDate>
+      
+      <guid>/blog/2014/02/24/matematicas-para-la-empresa-ii-tema-2-leccion-5-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Límites iterados
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Tema 5. Ejercicio 4 - Alfonso Rosa</title>
+      <link>/blog/2014/01/22/matematicas-para-la-empresa-i-tema-5-ejercicio-4-alfonso-rosa/</link>
+      <pubDate>Wed, 22 Jan 2014 16:12:25 +0000</pubDate>
+      
+      <guid>/blog/2014/01/22/matematicas-para-la-empresa-i-tema-5-ejercicio-4-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas Problema. potencia de una matriz
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Tema 5. Ejercicio 3 - Alfonso Rosa</title>
+      <link>/blog/2014/01/21/matematicas-para-la-empresa-i-tema-5-ejercicio-3-alfonso-rosa/</link>
+      <pubDate>Tue, 21 Jan 2014 09:56:48 +0000</pubDate>
+      
+      <guid>/blog/2014/01/21/matematicas-para-la-empresa-i-tema-5-ejercicio-3-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas Problema. Diagonalizar matriz simétrica
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Tema 5. Ejercicio 2 - Alfonso Rosa</title>
+      <link>/blog/2014/01/15/matematicas-para-la-empresa-i-tema-5-ejercicio-2-alfonso-rosa/</link>
+      <pubDate>Wed, 15 Jan 2014 16:27:13 +0000</pubDate>
+      
+      <guid>/blog/2014/01/15/matematicas-para-la-empresa-i-tema-5-ejercicio-2-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas Problema. Diagonalizar Matriz
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Tema 5. Ejercicio 1 - Alfonso Rosa</title>
+      <link>/blog/2014/01/15/matematicas-para-la-empresa-i-tema-5-ejercicio-1-alfonso-rosa/</link>
+      <pubDate>Wed, 15 Jan 2014 16:26:02 +0000</pubDate>
+      
+      <guid>/blog/2014/01/15/matematicas-para-la-empresa-i-tema-5-ejercicio-1-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas Problema. Discutir matriz diagonalizable
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Tema 5. Lección 10 - Alfonso Rosa</title>
+      <link>/blog/2013/12/27/matematicas-para-la-empresa-i-tema-5-leccion-10-alfonso-rosa/</link>
+      <pubDate>Fri, 27 Dec 2013 07:30:03 +0000</pubDate>
+      
+      <guid>/blog/2013/12/27/matematicas-para-la-empresa-i-tema-5-leccion-10-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas Ejemplo diagonalización de una matriz simétrica
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Tema 4. Ejercicio 8. Alfonso Rosa</title>
+      <link>/blog/2013/12/17/matematicas-para-la-empresa-i-tema-4-ejercicio-8-alfonso-rosa/</link>
+      <pubDate>Tue, 17 Dec 2013 17:53:41 +0000</pubDate>
+      
+      <guid>/blog/2013/12/17/matematicas-para-la-empresa-i-tema-4-ejercicio-8-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas Ejemplo. Discusión de una aplicación lineal (ipimorfismo)
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Tema 4. Ejercicio 7. Alfonso Rosa</title>
+      <link>/blog/2013/12/17/matematicas-para-la-empresa-i-tema-4-ejercicio-7-alfonso-rosa/</link>
+      <pubDate>Tue, 17 Dec 2013 17:52:00 +0000</pubDate>
+      
+      <guid>/blog/2013/12/17/matematicas-para-la-empresa-i-tema-4-ejercicio-7-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas Ejemplo. Discusión de una aplicación lineal
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Tema 4. Ejercicio 6. Alfonso Rosa</title>
+      <link>/blog/2013/12/17/matematicas-para-la-empresa-i-tema-4-ejercicio-6-alfonso-rosa/</link>
+      <pubDate>Tue, 17 Dec 2013 17:50:43 +0000</pubDate>
+      
+      <guid>/blog/2013/12/17/matematicas-para-la-empresa-i-tema-4-ejercicio-6-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas Ejemplo. Discusión de una aplicación lineal (epimorfismo)
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Tema 4. Ejercicio 5. Alfonso Rosa</title>
+      <link>/blog/2013/12/17/matematicas-para-la-empresa-i-tema-4-ejercicio-5-alfonso-rosa/</link>
+      <pubDate>Tue, 17 Dec 2013 17:48:10 +0000</pubDate>
+      
+      <guid>/blog/2013/12/17/matematicas-para-la-empresa-i-tema-4-ejercicio-5-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas Ejemplo. Imagen de una aplicación lineal
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Tema 4. Ejercicio 4 - Alfonso Rosa</title>
+      <link>/blog/2013/12/12/matematicas-para-la-empresa-i-tema-4-ejercicio-4-alfonso-rosa/</link>
+      <pubDate>Thu, 12 Dec 2013 11:52:10 +0000</pubDate>
+      
+      <guid>/blog/2013/12/12/matematicas-para-la-empresa-i-tema-4-ejercicio-4-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas Ejemplo matriz asociada a aplicación lineal
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Tema 4. Ejercicio 3 - Alfonso Rosa</title>
+      <link>/blog/2013/12/12/matematicas-para-la-empresa-i-tema-4-ejercicio-3-alfonso-rosa/</link>
+      <pubDate>Thu, 12 Dec 2013 11:50:57 +0000</pubDate>
+      
+      <guid>/blog/2013/12/12/matematicas-para-la-empresa-i-tema-4-ejercicio-3-alfonso-rosa/</guid>
+      <description>Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas Ejemplo núcleo de una aplicación lineal
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Tema 4. Ejercicio 2 - Alfonso Rosa</title>
+      <link>/blog/2013/12/12/matematicas-para-la-empresa-i-tema-4-ejercicio-2-alfonso-rosa/</link>
+      <pubDate>Thu, 12 Dec 2013 11:48:17 +0000</pubDate>
+      
+      <guid>/blog/2013/12/12/matematicas-para-la-empresa-i-tema-4-ejercicio-2-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas Ejemplo demostración de que una aplicación no es lineal
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Tema 4. Ejercicio 1 - Alfonso Rosa</title>
+      <link>/blog/2013/12/12/matematicas-para-la-empresa-i-tema-4-ejercicio-1-alfonso-rosa/</link>
+      <pubDate>Thu, 12 Dec 2013 11:47:19 +0000</pubDate>
+      
+      <guid>/blog/2013/12/12/matematicas-para-la-empresa-i-tema-4-ejercicio-1-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Ejemplo- Demostración de que una aplicación es lineal
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Tema 3. Ejercicio 3 - Alfonso Rosa</title>
+      <link>/blog/2013/12/03/matematicas-para-la-empresa-i-tema-3-ejercicio-3-alfonso-rosa/</link>
+      <pubDate>Tue, 03 Dec 2013 12:12:43 +0000</pubDate>
+      
+      <guid>/blog/2013/12/03/matematicas-para-la-empresa-i-tema-3-ejercicio-3-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Problema. Método Gauss-Jordan
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Tema 2. Ejercicio 7 - Alfonso Rosa</title>
+      <link>/blog/2013/11/18/matematicas-para-la-empresa-i-tema-2-ejercicio-7-alfonso-rosa/</link>
+      <pubDate>Mon, 18 Nov 2013 16:36:35 +0000</pubDate>
+      
+      <guid>/blog/2013/11/18/matematicas-para-la-empresa-i-tema-2-ejercicio-7-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Problema. Matriz inversa
   </description>
     </item>
     

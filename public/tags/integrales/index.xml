@@ -1,27 +1,70 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>integrales on Uvide</title>
+    <title>integrales on Unitube</title>
     <link>/tags/integrales/</link>
-    <description>Recent content in integrales on Uvide</description>
+    <description>Recent content in integrales on Unitube</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Fri, 14 Feb 2014 23:56:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2015 10:01:17 +0000</lastBuildDate>
     
 	<atom:link href="/tags/integrales/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Cálculo de áreas más complejas II | 18/21 | UPV</title>
-      <link>/blog/2014/02/14/calculo-de-areas-mas-complejas-ii-18-21-upv-1/</link>
-      <pubDate>Fri, 14 Feb 2014 23:56:47 +0000</pubDate>
+      <title>Matemáticas para la empresa II - Ejemplo: Integrales Impropias de Primera Especie - Alfonso Rosa</title>
+      <link>/blog/2015/05/11/matematicas-para-la-empresa-ii-ejemplo-integrales-impropias-de-primera-especie-alfonso-rosa/</link>
+      <pubDate>Mon, 11 May 2015 10:01:17 +0000</pubDate>
       
-      <guid>/blog/2014/02/14/calculo-de-areas-mas-complejas-ii-18-21-upv-1/</guid>
-      <description>Título: Cálculo de áreas más complejas II
-Autor/a: Guirao Sánchez Antonio José
-Curso: Este vídeo es el 18&amp;frasl;21 del curso MOOC Bases matemáticas: Integrales | Universitat Politècnica de València (UPV). https://www.youtube.com/playlist?list=PL6kQim6ljTJtRVxA17U3QgmYKNlzAaQYP
-Inscríbete en: https://upvx.es/courses/course-v1:edxorg+bases-matematicas-integrales+bmi101x-0/about
- Universitat Politècnica de València UPV: https://www.upv.es Más vídeos en: https://www.youtube.com/valenciaupv Accede a nuestros MOOC: https://upvx.es    </description>
+      <guid>/blog/2015/05/11/matematicas-para-la-empresa-ii-ejemplo-integrales-impropias-de-primera-especie-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas Integrales Impropias de Primera Especie
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la empresa II - Ejemplo: Integrales con una función Beta - Alfonso Rosa</title>
+      <link>/blog/2015/05/11/matematicas-para-la-empresa-ii-ejemplo-integrales-con-una-funcion-beta-alfonso-rosa/</link>
+      <pubDate>Mon, 11 May 2015 10:01:17 +0000</pubDate>
+      
+      <guid>/blog/2015/05/11/matematicas-para-la-empresa-ii-ejemplo-integrales-con-una-funcion-beta-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresa Integrales con una función Beta
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la empresa II - Ejemplo: Integrales con una función Gamma - Alfonso Rosa</title>
+      <link>/blog/2015/05/11/matematicas-para-la-empresa-ii-ejemplo-integrales-con-una-funcion-gamma-alfonso-rosa/</link>
+      <pubDate>Mon, 11 May 2015 10:01:17 +0000</pubDate>
+      
+      <guid>/blog/2015/05/11/matematicas-para-la-empresa-ii-ejemplo-integrales-con-una-funcion-gamma-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas Integrales con una función Gamma
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la empresa II - Integrales Impropias de Segunda Especie - Alfonso Rosa</title>
+      <link>/blog/2015/05/11/matematicas-para-la-empresa-ii-integrales-impropias-de-segunda-especie-alfonso-rosa/</link>
+      <pubDate>Mon, 11 May 2015 10:01:17 +0000</pubDate>
+      
+      <guid>/blog/2015/05/11/matematicas-para-la-empresa-ii-integrales-impropias-de-segunda-especie-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas Integrales Impropias de Segunda Especie
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Tema 7. Ejercicio 2 - Alfonso Rosa</title>
+      <link>/blog/2014/05/29/matematicas-para-la-empresa-ii-tema-7-ejercicio-2-alfonso-rosa/</link>
+      <pubDate>Thu, 29 May 2014 08:30:25 +0000</pubDate>
+      
+      <guid>/blog/2014/05/29/matematicas-para-la-empresa-ii-tema-7-ejercicio-2-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Costes totales desde los costes marginales
+  </description>
     </item>
     
     <item>

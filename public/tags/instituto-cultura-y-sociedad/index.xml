@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>instituto cultura y sociedad on Unitube</title>
+    <link>/tags/instituto-cultura-y-sociedad/</link>
+    <description>Recent content in instituto cultura y sociedad on Unitube</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 27 Mar 2017 13:25:13 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/instituto-cultura-y-sociedad/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Big Data: ¿cómo lo usan los investigadores y las grandes empresas?</title>
+      <link>/blog/2017/03/27/big-data-como-lo-usan-los-investigadores-y-las-grandes-empresas/</link>
+      <pubDate>Mon, 27 Mar 2017 13:25:13 +0000</pubDate>
+      
+      <guid>/blog/2017/03/27/big-data-como-lo-usan-los-investigadores-y-las-grandes-empresas/</guid>
+      <description>La Unidad de Estadística del Instituto Cultura y Sociedad (ICS) y la Facultad de Económicas de la Universidad de Navarra organizaron el 24 de marzo de 2017 la I Jornada de Big Data. Participaron expertos del Instituto Vasco de Estadística (EUSTAT), la consultora EY Barcelona y la sede de Londres de la consultora Everis. A lo largo del evento se analizó el Big Data como herramienta para la investigación, además de realizar un taller práctico de análisis y uso por parte de usuarios y empresas.</description>
+    </item>
+    
+  </channel>
+</rss>

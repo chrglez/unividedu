@@ -1,15 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>tasas on Uvide</title>
+    <title>tasas on Unitube</title>
     <link>/tags/tasas/</link>
-    <description>Recent content in tasas on Uvide</description>
+    <description>Recent content in tasas on Unitube</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Thu, 21 Mar 2013 07:31:55 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2015 08:30:36 +0000</lastBuildDate>
     
 	<atom:link href="/tags/tasas/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ejercicio 4 descriptiva examen 13/7/15</title>
+      <link>/blog/2015/09/28/ejercicio-4-descriptiva-examen-13-7-15/</link>
+      <pubDate>Mon, 28 Sep 2015 08:30:36 +0000</pubDate>
+      
+      <guid>/blog/2015/09/28/ejercicio-4-descriptiva-examen-13-7-15/</guid>
+      <description>Series temporales, tasas
+  </description>
+    </item>
     
     <item>
       <title>umh1263 2012-13 Lec009. Práctica Números índice simples</title>

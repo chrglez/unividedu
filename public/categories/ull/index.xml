@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ULL on Unitube</title>
+    <link>/categories/ull/</link>
+    <description>Recent content in ULL on Unitube</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 30 Mar 2016 13:42:49 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/ull/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Estadística I ADE ULL</title>
+      <link>/blog/2016/03/30/estadistica-i-ade-ull/</link>
+      <pubDate>Wed, 30 Mar 2016 13:42:49 +0000</pubDate>
+      
+      <guid>/blog/2016/03/30/estadistica-i-ade-ull/</guid>
+      <description>Ejemplo de visualización de la relación entre dos variables cualitativas en la web del ISTAC y descarga en excel.
+  </description>
+    </item>
+    
+    <item>
+      <title>Usando la calculadora en Estadística: Media y desviación típica</title>
+      <link>/blog/2016/01/13/usando-la-calculadora-en-estadistica-media-y-desviacion-tipica/</link>
+      <pubDate>Wed, 13 Jan 2016 09:11:39 +0000</pubDate>
+      
+      <guid>/blog/2016/01/13/usando-la-calculadora-en-estadistica-media-y-desviacion-tipica/</guid>
+      <description>El objetivo de este video es que sirva de guía para usar una calculadora en calculos sencillos estadísticos. Media y desviación típica.
+Creative Commons: Reconocimiento - No Comercial - Compartir Igual (CC BY NC SA).
+http://creativecommons.org/licenses/by-nc-sa/4.0/deed.es_ES
+  </description>
+    </item>
+    
+    <item>
+      <title>Domingo J Lorenzo ejemplo uso numeros indices</title>
+      <link>/blog/2014/03/25/domingo-j-lorenzo-ejemplo-uso-numeros-indices/</link>
+      <pubDate>Tue, 25 Mar 2014 21:05:31 +0000</pubDate>
+      
+      <guid>/blog/2014/03/25/domingo-j-lorenzo-ejemplo-uso-numeros-indices/</guid>
+      <description>Ejemplo de uso de números índices para comparar series de magnitudes económicas medidas en unidades o escalas diferentes.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

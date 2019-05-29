@@ -1,15 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Asimetría on Uvide</title>
+    <title>asimetría on Unitube</title>
     <link>/tags/asimetr%C3%ADa/</link>
-    <description>Recent content in Asimetría on Uvide</description>
+    <description>Recent content in asimetría on Unitube</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Tue, 19 Mar 2013 16:27:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2015 07:22:10 +0000</lastBuildDate>
     
 	<atom:link href="/tags/asimetr%C3%ADa/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ejercicio 3  descriptiva examen 13/7/15</title>
+      <link>/blog/2015/09/16/ejercicio-3-descriptiva-examen-13-7-15/</link>
+      <pubDate>Wed, 16 Sep 2015 07:22:10 +0000</pubDate>
+      
+      <guid>/blog/2015/09/16/ejercicio-3-descriptiva-examen-13-7-15/</guid>
+      <description>Medidas centrales, de forma e independencia
+  </description>
+    </item>
     
     <item>
       <title>Funciones Estadísticas en Excel - 06/07 - Forma</title>

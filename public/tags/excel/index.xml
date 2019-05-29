@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Excel on Uvide</title>
+    <title>Excel on Unitube</title>
     <link>/tags/excel/</link>
-    <description>Recent content in Excel on Uvide</description>
+    <description>Recent content in Excel on Unitube</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Sat, 20 Oct 2018 11:43:48 +0000</lastBuildDate>
@@ -22,12 +22,72 @@
     </item>
     
     <item>
+      <title>Activar análisis de datos</title>
+      <link>/blog/2017/03/01/activar-analisis-de-datos/</link>
+      <pubDate>Wed, 01 Mar 2017 09:37:48 +0000</pubDate>
+      
+      <guid>/blog/2017/03/01/activar-analisis-de-datos/</guid>
+      <description>Es un botón del menú de datos que en principio no aparece.
+  </description>
+    </item>
+    
+    <item>
       <title>El tratamiento de datos con Excel. Tablas dinámicas y power pivot</title>
       <link>/blog/2015/07/21/el-tratamiento-de-datos-con-excel-tablas-dinamicas-y-power-pivot/</link>
       <pubDate>Tue, 21 Jul 2015 12:13:05 +0000</pubDate>
       
       <guid>/blog/2015/07/21/el-tratamiento-de-datos-con-excel-tablas-dinamicas-y-power-pivot/</guid>
       <description>Realizamos un tratamiento de la información contable en Excel de tal forma que nos permita comparar datos reales con presupuestados, así como el tratamiento y preparación de los datos para que, partiendo de un libro diario, podamos obtener los estados financieros de la empresa. Encuentra más cursos sobre Excel en: http://www.cef.es/cursos-excel.html?web_origen=youtube
+  </description>
+    </item>
+    
+    <item>
+      <title>Asociación</title>
+      <link>/blog/2015/05/06/asociacion/</link>
+      <pubDate>Wed, 06 May 2015 11:43:47 +0000</pubDate>
+      
+      <guid>/blog/2015/05/06/asociacion/</guid>
+      <description>Resolución del ejercicio
+  </description>
+    </item>
+    
+    <item>
+      <title>Ejercicio 1 examen abril 2015</title>
+      <link>/blog/2015/04/30/ejercicio-1-examen-abril-2015/</link>
+      <pubDate>Thu, 30 Apr 2015 17:38:48 +0000</pubDate>
+      
+      <guid>/blog/2015/04/30/ejercicio-1-examen-abril-2015/</guid>
+      <description>Resolución del ejercicio
+  </description>
+    </item>
+    
+    <item>
+      <title>Ejercicio 3 examen abril 2015</title>
+      <link>/blog/2015/04/30/ejercicio-3-examen-abril-2015/</link>
+      <pubDate>Thu, 30 Apr 2015 11:43:19 +0000</pubDate>
+      
+      <guid>/blog/2015/04/30/ejercicio-3-examen-abril-2015/</guid>
+      <description>Resolución del ejercicio
+  </description>
+    </item>
+    
+    <item>
+      <title>Ejercicio 4 examen abril 2015</title>
+      <link>/blog/2015/04/30/ejercicio-4-examen-abril-2015/</link>
+      <pubDate>Thu, 30 Apr 2015 09:02:59 +0000</pubDate>
+      
+      <guid>/blog/2015/04/30/ejercicio-4-examen-abril-2015/</guid>
+      <description>Resolución del ejercicio
+  </description>
+    </item>
+    
+    <item>
+      <title>Ejercicio 2 examen abril 2015</title>
+      <link>/blog/2015/04/29/ejercicio-2-examen-abril-2015/</link>
+      <pubDate>Wed, 29 Apr 2015 11:35:59 +0000</pubDate>
+      
+      <guid>/blog/2015/04/29/ejercicio-2-examen-abril-2015/</guid>
+      <description>Resolución del ejercicio
   </description>
     </item>
     
@@ -39,28 +99,6 @@
       <guid>/blog/2014/03/07/teoria-de-juegos-de-suma-cero-con-estrategias-mixtas-con-hojas-de-calculo-caso-practico/</guid>
       <description>Nota: Poner en formato HD para una mejor visualización pinchando sobre el icono de configuración del vídeo (engranaje). Resolución de este tipo de problemas con ayuda del complemento solver de las hojas de cálculo. Profesor: Fco. David de la Peña Esteban. Universidad a Distancia de Madrid. Udima.
   </description>
-    </item>
-    
-    <item>
-      <title>umh5030 2013-14 Lec001 Conceptos Básicos con Excel. (1/2)</title>
-      <link>/blog/2013/05/17/umh5030-2013-14-lec001-conceptos-basicos-con-excel-1-2/</link>
-      <pubDate>Fri, 17 May 2013 12:01:15 +0000</pubDate>
-      
-      <guid>/blog/2013/05/17/umh5030-2013-14-lec001-conceptos-basicos-con-excel-1-2/</guid>
-      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/13cxLxh
-Conceptos Básicos con Excel (1&amp;frasl;2). Asignatura: Matemática Financiera II. Licenciado en Ciencias Actuariales y Financieras. Profesor: José Manuel Brotons Martínez. Dpto. de Estudios Económicos y Financieros. Área de Economía Financiera y Contabilidad. Proyecto PLE 2013. Universidad Miguel Hernández de Elche.
-Conceptos Financieros introductorios con Excel. Se plantean las nociones básicas para usar el Excel en el ámbito de las Matemáticas Financieras.</description>
-    </item>
-    
-    <item>
-      <title>umh5030 2013-14 Lec002 Conceptos Básicos con excel. (2/2)</title>
-      <link>/blog/2013/05/17/umh5030-2013-14-lec002-conceptos-basicos-con-excel-2-2/</link>
-      <pubDate>Fri, 17 May 2013 11:56:58 +0000</pubDate>
-      
-      <guid>/blog/2013/05/17/umh5030-2013-14-lec002-conceptos-basicos-con-excel-2-2/</guid>
-      <description>Más vídeos de la colección en el siguiente link: http://bit.ly/13cxLxh
-Conceptos Básicos con Excel (2&amp;frasl;2). Asignatura: Matemática Financiera II. Licenciado en Ciencias Actuariales y Financieras. Profesor: José Manuel Brotons Martínez. Dpto. de Estudios Económicos y Financieros. Área de Economía Financiera y Contabilidad. Proyecto PLE 2013. Universidad Miguel Hernández de Elche.
-Es continuacion de la lección 1: Conceptos Financieros introductorios con Excel. Se plantean las nociones básicas para usar el Excel en el ámbito de las Matemáticas Financieras.</description>
     </item>
     
     <item>

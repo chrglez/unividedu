@@ -1,15 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Distribución condicionada on Uvide</title>
+    <title>distribución condicionada on Unitube</title>
     <link>/tags/distribuci%C3%B3n-condicionada/</link>
-    <description>Recent content in Distribución condicionada on Uvide</description>
+    <description>Recent content in distribución condicionada on Unitube</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Fri, 22 Feb 2013 14:18:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Mar 2016 08:25:22 +0000</lastBuildDate>
     
 	<atom:link href="/tags/distribuci%C3%B3n-condicionada/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Análisis de datos para muestras condicionadas</title>
+      <link>/blog/2016/03/16/analisis-de-datos-para-muestras-condicionadas/</link>
+      <pubDate>Wed, 16 Mar 2016 08:25:22 +0000</pubDate>
+      
+      <guid>/blog/2016/03/16/analisis-de-datos-para-muestras-condicionadas/</guid>
+      <description>Realización de todos los estadísticos separando la muestra según una condición
+  </description>
+    </item>
     
     <item>
       <title>Teoria - Estadistica Basica - Introduccion - Bivariante</title>

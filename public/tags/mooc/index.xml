@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>mooc on Uvide</title>
+    <title>mooc on Unitube</title>
     <link>/tags/mooc/</link>
-    <description>Recent content in mooc on Uvide</description>
+    <description>Recent content in mooc on Unitube</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Thu, 23 Mar 2017 10:52:38 +0000</lastBuildDate>
@@ -28,17 +28,6 @@
       
       <guid>/blog/2016/10/24/relacion-multivariante-cuantitativa-tipos-y-criterios-de-eleccion-urjcx/</guid>
       <description>Tema 2: Análisis y visualización de datos multivariantes Apartado 2.1: Relación multivariante cuantitativa. Tipos y criterios de elección. MOOC: MOOC Técnicas de análisis de datos y big data (URJCx107) URJCx: Abiertos al conocimiento www.urjcx.urjc.es www.online.urjc.es www.urjc.es
-  </description>
-    </item>
-    
-    <item>
-      <title>GRETL. La econometría, modelo de regresión lineal simple (URJCx)</title>
-      <link>/blog/2016/10/20/gretl-la-econometria-1/</link>
-      <pubDate>Thu, 20 Oct 2016 12:50:21 +0000</pubDate>
-      
-      <guid>/blog/2016/10/20/gretl-la-econometria-1/</guid>
-      <description>Tema 3: Técnicas econométricas (modelización y predicción) Apartado 3.1: GRETL. La econometría, modelo de regresión lineal simple
-MOOC: MOOC Técnicas de análisis de datos y big data (URJCx107) URJCx: Abiertos al conocimiento www.urjcx.urjc.es www.online.urjc.es www.urjc.es
   </description>
     </item>
     
@@ -108,17 +97,6 @@ MOOC: MOOC Técnicas de análisis de datos y big data (URJCx107) URJCx: Abiertos
     
     <item>
       <title>Modelo de regresión lineal múltiple (URJCx)</title>
-      <link>/blog/2016/10/20/modelo-de-regresion-lineal-multiple-urjcx-1/</link>
-      <pubDate>Thu, 20 Oct 2016 12:50:20 +0000</pubDate>
-      
-      <guid>/blog/2016/10/20/modelo-de-regresion-lineal-multiple-urjcx-1/</guid>
-      <description>Tema 3: Técnicas econométricas (modelización y predicción) Apartado 3.2: Modelo de regresión lineal múltiple
-MOOC: MOOC Técnicas de análisis de datos y big data (URJCx107) URJCx: Abiertos al conocimiento www.urjcx.urjc.es www.online.urjc.es www.urjc.es
-  </description>
-    </item>
-    
-    <item>
-      <title>Modelo de regresión lineal múltiple (URJCx)</title>
       <link>/blog/2016/10/20/modelo-de-regresion-lineal-multiple-urjcx/</link>
       <pubDate>Thu, 20 Oct 2016 12:50:20 +0000</pubDate>
       
@@ -135,17 +113,6 @@ MOOC: MOOC Técnicas de análisis de datos y big data (URJCx107) URJCx: Abiertos
       
       <guid>/blog/2016/10/20/analisis-univariante-urjcx/</guid>
       <description>Tema 1: Análisis y visualización de datos univariantes Apartado 1.2: Análisis exploratorio de datos Análisis univariante MOOC: MOOC Técnicas de análisis de datos y big data (URJCx107) URJCx: Abiertos al conocimiento www.urjcx.urjc.es www.online.urjc.es www.urjc.es
-  </description>
-    </item>
-    
-    <item>
-      <title>Series Temporales (I)(URJCx)</title>
-      <link>/blog/2016/10/20/series-temporales-iurjcx-1/</link>
-      <pubDate>Thu, 20 Oct 2016 12:50:19 +0000</pubDate>
-      
-      <guid>/blog/2016/10/20/series-temporales-iurjcx-1/</guid>
-      <description>Tema 3: Técnicas econométricas (modelización y predicción) Apartado 3.3: Series temporales
-MOOC: MOOC Técnicas de análisis de datos y big data (URJCx107) URJCx: Abiertos al conocimiento www.urjcx.urjc.es www.online.urjc.es www.urjc.es
   </description>
     </item>
     
@@ -180,6 +147,24 @@ MOOC: MOOC Técnicas de análisis de datos y big data (URJCx107) URJCx: Abiertos
     </item>
     
     <item>
+      <title>9.4 Diagramas de caja</title>
+      <link>/blog/2016/09/22/94-diagramas-de-caja/</link>
+      <pubDate>Thu, 22 Sep 2016 12:53:05 +0000</pubDate>
+      
+      <guid>/blog/2016/09/22/94-diagramas-de-caja/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>9.1 Frecuencias</title>
+      <link>/blog/2016/09/22/91-frecuencias/</link>
+      <pubDate>Thu, 22 Sep 2016 12:52:07 +0000</pubDate>
+      
+      <guid>/blog/2016/09/22/91-frecuencias/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
       <title>2.4 Rectas de regresión y transformaciones logarítmicas</title>
       <link>/blog/2016/09/22/24-rectas-de-regresion-y-transformaciones-logaritmicas/</link>
       <pubDate>Thu, 22 Sep 2016 12:51:51 +0000</pubDate>
@@ -189,11 +174,56 @@ MOOC: MOOC Técnicas de análisis de datos y big data (URJCx107) URJCx: Abiertos
     </item>
     
     <item>
+      <title>12.5 Streamgraphs</title>
+      <link>/blog/2016/09/22/125-streamgraphs/</link>
+      <pubDate>Thu, 22 Sep 2016 12:51:36 +0000</pubDate>
+      
+      <guid>/blog/2016/09/22/125-streamgraphs/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
       <title>2.3 Formas básicas de lectura de datos externos</title>
       <link>/blog/2016/09/22/23-formas-basicas-de-lectura-de-datos-externos/</link>
       <pubDate>Thu, 22 Sep 2016 12:51:05 +0000</pubDate>
       
       <guid>/blog/2016/09/22/23-formas-basicas-de-lectura-de-datos-externos/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>10.1 Matrices de datos cuantitativos</title>
+      <link>/blog/2016/09/22/101-matrices-de-datos-cuantitativos/</link>
+      <pubDate>Thu, 22 Sep 2016 12:50:52 +0000</pubDate>
+      
+      <guid>/blog/2016/09/22/101-matrices-de-datos-cuantitativos/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>11.3 Histogramas</title>
+      <link>/blog/2016/09/22/113-histogramas/</link>
+      <pubDate>Thu, 22 Sep 2016 12:50:14 +0000</pubDate>
+      
+      <guid>/blog/2016/09/22/113-histogramas/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>11.2 Estadísticos para datos agrupados</title>
+      <link>/blog/2016/09/22/112-estadisticos-para-datos-agrupados/</link>
+      <pubDate>Thu, 22 Sep 2016 12:50:03 +0000</pubDate>
+      
+      <guid>/blog/2016/09/22/112-estadisticos-para-datos-agrupados/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>8.1 Datos ordinales</title>
+      <link>/blog/2016/09/22/81-datos-ordinales/</link>
+      <pubDate>Thu, 22 Sep 2016 12:49:49 +0000</pubDate>
+      
+      <guid>/blog/2016/09/22/81-datos-ordinales/</guid>
       <description>   </description>
     </item>
     
@@ -225,6 +255,33 @@ MOOC: MOOC Técnicas de análisis de datos y big data (URJCx107) URJCx: Abiertos
     </item>
     
     <item>
+      <title>11.1 Agrupamiento de datos con R</title>
+      <link>/blog/2016/09/22/111-agrupamiento-de-datos-con-r/</link>
+      <pubDate>Thu, 22 Sep 2016 12:48:43 +0000</pubDate>
+      
+      <guid>/blog/2016/09/22/111-agrupamiento-de-datos-con-r/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>9.2 Medidas de tendencia central y de posición</title>
+      <link>/blog/2016/09/22/92-medidas-de-tendencia-central-y-de-posicion/</link>
+      <pubDate>Thu, 22 Sep 2016 12:48:24 +0000</pubDate>
+      
+      <guid>/blog/2016/09/22/92-medidas-de-tendencia-central-y-de-posicion/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>9.3 Medidas de dispersión</title>
+      <link>/blog/2016/09/22/93-medidas-de-dispersion/</link>
+      <pubDate>Thu, 22 Sep 2016 12:48:08 +0000</pubDate>
+      
+      <guid>/blog/2016/09/22/93-medidas-de-dispersion/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
       <title>7.1 Tablas unidimensionales de frecuencias</title>
       <link>/blog/2016/09/22/71-tablas-unidimensionales-de-frecuencias/</link>
       <pubDate>Thu, 22 Sep 2016 12:47:52 +0000</pubDate>
@@ -239,6 +296,87 @@ MOOC: MOOC Técnicas de análisis de datos y big data (URJCx107) URJCx: Abiertos
       <pubDate>Thu, 22 Sep 2016 12:47:37 +0000</pubDate>
       
       <guid>/blog/2016/09/22/72-tablas-bidimensionales-de-frecuencias/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>7.3 Tablas multidimensionales de frecuencias</title>
+      <link>/blog/2016/09/22/73-tablas-multidimensionales-de-frecuencias/</link>
+      <pubDate>Thu, 22 Sep 2016 12:47:21 +0000</pubDate>
+      
+      <guid>/blog/2016/09/22/73-tablas-multidimensionales-de-frecuencias/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>7.4 Tablas  de frecuencias a partir de data frames</title>
+      <link>/blog/2016/09/22/74-tablas-de-frecuencias-a-partir-de-data-frames/</link>
+      <pubDate>Thu, 22 Sep 2016 12:47:05 +0000</pubDate>
+      
+      <guid>/blog/2016/09/22/74-tablas-de-frecuencias-a-partir-de-data-frames/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>7.5 Diagramas de barras</title>
+      <link>/blog/2016/09/22/75-diagramas-de-barras/</link>
+      <pubDate>Thu, 22 Sep 2016 12:46:47 +0000</pubDate>
+      
+      <guid>/blog/2016/09/22/75-diagramas-de-barras/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>7.6 Otros graficos basicos para datos cualitativos</title>
+      <link>/blog/2016/09/22/76-otros-graficos-basicos-para-datos-cualitativos/</link>
+      <pubDate>Thu, 22 Sep 2016 12:46:31 +0000</pubDate>
+      
+      <guid>/blog/2016/09/22/76-otros-graficos-basicos-para-datos-cualitativos/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>12.4 Nubes de palabras (&#34;bubbles&#34;)</title>
+      <link>/blog/2016/09/22/124-nubes-de-palabras-bubbles/</link>
+      <pubDate>Thu, 22 Sep 2016 12:44:58 +0000</pubDate>
+      
+      <guid>/blog/2016/09/22/124-nubes-de-palabras-bubbles/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>12.2 Mapas de colores (&#34;Heatmaps&#34;)</title>
+      <link>/blog/2016/09/22/122-mapas-de-colores-heatmaps/</link>
+      <pubDate>Thu, 22 Sep 2016 12:44:44 +0000</pubDate>
+      
+      <guid>/blog/2016/09/22/122-mapas-de-colores-heatmaps/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>12.3 Dendrogramas</title>
+      <link>/blog/2016/09/22/123-dendrogramas/</link>
+      <pubDate>Thu, 22 Sep 2016 12:44:14 +0000</pubDate>
+      
+      <guid>/blog/2016/09/22/123-dendrogramas/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>10.3 Representación gráfica de datos multidimensionales</title>
+      <link>/blog/2016/09/22/103-representacion-grafica-de-datos-multidimensionales/</link>
+      <pubDate>Thu, 22 Sep 2016 12:43:58 +0000</pubDate>
+      
+      <guid>/blog/2016/09/22/103-representacion-grafica-de-datos-multidimensionales/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>10.2 Covarianzas y correlaciones</title>
+      <link>/blog/2016/09/22/102-covarianzas-y-correlaciones/</link>
+      <pubDate>Thu, 22 Sep 2016 12:43:40 +0000</pubDate>
+      
+      <guid>/blog/2016/09/22/102-covarianzas-y-correlaciones/</guid>
       <description>   </description>
     </item>
     
@@ -297,6 +435,15 @@ MOOC: MOOC Técnicas de análisis de datos y big data (URJCx107) URJCx: Abiertos
     </item>
     
     <item>
+      <title>Extra.2 Chunks</title>
+      <link>/blog/2016/07/29/extra2-chunks/</link>
+      <pubDate>Fri, 29 Jul 2016 12:33:57 +0000</pubDate>
+      
+      <guid>/blog/2016/07/29/extra2-chunks/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
       <title>4.1 Construcción de matrices</title>
       <link>/blog/2016/07/29/41-construccion-de-matrices/</link>
       <pubDate>Fri, 29 Jul 2016 12:33:08 +0000</pubDate>
@@ -351,11 +498,47 @@ MOOC: MOOC Técnicas de análisis de datos y big data (URJCx107) URJCx: Abiertos
     </item>
     
     <item>
+      <title>Extra.1 R markdown</title>
+      <link>/blog/2016/07/28/extra1-r-markdown/</link>
+      <pubDate>Thu, 28 Jul 2016 11:43:14 +0000</pubDate>
+      
+      <guid>/blog/2016/07/28/extra1-r-markdown/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Extra.3 Figuras en R markdown</title>
+      <link>/blog/2016/07/27/extra3-figuras-en-r-markdown/</link>
+      <pubDate>Wed, 27 Jul 2016 11:53:13 +0000</pubDate>
+      
+      <guid>/blog/2016/07/27/extra3-figuras-en-r-markdown/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
       <title>4.4 Álgebra matricial</title>
       <link>/blog/2016/07/27/44-%C3%A1lgebra-matricial/</link>
       <pubDate>Wed, 27 Jul 2016 11:52:19 +0000</pubDate>
       
       <guid>/blog/2016/07/27/44-%C3%A1lgebra-matricial/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Extra.4 Tablas en R markdown</title>
+      <link>/blog/2016/07/27/extra4-tablas-en-r-markdown/</link>
+      <pubDate>Wed, 27 Jul 2016 11:04:49 +0000</pubDate>
+      
+      <guid>/blog/2016/07/27/extra4-tablas-en-r-markdown/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>12.1 Nubes de palabras</title>
+      <link>/blog/2016/07/27/121-nubes-de-palabras/</link>
+      <pubDate>Wed, 27 Jul 2016 11:03:05 +0000</pubDate>
+      
+      <guid>/blog/2016/07/27/121-nubes-de-palabras/</guid>
       <description>   </description>
     </item>
     
@@ -531,35 +714,13 @@ MOOC: MOOC Técnicas de análisis de datos y big data (URJCx107) URJCx: Abiertos
     </item>
     
     <item>
-      <title>Análisis de la relación entre dos variables cualitativas. Chi cuadrado: significación Módulo 4</title>
-      <link>/blog/2013/11/07/analisis-de-la-relacion-entre-dos-variables-cualitativas-chi-cuadrado-significacion-modulo-4/</link>
-      <pubDate>Thu, 07 Nov 2013 21:24:08 +0000</pubDate>
+      <title>Curso MOOC UCAM. Análisis Estadístico con R. Epílogo</title>
+      <link>/blog/2013/11/22/curso-mooc-ucam-analisis-estadistico-con-r-epilogo/</link>
+      <pubDate>Fri, 22 Nov 2013 17:30:42 +0000</pubDate>
       
-      <guid>/blog/2013/11/07/analisis-de-la-relacion-entre-dos-variables-cualitativas-chi-cuadrado-significacion-modulo-4/</guid>
-      <description>Titulo curso: Estadística para investigadores, todo lo que siempre quiso saber y no se atrevió a preguntar
-Cursos Online Masivos y Abiertos de la Universidad de Salamanca.
-Breve info: Si alguna vez has tenido problemas con la estadística, este curso está hecho para ti. Es ideal para investigadores y alumnos que se encuentran cursando trabajos fin de grado, trabajos fin de máster o realizando la tesis y que quieren realizar un análisis cuantitativo en sus estudios.</description>
-    </item>
-    
-    <item>
-      <title>Análisis de relación entre dos variables cuantitativas: Coeficiente de regresión. Módulo 3</title>
-      <link>/blog/2013/11/07/analisis-de-relacion-entre-dos-variables-cuantitativas-coeficiente-de-regresion-modulo-3/</link>
-      <pubDate>Thu, 07 Nov 2013 21:23:50 +0000</pubDate>
-      
-      <guid>/blog/2013/11/07/analisis-de-relacion-entre-dos-variables-cuantitativas-coeficiente-de-regresion-modulo-3/</guid>
-      <description>Cursos Online Masivos y Abiertos de la Universidad de Salamanca.
-Titulo curso: Estadística para investigadores, todo lo que siempre quiso saber y no se atrevió a preguntar Si alguna vez has tenido problemas con la estadística, este curso está hecho para ti. Es ideal para investigadores y alumnos que se encuentran cursando trabajos fin de grado, trabajos fin de máster o realizando la tesis y que quieren realizar un análisis cuantitativo en sus estudios.</description>
-    </item>
-    
-    <item>
-      <title>Estadística descriptiva: Medidas de síntesis (II). Módulo 2</title>
-      <link>/blog/2013/11/07/estadistica-descriptiva-medidas-de-sintesis-ii-modulo-2/</link>
-      <pubDate>Thu, 07 Nov 2013 21:23:37 +0000</pubDate>
-      
-      <guid>/blog/2013/11/07/estadistica-descriptiva-medidas-de-sintesis-ii-modulo-2/</guid>
-      <description>Titulo curso: Estadística para investigadores, todo lo que siempre quiso saber y no se atrevió a preguntar
-Breve info: Si alguna vez has tenido problemas con la estadística, este curso está hecho para ti. Es ideal para investigadores y alumnos que se encuentran cursando trabajos fin de grado, trabajos fin de máster o realizando la tesis y que quieren realizar un análisis cuantitativo en sus estudios.
-Partimos sin nivel de conocimientos previos y está dirigido a todo el mundo que tenga inquietudes en la interpretación de datos estadísticos.</description>
+      <guid>/blog/2013/11/22/curso-mooc-ucam-analisis-estadistico-con-r-epilogo/</guid>
+      <description>Matricúlate gratis en: http://analisis-estadistico-r.appspot.com/course Jorge López Puga, profesor de la Universidad Católica de Murcia en el área de Psicología y Educación. Y profesor del MOOC Análisis estadístico con R Más info: http://www.ucam.edu/estudios/mooc
+  </description>
     </item>
     
     <item>
@@ -571,19 +732,6 @@ Partimos sin nivel de conocimientos previos y está dirigido a todo el mundo que
       <description>Titulo curso: Estadística para investigadores, todo lo que siempre quiso saber y no se atrevió a preguntar
 Cursos Online Masivos y Abiertos de la Universidad de Salamanca.
 Breve info: Si alguna vez has tenido problemas con la estadística, este curso está hecho para ti. Es ideal para investigadores y alumnos que se encuentran cursando trabajos fin de grado, trabajos fin de máster o realizando la tesis y que quieren realizar un análisis cuantitativo en sus estudios.</description>
-    </item>
-    
-    <item>
-      <title>Estadística Descriptiva: Tablas estadísticas y Tratamiento gráfico. Módulo 1</title>
-      <link>/blog/2013/11/07/estadistica-descriptiva-tablas-estadisticas-y-tratamiento-grafico-modulo-1/</link>
-      <pubDate>Thu, 07 Nov 2013 21:22:50 +0000</pubDate>
-      
-      <guid>/blog/2013/11/07/estadistica-descriptiva-tablas-estadisticas-y-tratamiento-grafico-modulo-1/</guid>
-      <description>USAL MOOC Cursos Online Masivos y Abiertos de la Universidad de Salamanca.
-Titulo curso: Estadística para investigadores, todo lo que siempre quiso saber y no se atrevió a preguntar
-Breve info: Si alguna vez has tenido problemas con la estadística, este curso está hecho para ti. Es ideal para
-investigadores y alumnos que se encuentran cursando trabajos fin de grado, trabajos fin de máster o realizando la
-tesis y que quieren realizar un análisis cuantitativo en sus estudios.</description>
     </item>
     
     <item>
@@ -610,58 +758,14 @@ Partimos sin nivel de conocimientos previos y está dirigido a todo el mundo que
     </item>
     
     <item>
-      <title>Test no paramétricos: Test de Wilcoxon. Módulo 6</title>
-      <link>/blog/2013/11/07/test-no-parametricos-test-de-wilcoxon-modulo-6/</link>
-      <pubDate>Thu, 07 Nov 2013 21:21:56 +0000</pubDate>
+      <title>Curso MOOC UCAM en MiriadaX · Bienvenido al curso</title>
+      <link>/blog/2013/10/09/curso-mooc-ucam-en-miriadax-bienvenido-al-curso/</link>
+      <pubDate>Wed, 09 Oct 2013 15:23:58 +0000</pubDate>
       
-      <guid>/blog/2013/11/07/test-no-parametricos-test-de-wilcoxon-modulo-6/</guid>
-      <description>Titulo curso: Estadística para investigadores, todo lo que siempre quiso saber y no se atrevió a preguntar
-Cursos Online Masivos y Abiertos de la Universidad de Salamanca.
-Breve info: Si alguna vez has tenido problemas con la estadística, este curso está hecho para ti. Es ideal para investigadores y alumnos que se encuentran cursando trabajos fin de grado, trabajos fin de máster o realizando la tesis y que quieren realizar un análisis cuantitativo en sus estudios.</description>
-    </item>
-    
-    <item>
-      <title>Test no paramétricos: U de Mann-Whitney. Módulo 6</title>
-      <link>/blog/2013/11/07/test-no-parametricos-u-de-mann-whitney-modulo-6/</link>
-      <pubDate>Thu, 07 Nov 2013 21:21:35 +0000</pubDate>
-      
-      <guid>/blog/2013/11/07/test-no-parametricos-u-de-mann-whitney-modulo-6/</guid>
-      <description>Titulo curso: Estadística para investigadores, todo lo que siempre quiso saber y no se atrevió a preguntar
-Cursos Online Masivos y Abiertos de la Universidad de Salamanca.
-Breve info: Si alguna vez has tenido problemas con la estadística, este curso está hecho para ti. Es ideal para investigadores y alumnos que se encuentran cursando trabajos fin de grado, trabajos fin de máster o realizando la tesis y que quieren realizar un análisis cuantitativo en sus estudios.</description>
-    </item>
-    
-    <item>
-      <title>Análisis de la relación entre dos variables cualitativas: Test Chi cuadrado. Módulo 4</title>
-      <link>/blog/2013/11/07/analisis-de-la-relacion-entre-dos-variables-cualitativas-test-chi-cuadrado-modulo-4/</link>
-      <pubDate>Thu, 07 Nov 2013 21:21:22 +0000</pubDate>
-      
-      <guid>/blog/2013/11/07/analisis-de-la-relacion-entre-dos-variables-cualitativas-test-chi-cuadrado-modulo-4/</guid>
-      <description>Titulo curso: Estadística para investigadores, todo lo que siempre quiso saber y no se atrevió a preguntar
-Cursos Online Masivos y Abiertos de la Universidad de Salamanca.
-Breve info: Si alguna vez has tenido problemas con la estadística, este curso está hecho para ti. Es ideal para investigadores y alumnos que se encuentran cursando trabajos fin de grado, trabajos fin de máster o realizando la tesis y que quieren realizar un análisis cuantitativo en sus estudios.</description>
-    </item>
-    
-    <item>
-      <title>Estadística Descriptiva: Medidas de Síntesis (I). Módulo 2</title>
-      <link>/blog/2013/11/07/estadistica-descriptiva-medidas-de-sintesis-i-modulo-2/</link>
-      <pubDate>Thu, 07 Nov 2013 21:20:55 +0000</pubDate>
-      
-      <guid>/blog/2013/11/07/estadistica-descriptiva-medidas-de-sintesis-i-modulo-2/</guid>
-      <description>USAL MOOC Cursos Online Masivos y Abiertos de la Universidad de Salamanca.
-Titulo curso: Estadística para investigadores, todo lo que siempre quiso saber y no se atrevió a preguntar
-Breve info: Si alguna vez has tenido problemas con la estadística, este curso está hecho para ti. Es ideal para investigadores y alumnos que se encuentran cursando trabajos fin de grado, trabajos fin de máster o realizando la tesis y que quieren realizar un análisis cuantitativo en sus estudios.</description>
-    </item>
-    
-    <item>
-      <title>Universidad de Salamanca (Dpto. Estadística) - La combinatoria</title>
-      <link>/blog/2013/10/08/universidad-de-salamanca-dpto-estadistica-la-combinatoria-1/</link>
-      <pubDate>Tue, 08 Oct 2013 07:56:48 +0000</pubDate>
-      
-      <guid>/blog/2013/10/08/universidad-de-salamanca-dpto-estadistica-la-combinatoria-1/</guid>
-      <description>Proyecto realizado para presentar los nuevos cursos en materia de estadística que ofrecerá la Universidad de Salamanca.
-Con Christian Moreno Dirección: Fran Duarte
-#usal #salamanca #combinatoria Cámara: José Luis Barea/ Fran Duarte Sonido: Alejandro Ruiz - Ricardo Ruiz
+      <guid>/blog/2013/10/09/curso-mooc-ucam-en-miriadax-bienvenido-al-curso/</guid>
+      <description>Apúntate gratis en: https://www.miriadax.net/web/curso-basico-economia https://www.miriadax.net/web/aprende-analisis-estadistico-datos-r
+El profesor Josep Martínez Polo de la Universidad Católica de Murcia nos recibe en los cursos MOOC de la UCAM en MiriadaX.
+Más info en: www.ucam.edu/estudios/mooc https://twitter.com/UCAM_MOOC mooc@ucam.edu
   </description>
     </item>
     

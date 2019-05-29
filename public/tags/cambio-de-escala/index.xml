@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cambio de escala on Unitube</title>
+    <link>/tags/cambio-de-escala/</link>
+    <description>Recent content in cambio de escala on Unitube</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 09 Mar 2016 08:34:24 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/cambio-de-escala/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Indice de Gini y efecto de un cambio de escala</title>
+      <link>/blog/2016/03/09/indice-de-gini-y-efecto-de-un-cambio-de-escala/</link>
+      <pubDate>Wed, 09 Mar 2016 08:34:24 +0000</pubDate>
+      
+      <guid>/blog/2016/03/09/indice-de-gini-y-efecto-de-un-cambio-de-escala/</guid>
+      <description>Realmente en este caso x*n es sustituido por la cantidad real acumulada en cada intervalo
+  </description>
+    </item>
+    
+    <item>
+      <title>Efectos de un cambio de origen y de escala sobre la varianza</title>
+      <link>/blog/2015/05/24/efectos-de-un-cambio-de-origen-y-de-escala-sobre-la-varianza/</link>
+      <pubDate>Sun, 24 May 2015 00:42:04 +0000</pubDate>
+      
+      <guid>/blog/2015/05/24/efectos-de-un-cambio-de-origen-y-de-escala-sobre-la-varianza/</guid>
+      <description>Efectos de un cambio de origen y de escala sobre la varianza
+  </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,26 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Integral Definida on Uvide</title>
+    <title>Integral Definida on Unitube</title>
     <link>/tags/integral-definida/</link>
-    <description>Recent content in Integral Definida on Uvide</description>
+    <description>Recent content in Integral Definida on Unitube</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Fri, 14 Feb 2014 23:53:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2015 07:38:16 +0000</lastBuildDate>
     
 	<atom:link href="/tags/integral-definida/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Cálculo de áreas complejas I | 17/21 | UPV</title>
-      <link>/blog/2014/02/14/calculo-de-areas-complejas-i-17-21-upv-1/</link>
-      <pubDate>Fri, 14 Feb 2014 23:53:43 +0000</pubDate>
+      <title>Matemáticas para la Empresa II - Integral Definida y sus Propiedades - Alfonso Rosa</title>
+      <link>/blog/2015/04/30/matematicas-para-la-empresa-ii-integral-definida-y-sus-propiedades-alfonso-rosa/</link>
+      <pubDate>Thu, 30 Apr 2015 07:38:16 +0000</pubDate>
       
-      <guid>/blog/2014/02/14/calculo-de-areas-complejas-i-17-21-upv-1/</guid>
-      <description>Título: Cálculo de áreas complejas I
-Descripción: En este polimedia se aborda el cálculo del área de regiones del plano cartesiano que están delimitadas por más de dos gráficas de funciones (continuas) reales de variable real. Se hace énfasis en la importancia de conocer la geometría de la región para el planteamiento adecuado de la resolución.
-Autor/a: Guirao Sánchez Antonio José
-Curso: Este vídeo es el 17&amp;frasl;21 del curso MOOC Bases matemáticas: Integrales | Universitat Politècnica de València (UPV).</description>
+      <guid>/blog/2015/04/30/matematicas-para-la-empresa-ii-integral-definida-y-sus-propiedades-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/i...
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: ADE Integral Definida y sus Propiedades
+  </description>
     </item>
     
     <item>

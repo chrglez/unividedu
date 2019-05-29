@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>vectores on Uvide</title>
+    <title>vectores on Unitube</title>
     <link>/tags/vectores/</link>
-    <description>Recent content in vectores on Uvide</description>
+    <description>Recent content in vectores on Unitube</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Tue, 30 Sep 2014 09:55:55 +0000</lastBuildDate>
@@ -21,6 +21,28 @@
 Álgebra lineal. Vectores. Asignatura: Matemáticas Grado en Administración y Dirección de Empresas. Campus de Orihuela. Profesor: Pedro Campillo Herrero. Dpto. de Estadística, Matemáticas e Informática. Área de Matemática Aplicada. Proyecto PLE. Universidad Miguel Hernández de Elche.
 Introducción a los vectores.
 web asignatura: http://umh0966.edu.umh.es
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Ejercicio 5. Ortogonalidad - Alfonso Rosa</title>
+      <link>/blog/2013/11/06/matematicas-para-la-empresa-i-ejercicio-5-ortogonalidad-alfonso-rosa/</link>
+      <pubDate>Wed, 06 Nov 2013 10:04:01 +0000</pubDate>
+      
+      <guid>/blog/2013/11/06/matematicas-para-la-empresa-i-ejercicio-5-ortogonalidad-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/a... Departamento: Facultad de Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas
+Resolución del problema. Ortogonalidad
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la empresa I - Tema 1. Lección 8 - Alfonso Rosa</title>
+      <link>/blog/2013/10/24/matematicas-para-la-empresa-i-tema-1-leccion-8-alfonso-rosa/</link>
+      <pubDate>Thu, 24 Oct 2013 12:19:42 +0000</pubDate>
+      
+      <guid>/blog/2013/10/24/matematicas-para-la-empresa-i-tema-1-leccion-8-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/a... Departamento: Facultad de Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas
+Norma o Módulo de un vector
   </description>
     </item>
     

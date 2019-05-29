@@ -1,60 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>docentic on Uvide</title>
+    <title>docentic on Unitube</title>
     <link>/tags/docentic/</link>
-    <description>Recent content in docentic on Uvide</description>
+    <description>Recent content in docentic on Unitube</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Thu, 12 Jun 2014 14:19:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Jun 2014 12:47:40 +0000</lastBuildDate>
     
 	<atom:link href="/tags/docentic/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Resultados II - Análisis de varianza factorial diseño mixto (ANOVA) (4/5)</title>
-      <link>/blog/2014/06/12/resultados-ii-analisis-de-varianza-factorial-diseno-mixto-anova-4-5/</link>
-      <pubDate>Thu, 12 Jun 2014 14:19:04 +0000</pubDate>
-      
-      <guid>/blog/2014/06/12/resultados-ii-analisis-de-varianza-factorial-diseno-mixto-anova-4-5/</guid>
-      <description>Autor: Serra Añó, Pilar; Ponce Darós, María José; López Bueno, Laura; González Moreno, Luis Millán; García Massó, Xavier; Análisis de varianza factorial diseño mixto (ANOVA) ; Data: 2014; Resum: Cuarto vídeo de una serie de cinco, donde se muestra la ejecución del análisis de varianza con el programa estadístico SPSS para comprobar diferencia de medias entre k condiciones, teniendo factores intra y entre sujetos, en el área de las ciencias de la salud; Producció:SFPIE (www.</description>
-    </item>
-    
-    <item>
-      <title>Resultados I - Análisis de varianza factorial diseño mixto (ANOVA) (3/5)</title>
-      <link>/blog/2014/06/12/resultados-i-analisis-de-varianza-factorial-diseno-mixto-anova-3-5/</link>
-      <pubDate>Thu, 12 Jun 2014 14:15:50 +0000</pubDate>
-      
-      <guid>/blog/2014/06/12/resultados-i-analisis-de-varianza-factorial-diseno-mixto-anova-3-5/</guid>
-      <description>Autor: Serra Añó, Pilar; Ponce Darós, María José; López Bueno, Laura; González Moreno, Luis Millán; García Massó, Xavier; Análisis de varianza factorial diseño mixto (ANOVA) ; Data: 2014; Resum: Tercer vídeo de una serie de cinco, donde se muestra la ejecución del análisis de varianza con el programa estadístico SPSS para comprobar diferencia de medias entre k condiciones, teniendo factores intra y entre sujetos, en el área de las ciencias de la salud; Producció:SFPIE (www.</description>
-    </item>
-    
-    <item>
-      <title>Escritura Resultados - Análisis de varianza factorial diseño mixto (ANOVA) (5/5)</title>
-      <link>/blog/2014/06/12/escritura-resultados-analisis-de-varianza-factorial-diseno-mixto-anova-5-5/</link>
-      <pubDate>Thu, 12 Jun 2014 14:15:18 +0000</pubDate>
-      
-      <guid>/blog/2014/06/12/escritura-resultados-analisis-de-varianza-factorial-diseno-mixto-anova-5-5/</guid>
-      <description>Autor: Serra Añó, Pilar; Ponce Darós, María José; López Bueno, Laura; González Moreno, Luis Millán; García Massó, Xavier; Análisis de varianza factorial diseño mixto (ANOVA) ;Data: 2014; Resum: Último vídeo de una serie de cinco, donde se muestra la ejecución del análisis de varianza con el programa estadístico SPSS para comprobar diferencia de medias entre k condiciones, teniendo factores intra y entre sujetos, en el área de las ciencias de la salud; Producció:SFPIE (www.</description>
-    </item>
-    
-    <item>
-      <title>Introducción - Análisis de varianza factorial diseño mixto (ANOVA) (1/5)</title>
-      <link>/blog/2014/06/12/introduccion-analisis-de-varianza-factorial-diseno-mixto-anova-1-5/</link>
-      <pubDate>Thu, 12 Jun 2014 14:14:30 +0000</pubDate>
-      
-      <guid>/blog/2014/06/12/introduccion-analisis-de-varianza-factorial-diseno-mixto-anova-1-5/</guid>
-      <description>Autor: Serra Añó, Pilar; Ponce Darós, María José; López Bueno, Laura; González Moreno, Luis Millán; García Massó, Xavier; Análisis de varianza factorial diseño mixto (ANOVA) ; Data: 2014; Resum: Primer vídeo de una serie de cinco, donde se muestra la ejecución del análisis de varianza con el programa estadístico SPSS para comprobar diferencia de medias entre k condiciones, teniendo factores intra y entre sujetos, en el área de las ciencias de la salud; Producció:SFPIE (www.</description>
-    </item>
-    
-    <item>
-      <title>Ejecución - Análisis de varianza factorial diseño mixto (ANOVA) (2/5)</title>
-      <link>/blog/2014/06/12/ejecucion-analisis-de-varianza-factorial-diseno-mixto-anova-2-5/</link>
-      <pubDate>Thu, 12 Jun 2014 14:13:15 +0000</pubDate>
-      
-      <guid>/blog/2014/06/12/ejecucion-analisis-de-varianza-factorial-diseno-mixto-anova-2-5/</guid>
-      <description>Autor: Serra Añó, Pilar; Ponce Darós, María José; López Bueno, Laura; González Moreno, Luis Millán; García Massó, Xavier; Análisis de varianza factorial diseño mixto (ANOVA) ; Data: 2014; Resum: Segundo vídeo de una serie de cinco, donde se muestra la ejecución del análisis de varianza con el programa estadístico SPSS para comprobar diferencia de medias entre k condiciones, teniendo factores intra y entre sujetos, en el área de las ciencias de la salud; Producció:SFPIE (www.</description>
-    </item>
     
     <item>
       <title>Resultados - Análisis de varianza factorial medidas repetidas (ANOVA)</title>

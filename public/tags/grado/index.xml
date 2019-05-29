@@ -1,15 +1,51 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>grado on Uvide</title>
+    <title>grado on Unitube</title>
     <link>/tags/grado/</link>
-    <description>Recent content in grado on Uvide</description>
+    <description>Recent content in grado on Unitube</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Wed, 04 Sep 2013 10:41:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 May 2014 11:42:12 +0000</lastBuildDate>
     
 	<atom:link href="/tags/grado/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Tema 7. Ejercicio 1 - Alfonso Rosa</title>
+      <link>/blog/2014/05/26/matematicas-para-la-empresa-ii-tema-7-ejercicio-1-alfonso-rosa/</link>
+      <pubDate>Mon, 26 May 2014 11:42:12 +0000</pubDate>
+      
+      <guid>/blog/2014/05/26/matematicas-para-la-empresa-ii-tema-7-ejercicio-1-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Costes totales desde los costes marginales
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Tema 6. Ejercicio 2 - Alfonso Rosa</title>
+      <link>/blog/2014/05/26/matematicas-para-la-empresa-ii-tema-6-ejercicio-2-alfonso-rosa/</link>
+      <pubDate>Mon, 26 May 2014 11:41:48 +0000</pubDate>
+      
+      <guid>/blog/2014/05/26/matematicas-para-la-empresa-ii-tema-6-ejercicio-2-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Convergencia y divergencia de series
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Tema 6. Ejercicio 1 - Alfonso Rosa</title>
+      <link>/blog/2014/05/26/matematicas-para-la-empresa-ii-tema-6-ejercicio-1-alfonso-rosa/</link>
+      <pubDate>Mon, 26 May 2014 11:41:16 +0000</pubDate>
+      
+      <guid>/blog/2014/05/26/matematicas-para-la-empresa-ii-tema-6-ejercicio-1-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Series aritméticas y geométricas
+  </description>
+    </item>
     
     <item>
       <title>Vídeo Promocional del Grado en Estadística Empresarial. UMH. Elche</title>
@@ -51,16 +87,6 @@ TWITTER: https://twitter.com/universoexacto
       
       <guid>/blog/2011/05/24/leccion-calculo-de-la-frecuencia-investigacion-educativa-unir/</guid>
       <description>Grado maestro primaria UNIR, universidad internacional de La Rioja http://www.unir.net
-  </description>
-    </item>
-    
-    <item>
-      <title>GRADO ADE - Lección: cálculo integral - Matemáticas economía - UNIR</title>
-      <link>/blog/2011/05/12/grado-ade-leccion-calculo-integral-matematicas-economia-unir-1/</link>
-      <pubDate>Thu, 12 May 2011 15:06:15 +0000</pubDate>
-      
-      <guid>/blog/2011/05/12/grado-ade-leccion-calculo-integral-matematicas-economia-unir-1/</guid>
-      <description>http://www.unir.net/grado-ade-administracion-direccion-empresas.aspx Nociones del cálculo integral. Profesor Ángel Ruíz Cueva. Matemática para la Economía ADE. Universidad Internacional de La Rioja
   </description>
     </item>
     

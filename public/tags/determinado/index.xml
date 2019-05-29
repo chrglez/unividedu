@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>determinado on Unitube</title>
+    <link>/tags/determinado/</link>
+    <description>Recent content in determinado on Unitube</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 21 Nov 2013 16:58:49 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/determinado/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Tema 3. Lección3 - Alfonso Rosa</title>
+      <link>/blog/2013/11/21/matematicas-para-la-empresa-i-tema-3-leccion3-alfonso-rosa/</link>
+      <pubDate>Thu, 21 Nov 2013 16:58:49 +0000</pubDate>
+      
+      <guid>/blog/2013/11/21/matematicas-para-la-empresa-i-tema-3-leccion3-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Discusión de un sistema lineal.
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Tema 3. Lección 2 - Alfonso Rosa</title>
+      <link>/blog/2013/11/21/matematicas-para-la-empresa-i-tema-3-leccion-2-alfonso-rosa/</link>
+      <pubDate>Thu, 21 Nov 2013 16:57:38 +0000</pubDate>
+      
+      <guid>/blog/2013/11/21/matematicas-para-la-empresa-i-tema-3-leccion-2-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Soluciones de un sistema de ecuaciones lineales.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

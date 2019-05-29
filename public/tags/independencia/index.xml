@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>independencia on Unitube</title>
+    <link>/tags/independencia/</link>
+    <description>Recent content in independencia on Unitube</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 16 Sep 2015 07:22:10 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/independencia/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ejercicio 3  descriptiva examen 13/7/15</title>
+      <link>/blog/2015/09/16/ejercicio-3-descriptiva-examen-13-7-15/</link>
+      <pubDate>Wed, 16 Sep 2015 07:22:10 +0000</pubDate>
+      
+      <guid>/blog/2015/09/16/ejercicio-3-descriptiva-examen-13-7-15/</guid>
+      <description>Medidas centrales, de forma e independencia
+  </description>
+    </item>
+    
+    <item>
+      <title>Ejercicio 4.26 pág. 104</title>
+      <link>/blog/2015/05/25/ejercicio-426-pag-104/</link>
+      <pubDate>Mon, 25 May 2015 18:52:40 +0000</pubDate>
+      
+      <guid>/blog/2015/05/25/ejercicio-426-pag-104/</guid>
+      <description>independencia, covarianza, correlación
+  </description>
+    </item>
+    
+    <item>
+      <title>Ejercicio 1 pág 110</title>
+      <link>/blog/2015/05/24/ejercicio-1-pag-110/</link>
+      <pubDate>Sun, 24 May 2015 15:07:05 +0000</pubDate>
+      
+      <guid>/blog/2015/05/24/ejercicio-1-pag-110/</guid>
+      <description>Probabilidades
+  </description>
+    </item>
+    
+    <item>
+      <title>Fundamentos de Estadística - Independencia Estadística - Conchi Pérez</title>
+      <link>/blog/2014/10/16/fundamentos-de-estadistica-independencia-estadistica-conchi-perez/</link>
+      <pubDate>Thu, 16 Oct 2014 14:04:22 +0000</pubDate>
+      
+      <guid>/blog/2014/10/16/fundamentos-de-estadistica-independencia-estadistica-conchi-perez/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: Administración y Dirección de Empresas Online
+  </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -32,8 +32,33 @@ yt <- yt_todas %>%
   filter(!is.na(enlace)) %>%
   mutate(d_segundos = duracion - lubridate::ymd_hms("1899-12-30 00:00:00"))
 
+# Hay universidades en la base de datos que tienen NA en el
+# acrom. Las siguientes líneas de cñodigo es para asignarle
+# valor a esos NA en función del nombre de la universidad
+
+uni_na <- yt %>%
+  filter(is.na(acrom)) %>%
+  group_by(nombre) %>%
+  summarise(n = n()) %>%
+  `[[`(1)
+
+mapped_uni <- c('Deusto', 'UEV', 'UMH', 'UNED', 'UPM')
+
+yt_copia <- yt
+
+for (i in 1:5) {
+  yt[yt$nombre == uni_na[i],'acrom'] <- mapped_uni[i]
+}
+
+post <- c()
+for (i in 1:5) {
+  pos <- which(yt$nombre == uni_na[i])
+  post <- c(post, pos)
+}
+
+post <- c(post,501:nrow(yt))
 #set.seed(1234)
-yt_filtered <- yt %>% slice(452:500) %>% select(acrom, enlace)
+yt_filtered <- yt %>% slice(post) %>% select(acrom, enlace)
 #yt_filtered <- yt %>% select(acrom, enlace)
 
 new_yt <- read_excel("C:/Users/arama/Documents/proyectos/unividedu data/Base de datos_revisión.xlsx") %>%

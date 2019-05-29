@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>aprende análisis de datos con r on Unitube</title>
+    <link>/tags/aprende-an%C3%A1lisis-de-datos-con-r/</link>
+    <description>Recent content in aprende análisis de datos con r on Unitube</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 09 Oct 2013 15:23:58 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/aprende-an%C3%A1lisis-de-datos-con-r/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Curso MOOC UCAM en MiriadaX · Bienvenido al curso</title>
+      <link>/blog/2013/10/09/curso-mooc-ucam-en-miriadax-bienvenido-al-curso/</link>
+      <pubDate>Wed, 09 Oct 2013 15:23:58 +0000</pubDate>
+      
+      <guid>/blog/2013/10/09/curso-mooc-ucam-en-miriadax-bienvenido-al-curso/</guid>
+      <description>Apúntate gratis en: https://www.miriadax.net/web/curso-basico-economia https://www.miriadax.net/web/aprende-analisis-estadistico-datos-r
+El profesor Josep Martínez Polo de la Universidad Católica de Murcia nos recibe en los cursos MOOC de la UCAM en MiriadaX.
+Más info en: www.ucam.edu/estudios/mooc https://twitter.com/UCAM_MOOC mooc@ucam.edu
+  </description>
+    </item>
+    
+  </channel>
+</rss>

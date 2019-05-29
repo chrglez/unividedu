@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>formación online on Uvide</title>
+    <title>formación online on Unitube</title>
     <link>/tags/formaci%C3%B3n-online/</link>
-    <description>Recent content in formación online on Uvide</description>
+    <description>Recent content in formación online on Unitube</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Mon, 24 Oct 2016 12:43:07 +0000</lastBuildDate>
@@ -18,17 +18,6 @@
       
       <guid>/blog/2016/10/24/relacion-multivariante-cuantitativa-tipos-y-criterios-de-eleccion-urjcx/</guid>
       <description>Tema 2: Análisis y visualización de datos multivariantes Apartado 2.1: Relación multivariante cuantitativa. Tipos y criterios de elección. MOOC: MOOC Técnicas de análisis de datos y big data (URJCx107) URJCx: Abiertos al conocimiento www.urjcx.urjc.es www.online.urjc.es www.urjc.es
-  </description>
-    </item>
-    
-    <item>
-      <title>GRETL. La econometría, modelo de regresión lineal simple (URJCx)</title>
-      <link>/blog/2016/10/20/gretl-la-econometria-1/</link>
-      <pubDate>Thu, 20 Oct 2016 12:50:21 +0000</pubDate>
-      
-      <guid>/blog/2016/10/20/gretl-la-econometria-1/</guid>
-      <description>Tema 3: Técnicas econométricas (modelización y predicción) Apartado 3.1: GRETL. La econometría, modelo de regresión lineal simple
-MOOC: MOOC Técnicas de análisis de datos y big data (URJCx107) URJCx: Abiertos al conocimiento www.urjcx.urjc.es www.online.urjc.es www.urjc.es
   </description>
     </item>
     
@@ -98,17 +87,6 @@ MOOC: MOOC Técnicas de análisis de datos y big data (URJCx107) URJCx: Abiertos
     
     <item>
       <title>Modelo de regresión lineal múltiple (URJCx)</title>
-      <link>/blog/2016/10/20/modelo-de-regresion-lineal-multiple-urjcx-1/</link>
-      <pubDate>Thu, 20 Oct 2016 12:50:20 +0000</pubDate>
-      
-      <guid>/blog/2016/10/20/modelo-de-regresion-lineal-multiple-urjcx-1/</guid>
-      <description>Tema 3: Técnicas econométricas (modelización y predicción) Apartado 3.2: Modelo de regresión lineal múltiple
-MOOC: MOOC Técnicas de análisis de datos y big data (URJCx107) URJCx: Abiertos al conocimiento www.urjcx.urjc.es www.online.urjc.es www.urjc.es
-  </description>
-    </item>
-    
-    <item>
-      <title>Modelo de regresión lineal múltiple (URJCx)</title>
       <link>/blog/2016/10/20/modelo-de-regresion-lineal-multiple-urjcx/</link>
       <pubDate>Thu, 20 Oct 2016 12:50:20 +0000</pubDate>
       
@@ -125,17 +103,6 @@ MOOC: MOOC Técnicas de análisis de datos y big data (URJCx107) URJCx: Abiertos
       
       <guid>/blog/2016/10/20/analisis-univariante-urjcx/</guid>
       <description>Tema 1: Análisis y visualización de datos univariantes Apartado 1.2: Análisis exploratorio de datos Análisis univariante MOOC: MOOC Técnicas de análisis de datos y big data (URJCx107) URJCx: Abiertos al conocimiento www.urjcx.urjc.es www.online.urjc.es www.urjc.es
-  </description>
-    </item>
-    
-    <item>
-      <title>Series Temporales (I)(URJCx)</title>
-      <link>/blog/2016/10/20/series-temporales-iurjcx-1/</link>
-      <pubDate>Thu, 20 Oct 2016 12:50:19 +0000</pubDate>
-      
-      <guid>/blog/2016/10/20/series-temporales-iurjcx-1/</guid>
-      <description>Tema 3: Técnicas econométricas (modelización y predicción) Apartado 3.3: Series temporales
-MOOC: MOOC Técnicas de análisis de datos y big data (URJCx107) URJCx: Abiertos al conocimiento www.urjcx.urjc.es www.online.urjc.es www.urjc.es
   </description>
     </item>
     

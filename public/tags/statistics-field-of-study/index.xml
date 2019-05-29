@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Statistics (Field Of Study) on Unitube</title>
+    <link>/tags/statistics-field-of-study/</link>
+    <description>Recent content in Statistics (Field Of Study) on Unitube</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 19 Oct 2015 10:12:11 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/statistics-field-of-study/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cálculo de media aritmética con tabla estadística</title>
+      <link>/blog/2015/10/19/calculo-de-media-aritmetica-con-tabla-estadistica/</link>
+      <pubDate>Mon, 19 Oct 2015 10:12:11 +0000</pubDate>
+      
+      <guid>/blog/2015/10/19/calculo-de-media-aritmetica-con-tabla-estadistica/</guid>
+      <description>Cálculo de media aritmética con tabla estadística. Uso de la marca de clase para tablas hechas por intervalos.
+  </description>
+    </item>
+    
+    <item>
+      <title>La moda</title>
+      <link>/blog/2015/10/19/la-moda/</link>
+      <pubDate>Mon, 19 Oct 2015 09:42:36 +0000</pubDate>
+      
+      <guid>/blog/2015/10/19/la-moda/</guid>
+      <description>La moda: concepto, propiedades y cálculo según tipo de datos.
+  </description>
+    </item>
+    
+    <item>
+      <title>Ejercicio 4 examen 8/6/15</title>
+      <link>/blog/2015/06/14/ejercicio-4-examen-8-6-15/</link>
+      <pubDate>Sun, 14 Jun 2015 23:20:33 +0000</pubDate>
+      
+      <guid>/blog/2015/06/14/ejercicio-4-examen-8-6-15/</guid>
+      <description>Distribución continua bidimensional
+  </description>
+    </item>
+    
+  </channel>
+</rss>

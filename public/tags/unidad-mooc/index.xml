@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>unidad mooc on Unitube</title>
+    <link>/tags/unidad-mooc/</link>
+    <description>Recent content in unidad mooc on Unitube</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 22 Nov 2013 17:30:42 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/unidad-mooc/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Curso MOOC UCAM. Análisis Estadístico con R. Epílogo</title>
+      <link>/blog/2013/11/22/curso-mooc-ucam-analisis-estadistico-con-r-epilogo/</link>
+      <pubDate>Fri, 22 Nov 2013 17:30:42 +0000</pubDate>
+      
+      <guid>/blog/2013/11/22/curso-mooc-ucam-analisis-estadistico-con-r-epilogo/</guid>
+      <description>Matricúlate gratis en: http://analisis-estadistico-r.appspot.com/course Jorge López Puga, profesor de la Universidad Católica de Murcia en el área de Psicología y Educación. Y profesor del MOOC Análisis estadístico con R Más info: http://www.ucam.edu/estudios/mooc
+  </description>
+    </item>
+    
+    <item>
+      <title>Curso MOOC UCAM en MiriadaX · Bienvenido al curso</title>
+      <link>/blog/2013/10/09/curso-mooc-ucam-en-miriadax-bienvenido-al-curso/</link>
+      <pubDate>Wed, 09 Oct 2013 15:23:58 +0000</pubDate>
+      
+      <guid>/blog/2013/10/09/curso-mooc-ucam-en-miriadax-bienvenido-al-curso/</guid>
+      <description>Apúntate gratis en: https://www.miriadax.net/web/curso-basico-economia https://www.miriadax.net/web/aprende-analisis-estadistico-datos-r
+El profesor Josep Martínez Polo de la Universidad Católica de Murcia nos recibe en los cursos MOOC de la UCAM en MiriadaX.
+Más info en: www.ucam.edu/estudios/mooc https://twitter.com/UCAM_MOOC mooc@ucam.edu
+  </description>
+    </item>
+    
+  </channel>
+</rss>

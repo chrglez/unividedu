@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Probabilidad condicionada on Unitube</title>
+    <link>/tags/probabilidad-condicionada/</link>
+    <description>Recent content in Probabilidad condicionada on Unitube</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 07 Oct 2015 09:02:36 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/probabilidad-condicionada/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ejercicio 3 probabilidades examen 13/7/15</title>
+      <link>/blog/2015/10/07/ejercicio-3-probabilidades-examen-13-7-15/</link>
+      <pubDate>Wed, 07 Oct 2015 09:02:36 +0000</pubDate>
+      
+      <guid>/blog/2015/10/07/ejercicio-3-probabilidades-examen-13-7-15/</guid>
+      <description>Probabilidad condicionada
+  </description>
+    </item>
+    
+    <item>
+      <title>Ejercicio 3 pág 110 apdo 3 segunda parte</title>
+      <link>/blog/2015/05/21/ejercicio-3-pag-110-apdo-3-segunda-parte/</link>
+      <pubDate>Thu, 21 May 2015 09:09:11 +0000</pubDate>
+      
+      <guid>/blog/2015/05/21/ejercicio-3-pag-110-apdo-3-segunda-parte/</guid>
+      <description>probabilidad condicionada
+  </description>
+    </item>
+    
+  </channel>
+</rss>

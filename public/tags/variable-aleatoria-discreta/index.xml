@@ -1,26 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>variable aleatoria discreta on Uvide</title>
+    <title>variable aleatoria discreta on Unitube</title>
     <link>/tags/variable-aleatoria-discreta/</link>
-    <description>Recent content in variable aleatoria discreta on Uvide</description>
+    <description>Recent content in variable aleatoria discreta on Unitube</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Wed, 20 Jul 2016 11:44:02 +0000</lastBuildDate>
     
 	<atom:link href="/tags/variable-aleatoria-discreta/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Concepto de Variable Aleatoria</title>
-      <link>/blog/2016/07/20/concepto-de-variable-aleatoria-1/</link>
-      <pubDate>Wed, 20 Jul 2016 11:44:02 +0000</pubDate>
-      
-      <guid>/blog/2016/07/20/concepto-de-variable-aleatoria-1/</guid>
-      <description>Este minivideo introduce en muy pocos minutos el concepto de variable aleatoria. Sólo es preciso manejar elementos básicos de probabilidad. Por favor, haz &amp;ldquo;Me gusta&amp;rdquo; si este video te ha servido de ayuda y suscríbete a mi canal. Muchas gracias.
-Carlos Gamero Departamento de Estadística y Econometría Universidad de Málaga
-  </description>
-    </item>
     
     <item>
       <title>Concepto de Variable Aleatoria</title>

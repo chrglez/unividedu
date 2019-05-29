@@ -1,25 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Modelos Simultáneos on Uvide</title>
+    <title>Modelos Simultáneos on Unitube</title>
     <link>/tags/modelos-simult%C3%A1neos/</link>
-    <description>Recent content in Modelos Simultáneos on Uvide</description>
+    <description>Recent content in Modelos Simultáneos on Unitube</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Thu, 03 May 2018 16:54:13 +0000</lastBuildDate>
     
 	<atom:link href="/tags/modelos-simult%C3%A1neos/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>VIII MME Simultáneos</title>
-      <link>/blog/2018/05/03/viii-mme-simultaneos-1/</link>
-      <pubDate>Thu, 03 May 2018 16:54:13 +0000</pubDate>
-      
-      <guid>/blog/2018/05/03/viii-mme-simultaneos-1/</guid>
-      <description>VIII. MME Sistemas Simultáneos, estimación MC2E/TSLS por el Prof. Víctor Raúl López Ruiz de UCLM. Así la Econometría es más fácil.
-  </description>
-    </item>
     
     <item>
       <title>VIII MME Simultáneos</title>

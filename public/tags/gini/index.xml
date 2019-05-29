@@ -1,15 +1,43 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Gini on Uvide</title>
+    <title>Gini on Unitube</title>
     <link>/tags/gini/</link>
-    <description>Recent content in Gini on Uvide</description>
+    <description>Recent content in Gini on Unitube</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Tue, 22 Jan 2013 10:19:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Mar 2017 08:44:04 +0000</lastBuildDate>
     
 	<atom:link href="/tags/gini/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Curva de Lorenz e Índice de Gini por diferencias</title>
+      <link>/blog/2017/03/07/curva-de-lorenz-e-%C3%ADndice-de-gini-por-diferencias/</link>
+      <pubDate>Tue, 07 Mar 2017 08:44:04 +0000</pubDate>
+      
+      <guid>/blog/2017/03/07/curva-de-lorenz-e-%C3%ADndice-de-gini-por-diferencias/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Indice de Gini y efecto de un cambio de escala</title>
+      <link>/blog/2016/03/09/indice-de-gini-y-efecto-de-un-cambio-de-escala/</link>
+      <pubDate>Wed, 09 Mar 2016 08:34:24 +0000</pubDate>
+      
+      <guid>/blog/2016/03/09/indice-de-gini-y-efecto-de-un-cambio-de-escala/</guid>
+      <description>Realmente en este caso x*n es sustituido por la cantidad real acumulada en cada intervalo
+  </description>
+    </item>
+    
+    <item>
+      <title>Cálculo del índice de Gini con datos individuales</title>
+      <link>/blog/2015/12/21/calculo-del-indice-de-gini-con-datos-individuales/</link>
+      <pubDate>Mon, 21 Dec 2015 09:43:07 +0000</pubDate>
+      
+      <guid>/blog/2015/12/21/calculo-del-indice-de-gini-con-datos-individuales/</guid>
+      <description>   </description>
+    </item>
     
     <item>
       <title>Practica   Variable unidimensional continua   06/06   Medidas de concentración</title>

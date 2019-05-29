@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>funciones vectoriales on Uvide</title>
+    <title>funciones vectoriales on Unitube</title>
     <link>/tags/funciones-vectoriales/</link>
-    <description>Recent content in funciones vectoriales on Uvide</description>
+    <description>Recent content in funciones vectoriales on Unitube</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Mon, 17 Mar 2014 08:07:24 +0000</lastBuildDate>
@@ -13,13 +13,24 @@
     
     <item>
       <title>Matemáticas para la Empresa II - Tema 3. Ejercicio 4 - Alfonso Rosa</title>
-      <link>/blog/2014/03/17/matematicas-para-la-empresa-ii-tema-3.-ejercicio-4-alfonso-rosa/</link>
+      <link>/blog/2014/03/17/matematicas-para-la-empresa-ii-tema-3-ejercicio-4-alfonso-rosa/</link>
       <pubDate>Mon, 17 Mar 2014 08:07:24 +0000</pubDate>
       
-      <guid>/blog/2014/03/17/matematicas-para-la-empresa-ii-tema-3.-ejercicio-4-alfonso-rosa/</guid>
+      <guid>/blog/2014/03/17/matematicas-para-la-empresa-ii-tema-3-ejercicio-4-alfonso-rosa/</guid>
       <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
 Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
 Obtención del jacobiano
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II -  Tema 1. Lección 5 - Alfonso Rosa</title>
+      <link>/blog/2014/02/20/matematicas-para-la-empresa-ii-tema-1-leccion-5-alfonso-rosa/</link>
+      <pubDate>Thu, 20 Feb 2014 16:56:51 +0000</pubDate>
+      
+      <guid>/blog/2014/02/20/matematicas-para-la-empresa-ii-tema-1-leccion-5-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas Funciones vectoriales y composición
   </description>
     </item>
     

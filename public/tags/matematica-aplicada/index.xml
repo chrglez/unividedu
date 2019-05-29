@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>MATEMATICA APLICADA on Uvide</title>
+    <title>MATEMATICA APLICADA on Unitube</title>
     <link>/tags/matematica-aplicada/</link>
-    <description>Recent content in MATEMATICA APLICADA on Uvide</description>
+    <description>Recent content in MATEMATICA APLICADA on Unitube</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Thu, 06 Nov 2014 21:41:43 +0000</lastBuildDate>
@@ -55,18 +55,6 @@ Autor/a: Monreal Mengual Llucía
       <guid>/blog/2014/11/06/distribuciones-de-probabilidad-con-statgraphics-upv/</guid>
       <description>Título: Distribuciones de probabilidad con Statgraphics
 Descripción: En este objeto se muestra cómo utilizar el programa Statgraphics para obtener información de las principales distribuciones discretas, en particular, de las distribuciones Binomial y Poisson.Se indica cómo obtener probabilidades y valores críticos con dichas distribuciones.
-Autor/a: Monreal Mengual Llucía
- Universitat Politècnica de València UPV: https://www.upv.es Más vídeos en: https://www.youtube.com/valenciaupv Accede a nuestros MOOC: https://upvx.es    </description>
-    </item>
-    
-    <item>
-      <title>Regresion y correlacion con Statgraphics |  | UPV</title>
-      <link>/blog/2014/11/06/regresion-y-correlacion-con-statgraphics-upv-1/</link>
-      <pubDate>Thu, 06 Nov 2014 21:31:07 +0000</pubDate>
-      
-      <guid>/blog/2014/11/06/regresion-y-correlacion-con-statgraphics-upv-1/</guid>
-      <description>Título: Regresion y correlacion con Statgraphics
-Descripción: En este objeto se muestra cómo utilizar el programa Statgraphics para hacer regresión y correlación. Se indica cómo obtener el ajuste de dos variables a distintos modelos, obteniendo los parámetros del ajuste, comparándolos con el fin de elegir el mejor.
 Autor/a: Monreal Mengual Llucía
  Universitat Politècnica de València UPV: https://www.upv.es Más vídeos en: https://www.youtube.com/valenciaupv Accede a nuestros MOOC: https://upvx.es    </description>
     </item>
@@ -164,19 +152,6 @@ Curso: Este vídeo es el 2&amp;frasl;14 del curso MOOC Bases Matemáticas: Álge
     
     <item>
       <title>Integración por Partes. Herramienta fundamental II | 20/21 | UPV</title>
-      <link>/blog/2014/03/05/integracion-por-partes-herramienta-fundamental-ii-20-21-upv-1/</link>
-      <pubDate>Wed, 05 Mar 2014 20:45:47 +0000</pubDate>
-      
-      <guid>/blog/2014/03/05/integracion-por-partes-herramienta-fundamental-ii-20-21-upv-1/</guid>
-      <description>Título: Integración por Partes. Herramienta fundamental II
-Descripción: En este polimedia se explica la herramienta &amp;ldquo;Integración por partes&amp;rdquo; en el contexto del cálculo de primitivas de una funcion real de variable real. Se establecen los principios teóricos y se muestran ejemplos de aplicación.
-Autor/a: Guirao Sánchez Antonio José
-Curso: Este vídeo es el 20&amp;frasl;21 del curso MOOC Bases matemáticas: Integrales | Universitat Politècnica de València (UPV). https://www.youtube.com/playlist?list=PL6kQim6ljTJtRVxA17U3QgmYKNlzAaQYP
-Inscríbete en: https://upvx.es/courses/course-v1:edxorg+bases-matematicas-integrales+bmi101x-0/about</description>
-    </item>
-    
-    <item>
-      <title>Integración por Partes. Herramienta fundamental II | 20/21 | UPV</title>
       <link>/blog/2014/03/05/integracion-por-partes-herramienta-fundamental-ii-20-21-upv/</link>
       <pubDate>Wed, 05 Mar 2014 20:45:47 +0000</pubDate>
       
@@ -186,18 +161,6 @@ Descripción: En este polimedia se explica la herramienta &amp;ldquo;Integració
 Autor/a: Guirao Sánchez Antonio José
 Curso: Este vídeo es el 20&amp;frasl;21 del curso MOOC Bases matemáticas: Integrales | Universitat Politècnica de València (UPV). https://www.youtube.com/playlist?list=PL6kQim6ljTJtRVxA17U3QgmYKNlzAaQYP
 Inscríbete en: https://upvx.es/courses/course-v1:edxorg+bases-matematicas-integrales+bmi101x-0/about</description>
-    </item>
-    
-    <item>
-      <title>Cambio de variable os susticución. Herramienta fundamental I | 19/21 | UPV</title>
-      <link>/blog/2014/02/15/cambio-de-variable-os-susticucion-herramienta-fundamental-i-19-21-upv-1/</link>
-      <pubDate>Sat, 15 Feb 2014 00:04:13 +0000</pubDate>
-      
-      <guid>/blog/2014/02/15/cambio-de-variable-os-susticucion-herramienta-fundamental-i-19-21-upv-1/</guid>
-      <description>Título: Cambio de variable os susticución. Herramienta fundamental I
-Descripción: Este polimedia explica la herramienta &amp;ldquo;cambio de variable&amp;rdquo; dentro del contexto del calculo de primitivas de una función real de una variable real. Se explican los conceptos y procesos teóricos y se muestran ejemplos de apliación.
-Autor/a: Guirao Sánchez Antonio José
-Curso: Este vídeo es el 19&amp;frasl;21 del curso MOOC Bases matemáticas: Integrales | Universitat Politècnica de València (UPV). https://www.youtube.com/playlist?list=PL6kQim6ljTJtRVxA17U3QgmYKNlzAaQYP</description>
     </item>
     
     <item>
@@ -214,18 +177,6 @@ Curso: Este vídeo es el 19&amp;frasl;21 del curso MOOC Bases matemáticas: Inte
     
     <item>
       <title>Cálculo de áreas complejas I | 17/21 | UPV</title>
-      <link>/blog/2014/02/14/calculo-de-areas-complejas-i-17-21-upv-1/</link>
-      <pubDate>Fri, 14 Feb 2014 23:53:43 +0000</pubDate>
-      
-      <guid>/blog/2014/02/14/calculo-de-areas-complejas-i-17-21-upv-1/</guid>
-      <description>Título: Cálculo de áreas complejas I
-Descripción: En este polimedia se aborda el cálculo del área de regiones del plano cartesiano que están delimitadas por más de dos gráficas de funciones (continuas) reales de variable real. Se hace énfasis en la importancia de conocer la geometría de la región para el planteamiento adecuado de la resolución.
-Autor/a: Guirao Sánchez Antonio José
-Curso: Este vídeo es el 17&amp;frasl;21 del curso MOOC Bases matemáticas: Integrales | Universitat Politècnica de València (UPV).</description>
-    </item>
-    
-    <item>
-      <title>Cálculo de áreas complejas I | 17/21 | UPV</title>
       <link>/blog/2014/02/14/calculo-de-areas-complejas-i-17-21-upv/</link>
       <pubDate>Fri, 14 Feb 2014 23:53:43 +0000</pubDate>
       
@@ -238,36 +189,12 @@ Curso: Este vídeo es el 17&amp;frasl;21 del curso MOOC Bases matemáticas: Inte
     
     <item>
       <title>Distribución binomial |  | UPV</title>
-      <link>/blog/2011/09/26/distribucion-binomial-upv-1/</link>
-      <pubDate>Mon, 26 Sep 2011 23:35:02 +0000</pubDate>
-      
-      <guid>/blog/2011/09/26/distribucion-binomial-upv-1/</guid>
-      <description>Título: Distribución binomial
-Descripción: En este objeto se explican brevemente los aspectos más destacados de la distribución binomial: interés y ámbito de aplicación, principales características y cálculo de probabilidades asociado a una variable aleatoria que sigue una distribución binomal.
-Autor/a: Trujillo Guillen Macarena
- Universitat Politècnica de València UPV: https://www.upv.es Más vídeos en: https://www.youtube.com/valenciaupv Accede a nuestros MOOC: https://upvx.es    </description>
-    </item>
-    
-    <item>
-      <title>Distribución binomial |  | UPV</title>
       <link>/blog/2011/09/26/distribucion-binomial-upv/</link>
       <pubDate>Mon, 26 Sep 2011 23:35:02 +0000</pubDate>
       
       <guid>/blog/2011/09/26/distribucion-binomial-upv/</guid>
       <description>Título: Distribución binomial
 Descripción: En este objeto se explican brevemente los aspectos más destacados de la distribución binomial: interés y ámbito de aplicación, principales características y cálculo de probabilidades asociado a una variable aleatoria que sigue una distribución binomal.
-Autor/a: Trujillo Guillen Macarena
- Universitat Politècnica de València UPV: https://www.upv.es Más vídeos en: https://www.youtube.com/valenciaupv Accede a nuestros MOOC: https://upvx.es    </description>
-    </item>
-    
-    <item>
-      <title>Distribución normal |  | UPV</title>
-      <link>/blog/2011/09/26/distribucion-normal-upv-1/</link>
-      <pubDate>Mon, 26 Sep 2011 23:33:58 +0000</pubDate>
-      
-      <guid>/blog/2011/09/26/distribucion-normal-upv-1/</guid>
-      <description>Título: Distribución normal
-Descripción: En este objeto se explican brevemente los aspectos más destacados de la distribución normal: interés y ámbito de aplicación, principales características y cálculo de probabilidades asociado a una variable aleatoria que sigue una distribución normal.
 Autor/a: Trujillo Guillen Macarena
  Universitat Politècnica de València UPV: https://www.upv.es Más vídeos en: https://www.youtube.com/valenciaupv Accede a nuestros MOOC: https://upvx.es    </description>
     </item>

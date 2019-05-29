@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>archivos de código on Unitube</title>
+    <link>/tags/archivos-de-c%C3%B3digo/</link>
+    <description>Recent content in archivos de código on Unitube</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 25 Oct 2013 16:40:56 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/archivos-de-c%C3%B3digo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Curso MOOC UCAM. Análisis Estadístico con R. Módulo 3 parte 3</title>
+      <link>/blog/2013/10/25/curso-mooc-ucam-analisis-estadistico-con-r-modulo-3-parte-3/</link>
+      <pubDate>Fri, 25 Oct 2013 16:40:56 +0000</pubDate>
+      
+      <guid>/blog/2013/10/25/curso-mooc-ucam-analisis-estadistico-con-r-modulo-3-parte-3/</guid>
+      <description>Matricúlate gratis en: http://analisis-estadistico-r.appspot.com/course Jorge López Puga, profesor de la Universidad Católica de Murcia en el área de Psicología y Educación. Y profesor del MOOC Análisis estadístico con R Más info: http://www.ucam.edu/estudios/mooc
+  </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ejercicios on Unitube</title>
+    <link>/tags/ejercicios/</link>
+    <description>Recent content in ejercicios on Unitube</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 27 Apr 2015 11:33:16 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/ejercicios/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Convergencia y Divergencia de Sucesiones - Alfonso Rosa</title>
+      <link>/blog/2015/04/27/matematicas-para-la-empresa-ii-convergencia-y-divergencia-de-sucesiones-alfonso-rosa/</link>
+      <pubDate>Mon, 27 Apr 2015 11:33:16 +0000</pubDate>
+      
+      <guid>/blog/2015/04/27/matematicas-para-la-empresa-ii-convergencia-y-divergencia-de-sucesiones-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/informatica-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: ADE
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Ejercicio 2. Subespacios vectoriales - Alfonso Rosa</title>
+      <link>/blog/2013/11/04/matematicas-para-la-empresa-i-ejercicio-2-subespacios-vectoriales-alfonso-rosa/</link>
+      <pubDate>Mon, 04 Nov 2013 10:29:57 +0000</pubDate>
+      
+      <guid>/blog/2013/11/04/matematicas-para-la-empresa-i-ejercicio-2-subespacios-vectoriales-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/a... Departamento: Facultad de Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas
+Resolución del problema subespacios vectoriales
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Ejercicio 1. Independencia Lineal - Alfonso Rosa</title>
+      <link>/blog/2013/11/04/matematicas-para-la-empresa-i-ejercicio-1-independencia-lineal-alfonso-rosa/</link>
+      <pubDate>Mon, 04 Nov 2013 10:28:21 +0000</pubDate>
+      
+      <guid>/blog/2013/11/04/matematicas-para-la-empresa-i-ejercicio-1-independencia-lineal-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial Departamento: Facultad de Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas
+Resolución del problema independencia lineal
+  </description>
+    </item>
+    
+  </channel>
+</rss>

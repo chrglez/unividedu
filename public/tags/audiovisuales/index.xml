@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>audiovisuales on Unitube</title>
+    <link>/tags/audiovisuales/</link>
+    <description>Recent content in audiovisuales on Unitube</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 16 Feb 2015 07:43:28 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/audiovisuales/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>06. MUESTREO ESTADÍSTICO</title>
+      <link>/blog/2015/02/16/06-muestreo-estad%C3%ADstico/</link>
+      <pubDate>Mon, 16 Feb 2015 07:43:28 +0000</pubDate>
+      
+      <guid>/blog/2015/02/16/06-muestreo-estad%C3%ADstico/</guid>
+      <description> MUESTREO ESTADÍSTICO. Métodos y Técnicas de Investigación. Miguel Vicente Mariño. Universidad de Valladolid.    </description>
+    </item>
+    
+    <item>
+      <title>MEDIDAS DE CONCENTRACION</title>
+      <link>/blog/2014/07/09/medidas-de-concentracion/</link>
+      <pubDate>Wed, 09 Jul 2014 11:25:15 +0000</pubDate>
+      
+      <guid>/blog/2014/07/09/medidas-de-concentracion/</guid>
+      <description>MEDIDAS DE CONCENTRACIÓN. Estadística 1. Ursicino Carrascal Arranz. Universidad de Valladolid.
+  </description>
+    </item>
+    
+    <item>
+      <title>ESQUEMA MULTIPLICATIVO: DESESTACIONALIZACIÓN Y PREDICCION.</title>
+      <link>/blog/2014/05/07/esquema-multiplicativo-desestacionalizaci%C3%B3n-y-prediccion/</link>
+      <pubDate>Wed, 07 May 2014 07:05:29 +0000</pubDate>
+      
+      <guid>/blog/2014/05/07/esquema-multiplicativo-desestacionalizaci%C3%B3n-y-prediccion/</guid>
+      <description>ESQUEMA MULTIPLICATIVO: DESESTACIONALIZACIÓN Y PREDICCIÓN. Estadística 1. Ursicino Carrascal Arranz. Universidad de Valladolid.
+  </description>
+    </item>
+    
+    <item>
+      <title>ESQUEMA ADITIVO: DESESTACIONALIZACIÓN Y PREDICCIÓN.</title>
+      <link>/blog/2014/05/07/esquema-aditivo-desestacionalizaci%C3%B3n-y-predicci%C3%B3n/</link>
+      <pubDate>Wed, 07 May 2014 07:04:03 +0000</pubDate>
+      
+      <guid>/blog/2014/05/07/esquema-aditivo-desestacionalizaci%C3%B3n-y-predicci%C3%B3n/</guid>
+      <description>ESQUEMA ADITIVO: DESESTACIONALIZACIÓN Y PREDICCIÓN. Estadística 1. Ursicino Carrascal Arranz. Universidad de Valladolid.
+  </description>
+    </item>
+    
+    <item>
+      <title>EL COMPONENTE ESTACIONAL EN UN ESQUEMA MULTIPLICATIVO</title>
+      <link>/blog/2014/05/07/el-componente-estacional-en-un-esquema-multiplicativo/</link>
+      <pubDate>Wed, 07 May 2014 07:01:59 +0000</pubDate>
+      
+      <guid>/blog/2014/05/07/el-componente-estacional-en-un-esquema-multiplicativo/</guid>
+      <description>EL COMPONENTE ESTACIONAL EN UN ESQUEMA MULTIPLICATIVO. Estadística 1. Ursicino Carrascal Arranz. Universidad de Valladolid.
+  </description>
+    </item>
+    
+    <item>
+      <title>EL COMPONENTE ESTACIONAL EN UN ESQUEMA ADITIVO.</title>
+      <link>/blog/2014/05/07/el-componente-estacional-en-un-esquema-aditivo/</link>
+      <pubDate>Wed, 07 May 2014 07:00:43 +0000</pubDate>
+      
+      <guid>/blog/2014/05/07/el-componente-estacional-en-un-esquema-aditivo/</guid>
+      <description>EL COMPONENTE ESTACIONAL EN UN ESQUEMA ADITIVO. Estadística 1. Ursicino Carrascal Arranz. Universidad de Valladolid.
+  </description>
+    </item>
+    
+    <item>
+      <title>PRIMERA APROXIMACIÓN A LA TENDENCIA</title>
+      <link>/blog/2014/05/07/primera-aproximaci%C3%B3n-a-la-tendencia/</link>
+      <pubDate>Wed, 07 May 2014 06:59:04 +0000</pubDate>
+      
+      <guid>/blog/2014/05/07/primera-aproximaci%C3%B3n-a-la-tendencia/</guid>
+      <description>PRIMERA APROXIMACIÓN A LA TENDENCIA Estadística 1. Ursicino Carrascal Arranz. Universidad de Valladolid.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

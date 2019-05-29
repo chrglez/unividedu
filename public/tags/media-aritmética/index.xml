@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>media aritmética on Unitube</title>
+    <link>/tags/media-aritm%C3%A9tica/</link>
+    <description>Recent content in media aritmética on Unitube</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 19 Oct 2015 08:19:47 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/media-aritm%C3%A9tica/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Concepto y cálculo de la media aritmética</title>
+      <link>/blog/2015/10/19/concepto-y-calculo-de-la-media-aritmetica/</link>
+      <pubDate>Mon, 19 Oct 2015 08:19:47 +0000</pubDate>
+      
+      <guid>/blog/2015/10/19/concepto-y-calculo-de-la-media-aritmetica/</guid>
+      <description>media aritmética
+  </description>
+    </item>
+    
+  </channel>
+</rss>

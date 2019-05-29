@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>vigo on Unitube</title>
+    <link>/tags/vigo/</link>
+    <description>Recent content in vigo on Unitube</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 18 Jan 2012 05:44:36 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/vigo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Modelo de regresión lineal múltiple</title>
+      <link>/blog/2012/01/18/modelo-de-regresion-lineal-multiple/</link>
+      <pubDate>Wed, 18 Jan 2012 05:44:36 +0000</pubDate>
+      
+      <guid>/blog/2012/01/18/modelo-de-regresion-lineal-multiple/</guid>
+      <description>Modelo de regresión lineal múltiple - Modelo de regresión lineal múltiple
+En esta presentación se explica el modelo de regresión lineal múltiple, incluyendo su expresión matemática, y el porqué de su denominación. A continuación se trata la presentación del MRLM en álgebra ordinaria y en álgrebra matricial. Vídeo disponible en: http://tv.uvigo.es/gl/video/mm/11528.html
+  </description>
+    </item>
+    
+  </channel>
+</rss>

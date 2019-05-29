@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>típica on Unitube</title>
+    <link>/tags/t%C3%ADpica/</link>
+    <description>Recent content in típica on Unitube</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 11 May 2015 18:47:32 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/t%C3%ADpica/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cálculo de varianza y desviación típica</title>
+      <link>/blog/2015/05/11/calculo-de-varianza-y-desviacion-tipica/</link>
+      <pubDate>Mon, 11 May 2015 18:47:32 +0000</pubDate>
+      
+      <guid>/blog/2015/05/11/calculo-de-varianza-y-desviacion-tipica/</guid>
+      <description>varianza, desviación típica
+  </description>
+    </item>
+    
+    <item>
+      <title>Concepto de varianza y desviación típica</title>
+      <link>/blog/2015/05/11/concepto-de-varianza-y-desviacion-tipica/</link>
+      <pubDate>Mon, 11 May 2015 18:15:47 +0000</pubDate>
+      
+      <guid>/blog/2015/05/11/concepto-de-varianza-y-desviacion-tipica/</guid>
+      <description>desviación típica
+  </description>
+    </item>
+    
+  </channel>
+</rss>

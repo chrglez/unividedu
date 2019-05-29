@@ -1,27 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>malaga on Uvide</title>
+    <title>malaga on Unitube</title>
     <link>/tags/malaga/</link>
-    <description>Recent content in malaga on Uvide</description>
+    <description>Recent content in malaga on Unitube</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Tue, 08 Oct 2013 07:56:48 +0000</lastBuildDate>
     
 	<atom:link href="/tags/malaga/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Universidad de Salamanca (Dpto. Estadística) - La combinatoria</title>
-      <link>/blog/2013/10/08/universidad-de-salamanca-dpto-estadistica-la-combinatoria-1/</link>
-      <pubDate>Tue, 08 Oct 2013 07:56:48 +0000</pubDate>
-      
-      <guid>/blog/2013/10/08/universidad-de-salamanca-dpto-estadistica-la-combinatoria-1/</guid>
-      <description>Proyecto realizado para presentar los nuevos cursos en materia de estadística que ofrecerá la Universidad de Salamanca.
-Con Christian Moreno Dirección: Fran Duarte
-#usal #salamanca #combinatoria Cámara: José Luis Barea/ Fran Duarte Sonido: Alejandro Ruiz - Ricardo Ruiz
-  </description>
-    </item>
     
     <item>
       <title>Universidad de Salamanca (Dpto. Estadística) - La combinatoria</title>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Open edx on Uvide</title>
+    <title>Open edx on Unitube</title>
     <link>/tags/open-edx/</link>
-    <description>Recent content in Open edx on Uvide</description>
+    <description>Recent content in Open edx on Unitube</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Thu, 23 Mar 2017 10:52:38 +0000</lastBuildDate>

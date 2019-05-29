@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Calculadora on Unitube</title>
+    <link>/tags/calculadora/</link>
+    <description>Recent content in Calculadora on Unitube</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 13 Jan 2016 09:11:39 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/calculadora/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Usando la calculadora en Estadística: Media y desviación típica</title>
+      <link>/blog/2016/01/13/usando-la-calculadora-en-estadistica-media-y-desviacion-tipica/</link>
+      <pubDate>Wed, 13 Jan 2016 09:11:39 +0000</pubDate>
+      
+      <guid>/blog/2016/01/13/usando-la-calculadora-en-estadistica-media-y-desviacion-tipica/</guid>
+      <description>El objetivo de este video es que sirva de guía para usar una calculadora en calculos sencillos estadísticos. Media y desviación típica.
+Creative Commons: Reconocimiento - No Comercial - Compartir Igual (CC BY NC SA).
+http://creativecommons.org/licenses/by-nc-sa/4.0/deed.es_ES
+  </description>
+    </item>
+    
+  </channel>
+</rss>

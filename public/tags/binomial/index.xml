@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Binomial on Uvide</title>
+    <title>Binomial on Unitube</title>
     <link>/tags/binomial/</link>
-    <description>Recent content in Binomial on Uvide</description>
+    <description>Recent content in Binomial on Unitube</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Thu, 06 Nov 2014 21:34:17 +0000</lastBuildDate>
@@ -54,18 +54,6 @@ web asignatura: http://umh1263.edu.umh.es web: http://umh.es
       <guid>/blog/2013/05/07/teorema-central-del-li%CC%81mite-02-04/</guid>
       <description>A continuación se demuestra, mediante el uso del Excel, cómo la función de cuantía de la Distribución Binomial se asemeja a la función de densidad de la Distribución Normal de igual media y varianza que la Distribución Binomial de origen, cuando el tamaño muestral &amp;ldquo;n&amp;rdquo; es lo suficientemente grande.
   </description>
-    </item>
-    
-    <item>
-      <title>Distribución binomial |  | UPV</title>
-      <link>/blog/2011/09/26/distribucion-binomial-upv-1/</link>
-      <pubDate>Mon, 26 Sep 2011 23:35:02 +0000</pubDate>
-      
-      <guid>/blog/2011/09/26/distribucion-binomial-upv-1/</guid>
-      <description>Título: Distribución binomial
-Descripción: En este objeto se explican brevemente los aspectos más destacados de la distribución binomial: interés y ámbito de aplicación, principales características y cálculo de probabilidades asociado a una variable aleatoria que sigue una distribución binomal.
-Autor/a: Trujillo Guillen Macarena
- Universitat Politècnica de València UPV: https://www.upv.es Más vídeos en: https://www.youtube.com/valenciaupv Accede a nuestros MOOC: https://upvx.es    </description>
     </item>
     
     <item>

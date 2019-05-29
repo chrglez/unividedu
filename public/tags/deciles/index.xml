@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>deciles on Unitube</title>
+    <link>/tags/deciles/</link>
+    <description>Recent content in deciles on Unitube</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 16 Feb 2017 10:01:16 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/deciles/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Percentiles, deciles y cuartiles con tabla estadística</title>
+      <link>/blog/2017/02/16/percentiles/</link>
+      <pubDate>Thu, 16 Feb 2017 10:01:16 +0000</pubDate>
+      
+      <guid>/blog/2017/02/16/percentiles/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Cuartiles y percentiles con fórmulas Excel</title>
+      <link>/blog/2017/02/16/cuartiles-y-percentiles-con-formulas-excel/</link>
+      <pubDate>Thu, 16 Feb 2017 09:21:57 +0000</pubDate>
+      
+      <guid>/blog/2017/02/16/cuartiles-y-percentiles-con-formulas-excel/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Cuartiles, deciles y percentiles</title>
+      <link>/blog/2017/02/16/cuartiles/</link>
+      <pubDate>Thu, 16 Feb 2017 09:03:41 +0000</pubDate>
+      
+      <guid>/blog/2017/02/16/cuartiles/</guid>
+      <description>   </description>
+    </item>
+    
+  </channel>
+</rss>

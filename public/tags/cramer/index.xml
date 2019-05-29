@@ -1,15 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>cramer on Uvide</title>
+    <title>cramer on Unitube</title>
     <link>/tags/cramer/</link>
-    <description>Recent content in cramer on Uvide</description>
+    <description>Recent content in cramer on Unitube</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Wed, 25 Jun 2014 22:15:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Jul 2014 07:43:16 +0000</lastBuildDate>
     
 	<atom:link href="/tags/cramer/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Tema 3. Ejercicio 2 - Alfonso Rosa</title>
+      <link>/blog/2014/07/21/matematicas-para-la-empresa-i-tema-3-ejercicio-2-alfonso-rosa/</link>
+      <pubDate>Mon, 21 Jul 2014 07:43:16 +0000</pubDate>
+      
+      <guid>/blog/2014/07/21/matematicas-para-la-empresa-i-tema-3-ejercicio-2-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas Problemas. Regla de Cramer
+  </description>
+    </item>
     
     <item>
       <title>Regla de Cramer | 14/14 | UPV</title>
@@ -22,6 +33,18 @@ Autor/a: Herrero Debón Alicia
 Curso: Este vídeo es el 14&amp;frasl;14 del curso MOOC Bases Matemáticas: Álgebra | Universitat Politècnica de València (UPV). https://www.youtube.com/playlist?list=PL6kQim6ljTJtkMNu8kOYKCUhUdd_jDbMD
 Inscríbete en: https://upvx.es/courses/course-v1:edxorg+bases-matematicas-algebra+bma101x/about
  Universitat Politècnica de València UPV: https://www.upv.es Más vídeos en: https://www.youtube.com/valenciaupv Accede a nuestros MOOC: https://upvx.es    </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Tema 3. Lección 6 - Alfonso Rosa</title>
+      <link>/blog/2013/11/22/matematicas-para-la-empresa-i-tema-3-leccion-6-alfonso-rosa/</link>
+      <pubDate>Fri, 22 Nov 2013 10:28:24 +0000</pubDate>
+      
+      <guid>/blog/2013/11/22/matematicas-para-la-empresa-i-tema-3-leccion-6-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Resolución de sistemas compatibles indeterminados
+  </description>
     </item>
     
   </channel>

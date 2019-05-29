@@ -1,0 +1,632 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UVA on Unitube</title>
+    <link>/categories/uva/</link>
+    <description>Recent content in UVA on Unitube</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 16 May 2017 08:07:48 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/uva/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>1 Cálculo de densidades marginales</title>
+      <link>/blog/2017/05/16/1-calculo-de-densidades-marginales/</link>
+      <pubDate>Tue, 16 May 2017 08:07:48 +0000</pubDate>
+      
+      <guid>/blog/2017/05/16/1-calculo-de-densidades-marginales/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>2 Esperanzas marginales de X</title>
+      <link>/blog/2017/05/16/2-esperanzas-marginales-de-x/</link>
+      <pubDate>Tue, 16 May 2017 08:07:48 +0000</pubDate>
+      
+      <guid>/blog/2017/05/16/2-esperanzas-marginales-de-x/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>3 Esperanzas marginales de Y</title>
+      <link>/blog/2017/05/16/3-esperanzas-marginales-de-y/</link>
+      <pubDate>Tue, 16 May 2017 08:07:48 +0000</pubDate>
+      
+      <guid>/blog/2017/05/16/3-esperanzas-marginales-de-y/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>4 Covarianza entre X e Y</title>
+      <link>/blog/2017/05/16/4-covarianza-entre-x-e-y/</link>
+      <pubDate>Tue, 16 May 2017 08:07:48 +0000</pubDate>
+      
+      <guid>/blog/2017/05/16/4-covarianza-entre-x-e-y/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>5 Cálculo del coeficiente de correlación lineal</title>
+      <link>/blog/2017/05/16/5-calculo-del-coeficiente-de-correlacion-lineal/</link>
+      <pubDate>Tue, 16 May 2017 08:07:48 +0000</pubDate>
+      
+      <guid>/blog/2017/05/16/5-calculo-del-coeficiente-de-correlacion-lineal/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Curva de Lorenz e Índice de Gini por diferencias</title>
+      <link>/blog/2017/03/07/curva-de-lorenz-e-%C3%ADndice-de-gini-por-diferencias/</link>
+      <pubDate>Tue, 07 Mar 2017 08:44:04 +0000</pubDate>
+      
+      <guid>/blog/2017/03/07/curva-de-lorenz-e-%C3%ADndice-de-gini-por-diferencias/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Activar análisis de datos</title>
+      <link>/blog/2017/03/01/activar-analisis-de-datos/</link>
+      <pubDate>Wed, 01 Mar 2017 09:37:48 +0000</pubDate>
+      
+      <guid>/blog/2017/03/01/activar-analisis-de-datos/</guid>
+      <description>Es un botón del menú de datos que en principio no aparece.
+  </description>
+    </item>
+    
+    <item>
+      <title>Percentiles, deciles y cuartiles con tabla estadística</title>
+      <link>/blog/2017/02/16/percentiles/</link>
+      <pubDate>Thu, 16 Feb 2017 10:01:16 +0000</pubDate>
+      
+      <guid>/blog/2017/02/16/percentiles/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Diagrama de caja y bigotes</title>
+      <link>/blog/2017/02/16/diagrama-de-caja-y-bigotes/</link>
+      <pubDate>Thu, 16 Feb 2017 09:48:40 +0000</pubDate>
+      
+      <guid>/blog/2017/02/16/diagrama-de-caja-y-bigotes/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Cuartiles y percentiles con fórmulas Excel</title>
+      <link>/blog/2017/02/16/cuartiles-y-percentiles-con-formulas-excel/</link>
+      <pubDate>Thu, 16 Feb 2017 09:21:57 +0000</pubDate>
+      
+      <guid>/blog/2017/02/16/cuartiles-y-percentiles-con-formulas-excel/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Cuartiles, deciles y percentiles</title>
+      <link>/blog/2017/02/16/cuartiles/</link>
+      <pubDate>Thu, 16 Feb 2017 09:03:41 +0000</pubDate>
+      
+      <guid>/blog/2017/02/16/cuartiles/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Cálculo de las distintas frecuencias</title>
+      <link>/blog/2017/02/16/calculo-de-las-distintas-frecuencias/</link>
+      <pubDate>Thu, 16 Feb 2017 08:35:19 +0000</pubDate>
+      
+      <guid>/blog/2017/02/16/calculo-de-las-distintas-frecuencias/</guid>
+      <description>Frecuencia absoluta, relativa y acumuladas
+  </description>
+    </item>
+    
+    <item>
+      <title>Análisis de datos para muestras condicionadas</title>
+      <link>/blog/2016/03/16/analisis-de-datos-para-muestras-condicionadas/</link>
+      <pubDate>Wed, 16 Mar 2016 08:25:22 +0000</pubDate>
+      
+      <guid>/blog/2016/03/16/analisis-de-datos-para-muestras-condicionadas/</guid>
+      <description>Realización de todos los estadísticos separando la muestra según una condición
+  </description>
+    </item>
+    
+    <item>
+      <title>Indice de Gini y efecto de un cambio de escala</title>
+      <link>/blog/2016/03/09/indice-de-gini-y-efecto-de-un-cambio-de-escala/</link>
+      <pubDate>Wed, 09 Mar 2016 08:34:24 +0000</pubDate>
+      
+      <guid>/blog/2016/03/09/indice-de-gini-y-efecto-de-un-cambio-de-escala/</guid>
+      <description>Realmente en este caso x*n es sustituido por la cantidad real acumulada en cada intervalo
+  </description>
+    </item>
+    
+    <item>
+      <title>Tabla estadística con Excel</title>
+      <link>/blog/2016/02/22/tabla-estadistica-con-excel/</link>
+      <pubDate>Mon, 22 Feb 2016 12:46:38 +0000</pubDate>
+      
+      <guid>/blog/2016/02/22/tabla-estadistica-con-excel/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Cálculo del índice de Gini con datos individuales</title>
+      <link>/blog/2015/12/21/calculo-del-indice-de-gini-con-datos-individuales/</link>
+      <pubDate>Mon, 21 Dec 2015 09:43:07 +0000</pubDate>
+      
+      <guid>/blog/2015/12/21/calculo-del-indice-de-gini-con-datos-individuales/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Covarianza</title>
+      <link>/blog/2015/11/13/covarianza/</link>
+      <pubDate>Fri, 13 Nov 2015 10:02:05 +0000</pubDate>
+      
+      <guid>/blog/2015/11/13/covarianza/</guid>
+      <description>Descripción gráfica del concepto
+  </description>
+    </item>
+    
+    <item>
+      <title>Curva de Lorenz</title>
+      <link>/blog/2015/11/12/curva-de-lorenz/</link>
+      <pubDate>Thu, 12 Nov 2015 12:44:15 +0000</pubDate>
+      
+      <guid>/blog/2015/11/12/curva-de-lorenz/</guid>
+      <description>Análisis equidad
+  </description>
+    </item>
+    
+    <item>
+      <title>Diagrama de árbol y probabilidades condicionadas</title>
+      <link>/blog/2015/11/12/diagrama-de-arbol-y-probabilidades-condicionadas/</link>
+      <pubDate>Thu, 12 Nov 2015 09:30:14 +0000</pubDate>
+      
+      <guid>/blog/2015/11/12/diagrama-de-arbol-y-probabilidades-condicionadas/</guid>
+      <description>Tres exploradores tienen que elegir a uno al azar para hacer una misión peligrosa. Cogen una urna con dos bolas buenas y una mala, y al que le toque la mala va a la misión.
+  </description>
+    </item>
+    
+    <item>
+      <title>Cálculo de media aritmética con tabla estadística</title>
+      <link>/blog/2015/10/19/calculo-de-media-aritmetica-con-tabla-estadistica/</link>
+      <pubDate>Mon, 19 Oct 2015 10:12:11 +0000</pubDate>
+      
+      <guid>/blog/2015/10/19/calculo-de-media-aritmetica-con-tabla-estadistica/</guid>
+      <description>Cálculo de media aritmética con tabla estadística. Uso de la marca de clase para tablas hechas por intervalos.
+  </description>
+    </item>
+    
+    <item>
+      <title>La moda</title>
+      <link>/blog/2015/10/19/la-moda/</link>
+      <pubDate>Mon, 19 Oct 2015 09:42:36 +0000</pubDate>
+      
+      <guid>/blog/2015/10/19/la-moda/</guid>
+      <description>La moda: concepto, propiedades y cálculo según tipo de datos.
+  </description>
+    </item>
+    
+    <item>
+      <title>Cálculo de la mediana para muestras pares y propiedades</title>
+      <link>/blog/2015/10/19/calculo-de-la-mediana-para-muestras-pares-y-propiedades/</link>
+      <pubDate>Mon, 19 Oct 2015 09:17:39 +0000</pubDate>
+      
+      <guid>/blog/2015/10/19/calculo-de-la-mediana-para-muestras-pares-y-propiedades/</guid>
+      <description>Problema de definición de la mediana cuando la muestra contiene un número par de datos. Propiedad: No afecta sobre la mediana la existencia de datos atípicos.
+  </description>
+    </item>
+    
+    <item>
+      <title>Concepto y cálculo de la mediana</title>
+      <link>/blog/2015/10/19/concepto-y-calculo-de-la-mediana/</link>
+      <pubDate>Mon, 19 Oct 2015 08:37:01 +0000</pubDate>
+      
+      <guid>/blog/2015/10/19/concepto-y-calculo-de-la-mediana/</guid>
+      <description>mediana
+  </description>
+    </item>
+    
+    <item>
+      <title>Concepto y cálculo de la media aritmética</title>
+      <link>/blog/2015/10/19/concepto-y-calculo-de-la-media-aritmetica/</link>
+      <pubDate>Mon, 19 Oct 2015 08:19:47 +0000</pubDate>
+      
+      <guid>/blog/2015/10/19/concepto-y-calculo-de-la-media-aritmetica/</guid>
+      <description>media aritmética
+  </description>
+    </item>
+    
+    <item>
+      <title>Ejercicio 4 probabilidades examen 13/7/15</title>
+      <link>/blog/2015/10/07/ejercicio-4-probabilidades-examen-13-7-15/</link>
+      <pubDate>Wed, 07 Oct 2015 10:21:29 +0000</pubDate>
+      
+      <guid>/blog/2015/10/07/ejercicio-4-probabilidades-examen-13-7-15/</guid>
+      <description>Distribuciones normales
+  </description>
+    </item>
+    
+    <item>
+      <title>Ejercicio 3 probabilidades examen 13/7/15</title>
+      <link>/blog/2015/10/07/ejercicio-3-probabilidades-examen-13-7-15/</link>
+      <pubDate>Wed, 07 Oct 2015 09:02:36 +0000</pubDate>
+      
+      <guid>/blog/2015/10/07/ejercicio-3-probabilidades-examen-13-7-15/</guid>
+      <description>Probabilidad condicionada
+  </description>
+    </item>
+    
+    <item>
+      <title>Ejercicio 2 probabilidades examen 13/7/15</title>
+      <link>/blog/2015/10/02/ejercicio-2-probabilidades-examen-13-7-15/</link>
+      <pubDate>Fri, 02 Oct 2015 11:18:32 +0000</pubDate>
+      
+      <guid>/blog/2015/10/02/ejercicio-2-probabilidades-examen-13-7-15/</guid>
+      <description>Variables continuas, distribuciones marginales, distribuciones condicionadas, esperanza
+  </description>
+    </item>
+    
+    <item>
+      <title>Ejercicio 1 probabilidades examen 13/7/15 (continuación)</title>
+      <link>/blog/2015/10/01/ejercicio-1-probabilidades-examen-13-7-15-continuacion/</link>
+      <pubDate>Thu, 01 Oct 2015 11:00:08 +0000</pubDate>
+      
+      <guid>/blog/2015/10/01/ejercicio-1-probabilidades-examen-13-7-15-continuacion/</guid>
+      <description>distribución binomial y geométrica
+  </description>
+    </item>
+    
+    <item>
+      <title>Ejercicio 1 probabilidades examen 13/7/15</title>
+      <link>/blog/2015/10/01/ejercicio-1-probabilidades-examen-13-7-15/</link>
+      <pubDate>Thu, 01 Oct 2015 09:29:36 +0000</pubDate>
+      
+      <guid>/blog/2015/10/01/ejercicio-1-probabilidades-examen-13-7-15/</guid>
+      <description>Teorema de Bayes y distribuciones
+  </description>
+    </item>
+    
+    <item>
+      <title>Ejercicio 4 descriptiva examen 13/7/15</title>
+      <link>/blog/2015/09/28/ejercicio-4-descriptiva-examen-13-7-15/</link>
+      <pubDate>Mon, 28 Sep 2015 08:30:36 +0000</pubDate>
+      
+      <guid>/blog/2015/09/28/ejercicio-4-descriptiva-examen-13-7-15/</guid>
+      <description>Series temporales, tasas
+  </description>
+    </item>
+    
+    <item>
+      <title>Ejercicio 3  descriptiva examen 13/7/15</title>
+      <link>/blog/2015/09/16/ejercicio-3-descriptiva-examen-13-7-15/</link>
+      <pubDate>Wed, 16 Sep 2015 07:22:10 +0000</pubDate>
+      
+      <guid>/blog/2015/09/16/ejercicio-3-descriptiva-examen-13-7-15/</guid>
+      <description>Medidas centrales, de forma e independencia
+  </description>
+    </item>
+    
+    <item>
+      <title>Ejercicio 2 descriptiva examen 13/7/15</title>
+      <link>/blog/2015/09/15/ejercicio-2-descriptiva-examen-13-7-15/</link>
+      <pubDate>Tue, 15 Sep 2015 11:43:34 +0000</pubDate>
+      
+      <guid>/blog/2015/09/15/ejercicio-2-descriptiva-examen-13-7-15/</guid>
+      <description>desigualdad, índice de Gini
+  </description>
+    </item>
+    
+    <item>
+      <title>Ejercicio 1 descriptiva examen 13/7/15</title>
+      <link>/blog/2015/09/15/ejercicio-1-descriptiva-examen-13-7-15/</link>
+      <pubDate>Tue, 15 Sep 2015 08:17:48 +0000</pubDate>
+      
+      <guid>/blog/2015/09/15/ejercicio-1-descriptiva-examen-13-7-15/</guid>
+      <description>Ejercicio de regresión
+  </description>
+    </item>
+    
+    <item>
+      <title>Ejercicio 1 examen 8/6/15 de descriptiva</title>
+      <link>/blog/2015/06/19/ejercicio-1-examen-8-6-15-de-descriptiva/</link>
+      <pubDate>Fri, 19 Jun 2015 08:28:08 +0000</pubDate>
+      
+      <guid>/blog/2015/06/19/ejercicio-1-examen-8-6-15-de-descriptiva/</guid>
+      <description>Equidad, curva de Lorenz, índice de Gini
+  </description>
+    </item>
+    
+    <item>
+      <title>Ejercicio 5 examen 8/6/15</title>
+      <link>/blog/2015/06/19/ejercicio-5-examen-8-6-15/</link>
+      <pubDate>Fri, 19 Jun 2015 08:09:10 +0000</pubDate>
+      
+      <guid>/blog/2015/06/19/ejercicio-5-examen-8-6-15/</guid>
+      <description>Distribución normal
+  </description>
+    </item>
+    
+    <item>
+      <title>Ejercicio 3 examen 8/6/15</title>
+      <link>/blog/2015/06/18/ejercicio-3-examen-8-6-15/</link>
+      <pubDate>Thu, 18 Jun 2015 11:03:30 +0000</pubDate>
+      
+      <guid>/blog/2015/06/18/ejercicio-3-examen-8-6-15/</guid>
+      <description>bidimensional discreta
+  </description>
+    </item>
+    
+    <item>
+      <title>Ejercicio 1 examen 8/6/15</title>
+      <link>/blog/2015/06/15/ejercicio-1-examen-8-6-15/</link>
+      <pubDate>Mon, 15 Jun 2015 06:50:23 +0000</pubDate>
+      
+      <guid>/blog/2015/06/15/ejercicio-1-examen-8-6-15/</guid>
+      <description>probabilidades totales, distribuciones
+  </description>
+    </item>
+    
+    <item>
+      <title>Ejercicio 4 examen 8/6/15</title>
+      <link>/blog/2015/06/14/ejercicio-4-examen-8-6-15/</link>
+      <pubDate>Sun, 14 Jun 2015 23:20:33 +0000</pubDate>
+      
+      <guid>/blog/2015/06/14/ejercicio-4-examen-8-6-15/</guid>
+      <description>Distribución continua bidimensional
+  </description>
+    </item>
+    
+    <item>
+      <title>Ejercicio 2 examen 8/6/15</title>
+      <link>/blog/2015/06/11/ejercicio-2-examen-8-6-15/</link>
+      <pubDate>Thu, 11 Jun 2015 18:24:47 +0000</pubDate>
+      
+      <guid>/blog/2015/06/11/ejercicio-2-examen-8-6-15/</guid>
+      <description>Exponencial negativa
+  </description>
+    </item>
+    
+    <item>
+      <title>Ejercicio 3 pág 109 apdo 2 (continuación)</title>
+      <link>/blog/2015/06/05/ejercicio-3-pag-109-apdo-2-continuacion/</link>
+      <pubDate>Fri, 05 Jun 2015 11:41:20 +0000</pubDate>
+      
+      <guid>/blog/2015/06/05/ejercicio-3-pag-109-apdo-2-continuacion/</guid>
+      <description>distribución normal
+  </description>
+    </item>
+    
+    <item>
+      <title>Ejercicio 2 examen abril 2015 (una alternativa)</title>
+      <link>/blog/2015/06/03/ejercicio-2-examen-abril-2015-una-alternativa/</link>
+      <pubDate>Wed, 03 Jun 2015 09:05:35 +0000</pubDate>
+      
+      <guid>/blog/2015/06/03/ejercicio-2-examen-abril-2015-una-alternativa/</guid>
+      <description>Una alternativa
+  </description>
+    </item>
+    
+    <item>
+      <title>Tema 4 Ejercicio 20 pág 93. Diagrama de árbol</title>
+      <link>/blog/2015/05/30/tema-4-ejercicio-20-pag-93-diagrama-de-arbol/</link>
+      <pubDate>Sat, 30 May 2015 17:33:42 +0000</pubDate>
+      
+      <guid>/blog/2015/05/30/tema-4-ejercicio-20-pag-93-diagrama-de-arbol/</guid>
+      <description>Diagrama de árbol, probabilidades condicionadas, teorema de Bayes
+  </description>
+    </item>
+    
+    <item>
+      <title>Tema 3. Números índices</title>
+      <link>/blog/2015/05/28/tema-3-numeros-indices/</link>
+      <pubDate>Thu, 28 May 2015 11:45:50 +0000</pubDate>
+      
+      <guid>/blog/2015/05/28/tema-3-numeros-indices/</guid>
+      <description>Cálculo de índices de Laspeyres y Paasche
+  </description>
+    </item>
+    
+    <item>
+      <title>Ejercicio 4.26 pág. 104</title>
+      <link>/blog/2015/05/25/ejercicio-426-pag-104/</link>
+      <pubDate>Mon, 25 May 2015 18:52:40 +0000</pubDate>
+      
+      <guid>/blog/2015/05/25/ejercicio-426-pag-104/</guid>
+      <description>independencia, covarianza, correlación
+  </description>
+    </item>
+    
+    <item>
+      <title>Ejercicio 1 pág 110</title>
+      <link>/blog/2015/05/24/ejercicio-1-pag-110/</link>
+      <pubDate>Sun, 24 May 2015 15:07:05 +0000</pubDate>
+      
+      <guid>/blog/2015/05/24/ejercicio-1-pag-110/</guid>
+      <description>Probabilidades
+  </description>
+    </item>
+    
+    <item>
+      <title>Efectos de un cambio de origen y de escala sobre la varianza</title>
+      <link>/blog/2015/05/24/efectos-de-un-cambio-de-origen-y-de-escala-sobre-la-varianza/</link>
+      <pubDate>Sun, 24 May 2015 00:42:04 +0000</pubDate>
+      
+      <guid>/blog/2015/05/24/efectos-de-un-cambio-de-origen-y-de-escala-sobre-la-varianza/</guid>
+      <description>Efectos de un cambio de origen y de escala sobre la varianza
+  </description>
+    </item>
+    
+    <item>
+      <title>Ejercicio 3 pág 110 apdo 3 segunda parte</title>
+      <link>/blog/2015/05/21/ejercicio-3-pag-110-apdo-3-segunda-parte/</link>
+      <pubDate>Thu, 21 May 2015 09:09:11 +0000</pubDate>
+      
+      <guid>/blog/2015/05/21/ejercicio-3-pag-110-apdo-3-segunda-parte/</guid>
+      <description>probabilidad condicionada
+  </description>
+    </item>
+    
+    <item>
+      <title>Esperanza y varianza con ejercicio 5.28</title>
+      <link>/blog/2015/05/12/esperanza-y-varianza-con-ejercicio-528/</link>
+      <pubDate>Tue, 12 May 2015 12:21:08 +0000</pubDate>
+      
+      <guid>/blog/2015/05/12/esperanza-y-varianza-con-ejercicio-528/</guid>
+      <description>esperanza, varianza,desviación típica
+  </description>
+    </item>
+    
+    <item>
+      <title>Ejercicio 5.28</title>
+      <link>/blog/2015/05/12/ejercicio-528/</link>
+      <pubDate>Tue, 12 May 2015 12:01:58 +0000</pubDate>
+      
+      <guid>/blog/2015/05/12/ejercicio-528/</guid>
+      <description>Cálculo de función de distribución, mediana y cuartil
+  </description>
+    </item>
+    
+    <item>
+      <title>Cálculo de varianza y desviación típica</title>
+      <link>/blog/2015/05/11/calculo-de-varianza-y-desviacion-tipica/</link>
+      <pubDate>Mon, 11 May 2015 18:47:32 +0000</pubDate>
+      
+      <guid>/blog/2015/05/11/calculo-de-varianza-y-desviacion-tipica/</guid>
+      <description>varianza, desviación típica
+  </description>
+    </item>
+    
+    <item>
+      <title>Concepto de varianza y desviación típica</title>
+      <link>/blog/2015/05/11/concepto-de-varianza-y-desviacion-tipica/</link>
+      <pubDate>Mon, 11 May 2015 18:15:47 +0000</pubDate>
+      
+      <guid>/blog/2015/05/11/concepto-de-varianza-y-desviacion-tipica/</guid>
+      <description>desviación típica
+  </description>
+    </item>
+    
+    <item>
+      <title>Asociación</title>
+      <link>/blog/2015/05/06/asociacion/</link>
+      <pubDate>Wed, 06 May 2015 11:43:47 +0000</pubDate>
+      
+      <guid>/blog/2015/05/06/asociacion/</guid>
+      <description>Resolución del ejercicio
+  </description>
+    </item>
+    
+    <item>
+      <title>Ejercicio 1 examen abril 2015</title>
+      <link>/blog/2015/04/30/ejercicio-1-examen-abril-2015/</link>
+      <pubDate>Thu, 30 Apr 2015 17:38:48 +0000</pubDate>
+      
+      <guid>/blog/2015/04/30/ejercicio-1-examen-abril-2015/</guid>
+      <description>Resolución del ejercicio
+  </description>
+    </item>
+    
+    <item>
+      <title>Ejercicio 3 examen abril 2015</title>
+      <link>/blog/2015/04/30/ejercicio-3-examen-abril-2015/</link>
+      <pubDate>Thu, 30 Apr 2015 11:43:19 +0000</pubDate>
+      
+      <guid>/blog/2015/04/30/ejercicio-3-examen-abril-2015/</guid>
+      <description>Resolución del ejercicio
+  </description>
+    </item>
+    
+    <item>
+      <title>Ejercicio 4 examen abril 2015</title>
+      <link>/blog/2015/04/30/ejercicio-4-examen-abril-2015/</link>
+      <pubDate>Thu, 30 Apr 2015 09:02:59 +0000</pubDate>
+      
+      <guid>/blog/2015/04/30/ejercicio-4-examen-abril-2015/</guid>
+      <description>Resolución del ejercicio
+  </description>
+    </item>
+    
+    <item>
+      <title>Ejercicio 2 examen abril 2015</title>
+      <link>/blog/2015/04/29/ejercicio-2-examen-abril-2015/</link>
+      <pubDate>Wed, 29 Apr 2015 11:35:59 +0000</pubDate>
+      
+      <guid>/blog/2015/04/29/ejercicio-2-examen-abril-2015/</guid>
+      <description>Resolución del ejercicio
+  </description>
+    </item>
+    
+    <item>
+      <title>06. MUESTREO ESTADÍSTICO</title>
+      <link>/blog/2015/02/16/06-muestreo-estad%C3%ADstico/</link>
+      <pubDate>Mon, 16 Feb 2015 07:43:28 +0000</pubDate>
+      
+      <guid>/blog/2015/02/16/06-muestreo-estad%C3%ADstico/</guid>
+      <description> MUESTREO ESTADÍSTICO. Métodos y Técnicas de Investigación. Miguel Vicente Mariño. Universidad de Valladolid.    </description>
+    </item>
+    
+    <item>
+      <title>MEDIDAS DE CONCENTRACION</title>
+      <link>/blog/2014/07/09/medidas-de-concentracion/</link>
+      <pubDate>Wed, 09 Jul 2014 11:25:15 +0000</pubDate>
+      
+      <guid>/blog/2014/07/09/medidas-de-concentracion/</guid>
+      <description>MEDIDAS DE CONCENTRACIÓN. Estadística 1. Ursicino Carrascal Arranz. Universidad de Valladolid.
+  </description>
+    </item>
+    
+    <item>
+      <title>ESQUEMA MULTIPLICATIVO: DESESTACIONALIZACIÓN Y PREDICCION.</title>
+      <link>/blog/2014/05/07/esquema-multiplicativo-desestacionalizaci%C3%B3n-y-prediccion/</link>
+      <pubDate>Wed, 07 May 2014 07:05:29 +0000</pubDate>
+      
+      <guid>/blog/2014/05/07/esquema-multiplicativo-desestacionalizaci%C3%B3n-y-prediccion/</guid>
+      <description>ESQUEMA MULTIPLICATIVO: DESESTACIONALIZACIÓN Y PREDICCIÓN. Estadística 1. Ursicino Carrascal Arranz. Universidad de Valladolid.
+  </description>
+    </item>
+    
+    <item>
+      <title>ESQUEMA ADITIVO: DESESTACIONALIZACIÓN Y PREDICCIÓN.</title>
+      <link>/blog/2014/05/07/esquema-aditivo-desestacionalizaci%C3%B3n-y-predicci%C3%B3n/</link>
+      <pubDate>Wed, 07 May 2014 07:04:03 +0000</pubDate>
+      
+      <guid>/blog/2014/05/07/esquema-aditivo-desestacionalizaci%C3%B3n-y-predicci%C3%B3n/</guid>
+      <description>ESQUEMA ADITIVO: DESESTACIONALIZACIÓN Y PREDICCIÓN. Estadística 1. Ursicino Carrascal Arranz. Universidad de Valladolid.
+  </description>
+    </item>
+    
+    <item>
+      <title>EL COMPONENTE ESTACIONAL EN UN ESQUEMA MULTIPLICATIVO</title>
+      <link>/blog/2014/05/07/el-componente-estacional-en-un-esquema-multiplicativo/</link>
+      <pubDate>Wed, 07 May 2014 07:01:59 +0000</pubDate>
+      
+      <guid>/blog/2014/05/07/el-componente-estacional-en-un-esquema-multiplicativo/</guid>
+      <description>EL COMPONENTE ESTACIONAL EN UN ESQUEMA MULTIPLICATIVO. Estadística 1. Ursicino Carrascal Arranz. Universidad de Valladolid.
+  </description>
+    </item>
+    
+    <item>
+      <title>EL COMPONENTE ESTACIONAL EN UN ESQUEMA ADITIVO.</title>
+      <link>/blog/2014/05/07/el-componente-estacional-en-un-esquema-aditivo/</link>
+      <pubDate>Wed, 07 May 2014 07:00:43 +0000</pubDate>
+      
+      <guid>/blog/2014/05/07/el-componente-estacional-en-un-esquema-aditivo/</guid>
+      <description>EL COMPONENTE ESTACIONAL EN UN ESQUEMA ADITIVO. Estadística 1. Ursicino Carrascal Arranz. Universidad de Valladolid.
+  </description>
+    </item>
+    
+    <item>
+      <title>PRIMERA APROXIMACIÓN A LA TENDENCIA</title>
+      <link>/blog/2014/05/07/primera-aproximaci%C3%B3n-a-la-tendencia/</link>
+      <pubDate>Wed, 07 May 2014 06:59:04 +0000</pubDate>
+      
+      <guid>/blog/2014/05/07/primera-aproximaci%C3%B3n-a-la-tendencia/</guid>
+      <description>PRIMERA APROXIMACIÓN A LA TENDENCIA Estadística 1. Ursicino Carrascal Arranz. Universidad de Valladolid.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

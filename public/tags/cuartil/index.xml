@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cuartil on Unitube</title>
+    <link>/tags/cuartil/</link>
+    <description>Recent content in cuartil on Unitube</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 12 May 2015 12:01:58 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/cuartil/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ejercicio 5.28</title>
+      <link>/blog/2015/05/12/ejercicio-528/</link>
+      <pubDate>Tue, 12 May 2015 12:01:58 +0000</pubDate>
+      
+      <guid>/blog/2015/05/12/ejercicio-528/</guid>
+      <description>Cálculo de función de distribución, mediana y cuartil
+  </description>
+    </item>
+    
+  </channel>
+</rss>

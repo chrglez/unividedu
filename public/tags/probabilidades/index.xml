@@ -1,15 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Probabilidades on Uvide</title>
+    <title>Probabilidades on Unitube</title>
     <link>/tags/probabilidades/</link>
-    <description>Recent content in Probabilidades on Uvide</description>
+    <description>Recent content in Probabilidades on Unitube</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Tue, 21 May 2013 06:43:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2015 15:07:05 +0000</lastBuildDate>
     
 	<atom:link href="/tags/probabilidades/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ejercicio 1 pág 110</title>
+      <link>/blog/2015/05/24/ejercicio-1-pag-110/</link>
+      <pubDate>Sun, 24 May 2015 15:07:05 +0000</pubDate>
+      
+      <guid>/blog/2015/05/24/ejercicio-1-pag-110/</guid>
+      <description>Probabilidades
+  </description>
+    </item>
     
     <item>
       <title>umh1263 2012-13 Lec022 Práctica Variables Aleatorias</title>
@@ -38,36 +48,12 @@ web asignatura: http://umh1263.edu.umh.es web: http://umh.</description>
     
     <item>
       <title>Distribución Geométrica |  | UPV</title>
-      <link>/blog/2011/09/26/distribucion-geometrica-upv-1/</link>
-      <pubDate>Mon, 26 Sep 2011 10:45:52 +0000</pubDate>
-      
-      <guid>/blog/2011/09/26/distribucion-geometrica-upv-1/</guid>
-      <description>Título: Distribución Geométrica
-Descripción: se describe la distribucion de probabilidades geométrica
-Autor/a: Cabrera García Suitberto
- Universitat Politècnica de València UPV: https://www.upv.es Más vídeos en: https://www.youtube.com/valenciaupv Accede a nuestros MOOC: https://upvx.es    </description>
-    </item>
-    
-    <item>
-      <title>Distribución Geométrica |  | UPV</title>
       <link>/blog/2011/09/26/distribucion-geometrica-upv/</link>
       <pubDate>Mon, 26 Sep 2011 10:45:52 +0000</pubDate>
       
       <guid>/blog/2011/09/26/distribucion-geometrica-upv/</guid>
       <description>Título: Distribución Geométrica
 Descripción: se describe la distribucion de probabilidades geométrica
-Autor/a: Cabrera García Suitberto
- Universitat Politècnica de València UPV: https://www.upv.es Más vídeos en: https://www.youtube.com/valenciaupv Accede a nuestros MOOC: https://upvx.es    </description>
-    </item>
-    
-    <item>
-      <title>Distribución de Poisson |  | UPV</title>
-      <link>/blog/2011/09/26/distribucion-de-poisson-upv-1/</link>
-      <pubDate>Mon, 26 Sep 2011 10:44:26 +0000</pubDate>
-      
-      <guid>/blog/2011/09/26/distribucion-de-poisson-upv-1/</guid>
-      <description>Título: Distribución de Poisson
-Descripción: Se describe la distribucion de probabilidades de Poisson
 Autor/a: Cabrera García Suitberto
  Universitat Politècnica de València UPV: https://www.upv.es Más vídeos en: https://www.youtube.com/valenciaupv Accede a nuestros MOOC: https://upvx.es    </description>
     </item>

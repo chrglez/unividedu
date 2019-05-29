@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Matriz inversa on Uvide</title>
+    <title>matriz inversa on Unitube</title>
     <link>/tags/matriz-inversa/</link>
-    <description>Recent content in Matriz inversa on Uvide</description>
+    <description>Recent content in matriz inversa on Unitube</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Wed, 12 Mar 2014 11:09:03 +0000</lastBuildDate>
@@ -18,6 +18,29 @@
       
       <guid>/blog/2014/03/12/resolucion-de-una-matriz-inversa-por-adjuntos/</guid>
       <description>Profesora: Vanessa Fernández Chamorro
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Tema 2. Ejercicio 8 - Alfonso Rosa</title>
+      <link>/blog/2013/11/18/matematicas-para-la-empresa-i-tema-2-ejercicio-8-alfonso-rosa/</link>
+      <pubDate>Mon, 18 Nov 2013 16:20:32 +0000</pubDate>
+      
+      <guid>/blog/2013/11/18/matematicas-para-la-empresa-i-tema-2-ejercicio-8-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Problema. Rango
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Tema 2. Lección 6 - Alfonso Rosa</title>
+      <link>/blog/2013/11/11/matematicas-para-la-empresa-i-tema-2-leccion-6-alfonso-rosa/</link>
+      <pubDate>Mon, 11 Nov 2013 17:21:27 +0000</pubDate>
+      
+      <guid>/blog/2013/11/11/matematicas-para-la-empresa-i-tema-2-leccion-6-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas Inversa de una matriz
   </description>
     </item>
     

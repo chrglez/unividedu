@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Diagrama de árbol on Unitube</title>
+    <link>/tags/diagrama-de-%C3%A1rbol/</link>
+    <description>Recent content in Diagrama de árbol on Unitube</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Sat, 30 May 2015 17:33:42 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/diagrama-de-%C3%A1rbol/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tema 4 Ejercicio 20 pág 93. Diagrama de árbol</title>
+      <link>/blog/2015/05/30/tema-4-ejercicio-20-pag-93-diagrama-de-arbol/</link>
+      <pubDate>Sat, 30 May 2015 17:33:42 +0000</pubDate>
+      
+      <guid>/blog/2015/05/30/tema-4-ejercicio-20-pag-93-diagrama-de-arbol/</guid>
+      <description>Diagrama de árbol, probabilidades condicionadas, teorema de Bayes
+  </description>
+    </item>
+    
+  </channel>
+</rss>

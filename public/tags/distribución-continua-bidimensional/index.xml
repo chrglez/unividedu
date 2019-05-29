@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Distribución continua bidimensional on Unitube</title>
+    <link>/tags/distribuci%C3%B3n-continua-bidimensional/</link>
+    <description>Recent content in Distribución continua bidimensional on Unitube</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Sun, 14 Jun 2015 23:20:33 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/distribuci%C3%B3n-continua-bidimensional/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ejercicio 4 examen 8/6/15</title>
+      <link>/blog/2015/06/14/ejercicio-4-examen-8-6-15/</link>
+      <pubDate>Sun, 14 Jun 2015 23:20:33 +0000</pubDate>
+      
+      <guid>/blog/2015/06/14/ejercicio-4-examen-8-6-15/</guid>
+      <description>Distribución continua bidimensional
+  </description>
+    </item>
+    
+  </channel>
+</rss>

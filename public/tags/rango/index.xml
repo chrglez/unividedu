@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>rango on Uvide</title>
+    <title>rango on Unitube</title>
     <link>/tags/rango/</link>
-    <description>Recent content in rango on Uvide</description>
+    <description>Recent content in rango on Unitube</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Sat, 26 Jul 2014 15:20:47 +0000</lastBuildDate>
@@ -35,6 +35,29 @@ Autor/a: Herrero Debón Alicia
 Curso: Este vídeo es el 12&amp;frasl;14 del curso MOOC Bases Matemáticas: Álgebra | Universitat Politècnica de València (UPV). https://www.youtube.com/playlist?list=PL6kQim6ljTJtkMNu8kOYKCUhUdd_jDbMD
 Inscríbete en: https://upvx.es/courses/course-v1:edxorg+bases-matematicas-algebra+bma101x/about
  Universitat Politècnica de València UPV: https://www.upv.es Más vídeos en: https://www.youtube.com/valenciaupv Accede a nuestros MOOC: https://upvx.es    </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II -  Tema 1. Lección 1 - Alfonso Rosa</title>
+      <link>/blog/2014/02/20/matematicas-para-la-empresa-ii-tema-1-leccion-1-alfonso-rosa/</link>
+      <pubDate>Thu, 20 Feb 2014 16:56:51 +0000</pubDate>
+      
+      <guid>/blog/2014/02/20/matematicas-para-la-empresa-ii-tema-1-leccion-1-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas Funciones reales
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Tema 2. Ejercicio 7 - Alfonso Rosa</title>
+      <link>/blog/2013/11/18/matematicas-para-la-empresa-i-tema-2-ejercicio-7-alfonso-rosa/</link>
+      <pubDate>Mon, 18 Nov 2013 16:36:35 +0000</pubDate>
+      
+      <guid>/blog/2013/11/18/matematicas-para-la-empresa-i-tema-2-ejercicio-7-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Problema. Matriz inversa
+  </description>
     </item>
     
   </channel>

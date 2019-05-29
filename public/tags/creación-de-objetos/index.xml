@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>creación de objetos on Unitube</title>
+    <link>/tags/creaci%C3%B3n-de-objetos/</link>
+    <description>Recent content in creación de objetos on Unitube</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 31 Jul 2013 07:13:26 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/creaci%C3%B3n-de-objetos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Curso MOOC UCAM. Análisis Estadístico con R. Módulo 4 parte 1</title>
+      <link>/blog/2013/07/31/curso-mooc-ucam-analisis-estadistico-con-r-modulo-4-parte-1/</link>
+      <pubDate>Wed, 31 Jul 2013 07:13:26 +0000</pubDate>
+      
+      <guid>/blog/2013/07/31/curso-mooc-ucam-analisis-estadistico-con-r-modulo-4-parte-1/</guid>
+      <description>Matricúlate gratis en: http://analisis-estadistico-r.appspot.com/course Jorge López Puga, profesor de la Universidad Católica de Murcia en el área de Psicología y Educación. Y profesor del MOOC Análisis estadístico con R Más info: http://www.ucam.edu/estudios/mooc
+  </description>
+    </item>
+    
+  </channel>
+</rss>

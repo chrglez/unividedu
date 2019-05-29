@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Econometría on Uvide</title>
+    <title>Econometría on Unitube</title>
     <link>/tags/econometr%C3%ADa/</link>
-    <description>Recent content in Econometría on Uvide</description>
+    <description>Recent content in Econometría on Unitube</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Sat, 20 Oct 2018 11:43:48 +0000</lastBuildDate>
@@ -28,16 +28,6 @@
       
       <guid>/blog/2018/10/02/i-consultas-al-profesor/</guid>
       <description>I. Para qué un trabajo y cuál es el proceso, respuestas del profesor Víctor R. López a cuestiones de alumnas: María y Alicia
-  </description>
-    </item>
-    
-    <item>
-      <title>VIII MME Simultáneos</title>
-      <link>/blog/2018/05/03/viii-mme-simultaneos-1/</link>
-      <pubDate>Thu, 03 May 2018 16:54:13 +0000</pubDate>
-      
-      <guid>/blog/2018/05/03/viii-mme-simultaneos-1/</guid>
-      <description>VIII. MME Sistemas Simultáneos, estimación MC2E/TSLS por el Prof. Víctor Raúl López Ruiz de UCLM. Así la Econometría es más fácil.
   </description>
     </item>
     
@@ -133,16 +123,6 @@
     
     <item>
       <title>6. Captura de Datos y Estimación (E-views 1). Introducción a la Econometría VI (VRLR)</title>
-      <link>/blog/2017/10/06/6-captura-de-datos-y-estimacion-e-views-1-introduccion-a-la-econometria-vi-vrlr-1/</link>
-      <pubDate>Fri, 06 Oct 2017 16:37:43 +0000</pubDate>
-      
-      <guid>/blog/2017/10/06/6-captura-de-datos-y-estimacion-e-views-1-introduccion-a-la-econometria-vi-vrlr-1/</guid>
-      <description>Sexto vídeo de la colección de Introducción a la Econometría por el Profesor Víctor Raúl López Ruiz (VRLR) donde se explica la captura de datos o importación y Estimación con E-views.
-  </description>
-    </item>
-    
-    <item>
-      <title>6. Captura de Datos y Estimación (E-views 1). Introducción a la Econometría VI (VRLR)</title>
       <link>/blog/2017/10/06/6-captura-de-datos-y-estimacion-e-views-1-introduccion-a-la-econometria-vi-vrlr/</link>
       <pubDate>Fri, 06 Oct 2017 16:37:43 +0000</pubDate>
       
@@ -178,6 +158,39 @@
       
       <guid>/blog/2017/07/19/1curso-de-introduccion-a-la-econometria-i-por-prf-victor-r-lopez-vrlr/</guid>
       <description>Se trata de un video presentación del Curso Introducción a la Econometría realizado por el Profesor Titular Víctor Rául López Ruiz (VRLR) de la UCLM. Principales conceptos, objetivos y pilares. Ejemplo.
+  </description>
+    </item>
+    
+    <item>
+      <title>Econometría - Modelos mixtos de variables ficticias - Mercedes Carmona</title>
+      <link>/blog/2014/11/07/econometria-modelos-mixtos-de-variables-ficticias-mercedes-carmona/</link>
+      <pubDate>Fri, 07 Nov 2014 17:41:49 +0000</pubDate>
+      
+      <guid>/blog/2014/11/07/econometria-modelos-mixtos-de-variables-ficticias-mercedes-carmona/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas Modelos mixtos de variables ficticias
+  </description>
+    </item>
+    
+    <item>
+      <title>Econometría - Contrastes de Hipótesis Individuales- Mercedes Carmona</title>
+      <link>/blog/2014/10/30/econometria-contrastes-de-hipotesis-individuales-mercedes-carmona/</link>
+      <pubDate>Thu, 30 Oct 2014 12:38:54 +0000</pubDate>
+      
+      <guid>/blog/2014/10/30/econometria-contrastes-de-hipotesis-individuales-mercedes-carmona/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas Online Contrastes de Hipótesis Individuales
+  </description>
+    </item>
+    
+    <item>
+      <title>Econometría - La Modelización Econométrica - Mercedes Carmona</title>
+      <link>/blog/2014/10/30/econometria-la-modelizacion-econometrica-mercedes-carmona/</link>
+      <pubDate>Thu, 30 Oct 2014 12:38:54 +0000</pubDate>
+      
+      <guid>/blog/2014/10/30/econometria-la-modelizacion-econometrica-mercedes-carmona/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas Online La Modelización Econométrica
   </description>
     </item>
     

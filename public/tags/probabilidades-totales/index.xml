@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>probabilidades totales on Unitube</title>
+    <link>/tags/probabilidades-totales/</link>
+    <description>Recent content in probabilidades totales on Unitube</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 01 Oct 2015 09:29:36 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/probabilidades-totales/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ejercicio 1 probabilidades examen 13/7/15</title>
+      <link>/blog/2015/10/01/ejercicio-1-probabilidades-examen-13-7-15/</link>
+      <pubDate>Thu, 01 Oct 2015 09:29:36 +0000</pubDate>
+      
+      <guid>/blog/2015/10/01/ejercicio-1-probabilidades-examen-13-7-15/</guid>
+      <description>Teorema de Bayes y distribuciones
+  </description>
+    </item>
+    
+    <item>
+      <title>Ejercicio 1 examen 8/6/15</title>
+      <link>/blog/2015/06/15/ejercicio-1-examen-8-6-15/</link>
+      <pubDate>Mon, 15 Jun 2015 06:50:23 +0000</pubDate>
+      
+      <guid>/blog/2015/06/15/ejercicio-1-examen-8-6-15/</guid>
+      <description>probabilidades totales, distribuciones
+  </description>
+    </item>
+    
+  </channel>
+</rss>

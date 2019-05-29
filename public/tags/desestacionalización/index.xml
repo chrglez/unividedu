@@ -1,15 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Desestacionalización on Uvide</title>
+    <title>desestacionalización on Unitube</title>
     <link>/tags/desestacionalizaci%C3%B3n/</link>
-    <description>Recent content in Desestacionalización on Uvide</description>
+    <description>Recent content in desestacionalización on Unitube</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Tue, 22 Jan 2013 17:22:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 May 2014 07:05:29 +0000</lastBuildDate>
     
 	<atom:link href="/tags/desestacionalizaci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ESQUEMA MULTIPLICATIVO: DESESTACIONALIZACIÓN Y PREDICCION.</title>
+      <link>/blog/2014/05/07/esquema-multiplicativo-desestacionalizaci%C3%B3n-y-prediccion/</link>
+      <pubDate>Wed, 07 May 2014 07:05:29 +0000</pubDate>
+      
+      <guid>/blog/2014/05/07/esquema-multiplicativo-desestacionalizaci%C3%B3n-y-prediccion/</guid>
+      <description>ESQUEMA MULTIPLICATIVO: DESESTACIONALIZACIÓN Y PREDICCIÓN. Estadística 1. Ursicino Carrascal Arranz. Universidad de Valladolid.
+  </description>
+    </item>
+    
+    <item>
+      <title>ESQUEMA ADITIVO: DESESTACIONALIZACIÓN Y PREDICCIÓN.</title>
+      <link>/blog/2014/05/07/esquema-aditivo-desestacionalizaci%C3%B3n-y-predicci%C3%B3n/</link>
+      <pubDate>Wed, 07 May 2014 07:04:03 +0000</pubDate>
+      
+      <guid>/blog/2014/05/07/esquema-aditivo-desestacionalizaci%C3%B3n-y-predicci%C3%B3n/</guid>
+      <description>ESQUEMA ADITIVO: DESESTACIONALIZACIÓN Y PREDICCIÓN. Estadística 1. Ursicino Carrascal Arranz. Universidad de Valladolid.
+  </description>
+    </item>
     
     <item>
       <title>Practica - Series Temporales - 07/12 - Desestacionalización (esquema multiplicativo)</title>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>online on Uvide</title>
+    <title>online on Unitube</title>
     <link>/tags/online/</link>
-    <description>Recent content in online on Uvide</description>
+    <description>Recent content in online on Unitube</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Fri, 24 Feb 2017 11:35:24 +0000</lastBuildDate>
@@ -32,6 +32,336 @@ Las empresas están desarrollando sus estrategias de Big Data y están prolifera
     </item>
     
     <item>
+      <title>Matemáticas para la Empresa II - Calculando Volúmenes - Alfonso Rosa</title>
+      <link>/blog/2015/05/19/matematicas-para-la-empresa-ii-calculando-volumenes-alfonso-rosa/</link>
+      <pubDate>Tue, 19 May 2015 10:01:59 +0000</pubDate>
+      
+      <guid>/blog/2015/05/19/matematicas-para-la-empresa-ii-calculando-volumenes-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas Calculando Volúmenes
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Ejemplo: Integral Doble - Alfonso Rosa</title>
+      <link>/blog/2015/05/19/matematicas-para-la-empresa-ii-ejemplo-integral-doble-alfonso-rosa/</link>
+      <pubDate>Tue, 19 May 2015 09:58:37 +0000</pubDate>
+      
+      <guid>/blog/2015/05/19/matematicas-para-la-empresa-ii-ejemplo-integral-doble-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas Ejemplo: Integral Doble
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la empresa II - Integrales Dobles: Cálculo - Alfonso Rosa</title>
+      <link>/blog/2015/05/12/matematicas-para-la-empresa-ii-integrales-dobles-calculo-alfonso-rosa/</link>
+      <pubDate>Tue, 12 May 2015 16:53:52 +0000</pubDate>
+      
+      <guid>/blog/2015/05/12/matematicas-para-la-empresa-ii-integrales-dobles-calculo-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas Integrales Dobles: Cálculo
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la empresa II - Integrales con Funciones Beta y Gamma - Alfonso Rosa</title>
+      <link>/blog/2015/05/12/matematicas-para-la-empresa-ii-integrales-con-funciones-beta-y-gamma-alfonso-rosa/</link>
+      <pubDate>Tue, 12 May 2015 16:48:28 +0000</pubDate>
+      
+      <guid>/blog/2015/05/12/matematicas-para-la-empresa-ii-integrales-con-funciones-beta-y-gamma-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas Integrales con Funciones Beta y Gamma
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la empresa II - Integrales Dobles: Propiedades- Alfonso Rosa</title>
+      <link>/blog/2015/05/12/matematicas-para-la-empresa-ii-integrales-dobles-propiedades-alfonso-rosa/</link>
+      <pubDate>Tue, 12 May 2015 16:44:40 +0000</pubDate>
+      
+      <guid>/blog/2015/05/12/matematicas-para-la-empresa-ii-integrales-dobles-propiedades-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas Integrales Dobles: Propiedades
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la empresa II - Ejemplo: Integrales Impropias de Primera Especie - Alfonso Rosa</title>
+      <link>/blog/2015/05/11/matematicas-para-la-empresa-ii-ejemplo-integrales-impropias-de-primera-especie-alfonso-rosa/</link>
+      <pubDate>Mon, 11 May 2015 10:01:17 +0000</pubDate>
+      
+      <guid>/blog/2015/05/11/matematicas-para-la-empresa-ii-ejemplo-integrales-impropias-de-primera-especie-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas Integrales Impropias de Primera Especie
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la empresa II - Ejemplo: Integrales con una función Beta - Alfonso Rosa</title>
+      <link>/blog/2015/05/11/matematicas-para-la-empresa-ii-ejemplo-integrales-con-una-funcion-beta-alfonso-rosa/</link>
+      <pubDate>Mon, 11 May 2015 10:01:17 +0000</pubDate>
+      
+      <guid>/blog/2015/05/11/matematicas-para-la-empresa-ii-ejemplo-integrales-con-una-funcion-beta-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresa Integrales con una función Beta
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la empresa II - Ejemplo: Integrales con una función Gamma - Alfonso Rosa</title>
+      <link>/blog/2015/05/11/matematicas-para-la-empresa-ii-ejemplo-integrales-con-una-funcion-gamma-alfonso-rosa/</link>
+      <pubDate>Mon, 11 May 2015 10:01:17 +0000</pubDate>
+      
+      <guid>/blog/2015/05/11/matematicas-para-la-empresa-ii-ejemplo-integrales-con-una-funcion-gamma-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas Integrales con una función Gamma
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la empresa II - Integrales Impropias de Segunda Especie - Alfonso Rosa</title>
+      <link>/blog/2015/05/11/matematicas-para-la-empresa-ii-integrales-impropias-de-segunda-especie-alfonso-rosa/</link>
+      <pubDate>Mon, 11 May 2015 10:01:17 +0000</pubDate>
+      
+      <guid>/blog/2015/05/11/matematicas-para-la-empresa-ii-integrales-impropias-de-segunda-especie-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas Integrales Impropias de Segunda Especie
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la empresa II - Integrales Impropias de Primera Especie - Alfonso Rosa</title>
+      <link>/blog/2015/05/08/matematicas-para-la-empresa-ii-integrales-impropias-de-primera-especie-alfonso-rosa/</link>
+      <pubDate>Fri, 08 May 2015 11:11:55 +0000</pubDate>
+      
+      <guid>/blog/2015/05/08/matematicas-para-la-empresa-ii-integrales-impropias-de-primera-especie-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas Integrales Impropias de Primera Especie
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la empresa II - Costes Marginales y Costes Totales - Alfonso Rosa</title>
+      <link>/blog/2015/05/08/matematicas-para-la-empresa-ii-costes-marginales-y-costes-totales-alfonso-rosa/</link>
+      <pubDate>Fri, 08 May 2015 11:10:38 +0000</pubDate>
+      
+      <guid>/blog/2015/05/08/matematicas-para-la-empresa-ii-costes-marginales-y-costes-totales-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas Costes Marginales y Costes Totales
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la empresa II - Métodos elementales de integración: Sustitución - Alfonso Rosa</title>
+      <link>/blog/2015/04/30/matematicas-para-la-empresa-ii-metodos-elementales-de-integracion-sustitucion-alfonso-rosa/</link>
+      <pubDate>Thu, 30 Apr 2015 08:17:52 +0000</pubDate>
+      
+      <guid>/blog/2015/04/30/matematicas-para-la-empresa-ii-metodos-elementales-de-integracion-sustitucion-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/i...
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: ADE Métodos elementales de integración: Sustitución
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la empresa II - Métodos elementales de integración: Inmediata - Alfonso Rosa</title>
+      <link>/blog/2015/04/30/matematicas-para-la-empresa-ii-metodos-elementales-de-integracion-inmediata-alfonso-rosa/</link>
+      <pubDate>Thu, 30 Apr 2015 07:58:54 +0000</pubDate>
+      
+      <guid>/blog/2015/04/30/matematicas-para-la-empresa-ii-metodos-elementales-de-integracion-inmediata-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/informatica-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: ADE Métodos elementales de integración: Inmediata
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - La Función Integral- Alfonso Rosa</title>
+      <link>/blog/2015/04/30/matematicas-para-la-empresa-ii-la-funcion-integral-alfonso-rosa/</link>
+      <pubDate>Thu, 30 Apr 2015 07:48:50 +0000</pubDate>
+      
+      <guid>/blog/2015/04/30/matematicas-para-la-empresa-ii-la-funcion-integral-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/informatica-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: ADE La Función Integral
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Integral Definida y sus Propiedades - Alfonso Rosa</title>
+      <link>/blog/2015/04/30/matematicas-para-la-empresa-ii-integral-definida-y-sus-propiedades-alfonso-rosa/</link>
+      <pubDate>Thu, 30 Apr 2015 07:38:16 +0000</pubDate>
+      
+      <guid>/blog/2015/04/30/matematicas-para-la-empresa-ii-integral-definida-y-sus-propiedades-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/i...
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: ADE Integral Definida y sus Propiedades
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Límites Direccionales según Parábolas- Alfonso Rosa</title>
+      <link>/blog/2015/02/24/matematicas-para-la-empresa-ii-limites-direccionales-segun-parabolas-alfonso-rosa/</link>
+      <pubDate>Tue, 24 Feb 2015 08:47:06 +0000</pubDate>
+      
+      <guid>/blog/2015/02/24/matematicas-para-la-empresa-ii-limites-direccionales-segun-parabolas-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas Límites Direccionales según Parábolas
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Límites Direccionales Según Rectas - Alfonso Rosa</title>
+      <link>/blog/2015/02/24/matematicas-para-la-empresa-ii-limites-direccionales-segun-rectas-alfonso-rosa/</link>
+      <pubDate>Tue, 24 Feb 2015 08:44:20 +0000</pubDate>
+      
+      <guid>/blog/2015/02/24/matematicas-para-la-empresa-ii-limites-direccionales-segun-rectas-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas Límites Direccionales según Rectas
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Presentación - Alfonso Rosa</title>
+      <link>/blog/2015/02/16/matematicas-para-la-empresa-ii-presentacion-alfonso-rosa/</link>
+      <pubDate>Mon, 16 Feb 2015 11:52:25 +0000</pubDate>
+      
+      <guid>/blog/2015/02/16/matematicas-para-la-empresa-ii-presentacion-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas Presentación
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I  -  Formas Cuadráticas Reales  - Alfonso Rosa</title>
+      <link>/blog/2015/01/21/matematicas-para-la-empresa-i-formas-cuadraticas-reales-alfonso-rosa/</link>
+      <pubDate>Wed, 21 Jan 2015 13:29:32 +0000</pubDate>
+      
+      <guid>/blog/2015/01/21/matematicas-para-la-empresa-i-formas-cuadraticas-reales-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: Grado en Dirección y Administración de Empresas Formas Cuadráticas Reales
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I  - Criterios de los Valores Propios - Alfonso Rosa</title>
+      <link>/blog/2015/01/21/matematicas-para-la-empresa-i-criterios-de-los-valores-propios-alfonso-rosa/</link>
+      <pubDate>Wed, 21 Jan 2015 13:16:30 +0000</pubDate>
+      
+      <guid>/blog/2015/01/21/matematicas-para-la-empresa-i-criterios-de-los-valores-propios-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: Grado en Dirección y Administración de Empresas Criterios de los Valores Propios
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I  - Criterios de los Menores Principales - Alfonso Rosa</title>
+      <link>/blog/2015/01/21/matematicas-para-la-empresa-i-criterios-de-los-menores-principales-alfonso-rosa/</link>
+      <pubDate>Wed, 21 Jan 2015 13:16:27 +0000</pubDate>
+      
+      <guid>/blog/2015/01/21/matematicas-para-la-empresa-i-criterios-de-los-menores-principales-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: Grado en Dirección y Administración de Empresas Criterios de los Menores Principales
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Formas Cuadráticas Reales: Definición  - Alfonso Rosa García</title>
+      <link>/blog/2015/01/19/matematicas-para-la-empresa-i-formas-cuadraticas-reales-definicion-alfonso-rosa-garcia/</link>
+      <pubDate>Mon, 19 Jan 2015 12:38:53 +0000</pubDate>
+      
+      <guid>/blog/2015/01/19/matematicas-para-la-empresa-i-formas-cuadraticas-reales-definicion-alfonso-rosa-garcia/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas Formas Cuadráticas Reales: Definición
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Expresiones Diagonales y Canónicas - Alfonso Rosa García</title>
+      <link>/blog/2015/01/19/matematicas-para-la-empresa-i-expresiones-diagonales-y-canonicas-alfonso-rosa-garcia/</link>
+      <pubDate>Mon, 19 Jan 2015 12:36:01 +0000</pubDate>
+      
+      <guid>/blog/2015/01/19/matematicas-para-la-empresa-i-expresiones-diagonales-y-canonicas-alfonso-rosa-garcia/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas Expresiones Diagonales y Canónicas
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Formas Cuadráticas Reales: Clasificación  - Alfonso Rosa García</title>
+      <link>/blog/2015/01/19/matematicas-para-la-empresa-i-formas-cuadraticas-reales-clasificacion-alfonso-rosa-garcia/</link>
+      <pubDate>Mon, 19 Jan 2015 12:36:01 +0000</pubDate>
+      
+      <guid>/blog/2015/01/19/matematicas-para-la-empresa-i-formas-cuadraticas-reales-clasificacion-alfonso-rosa-garcia/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas Formas Cuadráticas Reales: Clasificación
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa - Expresar Formas Cuadráticas - Alfonso Rosa García</title>
+      <link>/blog/2015/01/13/matematicas-para-la-empresa-expresar-formas-cuadraticas-alfonso-rosa-garcia/</link>
+      <pubDate>Tue, 13 Jan 2015 09:54:09 +0000</pubDate>
+      
+      <guid>/blog/2015/01/13/matematicas-para-la-empresa-expresar-formas-cuadraticas-alfonso-rosa-garcia/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-a-distancia
+Facultad: Titulación: Ejemplo: Expresar Formas Cuadráticas
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa - Signo de una Forma Cuadratica: Menores Principales - Alfonso Rosa</title>
+      <link>/blog/2015/01/13/matematicas-para-la-empresa-signo-de-una-forma-cuadratica-menores-principales-alfonso-rosa/</link>
+      <pubDate>Tue, 13 Jan 2015 09:54:09 +0000</pubDate>
+      
+      <guid>/blog/2015/01/13/matematicas-para-la-empresa-signo-de-una-forma-cuadratica-menores-principales-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-a-distancia
+Facultad: Titulación: Signo de una Forma Cuadrática: Menores Principales
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa - Signo de una Forma Cuadrática: Valores propios - Alfonso Rosa García</title>
+      <link>/blog/2015/01/13/matematicas-para-la-empresa-signo-de-una-forma-cuadratica-valores-propios-alfonso-rosa-garcia/</link>
+      <pubDate>Tue, 13 Jan 2015 09:54:09 +0000</pubDate>
+      
+      <guid>/blog/2015/01/13/matematicas-para-la-empresa-signo-de-una-forma-cuadratica-valores-propios-alfonso-rosa-garcia/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-a-distancia
+Facultad: Titulación: Signo de una Forma Cuadrática: Valores propios
+  </description>
+    </item>
+    
+    <item>
+      <title>Fundamentos de Estadística - Teorema de Bayes - Conchi Pérez</title>
+      <link>/blog/2014/12/15/fundamentos-de-estadistica-teorema-de-bayes-conchi-perez/</link>
+      <pubDate>Mon, 15 Dec 2014 15:23:52 +0000</pubDate>
+      
+      <guid>/blog/2014/12/15/fundamentos-de-estadistica-teorema-de-bayes-conchi-perez/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas
+  </description>
+    </item>
+    
+    <item>
+      <title>Fundamentos de Estadística - Teorema de la probabilidad total - Conchi Pérez</title>
+      <link>/blog/2014/12/15/fundamentos-de-estadistica-teorema-de-la-probabilidad-total-conchi-perez/</link>
+      <pubDate>Mon, 15 Dec 2014 15:23:52 +0000</pubDate>
+      
+      <guid>/blog/2014/12/15/fundamentos-de-estadistica-teorema-de-la-probabilidad-total-conchi-perez/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas
+  </description>
+    </item>
+    
+    <item>
+      <title>Fundamentos de Estadística - Desestacionalización de la serie temporal - Conchi Pérez</title>
+      <link>/blog/2014/11/21/fundamentos-de-estadistica-desestacionalizacion-de-la-serie-temporal-conchi-perez/</link>
+      <pubDate>Fri, 21 Nov 2014 10:17:04 +0000</pubDate>
+      
+      <guid>/blog/2014/11/21/fundamentos-de-estadistica-desestacionalizacion-de-la-serie-temporal-conchi-perez/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas
+  </description>
+    </item>
+    
+    <item>
       <title>Lección: Cálculo desviación típica - Investitgación educativa - UNIR</title>
       <link>/blog/2011/05/24/leccion-calculo-desviacion-tipica-investitgacion-educativa-unir/</link>
       <pubDate>Tue, 24 May 2011 15:30:01 +0000</pubDate>
@@ -53,16 +383,6 @@ Las empresas están desarrollando sus estrategias de Big Data y están prolifera
     
     <item>
       <title>GRADO ADE - Lección: convenciones de fechas en finanzas - Matemáticas economía - UNIR 2014</title>
-      <link>/blog/2011/05/12/grado-ade-leccion-convenciones-de-fechas-en-finanzas-matematicas-economia-unir-2014-1/</link>
-      <pubDate>Thu, 12 May 2011 15:10:46 +0000</pubDate>
-      
-      <guid>/blog/2011/05/12/grado-ade-leccion-convenciones-de-fechas-en-finanzas-matematicas-economia-unir-2014-1/</guid>
-      <description>Convenciones de fechas en finanzas UNIR, grado en ADE http://www.unir.net/grado-ade-administracion-direccion-empresas.aspx
-  </description>
-    </item>
-    
-    <item>
-      <title>GRADO ADE - Lección: convenciones de fechas en finanzas - Matemáticas economía - UNIR 2014</title>
       <link>/blog/2011/05/12/grado-ade-leccion-convenciones-de-fechas-en-finanzas-matematicas-economia-unir-2014/</link>
       <pubDate>Thu, 12 May 2011 15:10:46 +0000</pubDate>
       
@@ -73,31 +393,11 @@ Las empresas están desarrollando sus estrategias de Big Data y están prolifera
     
     <item>
       <title>GRADO ADE - Lección: el valor temporal del dinero - Matemáticas economía - UNIR 2014</title>
-      <link>/blog/2011/05/12/grado-ade-leccion-el-valor-temporal-del-dinero-matematicas-economia-unir-2014-1/</link>
-      <pubDate>Thu, 12 May 2011 15:08:19 +0000</pubDate>
-      
-      <guid>/blog/2011/05/12/grado-ade-leccion-el-valor-temporal-del-dinero-matematicas-economia-unir-2014-1/</guid>
-      <description>El valor temporal del dinero
-  </description>
-    </item>
-    
-    <item>
-      <title>GRADO ADE - Lección: el valor temporal del dinero - Matemáticas economía - UNIR 2014</title>
       <link>/blog/2011/05/12/grado-ade-leccion-el-valor-temporal-del-dinero-matematicas-economia-unir-2014/</link>
       <pubDate>Thu, 12 May 2011 15:08:19 +0000</pubDate>
       
       <guid>/blog/2011/05/12/grado-ade-leccion-el-valor-temporal-del-dinero-matematicas-economia-unir-2014/</guid>
       <description>El valor temporal del dinero
-  </description>
-    </item>
-    
-    <item>
-      <title>GRADO ADE - Lección: cálculo integral - Matemáticas economía - UNIR</title>
-      <link>/blog/2011/05/12/grado-ade-leccion-calculo-integral-matematicas-economia-unir-1/</link>
-      <pubDate>Thu, 12 May 2011 15:06:15 +0000</pubDate>
-      
-      <guid>/blog/2011/05/12/grado-ade-leccion-calculo-integral-matematicas-economia-unir-1/</guid>
-      <description>http://www.unir.net/grado-ade-administracion-direccion-empresas.aspx Nociones del cálculo integral. Profesor Ángel Ruíz Cueva. Matemática para la Economía ADE. Universidad Internacional de La Rioja
   </description>
     </item>
     

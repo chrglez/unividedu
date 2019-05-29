@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>independencia lineal on Unitube</title>
+    <link>/tags/independencia-lineal/</link>
+    <description>Recent content in independencia lineal on Unitube</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 04 Nov 2013 10:28:21 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/independencia-lineal/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Ejercicio 1. Independencia Lineal - Alfonso Rosa</title>
+      <link>/blog/2013/11/04/matematicas-para-la-empresa-i-ejercicio-1-independencia-lineal-alfonso-rosa/</link>
+      <pubDate>Mon, 04 Nov 2013 10:28:21 +0000</pubDate>
+      
+      <guid>/blog/2013/11/04/matematicas-para-la-empresa-i-ejercicio-1-independencia-lineal-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial Departamento: Facultad de Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas
+Resolución del problema independencia lineal
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la empresa I - Tema 1. Lección 9 - Alfonso Rosa</title>
+      <link>/blog/2013/10/24/matematicas-para-la-empresa-i-tema-1-leccion-9-alfonso-rosa/</link>
+      <pubDate>Thu, 24 Oct 2013 12:20:35 +0000</pubDate>
+      
+      <guid>/blog/2013/10/24/matematicas-para-la-empresa-i-tema-1-leccion-9-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/a... Departamento: Facultad de Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas
+Ortogonalidad
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la empresa I - Tema 1. Lección 7 - Alfonso Rosa</title>
+      <link>/blog/2013/10/24/matematicas-para-la-empresa-i-tema-1-leccion-7-alfonso-rosa/</link>
+      <pubDate>Thu, 24 Oct 2013 12:18:32 +0000</pubDate>
+      
+      <guid>/blog/2013/10/24/matematicas-para-la-empresa-i-tema-1-leccion-7-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/a... Departamento: Facultad de Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas
+Producto Escalar
+  </description>
+    </item>
+    
+  </channel>
+</rss>

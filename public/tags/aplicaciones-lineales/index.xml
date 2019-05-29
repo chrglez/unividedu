@@ -1,15 +1,62 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>aplicaciones lineales on Uvide</title>
+    <title>aplicaciones lineales on Unitube</title>
     <link>/tags/aplicaciones-lineales/</link>
-    <description>Recent content in aplicaciones lineales on Uvide</description>
+    <description>Recent content in aplicaciones lineales on Unitube</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Tue, 04 Dec 2012 15:07:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Dec 2013 10:25:15 +0000</lastBuildDate>
     
 	<atom:link href="/tags/aplicaciones-lineales/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Tema 4. Lección 4 - Alfonso Rosa</title>
+      <link>/blog/2013/12/11/matematicas-para-la-empresa-i-tema-4-leccion-4-alfonso-rosa/</link>
+      <pubDate>Wed, 11 Dec 2013 10:25:15 +0000</pubDate>
+      
+      <guid>/blog/2013/12/11/matematicas-para-la-empresa-i-tema-4-leccion-4-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas Matriz asociada a una aplicación lineal
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Tema 4. Lección 3 - Alfonso Rosa</title>
+      <link>/blog/2013/12/11/matematicas-para-la-empresa-i-tema-4-leccion-3-alfonso-rosa/</link>
+      <pubDate>Wed, 11 Dec 2013 10:23:25 +0000</pubDate>
+      
+      <guid>/blog/2013/12/11/matematicas-para-la-empresa-i-tema-4-leccion-3-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Clasificación de las aplicaciones lineales
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Tema 4. Lección 1 - Alfonso Rosa</title>
+      <link>/blog/2013/12/11/matematicas-para-la-empresa-i-tema-4-leccion-1-alfonso-rosa/</link>
+      <pubDate>Wed, 11 Dec 2013 10:21:15 +0000</pubDate>
+      
+      <guid>/blog/2013/12/11/matematicas-para-la-empresa-i-tema-4-leccion-1-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Aplicaciones Lineales, definición.
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Tema 4. Lección 2 - Alfonso Rosa</title>
+      <link>/blog/2013/12/11/matematicas-para-la-empresa-i-tema-4-leccion-2-alfonso-rosa/</link>
+      <pubDate>Wed, 11 Dec 2013 10:20:31 +0000</pubDate>
+      
+      <guid>/blog/2013/12/11/matematicas-para-la-empresa-i-tema-4-leccion-2-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Nucleo e imagen de una aplicación lineal
+  </description>
+    </item>
     
     <item>
       <title>ÁLGEBRA: Examen 1 - 3ª parte (1c)</title>

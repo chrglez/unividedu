@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>indices de posición on Unitube</title>
+    <link>/tags/indices-de-posici%C3%B3n/</link>
+    <description>Recent content in indices de posición on Unitube</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 22 Nov 2013 17:30:28 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/indices-de-posici%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Curso MOOC UCAM. Análisis Estadístico con R. Módulo 6 parte 4</title>
+      <link>/blog/2013/11/22/curso-mooc-ucam-analisis-estadistico-con-r-modulo-6-parte-4/</link>
+      <pubDate>Fri, 22 Nov 2013 17:30:28 +0000</pubDate>
+      
+      <guid>/blog/2013/11/22/curso-mooc-ucam-analisis-estadistico-con-r-modulo-6-parte-4/</guid>
+      <description>Matricúlate gratis en: http://analisis-estadistico-r.appspot.com/course Jorge López Puga, profesor de la Universidad Católica de Murcia en el área de Psicología y Educación. Y profesor del MOOC Análisis estadístico con R Más info: http://www.ucam.edu/estudios/mooc
+  </description>
+    </item>
+    
+  </channel>
+</rss>

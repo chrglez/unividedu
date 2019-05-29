@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>derivadas on Uvide</title>
+    <title>derivadas on Unitube</title>
     <link>/tags/derivadas/</link>
-    <description>Recent content in derivadas on Uvide</description>
+    <description>Recent content in derivadas on Unitube</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Tue, 17 Jan 2017 19:01:39 +0000</lastBuildDate>
@@ -84,17 +84,6 @@ Inscríbete en: https://upvx.es/courses/course-v1:edxorg+bases-matematicas-deriv
     
     <item>
       <title>Recta tangente 2 |  | UPV</title>
-      <link>/blog/2014/07/26/recta-tangente-2-upv-1/</link>
-      <pubDate>Sat, 26 Jul 2014 14:56:58 +0000</pubDate>
-      
-      <guid>/blog/2014/07/26/recta-tangente-2-upv-1/</guid>
-      <description>Título: Recta tangente 2
-Autor/a: Moll López Santiago Emmanuel
- Universitat Politècnica de València UPV: https://www.upv.es Más vídeos en: https://www.youtube.com/valenciaupv Accede a nuestros MOOC: https://upvx.es    </description>
-    </item>
-    
-    <item>
-      <title>Recta tangente 2 |  | UPV</title>
       <link>/blog/2014/07/26/recta-tangente-2-upv/</link>
       <pubDate>Sat, 26 Jul 2014 14:56:58 +0000</pubDate>
       
@@ -142,6 +131,88 @@ Inscríbete en: https://upvx.es/courses/course-v1:edxorg+bases-matematicas-deriv
 Descripción: En este objeto de aprendizaje el estudiante repasará las derivadas de las funciones elementales, así como las principales propiedades de las derivadas. Además se proporcionan ejemplos prácticos.
 Autor/a: Moll López Santiago Emmanuel
  Universitat Politècnica de València UPV: https://www.upv.es Más vídeos en: https://www.youtube.com/valenciaupv Accede a nuestros MOOC: https://upvx.es    </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Tema 4. Ejercicio 3 - Alfonso Rosa</title>
+      <link>/blog/2014/05/22/matematicas-para-la-empresa-ii-tema-4-ejercicio-3-alfonso-rosa/</link>
+      <pubDate>Thu, 22 May 2014 14:49:12 +0000</pubDate>
+      
+      <guid>/blog/2014/05/22/matematicas-para-la-empresa-ii-tema-4-ejercicio-3-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Tema 3. Lección 5 - Alfonso Rosa</title>
+      <link>/blog/2014/03/24/matematicas-para-la-empresa-ii-tema-3-leccion-5-alfonso-rosa/</link>
+      <pubDate>Mon, 24 Mar 2014 12:59:35 +0000</pubDate>
+      
+      <guid>/blog/2014/03/24/matematicas-para-la-empresa-ii-tema-3-leccion-5-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Derivadas direccionales
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Tema 3. Lección 6 - Alfonso Rosa</title>
+      <link>/blog/2014/03/20/matematicas-para-la-empresa-ii-tema-3-leccion-6-alfonso-rosa/</link>
+      <pubDate>Thu, 20 Mar 2014 18:18:00 +0000</pubDate>
+      
+      <guid>/blog/2014/03/20/matematicas-para-la-empresa-ii-tema-3-leccion-6-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Matriz hessiana
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Tema 3. Lección 4 - Alfonso Rosa</title>
+      <link>/blog/2014/03/20/matematicas-para-la-empresa-ii-tema-3-leccion-4-alfonso-rosa/</link>
+      <pubDate>Thu, 20 Mar 2014 18:05:38 +0000</pubDate>
+      
+      <guid>/blog/2014/03/20/matematicas-para-la-empresa-ii-tema-3-leccion-4-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas Derivadas con una variable independiente Derivadas parciales
+Vector gradiente
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Tema 3. Lección 3 - Alfonso Rosa</title>
+      <link>/blog/2014/03/20/matematicas-para-la-empresa-ii-tema-3-leccion-3-alfonso-rosa/</link>
+      <pubDate>Thu, 20 Mar 2014 18:04:20 +0000</pubDate>
+      
+      <guid>/blog/2014/03/20/matematicas-para-la-empresa-ii-tema-3-leccion-3-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas Derivadas con una variable independiente Derivadas parciales
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Tema 3. Lección 1 - Alfonso Rosa</title>
+      <link>/blog/2014/03/20/matematicas-para-la-empresa-ii-tema-3-leccion-1-alfonso-rosa/</link>
+      <pubDate>Thu, 20 Mar 2014 18:02:12 +0000</pubDate>
+      
+      <guid>/blog/2014/03/20/matematicas-para-la-empresa-ii-tema-3-leccion-1-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Problemas. Derivación implícita en sistemas de ecuaciones
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Tema 4. Ejercicio 2 - Alfonso Rosa</title>
+      <link>/blog/2014/03/20/matematicas-para-la-empresa-ii-tema-4-ejercicio-2-alfonso-rosa/</link>
+      <pubDate>Thu, 20 Mar 2014 18:01:07 +0000</pubDate>
+      
+      <guid>/blog/2014/03/20/matematicas-para-la-empresa-ii-tema-4-ejercicio-2-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Problemas. Derivación de funciones implícitas
+  </description>
     </item>
     
     <item>

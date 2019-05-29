@@ -1,27 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Test de hipotesis on Uvide</title>
+    <title>Test de hipotesis on Unitube</title>
     <link>/tags/test-de-hipotesis/</link>
-    <description>Recent content in Test de hipotesis on Uvide</description>
+    <description>Recent content in Test de hipotesis on Unitube</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Sat, 12 Oct 2013 03:49:58 +0000</lastBuildDate>
     
 	<atom:link href="/tags/test-de-hipotesis/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Inferencia respecto a una población normal. Estudio de la hipótesis m=m0 |  | UPV</title>
-      <link>/blog/2013/10/12/inferencia-respecto-a-una-poblacion-normal-estudio-de-la-hipotesis-mm0-upv-1/</link>
-      <pubDate>Sat, 12 Oct 2013 03:49:58 +0000</pubDate>
-      
-      <guid>/blog/2013/10/12/inferencia-respecto-a-una-poblacion-normal-estudio-de-la-hipotesis-mm0-upv-1/</guid>
-      <description>Título: Inferencia respecto a una población normal. Estudio de la hipótesis m=m0
-Descripción: se expone el fundamento de la inferencia estadistica para una población normal. Se explican los conceptos relacionados con el test de hipotesis para la media poblacional. Sobre un ejemplo practico se ilustran los conceptos y definicines analizadas.
-Autor/a: Cabrera García Suitberto
- Universitat Politècnica de València UPV: https://www.upv.es Más vídeos en: https://www.youtube.com/valenciaupv Accede a nuestros MOOC: https://upvx.es    </description>
-    </item>
     
     <item>
       <title>Inferencia respecto a una población normal. Estudio de la hipótesis m=m0 |  | UPV</title>

@@ -1,27 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Funcion de densidad on Uvide</title>
+    <title>Funcion de densidad on Unitube</title>
     <link>/tags/funcion-de-densidad/</link>
-    <description>Recent content in Funcion de densidad on Uvide</description>
+    <description>Recent content in Funcion de densidad on Unitube</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Sat, 12 Oct 2013 03:45:53 +0000</lastBuildDate>
     
 	<atom:link href="/tags/funcion-de-densidad/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Función de densidad y función de distribución |  | UPV</title>
-      <link>/blog/2013/10/12/funcion-de-densidad-y-funcion-de-distribucion-upv-1/</link>
-      <pubDate>Sat, 12 Oct 2013 03:45:53 +0000</pubDate>
-      
-      <guid>/blog/2013/10/12/funcion-de-densidad-y-funcion-de-distribucion-upv-1/</guid>
-      <description>Título: Función de densidad y función de distribución
-Descripción: se exponen los conceptos de función de densidad y función de distribución y se explica su uso para el cálculo de las probabilidades de variables continuas.
-Autor/a: Cabrera García Suitberto
- Universitat Politècnica de València UPV: https://www.upv.es Más vídeos en: https://www.youtube.com/valenciaupv Accede a nuestros MOOC: https://upvx.es    </description>
-    </item>
     
     <item>
       <title>Función de densidad y función de distribución |  | UPV</title>

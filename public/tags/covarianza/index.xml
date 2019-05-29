@@ -1,53 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>covarianza on Uvide</title>
+    <title>covarianza on Unitube</title>
     <link>/tags/covarianza/</link>
-    <description>Recent content in covarianza on Uvide</description>
+    <description>Recent content in covarianza on Unitube</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Thu, 12 Jun 2014 14:57:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2015 18:52:40 +0000</lastBuildDate>
     
 	<atom:link href="/tags/covarianza/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Introducción II  -  Correlación lineal simple (2 de 4)</title>
-      <link>/blog/2014/06/12/introduccion-ii-correlacion-lineal-simple-2-de-4/</link>
-      <pubDate>Thu, 12 Jun 2014 14:57:13 +0000</pubDate>
+      <title>Ejercicio 4.26 pág. 104</title>
+      <link>/blog/2015/05/25/ejercicio-426-pag-104/</link>
+      <pubDate>Mon, 25 May 2015 18:52:40 +0000</pubDate>
       
-      <guid>/blog/2014/06/12/introduccion-ii-correlacion-lineal-simple-2-de-4/</guid>
-      <description>Autor: Serra Añó, Pilar; Ponce Darós, María José; López Bueno, Laura; González Moreno, Luis Millán; García Massó, Xavier; Correlación lineal simple; Data: 2014; Resum: Segundo vídeo de una serie de cuatro, donde se muestra el uso de la herramienta estadística para determinar si existe relación entre variables cuantitativas; Producció:SFPIE (www.uv.es/sfpie)-VLC Campus
-  </description>
-    </item>
-    
-    <item>
-      <title>Ejecución de la prueba - Correlación lineal simple (3 de 4)</title>
-      <link>/blog/2014/06/12/ejecucion-de-la-prueba-correlacion-lineal-simple-3-de-4/</link>
-      <pubDate>Thu, 12 Jun 2014 14:57:00 +0000</pubDate>
-      
-      <guid>/blog/2014/06/12/ejecucion-de-la-prueba-correlacion-lineal-simple-3-de-4/</guid>
-      <description>Autor: Serra Añó, Pilar; Ponce Darós, María José; López Bueno, Laura; González Moreno, Luis Millán; García Massó, Xavier; Correlación lineal simple; Data: 2014; Resum: Tercer vídeo de una serie de cuatro, donde se muestra el uso de la herramienta estadística para determinar si existe relación entre variables cuantitativas; Producció:SFPIE (www.uv.es/sfpie)-VLC Campus
-  </description>
-    </item>
-    
-    <item>
-      <title>Introducción I  - Correlación lineal simple (1 de 4)</title>
-      <link>/blog/2014/06/12/introduccion-i-correlacion-lineal-simple-1-de-4/</link>
-      <pubDate>Thu, 12 Jun 2014 14:53:11 +0000</pubDate>
-      
-      <guid>/blog/2014/06/12/introduccion-i-correlacion-lineal-simple-1-de-4/</guid>
-      <description>Autor: Serra Añó, Pilar; Ponce Darós, María José; López Bueno, Laura; González Moreno, Luis Millán; García Massó, Xavier; Correlación lineal simple; Data: 2014; Resum: Primer vídeo de una serie de cuatro, donde se muestra el uso de la herramienta estadística para determinar si existe relación entre variables cuantitativas; Producció:SFPIE (www.uv.es/sfpie)-VLC Campus
-  </description>
-    </item>
-    
-    <item>
-      <title>Escritura Resultados - Correlación lineal simple (4 de 4)</title>
-      <link>/blog/2014/06/12/escritura-resultados-correlacion-lineal-simple-4-de-4/</link>
-      <pubDate>Thu, 12 Jun 2014 14:51:00 +0000</pubDate>
-      
-      <guid>/blog/2014/06/12/escritura-resultados-correlacion-lineal-simple-4-de-4/</guid>
-      <description>Autor: Serra Añó, Pilar; Ponce Darós, María José; López Bueno, Laura; González Moreno, Luis Millán; García Massó, Xavier; Correlación lineal simple; Data: 2014; Resum: Último vídeo de una serie de cuatro, donde se muestra el uso de la herramienta estadística para determinar si existe relación entre variables cuantitativas; Producció:SFPIE (www.uv.es/sfpie)-VLC Campus
+      <guid>/blog/2015/05/25/ejercicio-426-pag-104/</guid>
+      <description>independencia, covarianza, correlación
   </description>
     </item>
     

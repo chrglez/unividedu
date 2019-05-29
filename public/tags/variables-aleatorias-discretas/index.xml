@@ -1,27 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Variables aleatorias discretas on Uvide</title>
+    <title>Variables aleatorias discretas on Unitube</title>
     <link>/tags/variables-aleatorias-discretas/</link>
-    <description>Recent content in Variables aleatorias discretas on Uvide</description>
+    <description>Recent content in Variables aleatorias discretas on Unitube</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Mon, 26 Sep 2011 23:35:02 +0000</lastBuildDate>
     
 	<atom:link href="/tags/variables-aleatorias-discretas/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Distribución binomial |  | UPV</title>
-      <link>/blog/2011/09/26/distribucion-binomial-upv-1/</link>
-      <pubDate>Mon, 26 Sep 2011 23:35:02 +0000</pubDate>
-      
-      <guid>/blog/2011/09/26/distribucion-binomial-upv-1/</guid>
-      <description>Título: Distribución binomial
-Descripción: En este objeto se explican brevemente los aspectos más destacados de la distribución binomial: interés y ámbito de aplicación, principales características y cálculo de probabilidades asociado a una variable aleatoria que sigue una distribución binomal.
-Autor/a: Trujillo Guillen Macarena
- Universitat Politècnica de València UPV: https://www.upv.es Más vídeos en: https://www.youtube.com/valenciaupv Accede a nuestros MOOC: https://upvx.es    </description>
-    </item>
     
     <item>
       <title>Distribución binomial |  | UPV</title>

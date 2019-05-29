@@ -1,26 +1,44 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Distribuciones on Uvide</title>
+    <title>Distribuciones on Unitube</title>
     <link>/tags/distribuciones/</link>
-    <description>Recent content in Distribuciones on Uvide</description>
+    <description>Recent content in Distribuciones on Unitube</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Sat, 12 Oct 2013 03:45:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2015 11:18:32 +0000</lastBuildDate>
     
 	<atom:link href="/tags/distribuciones/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Función de densidad y función de distribución |  | UPV</title>
-      <link>/blog/2013/10/12/funcion-de-densidad-y-funcion-de-distribucion-upv-1/</link>
-      <pubDate>Sat, 12 Oct 2013 03:45:53 +0000</pubDate>
+      <title>Ejercicio 2 probabilidades examen 13/7/15</title>
+      <link>/blog/2015/10/02/ejercicio-2-probabilidades-examen-13-7-15/</link>
+      <pubDate>Fri, 02 Oct 2015 11:18:32 +0000</pubDate>
       
-      <guid>/blog/2013/10/12/funcion-de-densidad-y-funcion-de-distribucion-upv-1/</guid>
-      <description>Título: Función de densidad y función de distribución
-Descripción: se exponen los conceptos de función de densidad y función de distribución y se explica su uso para el cálculo de las probabilidades de variables continuas.
-Autor/a: Cabrera García Suitberto
- Universitat Politècnica de València UPV: https://www.upv.es Más vídeos en: https://www.youtube.com/valenciaupv Accede a nuestros MOOC: https://upvx.es    </description>
+      <guid>/blog/2015/10/02/ejercicio-2-probabilidades-examen-13-7-15/</guid>
+      <description>Variables continuas, distribuciones marginales, distribuciones condicionadas, esperanza
+  </description>
+    </item>
+    
+    <item>
+      <title>Ejercicio 1 probabilidades examen 13/7/15</title>
+      <link>/blog/2015/10/01/ejercicio-1-probabilidades-examen-13-7-15/</link>
+      <pubDate>Thu, 01 Oct 2015 09:29:36 +0000</pubDate>
+      
+      <guid>/blog/2015/10/01/ejercicio-1-probabilidades-examen-13-7-15/</guid>
+      <description>Teorema de Bayes y distribuciones
+  </description>
+    </item>
+    
+    <item>
+      <title>Ejercicio 1 examen 8/6/15</title>
+      <link>/blog/2015/06/15/ejercicio-1-examen-8-6-15/</link>
+      <pubDate>Mon, 15 Jun 2015 06:50:23 +0000</pubDate>
+      
+      <guid>/blog/2015/06/15/ejercicio-1-examen-8-6-15/</guid>
+      <description>probabilidades totales, distribuciones
+  </description>
     </item>
     
     <item>
@@ -50,18 +68,6 @@ web asignatura: http://umh1263.edu.umh.es web: http://umh.es
     
     <item>
       <title>Distribución normal. Conceptos y propiedades |  | UPV</title>
-      <link>/blog/2011/11/28/distribucion-normal-conceptos-y-propiedades-upv-1/</link>
-      <pubDate>Mon, 28 Nov 2011 21:00:17 +0000</pubDate>
-      
-      <guid>/blog/2011/11/28/distribucion-normal-conceptos-y-propiedades-upv-1/</guid>
-      <description>Título: Distribución normal. Conceptos y propiedades
-Descripción: Se estudian los Conceptos y propiedades de la Distribución normal.
-Autor/a: Cabrera García Suitberto
- Universitat Politècnica de València UPV: https://www.upv.es Más vídeos en: https://www.youtube.com/valenciaupv Accede a nuestros MOOC: https://upvx.es    </description>
-    </item>
-    
-    <item>
-      <title>Distribución normal. Conceptos y propiedades |  | UPV</title>
       <link>/blog/2011/11/28/distribucion-normal-conceptos-y-propiedades-upv/</link>
       <pubDate>Mon, 28 Nov 2011 21:00:17 +0000</pubDate>
       
@@ -74,36 +80,12 @@ Autor/a: Cabrera García Suitberto
     
     <item>
       <title>Distribuciones en el muestreo. Conceptos generales |  | UPV</title>
-      <link>/blog/2011/11/28/distribuciones-en-el-muestreo-conceptos-generales-upv-1/</link>
-      <pubDate>Mon, 28 Nov 2011 20:58:15 +0000</pubDate>
-      
-      <guid>/blog/2011/11/28/distribuciones-en-el-muestreo-conceptos-generales-upv-1/</guid>
-      <description>Título: Distribuciones en el muestreo. Conceptos generales
-Descripción: Se definen los Conceptos generales en el estudio de las Distribuciones en el muestreo.
-Autor/a: Cabrera García Suitberto
- Universitat Politècnica de València UPV: https://www.upv.es Más vídeos en: https://www.youtube.com/valenciaupv Accede a nuestros MOOC: https://upvx.es    </description>
-    </item>
-    
-    <item>
-      <title>Distribuciones en el muestreo. Conceptos generales |  | UPV</title>
       <link>/blog/2011/11/28/distribuciones-en-el-muestreo-conceptos-generales-upv/</link>
       <pubDate>Mon, 28 Nov 2011 20:58:15 +0000</pubDate>
       
       <guid>/blog/2011/11/28/distribuciones-en-el-muestreo-conceptos-generales-upv/</guid>
       <description>Título: Distribuciones en el muestreo. Conceptos generales
 Descripción: Se definen los Conceptos generales en el estudio de las Distribuciones en el muestreo.
-Autor/a: Cabrera García Suitberto
- Universitat Politècnica de València UPV: https://www.upv.es Más vídeos en: https://www.youtube.com/valenciaupv Accede a nuestros MOOC: https://upvx.es    </description>
-    </item>
-    
-    <item>
-      <title>Distribuciones en el muestreo. Distribución de la media muestral |  | UPV</title>
-      <link>/blog/2011/11/28/distribuciones-en-el-muestreo-distribucion-de-la-media-muestral-upv-1/</link>
-      <pubDate>Mon, 28 Nov 2011 20:55:15 +0000</pubDate>
-      
-      <guid>/blog/2011/11/28/distribuciones-en-el-muestreo-distribucion-de-la-media-muestral-upv-1/</guid>
-      <description>Título: Distribuciones en el muestreo. Distribución de la media muestral
-Descripción: Se analiza la Distribución de la media muestral.
 Autor/a: Cabrera García Suitberto
  Universitat Politècnica de València UPV: https://www.upv.es Más vídeos en: https://www.youtube.com/valenciaupv Accede a nuestros MOOC: https://upvx.es    </description>
     </item>

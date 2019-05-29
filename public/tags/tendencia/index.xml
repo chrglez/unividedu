@@ -1,15 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tendencia on Uvide</title>
+    <title>Tendencia on Unitube</title>
     <link>/tags/tendencia/</link>
-    <description>Recent content in Tendencia on Uvide</description>
+    <description>Recent content in Tendencia on Unitube</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Tue, 21 May 2013 06:24:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 May 2014 06:59:04 +0000</lastBuildDate>
     
 	<atom:link href="/tags/tendencia/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>PRIMERA APROXIMACIÓN A LA TENDENCIA</title>
+      <link>/blog/2014/05/07/primera-aproximaci%C3%B3n-a-la-tendencia/</link>
+      <pubDate>Wed, 07 May 2014 06:59:04 +0000</pubDate>
+      
+      <guid>/blog/2014/05/07/primera-aproximaci%C3%B3n-a-la-tendencia/</guid>
+      <description>PRIMERA APROXIMACIÓN A LA TENDENCIA Estadística 1. Ursicino Carrascal Arranz. Universidad de Valladolid.
+  </description>
+    </item>
     
     <item>
       <title>umh1263 2012-13 Lec012 Series Temporales</title>

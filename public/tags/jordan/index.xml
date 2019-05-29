@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>jordan on Unitube</title>
+    <link>/tags/jordan/</link>
+    <description>Recent content in jordan on Unitube</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 03 Dec 2013 12:12:43 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/jordan/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Tema 3. Ejercicio 3 - Alfonso Rosa</title>
+      <link>/blog/2013/12/03/matematicas-para-la-empresa-i-tema-3-ejercicio-3-alfonso-rosa/</link>
+      <pubDate>Tue, 03 Dec 2013 12:12:43 +0000</pubDate>
+      
+      <guid>/blog/2013/12/03/matematicas-para-la-empresa-i-tema-3-ejercicio-3-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Problema. Método Gauss-Jordan
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Tema 3. Lección 6 - Alfonso Rosa</title>
+      <link>/blog/2013/11/22/matematicas-para-la-empresa-i-tema-3-leccion-6-alfonso-rosa/</link>
+      <pubDate>Fri, 22 Nov 2013 10:28:24 +0000</pubDate>
+      
+      <guid>/blog/2013/11/22/matematicas-para-la-empresa-i-tema-3-leccion-6-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Resolución de sistemas compatibles indeterminados
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa I - Tema 3. Lección 5 - Alfonso Rosa</title>
+      <link>/blog/2013/11/22/matematicas-para-la-empresa-i-tema-3-leccion-5-alfonso-rosa/</link>
+      <pubDate>Fri, 22 Nov 2013 10:27:27 +0000</pubDate>
+      
+      <guid>/blog/2013/11/22/matematicas-para-la-empresa-i-tema-3-leccion-5-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Método de Gauss-Jordan
+  </description>
+    </item>
+    
+  </channel>
+</rss>

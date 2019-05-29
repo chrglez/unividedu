@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>empresariales on Uvide</title>
+    <title>Empresariales on Unitube</title>
     <link>/tags/empresariales/</link>
-    <description>Recent content in empresariales on Uvide</description>
+    <description>Recent content in Empresariales on Unitube</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Sun, 28 Sep 2014 11:48:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jun 2016 08:20:03 +0000</lastBuildDate>
     
 	<atom:link href="/tags/empresariales/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Máster Universitario en Economía Cuantitativa | Universidad CEU San Pablo</title>
+      <link>/blog/2016/06/08/master-universitario-en-economia-cuantitativa-universidad-ceu-san-pablo/</link>
+      <pubDate>Wed, 08 Jun 2016 08:20:03 +0000</pubDate>
+      
+      <guid>/blog/2016/06/08/master-universitario-en-economia-cuantitativa-universidad-ceu-san-pablo/</guid>
+      <description>En el Máster en Economía Cuantitativa se analizan las técnicas estadísticas imprescindibles para hacer frente a la abrumadora información que tienen las empresas de sus clientes y proveedores. Datos que hay que interpretar mediante software informático, técnicas multivariantes, econométricas, ecuaciones estructurales, etc. El máster en Economía Cuantitativa garantiza las habilidades y conocimientos que las empresas están buscando en la era de la digitalización, en la que se buscan personas capaces de llevar a cabo proyectos, que aporten valor con sus ideas.</description>
+    </item>
     
     <item>
       <title>Racionalización de fracciones con radicales</title>
@@ -30,6 +39,18 @@
       <description>http://www.viu.es/
 El consultor Alfonso Martínez explica a los alumnos las bondades del ajuste y la optimización en la Administración de Empresas.
 Grado en ADE http://www.viu.es/grado-administracion-direccion-empresas-ade/
+  </description>
+    </item>
+    
+    <item>
+      <title>UEM Personal. Matemáticas Empresariales</title>
+      <link>/blog/2011/02/01/uem-personal-matematicas-empresariales/</link>
+      <pubDate>Tue, 01 Feb 2011 10:39:38 +0000</pubDate>
+      
+      <guid>/blog/2011/02/01/uem-personal-matematicas-empresariales/</guid>
+      <description>Las matemáticas son una parte fundamental del desarrollo económico
+El alumno adquirirá capacidad de organización y planificación, resolución de problemas,perseverancia,motivación por la calidad,razonamiento crítico y toma de decisiones
+Podrás estudiar esta asignatura y otras muchas en la modalidad UEM Personal de la Universidad Europea de Madrid. Una innovadora metodología en la que puedes combinar formación presencial y on-line según tus necesidades
   </description>
     </item>
     

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ADE on Uvide</title>
+    <title>ade on Unitube</title>
     <link>/tags/ade/</link>
-    <description>Recent content in ADE on Uvide</description>
+    <description>Recent content in ade on Unitube</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Wed, 15 Nov 2017 12:56:16 +0000</lastBuildDate>
@@ -22,6 +22,105 @@
     </item>
     
     <item>
+      <title>Matemáticas para la empresa II - Métodos elementales de integración: Sustitución - Alfonso Rosa</title>
+      <link>/blog/2015/04/30/matematicas-para-la-empresa-ii-metodos-elementales-de-integracion-sustitucion-alfonso-rosa/</link>
+      <pubDate>Thu, 30 Apr 2015 08:17:52 +0000</pubDate>
+      
+      <guid>/blog/2015/04/30/matematicas-para-la-empresa-ii-metodos-elementales-de-integracion-sustitucion-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/i...
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: ADE Métodos elementales de integración: Sustitución
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la empresa II - Métodos elementales de integración: Inmediata - Alfonso Rosa</title>
+      <link>/blog/2015/04/30/matematicas-para-la-empresa-ii-metodos-elementales-de-integracion-inmediata-alfonso-rosa/</link>
+      <pubDate>Thu, 30 Apr 2015 07:58:54 +0000</pubDate>
+      
+      <guid>/blog/2015/04/30/matematicas-para-la-empresa-ii-metodos-elementales-de-integracion-inmediata-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/informatica-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: ADE Métodos elementales de integración: Inmediata
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - La Función Integral- Alfonso Rosa</title>
+      <link>/blog/2015/04/30/matematicas-para-la-empresa-ii-la-funcion-integral-alfonso-rosa/</link>
+      <pubDate>Thu, 30 Apr 2015 07:48:50 +0000</pubDate>
+      
+      <guid>/blog/2015/04/30/matematicas-para-la-empresa-ii-la-funcion-integral-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/informatica-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: ADE La Función Integral
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Convergencia y Divergencia de Sucesiones - Alfonso Rosa</title>
+      <link>/blog/2015/04/27/matematicas-para-la-empresa-ii-convergencia-y-divergencia-de-sucesiones-alfonso-rosa/</link>
+      <pubDate>Mon, 27 Apr 2015 11:33:16 +0000</pubDate>
+      
+      <guid>/blog/2015/04/27/matematicas-para-la-empresa-ii-convergencia-y-divergencia-de-sucesiones-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/informatica-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: ADE
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Sucesiones aritméticas y geométricas - Alfonso Rosa</title>
+      <link>/blog/2015/04/24/matematicas-para-la-empresa-ii-sucesiones-aritmeticas-y-geometricas-alfonso-rosa/</link>
+      <pubDate>Fri, 24 Apr 2015 07:12:25 +0000</pubDate>
+      
+      <guid>/blog/2015/04/24/matematicas-para-la-empresa-ii-sucesiones-aritmeticas-y-geometricas-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/informatica-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: ADE
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Aplicación del Teorema de Euler - Alfonso Rosa</title>
+      <link>/blog/2015/04/24/matematicas-para-la-empresa-ii-aplicacion-del-teorema-de-euler-alfonso-rosa/</link>
+      <pubDate>Fri, 24 Apr 2015 07:10:18 +0000</pubDate>
+      
+      <guid>/blog/2015/04/24/matematicas-para-la-empresa-ii-aplicacion-del-teorema-de-euler-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/informatica-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: ADE
+  </description>
+    </item>
+    
+    <item>
+      <title>Fundamentos de Estadística - Índices de variación estacional - Conchi Pérez</title>
+      <link>/blog/2014/11/21/fundamentos-de-estadistica-%C3%ADndices-de-variacion-estacional-conchi-perez/</link>
+      <pubDate>Fri, 21 Nov 2014 10:17:00 +0000</pubDate>
+      
+      <guid>/blog/2014/11/21/fundamentos-de-estadistica-%C3%ADndices-de-variacion-estacional-conchi-perez/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas
+  </description>
+    </item>
+    
+    <item>
+      <title>Fundamentos de Estadística - Tendencia por mínimos cuadrados - Conchi Pérez</title>
+      <link>/blog/2014/11/21/fundamentos-de-estadistica-tendencia-por-minimos-cuadrados-conchi-perez/</link>
+      <pubDate>Fri, 21 Nov 2014 10:16:58 +0000</pubDate>
+      
+      <guid>/blog/2014/11/21/fundamentos-de-estadistica-tendencia-por-minimos-cuadrados-conchi-perez/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas
+  </description>
+    </item>
+    
+    <item>
+      <title>Fundamentos de Estadística - Fiabilidad de las predicciones- Conchi Pérez</title>
+      <link>/blog/2014/11/21/fundamentos-de-estadistica-fiabilidad-de-las-predicciones-conchi-perez/</link>
+      <pubDate>Fri, 21 Nov 2014 10:16:54 +0000</pubDate>
+      
+      <guid>/blog/2014/11/21/fundamentos-de-estadistica-fiabilidad-de-las-predicciones-conchi-perez/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-a-distancia
+Facultad: Ciencias Jurídicas y de la Empresa Titulación: Grado en Administración y Dirección de Empresas
+  </description>
+    </item>
+    
+    <item>
       <title>VIU - Ajuste y optimización en ADE</title>
       <link>/blog/2014/07/01/viu-ajuste-y-optimizacion-en-ade/</link>
       <pubDate>Tue, 01 Jul 2014 07:40:07 +0000</pubDate>
@@ -30,6 +129,124 @@
       <description>http://www.viu.es/
 El consultor Alfonso Martínez explica a los alumnos las bondades del ajuste y la optimización en la Administración de Empresas.
 Grado en ADE http://www.viu.es/grado-administracion-direccion-empresas-ade/
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Tema 7. Ejercicio 1 - Alfonso Rosa</title>
+      <link>/blog/2014/05/26/matematicas-para-la-empresa-ii-tema-7-ejercicio-1-alfonso-rosa/</link>
+      <pubDate>Mon, 26 May 2014 11:42:12 +0000</pubDate>
+      
+      <guid>/blog/2014/05/26/matematicas-para-la-empresa-ii-tema-7-ejercicio-1-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Costes totales desde los costes marginales
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Tema 6. Ejercicio 2 - Alfonso Rosa</title>
+      <link>/blog/2014/05/26/matematicas-para-la-empresa-ii-tema-6-ejercicio-2-alfonso-rosa/</link>
+      <pubDate>Mon, 26 May 2014 11:41:48 +0000</pubDate>
+      
+      <guid>/blog/2014/05/26/matematicas-para-la-empresa-ii-tema-6-ejercicio-2-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Convergencia y divergencia de series
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Tema 6. Ejercicio 1 - Alfonso Rosa</title>
+      <link>/blog/2014/05/26/matematicas-para-la-empresa-ii-tema-6-ejercicio-1-alfonso-rosa/</link>
+      <pubDate>Mon, 26 May 2014 11:41:16 +0000</pubDate>
+      
+      <guid>/blog/2014/05/26/matematicas-para-la-empresa-ii-tema-6-ejercicio-1-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Series aritméticas y geométricas
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Tema 4. Ejercicio 3 - Alfonso Rosa</title>
+      <link>/blog/2014/05/22/matematicas-para-la-empresa-ii-tema-4-ejercicio-3-alfonso-rosa/</link>
+      <pubDate>Thu, 22 May 2014 14:49:12 +0000</pubDate>
+      
+      <guid>/blog/2014/05/22/matematicas-para-la-empresa-ii-tema-4-ejercicio-3-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Tema 3. Lección 5 - Alfonso Rosa</title>
+      <link>/blog/2014/03/24/matematicas-para-la-empresa-ii-tema-3-leccion-5-alfonso-rosa/</link>
+      <pubDate>Mon, 24 Mar 2014 12:59:35 +0000</pubDate>
+      
+      <guid>/blog/2014/03/24/matematicas-para-la-empresa-ii-tema-3-leccion-5-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Derivadas direccionales
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Tema 3. Lección 6 - Alfonso Rosa</title>
+      <link>/blog/2014/03/20/matematicas-para-la-empresa-ii-tema-3-leccion-6-alfonso-rosa/</link>
+      <pubDate>Thu, 20 Mar 2014 18:18:00 +0000</pubDate>
+      
+      <guid>/blog/2014/03/20/matematicas-para-la-empresa-ii-tema-3-leccion-6-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Matriz hessiana
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Tema 3. Lección 4 - Alfonso Rosa</title>
+      <link>/blog/2014/03/20/matematicas-para-la-empresa-ii-tema-3-leccion-4-alfonso-rosa/</link>
+      <pubDate>Thu, 20 Mar 2014 18:05:38 +0000</pubDate>
+      
+      <guid>/blog/2014/03/20/matematicas-para-la-empresa-ii-tema-3-leccion-4-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas Derivadas con una variable independiente Derivadas parciales
+Vector gradiente
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Tema 3. Lección 3 - Alfonso Rosa</title>
+      <link>/blog/2014/03/20/matematicas-para-la-empresa-ii-tema-3-leccion-3-alfonso-rosa/</link>
+      <pubDate>Thu, 20 Mar 2014 18:04:20 +0000</pubDate>
+      
+      <guid>/blog/2014/03/20/matematicas-para-la-empresa-ii-tema-3-leccion-3-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas Derivadas con una variable independiente Derivadas parciales
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Tema 3. Lección 1 - Alfonso Rosa</title>
+      <link>/blog/2014/03/20/matematicas-para-la-empresa-ii-tema-3-leccion-1-alfonso-rosa/</link>
+      <pubDate>Thu, 20 Mar 2014 18:02:12 +0000</pubDate>
+      
+      <guid>/blog/2014/03/20/matematicas-para-la-empresa-ii-tema-3-leccion-1-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Problemas. Derivación implícita en sistemas de ecuaciones
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Tema 4. Ejercicio 2 - Alfonso Rosa</title>
+      <link>/blog/2014/03/20/matematicas-para-la-empresa-ii-tema-4-ejercicio-2-alfonso-rosa/</link>
+      <pubDate>Thu, 20 Mar 2014 18:01:07 +0000</pubDate>
+      
+      <guid>/blog/2014/03/20/matematicas-para-la-empresa-ii-tema-4-ejercicio-2-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Problemas. Derivación de funciones implícitas
   </description>
     </item>
     
@@ -105,16 +322,6 @@ Grado en ADE http://www.viu.es/grado-administracion-direccion-empresas-ade/
     
     <item>
       <title>GRADO ADE - Lección: convenciones de fechas en finanzas - Matemáticas economía - UNIR 2014</title>
-      <link>/blog/2011/05/12/grado-ade-leccion-convenciones-de-fechas-en-finanzas-matematicas-economia-unir-2014-1/</link>
-      <pubDate>Thu, 12 May 2011 15:10:46 +0000</pubDate>
-      
-      <guid>/blog/2011/05/12/grado-ade-leccion-convenciones-de-fechas-en-finanzas-matematicas-economia-unir-2014-1/</guid>
-      <description>Convenciones de fechas en finanzas UNIR, grado en ADE http://www.unir.net/grado-ade-administracion-direccion-empresas.aspx
-  </description>
-    </item>
-    
-    <item>
-      <title>GRADO ADE - Lección: convenciones de fechas en finanzas - Matemáticas economía - UNIR 2014</title>
       <link>/blog/2011/05/12/grado-ade-leccion-convenciones-de-fechas-en-finanzas-matematicas-economia-unir-2014/</link>
       <pubDate>Thu, 12 May 2011 15:10:46 +0000</pubDate>
       
@@ -125,31 +332,11 @@ Grado en ADE http://www.viu.es/grado-administracion-direccion-empresas-ade/
     
     <item>
       <title>GRADO ADE - Lección: el valor temporal del dinero - Matemáticas economía - UNIR 2014</title>
-      <link>/blog/2011/05/12/grado-ade-leccion-el-valor-temporal-del-dinero-matematicas-economia-unir-2014-1/</link>
-      <pubDate>Thu, 12 May 2011 15:08:19 +0000</pubDate>
-      
-      <guid>/blog/2011/05/12/grado-ade-leccion-el-valor-temporal-del-dinero-matematicas-economia-unir-2014-1/</guid>
-      <description>El valor temporal del dinero
-  </description>
-    </item>
-    
-    <item>
-      <title>GRADO ADE - Lección: el valor temporal del dinero - Matemáticas economía - UNIR 2014</title>
       <link>/blog/2011/05/12/grado-ade-leccion-el-valor-temporal-del-dinero-matematicas-economia-unir-2014/</link>
       <pubDate>Thu, 12 May 2011 15:08:19 +0000</pubDate>
       
       <guid>/blog/2011/05/12/grado-ade-leccion-el-valor-temporal-del-dinero-matematicas-economia-unir-2014/</guid>
       <description>El valor temporal del dinero
-  </description>
-    </item>
-    
-    <item>
-      <title>GRADO ADE - Lección: cálculo integral - Matemáticas economía - UNIR</title>
-      <link>/blog/2011/05/12/grado-ade-leccion-calculo-integral-matematicas-economia-unir-1/</link>
-      <pubDate>Thu, 12 May 2011 15:06:15 +0000</pubDate>
-      
-      <guid>/blog/2011/05/12/grado-ade-leccion-calculo-integral-matematicas-economia-unir-1/</guid>
-      <description>http://www.unir.net/grado-ade-administracion-direccion-empresas.aspx Nociones del cálculo integral. Profesor Ángel Ruíz Cueva. Matemática para la Economía ADE. Universidad Internacional de La Rioja
   </description>
     </item>
     

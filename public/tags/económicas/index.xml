@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Económicas on Unitube</title>
+    <link>/tags/econ%C3%B3micas/</link>
+    <description>Recent content in Económicas on Unitube</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 08 Jun 2016 08:20:03 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/econ%C3%B3micas/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Máster Universitario en Economía Cuantitativa | Universidad CEU San Pablo</title>
+      <link>/blog/2016/06/08/master-universitario-en-economia-cuantitativa-universidad-ceu-san-pablo/</link>
+      <pubDate>Wed, 08 Jun 2016 08:20:03 +0000</pubDate>
+      
+      <guid>/blog/2016/06/08/master-universitario-en-economia-cuantitativa-universidad-ceu-san-pablo/</guid>
+      <description>En el Máster en Economía Cuantitativa se analizan las técnicas estadísticas imprescindibles para hacer frente a la abrumadora información que tienen las empresas de sus clientes y proveedores. Datos que hay que interpretar mediante software informático, técnicas multivariantes, econométricas, ecuaciones estructurales, etc. El máster en Economía Cuantitativa garantiza las habilidades y conocimientos que las empresas están buscando en la era de la digitalización, en la que se buscan personas capaces de llevar a cabo proyectos, que aporten valor con sus ideas.</description>
+    </item>
+    
+  </channel>
+</rss>

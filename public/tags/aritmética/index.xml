@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aritmética on Unitube</title>
+    <link>/tags/aritm%C3%A9tica/</link>
+    <description>Recent content in Aritmética on Unitube</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Sat, 24 Oct 2015 09:35:01 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/aritm%C3%A9tica/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>3. Clasificación de los numeros</title>
+      <link>/blog/2015/10/24/3-clasificacion-de-los-numeros/</link>
+      <pubDate>Sat, 24 Oct 2015 09:35:01 +0000</pubDate>
+      
+      <guid>/blog/2015/10/24/3-clasificacion-de-los-numeros/</guid>
+      <description>En este vídeo repasamos todas las clases de números, desde los naturales, pasando por los enteros, racionales y reales, hasta los complejos.
+  </description>
+    </item>
+    
+    <item>
+      <title>2. Introducción al sistema decimal</title>
+      <link>/blog/2015/10/23/2-introduccion-al-sistema-decimal/</link>
+      <pubDate>Fri, 23 Oct 2015 13:09:00 +0000</pubDate>
+      
+      <guid>/blog/2015/10/23/2-introduccion-al-sistema-decimal/</guid>
+      <description>Este vídeo explica los fundamentos del sistema de numeración decimal que tenemos hoy en día.
+  </description>
+    </item>
+    
+    <item>
+      <title>1.  Brevísima historia de los números</title>
+      <link>/blog/2015/10/23/1-brevisima-historia-de-los-numeros/</link>
+      <pubDate>Fri, 23 Oct 2015 12:29:00 +0000</pubDate>
+      
+      <guid>/blog/2015/10/23/1-brevisima-historia-de-los-numeros/</guid>
+      <description>En este vídeo se hace un breve repaso de la historia de los números, empezando por el hueso Ishango hasta nuestro sistema decimal actual.
+  </description>
+    </item>
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Tema 6. Lección 4- Alfonso Rosa</title>
+      <link>/blog/2014/05/16/matematicas-para-la-empresa-ii-tema-6-leccion-4-alfonso-rosa/</link>
+      <pubDate>Fri, 16 May 2014 08:46:32 +0000</pubDate>
+      
+      <guid>/blog/2014/05/16/matematicas-para-la-empresa-ii-tema-6-leccion-4-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+convergencia en series aritméticas y geométricas
+  </description>
+    </item>
+    
+  </channel>
+</rss>

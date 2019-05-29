@@ -1,26 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>axiomas on Uvide</title>
+    <title>axiomas on Unitube</title>
     <link>/tags/axiomas/</link>
-    <description>Recent content in axiomas on Uvide</description>
+    <description>Recent content in axiomas on Unitube</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Wed, 20 Jul 2016 10:42:23 +0000</lastBuildDate>
     
 	<atom:link href="/tags/axiomas/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Concepto axiomático de la probabilidad</title>
-      <link>/blog/2016/07/20/concepto-axiomatico-de-la-probabilidad-1/</link>
-      <pubDate>Wed, 20 Jul 2016 10:42:23 +0000</pubDate>
-      
-      <guid>/blog/2016/07/20/concepto-axiomatico-de-la-probabilidad-1/</guid>
-      <description>Este minivideo de pocos minutos de duración supone una aproximación a la definición de probabilidad basada en axiomas. Por favor, haz &amp;ldquo;Me gusta&amp;rdquo; si te ha servido de ayuda y suscribete a mi canal. Muchas gracias.
-Carlos Gamero Departamento de Estadística y Econometría Universidad de Málaga
-  </description>
-    </item>
     
     <item>
       <title>Concepto axiomático de la probabilidad</title>

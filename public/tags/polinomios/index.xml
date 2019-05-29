@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>polinomios on Uvide</title>
+    <title>polinomios on Unitube</title>
     <link>/tags/polinomios/</link>
-    <description>Recent content in polinomios on Uvide</description>
+    <description>Recent content in polinomios on Unitube</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Thu, 08 Oct 2015 22:11:21 +0000</lastBuildDate>
@@ -32,16 +32,6 @@
     </item>
     
     <item>
-      <title>Factorización de polinomios de grado 2</title>
-      <link>/blog/2015/10/05/factorizacion-de-polinomios-de-grado-2/</link>
-      <pubDate>Mon, 05 Oct 2015 00:54:44 +0000</pubDate>
-      
-      <guid>/blog/2015/10/05/factorizacion-de-polinomios-de-grado-2/</guid>
-      <description>Factorización de polinomios de grado 2
-  </description>
-    </item>
-    
-    <item>
       <title>Producto de polinomios</title>
       <link>/blog/2015/10/04/producto-de-polinomios/</link>
       <pubDate>Sun, 04 Oct 2015 19:02:53 +0000</pubDate>
@@ -52,12 +42,13 @@
     </item>
     
     <item>
-      <title>Factorización de polinomios</title>
-      <link>/blog/2014/09/30/factorizacion-de-polinomios-1/</link>
-      <pubDate>Tue, 30 Sep 2014 20:16:02 +0000</pubDate>
+      <title>Matemáticas para la Empresa II -  Tema 1. Lección 2 - Alfonso Rosa</title>
+      <link>/blog/2014/02/20/matematicas-para-la-empresa-ii-tema-1-leccion-2-alfonso-rosa/</link>
+      <pubDate>Thu, 20 Feb 2014 16:56:51 +0000</pubDate>
       
-      <guid>/blog/2014/09/30/factorizacion-de-polinomios-1/</guid>
-      <description>Factorización de polinomios
+      <guid>/blog/2014/02/20/matematicas-para-la-empresa-ii-tema-1-leccion-2-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas Ejemplos de funciones reales
   </description>
     </item>
     

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Predicción on Uvide</title>
+    <title>Predicción on Unitube</title>
     <link>/tags/predicci%C3%B3n/</link>
-    <description>Recent content in Predicción on Uvide</description>
+    <description>Recent content in Predicción on Unitube</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Sun, 15 Oct 2017 10:21:21 +0000</lastBuildDate>
@@ -117,6 +117,26 @@ En este video se muestra cómo un modelo lineal bondadoso y válido puede predec
       <description>Más vídeos de la colección en el siguiente link: http://bit.ly/20XaPkS
 Validando el modelo lineal. Asignatura: Técnicas Estadísticas en Investigación de Mercados. Grado en Estadística Empresarial. Profesor: Xavier Barber i Vallés. Dpto. de Estadística, Matemáticas e Informática. Área de Estadística e Investigación Operativa. Proyecto PLE. Universidad Miguel Hernández de Elche.
 Bondad de ajuste, Validación y Predicción de un modelo lineal. Los tres pilares que no siempre sujetan a al &amp;ldquo;mejor&amp;rdquo; modelo.</description>
+    </item>
+    
+    <item>
+      <title>ESQUEMA MULTIPLICATIVO: DESESTACIONALIZACIÓN Y PREDICCION.</title>
+      <link>/blog/2014/05/07/esquema-multiplicativo-desestacionalizaci%C3%B3n-y-prediccion/</link>
+      <pubDate>Wed, 07 May 2014 07:05:29 +0000</pubDate>
+      
+      <guid>/blog/2014/05/07/esquema-multiplicativo-desestacionalizaci%C3%B3n-y-prediccion/</guid>
+      <description>ESQUEMA MULTIPLICATIVO: DESESTACIONALIZACIÓN Y PREDICCIÓN. Estadística 1. Ursicino Carrascal Arranz. Universidad de Valladolid.
+  </description>
+    </item>
+    
+    <item>
+      <title>ESQUEMA ADITIVO: DESESTACIONALIZACIÓN Y PREDICCIÓN.</title>
+      <link>/blog/2014/05/07/esquema-aditivo-desestacionalizaci%C3%B3n-y-predicci%C3%B3n/</link>
+      <pubDate>Wed, 07 May 2014 07:04:03 +0000</pubDate>
+      
+      <guid>/blog/2014/05/07/esquema-aditivo-desestacionalizaci%C3%B3n-y-predicci%C3%B3n/</guid>
+      <description>ESQUEMA ADITIVO: DESESTACIONALIZACIÓN Y PREDICCIÓN. Estadística 1. Ursicino Carrascal Arranz. Universidad de Valladolid.
+  </description>
     </item>
     
     <item>

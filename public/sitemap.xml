@@ -201,6 +201,12 @@
   </url>
   
   <url>
+    <loc>/tags/ade-valencia/</loc>
+    <lastmod>2018-09-26T15:09:36+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/ade-para-emprendedores/</loc>
     <lastmod>2018-09-26T15:09:36+00:00</lastmod>
     <priority>0</priority>
@@ -260,19 +266,13 @@
   </url>
   
   <url>
-    <loc>/tags/matem%C3%A1ticas-i/</loc>
-    <lastmod>2018-09-26T15:09:36+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/ade-valencia/</loc>
-    <lastmod>2018-09-26T15:09:36+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/matem%C3%A1ticas/</loc>
+    <lastmod>2018-09-26T15:09:36+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/matem%C3%A1ticas-i/</loc>
     <lastmod>2018-09-26T15:09:36+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -287,11 +287,6 @@
     <loc>/tags/tsls/</loc>
     <lastmod>2018-05-03T16:54:13+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/blog/2018/05/03/viii-mme-simultaneos-1/</loc>
-    <lastmod>2018-05-03T16:54:13+00:00</lastmod>
   </url>
   
   <url>
@@ -323,6 +318,12 @@
   </url>
   
   <url>
+    <loc>/tags/becas-universidad/</loc>
+    <lastmod>2018-04-27T12:02:41+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/emprendimiento-valencia/</loc>
     <lastmod>2018-04-27T12:02:41+00:00</lastmod>
     <priority>0</priority>
@@ -347,12 +348,6 @@
   
   <url>
     <loc>/tags/grado-ade-para-emprendedores/</loc>
-    <lastmod>2018-04-27T12:02:41+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/becas-universidad/</loc>
     <lastmod>2018-04-27T12:02:41+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -489,12 +484,6 @@
   </url>
   
   <url>
-    <loc>/tags/ade/</loc>
-    <lastmod>2017-11-15T12:56:16+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/centro-universitario-edem/</loc>
     <lastmod>2017-11-15T12:56:16+00:00</lastmod>
     <priority>0</priority>
@@ -519,6 +508,12 @@
   
   <url>
     <loc>/tags/inferencia-estad%C3%ADstica/</loc>
+    <lastmod>2017-11-15T12:56:16+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/ade/</loc>
     <lastmod>2017-11-15T12:56:16+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -598,11 +593,6 @@
     <loc>/tags/vrlr/</loc>
     <lastmod>2017-10-15T10:21:21+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/blog/2017/10/06/6-captura-de-datos-y-estimacion-e-views-1-introduccion-a-la-econometria-vi-vrlr-1/</loc>
-    <lastmod>2017-10-06T16:37:43+00:00</lastmod>
   </url>
   
   <url>
@@ -803,12 +793,6 @@
   </url>
   
   <url>
-    <loc>/tags/big-data/</loc>
-    <lastmod>2017-05-19T08:07:01+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/deep-learning/</loc>
     <lastmod>2017-05-19T08:07:01+00:00</lastmod>
     <priority>0</priority>
@@ -862,6 +846,12 @@
   </url>
   
   <url>
+    <loc>/tags/big-data/</loc>
+    <lastmod>2017-05-19T08:07:01+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/%C3%A1rboles-de-decisi%C3%B3n/</loc>
     <lastmod>2017-05-19T08:07:01+00:00</lastmod>
     <priority>0</priority>
@@ -870,6 +860,37 @@
   <url>
     <loc>/tags/%C3%A1rboles-de-regresi%C3%B3n/</loc>
     <lastmod>2017-05-19T08:07:01+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2017/05/16/1-calculo-de-densidades-marginales/</loc>
+    <lastmod>2017-05-16T08:07:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2017/05/16/2-esperanzas-marginales-de-x/</loc>
+    <lastmod>2017-05-16T08:07:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2017/05/16/3-esperanzas-marginales-de-y/</loc>
+    <lastmod>2017-05-16T08:07:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2017/05/16/4-covarianza-entre-x-e-y/</loc>
+    <lastmod>2017-05-16T08:07:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2017/05/16/5-calculo-del-coeficiente-de-correlacion-lineal/</loc>
+    <lastmod>2017-05-16T08:07:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/uva/</loc>
+    <lastmod>2017-05-16T08:07:48+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -965,100 +986,6 @@
   </url>
   
   <url>
-    <loc>/blog/2017/04/04/estadistica-estatal-ine-aude-4-6/</loc>
-    <lastmod>2017-04-04T05:43:41+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/ciencia/</loc>
-    <lastmod>2017-04-04T05:43:41+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/clases/</loc>
-    <lastmod>2017-04-04T05:43:41+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/docencia/</loc>
-    <lastmod>2017-04-04T05:43:41+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/educacion/</loc>
-    <lastmod>2017-04-04T05:43:41+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/educativos/</loc>
-    <lastmod>2017-04-04T05:43:41+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/espa%C3%B1a/</loc>
-    <lastmod>2017-04-04T05:43:41+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/ingenieria/</loc>
-    <lastmod>2017-04-04T05:43:41+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/innovacion/</loc>
-    <lastmod>2017-04-04T05:43:41+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/madrid/</loc>
-    <lastmod>2017-04-04T05:43:41+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/politecnica/</loc>
-    <lastmod>2017-04-04T05:43:41+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/polit%C3%A9cnica/</loc>
-    <lastmod>2017-04-04T05:43:41+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/seminarios/</loc>
-    <lastmod>2017-04-04T05:43:41+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/upm/</loc>
-    <lastmod>2017-04-04T05:43:41+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/videos/</loc>
-    <lastmod>2017-04-04T05:43:41+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/blog/2017/04/04/20170224-05-estadistica-municipal-aude-5-6/</loc>
-    <lastmod>2017-04-04T05:43:35+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/bondad-de-ajuste/</loc>
     <lastmod>2017-03-28T13:30:16+00:00</lastmod>
     <priority>0</priority>
@@ -1072,6 +999,47 @@
   <url>
     <loc>/blog/2017/03/28/resolucion-de-ejercicios-ancova/</loc>
     <lastmod>2017-03-28T13:28:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2017/03/27/big-data-como-lo-usan-los-investigadores-y-las-grandes-empresas/</loc>
+    <lastmod>2017-03-27T13:25:13+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/unav/</loc>
+    <lastmod>2017-03-27T13:25:13+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/facultad-econ%C3%B3micas/</loc>
+    <lastmod>2017-03-27T13:25:13+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/ics/</loc>
+    <lastmod>2017-03-27T13:25:13+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/instituto-cultura-y-sociedad/</loc>
+    <lastmod>2017-03-27T13:25:13+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/unav/</loc>
+    <lastmod>2017-03-27T13:25:13+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/universidad-de-navarra/</loc>
+    <lastmod>2017-03-27T13:25:13+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -1214,6 +1182,35 @@
   </url>
   
   <url>
+    <loc>/blog/2017/03/07/curva-de-lorenz-e-%C3%ADndice-de-gini-por-diferencias/</loc>
+    <lastmod>2017-03-07T08:44:04+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/gini/</loc>
+    <lastmod>2017-03-07T08:44:04+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/lorenz/</loc>
+    <lastmod>2017-03-07T08:44:04+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/desigualdad/</loc>
+    <lastmod>2017-03-07T08:44:04+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/equidad/</loc>
+    <lastmod>2017-03-07T08:44:04+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/blog/2017/03/06/unidad-014-estadistica-descriptiva-desde-rstudio-con-markdown-al-informe-del-cliente-iii/</loc>
     <lastmod>2017-03-06T07:08:09+00:00</lastmod>
   </url>
@@ -1248,131 +1245,13 @@
   </url>
   
   <url>
+    <loc>/blog/2017/03/01/activar-analisis-de-datos/</loc>
+    <lastmod>2017-03-01T09:37:48+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/blog/2017/02/27/unidad-012-estadistica-descriptiva-desde-rstudio-con-markdown-al-informe-del-cliente-i/</loc>
     <lastmod>2017-02-27T09:16:32+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/csic/</loc>
-    <lastmod>2017-02-24T12:52:37+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/curso-de-verano/</loc>
-    <lastmod>2017-02-24T12:52:37+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/cursos-de-verano-2016/</loc>
-    <lastmod>2017-02-24T12:52:37+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/ehu/upv/</loc>
-    <lastmod>2017-02-24T12:52:37+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/blog/2017/02/24/estadisticas-y-genero-1-3/</loc>
-    <lastmod>2017-02-24T12:52:37+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/2017/02/24/estadisticas-y-genero-3-3/</loc>
-    <lastmod>2017-02-24T12:52:37+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/euskadi/</loc>
-    <lastmod>2017-02-24T12:52:37+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/euskal-herriko-unibertsitatea/</loc>
-    <lastmod>2017-02-24T12:52:37+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/eustat/</loc>
-    <lastmod>2017-02-24T12:52:37+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/g%C3%A9nero/</loc>
-    <lastmod>2017-02-24T12:52:37+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/igualdad/</loc>
-    <lastmod>2017-02-24T12:52:37+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/instituto-de-estudios-fiscales/</loc>
-    <lastmod>2017-02-24T12:52:37+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/ponencia/</loc>
-    <lastmod>2017-02-24T12:52:37+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/ricardo-gatzagaetxebarria/</loc>
-    <lastmod>2017-02-24T12:52:37+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/universidad-del-pa%C3%ADs-vasco/</loc>
-    <lastmod>2017-02-24T12:52:37+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/emakunde/</loc>
-    <lastmod>2017-02-24T12:52:36+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/enrique-mor%C3%A1n/</loc>
-    <lastmod>2017-02-24T12:52:36+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/blog/2017/02/24/estadisticas-y-genero-2-3/</loc>
-    <lastmod>2017-02-24T12:52:36+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/izaskun-landaida/</loc>
-    <lastmod>2017-02-24T12:52:36+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/josu-iradi/</loc>
-    <lastmod>2017-02-24T12:52:36+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/teresa-rem%C3%ADrez-de-ganuza/</loc>
-    <lastmod>2017-02-24T12:52:36+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1387,13 +1266,13 @@
   </url>
   
   <url>
-    <loc>/categories/unir/</loc>
+    <loc>/tags/unir/</loc>
     <lastmod>2017-02-24T11:35:24+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/unir/</loc>
+    <loc>/categories/unir/</loc>
     <lastmod>2017-02-24T11:35:24+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1491,6 +1370,73 @@
   </url>
   
   <url>
+    <loc>/tags/cuartiles/</loc>
+    <lastmod>2017-02-16T10:01:16+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/mediana/</loc>
+    <lastmod>2017-02-16T10:01:16+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2017/02/16/percentiles/</loc>
+    <lastmod>2017-02-16T10:01:16+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/deciles/</loc>
+    <lastmod>2017-02-16T10:01:16+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/percentiles/</loc>
+    <lastmod>2017-02-16T10:01:16+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/diagrama-de-caja-y-bigotes/</loc>
+    <lastmod>2017-02-16T09:48:40+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2017/02/16/diagrama-de-caja-y-bigotes/</loc>
+    <lastmod>2017-02-16T09:48:40+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/box-and-whisker-plot/</loc>
+    <lastmod>2017-02-16T09:48:40+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2017/02/16/cuartiles-y-percentiles-con-formulas-excel/</loc>
+    <lastmod>2017-02-16T09:21:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2017/02/16/cuartiles/</loc>
+    <lastmod>2017-02-16T09:03:41+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2017/02/16/calculo-de-las-distintas-frecuencias/</loc>
+    <lastmod>2017-02-16T08:35:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/frecuencia/</loc>
+    <lastmod>2017-02-16T08:35:19+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/blog/2017/01/17/clase-calculo-derivadas-crcimiento-aplicaciones-con-estudiante-espana/</loc>
     <lastmod>2017-01-17T19:59:01+00:00</lastmod>
   </url>
@@ -1515,6 +1461,12 @@
   
   <url>
     <loc>/tags/asesor/</loc>
+    <lastmod>2017-01-17T19:59:01+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/clases/</loc>
     <lastmod>2017-01-17T19:59:01+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1789,11 +1741,6 @@
   </url>
   
   <url>
-    <loc>/blog/2016/10/20/gretl-la-econometria-1/</loc>
-    <lastmod>2016-10-20T12:50:21+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/blog/2016/10/20/gretl-la-econometria/</loc>
     <lastmod>2016-10-20T12:50:21+00:00</lastmod>
   </url>
@@ -1824,22 +1771,12 @@
   </url>
   
   <url>
-    <loc>/blog/2016/10/20/modelo-de-regresion-lineal-multiple-urjcx-1/</loc>
-    <lastmod>2016-10-20T12:50:20+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/blog/2016/10/20/modelo-de-regresion-lineal-multiple-urjcx/</loc>
     <lastmod>2016-10-20T12:50:20+00:00</lastmod>
   </url>
   
   <url>
     <loc>/blog/2016/10/20/analisis-univariante-urjcx/</loc>
-    <lastmod>2016-10-20T12:50:19+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/2016/10/20/series-temporales-iurjcx-1/</loc>
     <lastmod>2016-10-20T12:50:19+00:00</lastmod>
   </url>
   
@@ -2023,15 +1960,30 @@
   </url>
   
   <url>
+    <loc>/tags/uib/</loc>
+    <lastmod>2016-09-22T12:53:17+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/categories/uib/</loc>
     <lastmod>2016-09-22T12:53:17+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/uib/</loc>
-    <lastmod>2016-09-22T12:53:17+00:00</lastmod>
-    <priority>0</priority>
+    <loc>/blog/2016/09/22/94-diagramas-de-caja/</loc>
+    <lastmod>2016-09-22T12:53:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2016/09/22/77-un-ejemplo-completo/</loc>
+    <lastmod>2016-09-22T12:52:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2016/09/22/91-frecuencias/</loc>
+    <lastmod>2016-09-22T12:52:07+00:00</lastmod>
   </url>
   
   <url>
@@ -2040,8 +1992,33 @@
   </url>
   
   <url>
+    <loc>/blog/2016/09/22/125-streamgraphs/</loc>
+    <lastmod>2016-09-22T12:51:36+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/blog/2016/09/22/23-formas-basicas-de-lectura-de-datos-externos/</loc>
     <lastmod>2016-09-22T12:51:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2016/09/22/101-matrices-de-datos-cuantitativos/</loc>
+    <lastmod>2016-09-22T12:50:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2016/09/22/113-histogramas/</loc>
+    <lastmod>2016-09-22T12:50:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2016/09/22/112-estadisticos-para-datos-agrupados/</loc>
+    <lastmod>2016-09-22T12:50:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2016/09/22/81-datos-ordinales/</loc>
+    <lastmod>2016-09-22T12:49:49+00:00</lastmod>
   </url>
   
   <url>
@@ -2060,6 +2037,21 @@
   </url>
   
   <url>
+    <loc>/blog/2016/09/22/111-agrupamiento-de-datos-con-r/</loc>
+    <lastmod>2016-09-22T12:48:43+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2016/09/22/92-medidas-de-tendencia-central-y-de-posicion/</loc>
+    <lastmod>2016-09-22T12:48:24+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2016/09/22/93-medidas-de-dispersion/</loc>
+    <lastmod>2016-09-22T12:48:08+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/blog/2016/09/22/71-tablas-unidimensionales-de-frecuencias/</loc>
     <lastmod>2016-09-22T12:47:52+00:00</lastmod>
   </url>
@@ -2067,6 +2059,51 @@
   <url>
     <loc>/blog/2016/09/22/72-tablas-bidimensionales-de-frecuencias/</loc>
     <lastmod>2016-09-22T12:47:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2016/09/22/73-tablas-multidimensionales-de-frecuencias/</loc>
+    <lastmod>2016-09-22T12:47:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2016/09/22/74-tablas-de-frecuencias-a-partir-de-data-frames/</loc>
+    <lastmod>2016-09-22T12:47:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2016/09/22/75-diagramas-de-barras/</loc>
+    <lastmod>2016-09-22T12:46:47+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2016/09/22/76-otros-graficos-basicos-para-datos-cualitativos/</loc>
+    <lastmod>2016-09-22T12:46:31+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2016/09/22/124-nubes-de-palabras-bubbles/</loc>
+    <lastmod>2016-09-22T12:44:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2016/09/22/122-mapas-de-colores-heatmaps/</loc>
+    <lastmod>2016-09-22T12:44:44+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2016/09/22/123-dendrogramas/</loc>
+    <lastmod>2016-09-22T12:44:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2016/09/22/103-representacion-grafica-de-datos-multidimensionales/</loc>
+    <lastmod>2016-09-22T12:43:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2016/09/22/102-covarianzas-y-correlaciones/</loc>
+    <lastmod>2016-09-22T12:43:40+00:00</lastmod>
   </url>
   
   <url>
@@ -2157,6 +2194,11 @@
   </url>
   
   <url>
+    <loc>/blog/2016/07/29/extra2-chunks/</loc>
+    <lastmod>2016-07-29T12:33:57+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/blog/2016/07/29/41-construccion-de-matrices/</loc>
     <lastmod>2016-07-29T12:33:08+00:00</lastmod>
   </url>
@@ -2187,8 +2229,28 @@
   </url>
   
   <url>
+    <loc>/blog/2016/07/28/extra1-r-markdown/</loc>
+    <lastmod>2016-07-28T11:43:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2016/07/27/extra3-figuras-en-r-markdown/</loc>
+    <lastmod>2016-07-27T11:53:13+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/blog/2016/07/27/44-%C3%A1lgebra-matricial/</loc>
     <lastmod>2016-07-27T11:52:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2016/07/27/extra4-tablas-en-r-markdown/</loc>
+    <lastmod>2016-07-27T11:04:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2016/07/27/121-nubes-de-palabras/</loc>
+    <lastmod>2016-07-27T11:03:05+00:00</lastmod>
   </url>
   
   <url>
@@ -2224,11 +2286,6 @@
   <url>
     <loc>/blog/2016/07/26/53-estructura-de-un-data-frame-ii/</loc>
     <lastmod>2016-07-26T09:46:41+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/2016/07/20/concepto-de-variable-aleatoria-1/</loc>
-    <lastmod>2016-07-20T11:44:02+00:00</lastmod>
   </url>
   
   <url>
@@ -2312,11 +2369,6 @@
     <loc>/tags/%C3%A1lgebra-de-sucesos/</loc>
     <lastmod>2016-07-20T11:44:02+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/blog/2016/07/20/concepto-axiomatico-de-la-probabilidad-1/</loc>
-    <lastmod>2016-07-20T10:42:23+00:00</lastmod>
   </url>
   
   <url>
@@ -2636,6 +2688,121 @@
   </url>
   
   <url>
+    <loc>/blog/2016/06/20/fundamentos-de-estadistica-sesgo-y-curtosis-jorge-lopez-puga/</loc>
+    <lastmod>2016-06-20T09:47:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/ucam/</loc>
+    <lastmod>2016-06-20T09:47:58+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/ceu/</loc>
+    <lastmod>2016-06-08T08:20:03+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/ceu-usp/</loc>
+    <lastmod>2016-06-08T08:20:03+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/ceumedia/</loc>
+    <lastmod>2016-06-08T08:20:03+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/econom%C3%ADa-cuantitativa/</loc>
+    <lastmod>2016-06-08T08:20:03+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/econ%C3%B3micas/</loc>
+    <lastmod>2016-06-08T08:20:03+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/empresariales/</loc>
+    <lastmod>2016-06-08T08:20:03+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/fundaci%C3%B3n-universitaria-san-pablo-ceu/</loc>
+    <lastmod>2016-06-08T08:20:03+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/m%C3%A1ster-universitario/</loc>
+    <lastmod>2016-06-08T08:20:03+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2016/06/08/master-universitario-en-economia-cuantitativa-universidad-ceu-san-pablo/</loc>
+    <lastmod>2016-06-08T08:20:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/posgrado/</loc>
+    <lastmod>2016-06-08T08:20:03+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/san-pablo-ceu/</loc>
+    <lastmod>2016-06-08T08:20:03+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/universidad-ceu-san-pablo/</loc>
+    <lastmod>2016-06-08T08:20:03+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/econom%C3%ADa/</loc>
+    <lastmod>2016-06-08T08:20:03+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/educaci%C3%B3n/</loc>
+    <lastmod>2016-06-08T08:20:03+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/formaci%C3%B3n/</loc>
+    <lastmod>2016-06-08T08:20:03+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2016/05/24/fundamentos-de-estadistica-correlacion-lineal-jorge-lopez-puga/</loc>
+    <lastmod>2016-05-24T11:44:04+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2016/05/24/fundamentos-de-estadistica-regresion-lineal-simple-jorge-lopez-puga/</loc>
+    <lastmod>2016-05-24T11:44:04+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2016/05/16/fundamentos-de-estadistica-grafico-de-dispersion-jorge-lopez-puga/</loc>
+    <lastmod>2016-05-16T11:28:26+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/capacidad/</loc>
     <lastmod>2016-04-28T16:52:10+00:00</lastmod>
     <priority>0</priority>
@@ -2758,6 +2925,74 @@
   </url>
   
   <url>
+    <loc>/blog/2016/04/18/fundamentos-de-estadistica-estadisticos-de-tendencia-central-y-dispersion-con-jasp-jorge-lopez-puga/</loc>
+    <lastmod>2016-04-18T15:41:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2016/04/18/fundamentos-de-estadistica-puntuaciones-tipicas-y-derivadas-jorge-lopez-puga/</loc>
+    <lastmod>2016-04-18T15:41:16+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2016/04/18/fundamentos-de-estadistica-dispersion-jorge-lopez-puga/</loc>
+    <lastmod>2016-04-18T15:41:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2016/04/18/fundamentos-de-estadistica-%C3%ADndices-de-posicion-jorge-lopez-puga/</loc>
+    <lastmod>2016-04-18T15:40:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2016/03/30/estadistica-i-ade-ull/</loc>
+    <lastmod>2016-03-30T13:42:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/ull/</loc>
+    <lastmod>2016-03-30T13:42:49+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2016/03/16/fundamentos-estadisticos-fundamentos-de-estadistica-por-que-son-utiles-jorge-lopez-puga/</loc>
+    <lastmod>2016-03-16T11:25:16+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2016/03/16/fundamentos-de-estadistica-estadistico-de-tendencia-central-jorge-lopez-puga/</loc>
+    <lastmod>2016-03-16T11:24:04+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2016/03/16/fundamentos-de-estadistica-distribuciones-de-frecuencias-graficos-jorge-lopez-puga/</loc>
+    <lastmod>2016-03-16T11:23:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2016/03/16/fundamentos-de-estadistica-distribuciones-de-frecuencias-tablas-jorge-lopez-puga/</loc>
+    <lastmod>2016-03-16T11:23:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2016/03/16/analisis-de-datos-para-muestras-condicionadas/</loc>
+    <lastmod>2016-03-16T08:25:22+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/distribuci%C3%B3n/</loc>
+    <lastmod>2016-03-16T08:25:22+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/distribuci%C3%B3n-condicionada/</loc>
+    <lastmod>2016-03-16T08:25:22+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/carlos-iii-de-madrid/</loc>
     <lastmod>2016-03-15T12:09:01+00:00</lastmod>
     <priority>0</priority>
@@ -2783,6 +3018,17 @@
   <url>
     <loc>/tags/uc3m/</loc>
     <lastmod>2016-03-15T12:09:01+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2016/03/09/indice-de-gini-y-efecto-de-un-cambio-de-escala/</loc>
+    <lastmod>2016-03-09T08:34:24+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/cambio-de-escala/</loc>
+    <lastmod>2016-03-09T08:34:24+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2817,6 +3063,11 @@
   <url>
     <loc>/blog/2016/02/29/lec0041-repaso-a-los-modelos-lineales-umh1480/</loc>
     <lastmod>2016-02-29T14:30:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2016/02/22/tabla-estadistica-con-excel/</loc>
+    <lastmod>2016-02-22T12:46:38+00:00</lastmod>
   </url>
   
   <url>
@@ -2899,13 +3150,54 @@
   </url>
   
   <url>
-    <loc>/categories/viu/</loc>
-    <lastmod>2015-12-29T12:09:25+00:00</lastmod>
+    <loc>/tags/calculadora/</loc>
+    <lastmod>2016-01-13T09:11:39+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/descriptiva/</loc>
+    <lastmod>2016-01-13T09:11:39+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/estad%C3%ADstica-e-investigaci%C3%B3n-operativa-265/</loc>
+    <lastmod>2016-01-13T09:11:39+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/media/</loc>
+    <lastmod>2016-01-13T09:11:39+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2016/01/13/usando-la-calculadora-en-estadistica-media-y-desviacion-tipica/</loc>
+    <lastmod>2016-01-13T09:11:39+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/casio/</loc>
+    <lastmod>2016-01-13T09:11:39+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/desviaci%C3%B3n-tipica/</loc>
+    <lastmod>2016-01-13T09:11:39+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/viu/</loc>
+    <lastmod>2015-12-29T12:09:25+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/viu/</loc>
     <lastmod>2015-12-29T12:09:25+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2931,6 +3223,11 @@
     <loc>/tags/universidad-online/</loc>
     <lastmod>2015-12-29T12:09:25+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2015/12/21/calculo-del-indice-de-gini-con-datos-individuales/</loc>
+    <lastmod>2015-12-21T09:43:07+00:00</lastmod>
   </url>
   
   <url>
@@ -3098,6 +3395,16 @@
   </url>
   
   <url>
+    <loc>/blog/2015/11/13/covarianza/</loc>
+    <lastmod>2015-11-13T10:02:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2015/11/12/curva-de-lorenz/</loc>
+    <lastmod>2015-11-12T12:44:15+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/blog/2015/11/12/integracion_varias_variables/</loc>
     <lastmod>2015-11-12T09:40:02+00:00</lastmod>
   </url>
@@ -3105,6 +3412,236 @@
   <url>
     <loc>/categories/ulpgc/</loc>
     <lastmod>2015-11-12T09:40:02+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2015/11/12/diagrama-de-arbol-y-probabilidades-condicionadas/</loc>
+    <lastmod>2015-11-12T09:30:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2015/10/24/3-clasificacion-de-los-numeros/</loc>
+    <lastmod>2015-10-24T09:35:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/aritm%C3%A9tica/</loc>
+    <lastmod>2015-10-24T09:35:01+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/cero/</loc>
+    <lastmod>2015-10-24T09:35:01+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/fracciones/</loc>
+    <lastmod>2015-10-24T09:35:01+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/number/</loc>
+    <lastmod>2015-10-24T09:35:01+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/n%C3%BAmero-imaginario/</loc>
+    <lastmod>2015-10-24T09:35:01+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/n%C3%BAmeros/</loc>
+    <lastmod>2015-10-24T09:35:01+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/n%C3%BAmeros-complejos/</loc>
+    <lastmod>2015-10-24T09:35:01+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/n%C3%BAmeros-enteros/</loc>
+    <lastmod>2015-10-24T09:35:01+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/n%C3%BAmeros-fraccionarios/</loc>
+    <lastmod>2015-10-24T09:35:01+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/n%C3%BAmeros-irracionales/</loc>
+    <lastmod>2015-10-24T09:35:01+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/n%C3%BAmeros-naturales/</loc>
+    <lastmod>2015-10-24T09:35:01+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/n%C3%BAmeros-negativos/</loc>
+    <lastmod>2015-10-24T09:35:01+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/n%C3%BAmeros-racionales/</loc>
+    <lastmod>2015-10-24T09:35:01+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/n%C3%BAmeros-reales/</loc>
+    <lastmod>2015-10-24T09:35:01+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/open-university-of-catalonia-college/university/</loc>
+    <lastmod>2015-10-24T09:35:01+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/quebrados/</loc>
+    <lastmod>2015-10-24T09:35:01+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/uoc/</loc>
+    <lastmod>2015-10-24T09:35:01+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/uoc/</loc>
+    <lastmod>2015-10-24T09:35:01+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/unidad-imaginaria/</loc>
+    <lastmod>2015-10-24T09:35:01+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/universitat-oberta-de-catalunya/</loc>
+    <lastmod>2015-10-24T09:35:01+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2015/10/23/2-introduccion-al-sistema-decimal/</loc>
+    <lastmod>2015-10-23T13:09:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/decimal/</loc>
+    <lastmod>2015-10-23T13:09:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/numerales-ar%C3%A1bigos/</loc>
+    <lastmod>2015-10-23T13:09:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/numerales-indoar%C3%A1bigos/</loc>
+    <lastmod>2015-10-23T13:09:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2015/10/23/1-brevisima-historia-de-los-numeros/</loc>
+    <lastmod>2015-10-23T12:29:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/arithmetic/</loc>
+    <lastmod>2015-10-23T12:29:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/brahmagupta/</loc>
+    <lastmod>2015-10-23T12:29:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/fibonacci-number-literature-subject/</loc>
+    <lastmod>2015-10-23T12:29:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/ishango/</loc>
+    <lastmod>2015-10-23T12:29:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/leonardo-fibonacci-academic/</loc>
+    <lastmod>2015-10-23T12:29:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/leonardo-de-pisa/</loc>
+    <lastmod>2015-10-23T12:29:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/numerales-babilonios/</loc>
+    <lastmod>2015-10-23T12:29:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/numerales-hindoar%C3%A1bigos/</loc>
+    <lastmod>2015-10-23T12:29:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/numerales-romanos/</loc>
+    <lastmod>2015-10-23T12:29:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/sistema-hexadecimal/</loc>
+    <lastmod>2015-10-23T12:29:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/serie-de-fibonacci/</loc>
+    <lastmod>2015-10-23T12:29:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/sistema-decimal/</loc>
+    <lastmod>2015-10-23T12:29:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3150,6 +3687,49 @@
   </url>
   
   <url>
+    <loc>/blog/2015/10/19/calculo-de-media-aritmetica-con-tabla-estadistica/</loc>
+    <lastmod>2015-10-19T10:12:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/statistics-field-of-study/</loc>
+    <lastmod>2015-10-19T10:12:11+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2015/10/19/la-moda/</loc>
+    <lastmod>2015-10-19T09:42:36+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/moda/</loc>
+    <lastmod>2015-10-19T09:42:36+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2015/10/19/calculo-de-la-mediana-para-muestras-pares-y-propiedades/</loc>
+    <lastmod>2015-10-19T09:17:39+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2015/10/19/concepto-y-calculo-de-la-mediana/</loc>
+    <lastmod>2015-10-19T08:37:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2015/10/19/concepto-y-calculo-de-la-media-aritmetica/</loc>
+    <lastmod>2015-10-19T08:19:47+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/media-aritm%C3%A9tica/</loc>
+    <lastmod>2015-10-19T08:19:47+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/derive/</loc>
     <lastmod>2015-10-08T22:11:21+00:00</lastmod>
     <priority>0</priority>
@@ -3167,12 +3747,6 @@
   </url>
   
   <url>
-    <loc>/tags/econom%C3%ADa/</loc>
-    <lastmod>2015-10-08T22:11:21+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/empresa/</loc>
     <lastmod>2015-10-08T22:11:21+00:00</lastmod>
     <priority>0</priority>
@@ -3185,18 +3759,34 @@
   </url>
   
   <url>
+    <loc>/tags/distribuciones-normales/</loc>
+    <lastmod>2015-10-07T10:21:29+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2015/10/07/ejercicio-4-probabilidades-examen-13-7-15/</loc>
+    <lastmod>2015-10-07T10:21:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2015/10/07/ejercicio-3-probabilidades-examen-13-7-15/</loc>
+    <lastmod>2015-10-07T09:02:36+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/probabilidad-condicionada/</loc>
+    <lastmod>2015-10-07T09:02:36+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/blog/2015/10/06/operaciones-con-fracciones/</loc>
     <lastmod>2015-10-06T23:17:12+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/divisi%C3%B3n/</loc>
-    <lastmod>2015-10-06T23:17:12+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/fracciones/</loc>
     <lastmod>2015-10-06T23:17:12+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -3222,11 +3812,6 @@
     <loc>/tags/factorizaci%C3%B3n/</loc>
     <lastmod>2015-10-06T01:25:41+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/blog/2015/10/05/factorizacion-de-polinomios-de-grado-2/</loc>
-    <lastmod>2015-10-05T00:54:44+00:00</lastmod>
   </url>
   
   <url>
@@ -3292,8 +3877,101 @@
   </url>
   
   <url>
-    <loc>/blog/2015/09/21/estadistica-empresarial-i-javier-otamendi-1/</loc>
-    <lastmod>2015-09-21T07:52:13+00:00</lastmod>
+    <loc>/tags/distribuciones/</loc>
+    <lastmod>2015-10-02T11:18:32+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2015/10/02/ejercicio-2-probabilidades-examen-13-7-15/</loc>
+    <lastmod>2015-10-02T11:18:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/condicionadas/</loc>
+    <lastmod>2015-10-02T11:18:32+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/continuas/</loc>
+    <lastmod>2015-10-02T11:18:32+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/esperanza/</loc>
+    <lastmod>2015-10-02T11:18:32+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/marginales/</loc>
+    <lastmod>2015-10-02T11:18:32+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/variables/</loc>
+    <lastmod>2015-10-02T11:18:32+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2015/10/01/ejercicio-1-probabilidades-examen-13-7-15-continuacion/</loc>
+    <lastmod>2015-10-01T11:00:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/probability-measurement-system/</loc>
+    <lastmod>2015-10-01T11:00:08+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/distribuci%C3%B3n-binomial/</loc>
+    <lastmod>2015-10-01T11:00:08+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/distribuci%C3%B3n-geom%C3%A9trica/</loc>
+    <lastmod>2015-10-01T11:00:08+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2015/10/01/ejercicio-1-probabilidades-examen-13-7-15/</loc>
+    <lastmod>2015-10-01T09:29:36+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/teorema-de-bayes/</loc>
+    <lastmod>2015-10-01T09:29:36+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/probabilidades-totales/</loc>
+    <lastmod>2015-10-01T09:29:36+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2015/09/28/ejercicio-4-descriptiva-examen-13-7-15/</loc>
+    <lastmod>2015-09-28T08:30:36+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/series-temporales/</loc>
+    <lastmod>2015-09-28T08:30:36+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/tasas/</loc>
+    <lastmod>2015-09-28T08:30:36+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -3327,6 +4005,74 @@
   <url>
     <loc>/tags/movilidad/</loc>
     <lastmod>2015-09-18T11:45:49+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/curtosis/</loc>
+    <lastmod>2015-09-16T07:22:10+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2015/09/16/ejercicio-3-descriptiva-examen-13-7-15/</loc>
+    <lastmod>2015-09-16T07:22:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/asimetr%C3%ADa/</loc>
+    <lastmod>2015-09-16T07:22:10+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/independencia/</loc>
+    <lastmod>2015-09-16T07:22:10+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2015/09/15/siete-consejos-para-estudiar-matematicas/</loc>
+    <lastmod>2015-09-15T20:29:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/consejos/</loc>
+    <lastmod>2015-09-15T20:29:02+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/grado-universitario/</loc>
+    <lastmod>2015-09-15T20:29:02+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/descriptive-statistics/</loc>
+    <lastmod>2015-09-15T11:43:34+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2015/09/15/ejercicio-2-descriptiva-examen-13-7-15/</loc>
+    <lastmod>2015-09-15T11:43:34+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/%C3%ADndice-de-gini/</loc>
+    <lastmod>2015-09-15T11:43:34+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2015/09/15/ejercicio-1-descriptiva-examen-13-7-15/</loc>
+    <lastmod>2015-09-15T08:17:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/regresi%C3%B3n/</loc>
+    <lastmod>2015-09-15T08:17:48+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3415,6 +4161,486 @@
   <url>
     <loc>/tags/verano/</loc>
     <lastmod>2015-07-21T12:13:05+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2015/06/19/ejercicio-1-examen-8-6-15-de-descriptiva/</loc>
+    <lastmod>2015-06-19T08:28:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/curva-de-lorenz/</loc>
+    <lastmod>2015-06-19T08:28:08+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2015/06/19/ejercicio-5-examen-8-6-15/</loc>
+    <lastmod>2015-06-19T08:09:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/distribuci%C3%B3n-normal/</loc>
+    <lastmod>2015-06-19T08:09:10+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2015/06/18/ejercicio-3-examen-8-6-15/</loc>
+    <lastmod>2015-06-18T11:03:30+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/bidimensional-discreta/</loc>
+    <lastmod>2015-06-18T11:03:30+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2015/06/15/ejercicio-1-examen-8-6-15/</loc>
+    <lastmod>2015-06-15T06:50:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/distribuci%C3%B3n-continua-bidimensional/</loc>
+    <lastmod>2015-06-14T23:20:33+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2015/06/14/ejercicio-4-examen-8-6-15/</loc>
+    <lastmod>2015-06-14T23:20:33+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2015/06/11/ejercicio-2-examen-8-6-15/</loc>
+    <lastmod>2015-06-11T18:24:47+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/exponencial-negativa/</loc>
+    <lastmod>2015-06-11T18:24:47+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/variable-continua/</loc>
+    <lastmod>2015-06-11T18:24:47+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2015/06/05/ejercicio-3-pag-109-apdo-2-continuacion/</loc>
+    <lastmod>2015-06-05T11:41:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2015/06/03/ejercicio-2-examen-abril-2015-una-alternativa/</loc>
+    <lastmod>2015-06-03T09:05:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/tabla-estad%C3%ADstica/</loc>
+    <lastmod>2015-06-03T09:05:35+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/diagrama-de-%C3%A1rbol/</loc>
+    <lastmod>2015-05-30T17:33:42+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2015/05/30/tema-4-ejercicio-20-pag-93-diagrama-de-arbol/</loc>
+    <lastmod>2015-05-30T17:33:42+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/probabilidades-condicionadas/</loc>
+    <lastmod>2015-05-30T17:33:42+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/laspeyres/</loc>
+    <lastmod>2015-05-28T11:45:50+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/paasche/</loc>
+    <lastmod>2015-05-28T11:45:50+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2015/05/28/tema-3-numeros-indices/</loc>
+    <lastmod>2015-05-28T11:45:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2015/05/25/ejercicio-426-pag-104/</loc>
+    <lastmod>2015-05-25T18:52:40+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/correlaci%C3%B3n/</loc>
+    <lastmod>2015-05-25T18:52:40+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/covarianza/</loc>
+    <lastmod>2015-05-25T18:52:40+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2015/05/24/ejercicio-1-pag-110/</loc>
+    <lastmod>2015-05-24T15:07:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/probabilidades/</loc>
+    <lastmod>2015-05-24T15:07:05+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2015/05/24/efectos-de-un-cambio-de-origen-y-de-escala-sobre-la-varianza/</loc>
+    <lastmod>2015-05-24T00:42:04+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/varianza/</loc>
+    <lastmod>2015-05-24T00:42:04+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/cambio-de-origen/</loc>
+    <lastmod>2015-05-24T00:42:04+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2015/05/21/ejercicio-3-pag-110-apdo-3-segunda-parte/</loc>
+    <lastmod>2015-05-21T09:09:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2015/05/19/matematicas-para-la-empresa-ii-calculando-volumenes-alfonso-rosa/</loc>
+    <lastmod>2015-05-19T10:01:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/polimedia/</loc>
+    <lastmod>2015-05-19T10:01:59+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/ucam/</loc>
+    <lastmod>2015-05-19T10:01:59+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2015/05/19/matematicas-para-la-empresa-ii-ejemplo-integral-doble-alfonso-rosa/</loc>
+    <lastmod>2015-05-19T09:58:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/uca/</loc>
+    <lastmod>2015-05-19T09:58:37+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2015/05/12/matematicas-para-la-empresa-ii-integrales-dobles-calculo-alfonso-rosa/</loc>
+    <lastmod>2015-05-12T16:53:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2015/05/12/matematicas-para-la-empresa-ii-integrales-con-funciones-beta-y-gamma-alfonso-rosa/</loc>
+    <lastmod>2015-05-12T16:48:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2015/05/12/matematicas-para-la-empresa-ii-integrales-dobles-propiedades-alfonso-rosa/</loc>
+    <lastmod>2015-05-12T16:44:40+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2015/05/12/esperanza-y-varianza-con-ejercicio-528/</loc>
+    <lastmod>2015-05-12T12:21:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/desviaci%C3%B3n-t%C3%ADpica/</loc>
+    <lastmod>2015-05-12T12:21:08+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2015/05/12/ejercicio-528/</loc>
+    <lastmod>2015-05-12T12:01:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/cuartil/</loc>
+    <lastmod>2015-05-12T12:01:58+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/funci%C3%B3n-de-distribuci%C3%B3n/</loc>
+    <lastmod>2015-05-12T12:01:58+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2015/05/11/calculo-de-varianza-y-desviacion-tipica/</loc>
+    <lastmod>2015-05-11T18:47:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/desviaci%C3%B3n/</loc>
+    <lastmod>2015-05-11T18:47:32+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/t%C3%ADpica/</loc>
+    <lastmod>2015-05-11T18:47:32+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2015/05/11/concepto-de-varianza-y-desviacion-tipica/</loc>
+    <lastmod>2015-05-11T18:15:47+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2015/05/11/matematicas-para-la-empresa-ii-ejemplo-integrales-impropias-de-primera-especie-alfonso-rosa/</loc>
+    <lastmod>2015-05-11T10:01:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2015/05/11/matematicas-para-la-empresa-ii-ejemplo-integrales-con-una-funcion-beta-alfonso-rosa/</loc>
+    <lastmod>2015-05-11T10:01:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2015/05/11/matematicas-para-la-empresa-ii-ejemplo-integrales-con-una-funcion-gamma-alfonso-rosa/</loc>
+    <lastmod>2015-05-11T10:01:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2015/05/11/matematicas-para-la-empresa-ii-integrales-impropias-de-segunda-especie-alfonso-rosa/</loc>
+    <lastmod>2015-05-11T10:01:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/beta/</loc>
+    <lastmod>2015-05-11T10:01:17+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/gamma/</loc>
+    <lastmod>2015-05-11T10:01:17+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/integrales/</loc>
+    <lastmod>2015-05-11T10:01:17+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2015/05/08/matematicas-para-la-empresa-ii-integrales-impropias-de-primera-especie-alfonso-rosa/</loc>
+    <lastmod>2015-05-08T11:11:55+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2015/05/08/matematicas-para-la-empresa-ii-costes-marginales-y-costes-totales-alfonso-rosa/</loc>
+    <lastmod>2015-05-08T11:10:38+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2015/05/06/asociacion/</loc>
+    <lastmod>2015-05-06T11:43:47+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2015/04/30/ejercicio-1-examen-abril-2015/</loc>
+    <lastmod>2015-04-30T17:38:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2015/04/30/ejercicio-3-examen-abril-2015/</loc>
+    <lastmod>2015-04-30T11:43:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2015/04/30/ejercicio-4-examen-abril-2015/</loc>
+    <lastmod>2015-04-30T09:02:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2015/04/30/matematicas-para-la-empresa-ii-metodos-elementales-de-integracion-sustitucion-alfonso-rosa/</loc>
+    <lastmod>2015-04-30T08:17:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/empresas/</loc>
+    <lastmod>2015-04-30T08:17:52+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/sustituci%C3%B3n/</loc>
+    <lastmod>2015-04-30T08:17:52+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2015/04/30/matematicas-para-la-empresa-ii-metodos-elementales-de-integracion-inmediata-alfonso-rosa/</loc>
+    <lastmod>2015-04-30T07:58:54+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/inmediata/</loc>
+    <lastmod>2015-04-30T07:58:54+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2015/04/30/matematicas-para-la-empresa-ii-la-funcion-integral-alfonso-rosa/</loc>
+    <lastmod>2015-04-30T07:48:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/funci%C3%B3n-integral/</loc>
+    <lastmod>2015-04-30T07:48:50+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/integral-definida/</loc>
+    <lastmod>2015-04-30T07:38:16+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2015/04/30/matematicas-para-la-empresa-ii-integral-definida-y-sus-propiedades-alfonso-rosa/</loc>
+    <lastmod>2015-04-30T07:38:16+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/propiedades/</loc>
+    <lastmod>2015-04-30T07:38:16+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2015/04/29/ejercicio-2-examen-abril-2015/</loc>
+    <lastmod>2015-04-29T11:35:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2015/04/27/matematicas-para-la-empresa-ii-convergencia-y-divergencia-de-sucesiones-alfonso-rosa/</loc>
+    <lastmod>2015-04-27T11:33:16+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/alfonso/</loc>
+    <lastmod>2015-04-27T11:33:16+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/convergencia/</loc>
+    <lastmod>2015-04-27T11:33:16+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/divergencia/</loc>
+    <lastmod>2015-04-27T11:33:16+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/ejercicios/</loc>
+    <lastmod>2015-04-27T11:33:16+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/rosa/</loc>
+    <lastmod>2015-04-27T11:33:16+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2015/04/24/matematicas-para-la-empresa-ii-verificacion-del-teorema-de-euler-alfonso-rosa/</loc>
+    <lastmod>2015-04-24T07:13:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/alfonso-rosa/</loc>
+    <lastmod>2015-04-24T07:13:45+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/euler/</loc>
+    <lastmod>2015-04-24T07:13:45+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/teorema/</loc>
+    <lastmod>2015-04-24T07:13:45+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/verificaci%C3%B3n/</loc>
+    <lastmod>2015-04-24T07:13:45+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2015/04/24/matematicas-para-la-empresa-ii-sucesiones-aritmeticas-y-geometricas-alfonso-rosa/</loc>
+    <lastmod>2015-04-24T07:12:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/aritm%C3%A9ticas/</loc>
+    <lastmod>2015-04-24T07:12:25+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/geom%C3%A9tricas/</loc>
+    <lastmod>2015-04-24T07:12:25+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2015/04/24/matematicas-para-la-empresa-ii-aplicacion-del-teorema-de-euler-alfonso-rosa/</loc>
+    <lastmod>2015-04-24T07:10:18+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/aplicaci%C3%B3n/</loc>
+    <lastmod>2015-04-24T07:10:18+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3655,8 +4881,13 @@
   </url>
   
   <url>
-    <loc>/blog/2015/03/05/presentacion-1-14-upv-1/</loc>
-    <lastmod>2015-03-05T11:50:28+00:00</lastmod>
+    <loc>/blog/2015/03/09/matematicas-para-la-empresa-ii-derivacion-de-sistemas-de-ecuaciones-alfonso-rosa/</loc>
+    <lastmod>2015-03-09T11:55:39+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2015/03/09/matematicas-para-la-empresa-ii-sistemas-de-ecuaciones-y-su-derivacion-alfonso-rosa/</loc>
+    <lastmod>2015-03-09T11:48:53+00:00</lastmod>
   </url>
   
   <url>
@@ -3671,13 +4902,315 @@
   </url>
   
   <url>
-    <loc>/blog/2015/02/11/analisis-de-la-relacion-entre-dos-variables-cualitativa-y-cuantitativa-t-de-student-ii-modulo-5/</loc>
-    <lastmod>2015-02-11T10:19:15+00:00</lastmod>
+    <loc>/blog/2015/03/05/calculo-i-introduccion-a-la-derivada/</loc>
+    <lastmod>2015-03-05T04:55:02+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/usal/</loc>
-    <lastmod>2015-02-11T10:19:15+00:00</lastmod>
+    <loc>/tags/galileo-galilei-academic/</loc>
+    <lastmod>2015-03-05T04:55:02+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/gottfried-wilhelm-von-leibniz-academic/</loc>
+    <lastmod>2015-03-05T04:55:02+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/isaac-newton-academic/</loc>
+    <lastmod>2015-03-05T04:55:02+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/c%C3%A1lculo-diferencial/</loc>
+    <lastmod>2015-03-05T04:55:02+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/derivaci%C3%B3n/</loc>
+    <lastmod>2015-03-05T04:55:02+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/derivada/</loc>
+    <lastmod>2015-03-05T04:55:02+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/diferenciaci%C3%B3n/</loc>
+    <lastmod>2015-03-05T04:55:02+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/gravedad/</loc>
+    <lastmod>2015-03-05T04:55:02+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/ley-de-los-n%C3%BAmeros-impares/</loc>
+    <lastmod>2015-03-05T04:55:02+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/tasa-de-cambio/</loc>
+    <lastmod>2015-03-05T04:55:02+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/velocidad-exacta/</loc>
+    <lastmod>2015-03-05T04:55:02+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/velocidad-media/</loc>
+    <lastmod>2015-03-05T04:55:02+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2015/03/03/matematicas-para-la-empresa-ii-derivacion-de-funciones-implicitas-alfonso-rosa/</loc>
+    <lastmod>2015-03-03T11:05:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2015/03/03/matematicas-para-la-empresa-ii-teorema-de-la-existencia-de-la-funcion-implicita-alfonso-rosa/</loc>
+    <lastmod>2015-03-03T10:54:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2015/03/03/matematicas-para-la-empresa-ii-que-son-las-funciones-implicitas-alfonso-rosa/</loc>
+    <lastmod>2015-03-03T10:41:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2015/02/24/matematicas-para-la-empresa-ii-limites-direccionales-segun-parabolas-alfonso-rosa/</loc>
+    <lastmod>2015-02-24T08:47:06+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2015/02/24/matematicas-para-la-empresa-ii-limites-direccionales-segun-rectas-alfonso-rosa/</loc>
+    <lastmod>2015-02-24T08:44:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2015/02/19/introduccion-al-curso-y-7-consejos-para-estudiar-matematicas/</loc>
+    <lastmod>2015-02-19T21:49:07+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/consejos-para-estudiar-matem%C3%A1ticas/</loc>
+    <lastmod>2015-02-19T21:49:07+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2015/02/18/estadistica-aplicada-a-la-empresa-distribucion-binomial-negativa-conchi-perez/</loc>
+    <lastmod>2015-02-18T11:07:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2015/02/18/estadistica-aplicada-a-la-empresa-presentacion-conchi-perez/</loc>
+    <lastmod>2015-02-18T11:04:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2015/02/18/estadistica-aplicada-a-la-empresa-distribucion-binomial-conchi-perez/</loc>
+    <lastmod>2015-02-18T10:47:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2015/02/16/matematicas-para-la-empresa-ii-presentacion-alfonso-rosa/</loc>
+    <lastmod>2015-02-16T11:52:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2015/02/16/06-muestreo-estad%C3%ADstico/</loc>
+    <lastmod>2015-02-16T07:43:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/segovia-city/town/village/</loc>
+    <lastmod>2015-02-16T07:43:28+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/audiovisuales/</loc>
+    <lastmod>2015-02-16T07:43:28+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/estad%C3%ADstico/</loc>
+    <lastmod>2015-02-16T07:43:28+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/mari%C3%B1o/</loc>
+    <lastmod>2015-02-16T07:43:28+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/muestreo/</loc>
+    <lastmod>2015-02-16T07:43:28+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/sociolog%C3%ADa/</loc>
+    <lastmod>2015-02-16T07:43:28+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/universidad-de-valladolid/</loc>
+    <lastmod>2015-02-16T07:43:28+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/university/</loc>
+    <lastmod>2015-02-16T07:43:28+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/university-of-valladolid/</loc>
+    <lastmod>2015-02-16T07:43:28+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/valladolid/</loc>
+    <lastmod>2015-02-16T07:43:28+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/vicente/</loc>
+    <lastmod>2015-02-16T07:43:28+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2015/01/21/matematicas-para-la-empresa-i-formas-cuadraticas-reales-alfonso-rosa/</loc>
+    <lastmod>2015-01-21T13:29:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2015/01/21/matematicas-para-la-empresa-i-criterios-de-los-valores-propios-alfonso-rosa/</loc>
+    <lastmod>2015-01-21T13:16:30+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2015/01/21/matematicas-para-la-empresa-i-criterios-de-los-menores-principales-alfonso-rosa/</loc>
+    <lastmod>2015-01-21T13:16:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2015/01/19/matematicas-para-la-empresa-i-formas-cuadraticas-reales-definicion-alfonso-rosa-garcia/</loc>
+    <lastmod>2015-01-19T12:38:53+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2015/01/19/matematicas-para-la-empresa-i-expresiones-diagonales-y-canonicas-alfonso-rosa-garcia/</loc>
+    <lastmod>2015-01-19T12:36:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2015/01/19/matematicas-para-la-empresa-i-formas-cuadraticas-reales-clasificacion-alfonso-rosa-garcia/</loc>
+    <lastmod>2015-01-19T12:36:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2015/01/13/matematicas-para-la-empresa-expresar-formas-cuadraticas-alfonso-rosa-garcia/</loc>
+    <lastmod>2015-01-13T09:54:09+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2015/01/13/matematicas-para-la-empresa-signo-de-una-forma-cuadratica-menores-principales-alfonso-rosa/</loc>
+    <lastmod>2015-01-13T09:54:09+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2015/01/13/matematicas-para-la-empresa-signo-de-una-forma-cuadratica-valores-propios-alfonso-rosa-garcia/</loc>
+    <lastmod>2015-01-13T09:54:09+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/formascuadr%C3%A1ticas/</loc>
+    <lastmod>2015-01-13T09:54:09+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/signo/</loc>
+    <lastmod>2015-01-13T09:54:09+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/tema6/</loc>
+    <lastmod>2015-01-13T09:54:09+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2014/12/15/fundamentos-de-estadistica-teorema-de-bayes-conchi-perez/</loc>
+    <lastmod>2014-12-15T15:23:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2014/12/15/fundamentos-de-estadistica-teorema-de-la-probabilidad-total-conchi-perez/</loc>
+    <lastmod>2014-12-15T15:23:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2014/11/21/fundamentos-de-estadistica-desestacionalizacion-de-la-serie-temporal-conchi-perez/</loc>
+    <lastmod>2014-11-21T10:17:04+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2014/11/21/fundamentos-de-estadistica-%C3%ADndices-de-variacion-estacional-conchi-perez/</loc>
+    <lastmod>2014-11-21T10:17:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2014/11/21/fundamentos-de-estadistica-tendencia-por-minimos-cuadrados-conchi-perez/</loc>
+    <lastmod>2014-11-21T10:16:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2014/11/21/fundamentos-de-estadistica-fiabilidad-de-las-predicciones-conchi-perez/</loc>
+    <lastmod>2014-11-21T10:16:54+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2014/11/07/econometria-modelos-mixtos-de-variables-ficticias-mercedes-carmona/</loc>
+    <lastmod>2014-11-07T17:41:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2014/11/07/econometria-variables-ficticias-aditivas-mercedes-carmona/</loc>
+    <lastmod>2014-11-07T17:41:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/econometria/</loc>
+    <lastmod>2014-11-07T17:41:49+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3704,6 +5237,12 @@
   </url>
   
   <url>
+    <loc>/tags/chi-cuadrado/</loc>
+    <lastmod>2014-11-06T21:36:24+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/blog/2014/11/06/distribuciones-continuas-de-probabilidad-con-statgraphics-upv/</loc>
     <lastmod>2014-11-06T21:36:24+00:00</lastmod>
   </url>
@@ -3716,12 +5255,6 @@
   
   <url>
     <loc>/tags/t-student/</loc>
-    <lastmod>2014-11-06T21:36:24+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/chi-cuadrado/</loc>
     <lastmod>2014-11-06T21:36:24+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -3744,19 +5277,8 @@
   </url>
   
   <url>
-    <loc>/blog/2014/11/06/regresion-y-correlacion-con-statgraphics-upv-1/</loc>
-    <lastmod>2014-11-06T21:31:07+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/blog/2014/11/06/regresion-y-correlacion-con-statgraphics-upv/</loc>
     <lastmod>2014-11-06T21:31:07+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/regresi%C3%B3n/</loc>
-    <lastmod>2014-11-06T21:31:07+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -3766,35 +5288,12 @@
   </url>
   
   <url>
-    <loc>/blog/2014/11/06/covarianza-y-correlacion-muestral-upv-1/</loc>
-    <lastmod>2014-11-06T20:49:22+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/blog/2014/11/06/covarianza-y-correlacion-muestral-upv/</loc>
     <lastmod>2014-11-06T20:49:22+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/curtosis/</loc>
-    <lastmod>2014-11-06T20:49:22+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/estadistica-e-investigacion-operativa/</loc>
-    <lastmod>2014-11-06T20:49:22+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/media/</loc>
-    <lastmod>2014-11-06T20:49:22+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/mediana/</loc>
     <lastmod>2014-11-06T20:49:22+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -3812,24 +5311,8 @@
   </url>
   
   <url>
-    <loc>/tags/varianza/</loc>
-    <lastmod>2014-11-06T20:49:22+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/blog/2014/11/06/analisis-de-una-muestra-procedente-de-una-distribucion-normal-upv-1/</loc>
-    <lastmod>2014-11-06T20:46:15+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/blog/2014/11/06/analisis-de-una-muestra-procedente-de-una-distribucion-normal-upv/</loc>
     <lastmod>2014-11-06T20:46:15+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/2014/11/06/representaciones-graficas-upv-1/</loc>
-    <lastmod>2014-11-06T20:46:03+00:00</lastmod>
   </url>
   
   <url>
@@ -3838,18 +5321,8 @@
   </url>
   
   <url>
-    <loc>/blog/2014/11/06/distribuciones-de-frecuencias-bidimensionales-tablas-de-frecuencias-de-doble-entrada-upv-1/</loc>
-    <lastmod>2014-11-06T20:45:51+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/blog/2014/11/06/distribuciones-de-frecuencias-bidimensionales-tablas-de-frecuencias-de-doble-entrada-upv/</loc>
     <lastmod>2014-11-06T20:45:51+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/2014/11/06/distribucion-exponencial-calculos-con-el-stargraphics-upv-1/</loc>
-    <lastmod>2014-11-06T20:45:49+00:00</lastmod>
   </url>
   
   <url>
@@ -3864,18 +5337,8 @@
   </url>
   
   <url>
-    <loc>/blog/2014/11/06/distribucion-normal-calculos-con-el-statgraphics-upv-1/</loc>
-    <lastmod>2014-11-06T20:45:38+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/blog/2014/11/06/distribucion-normal-calculos-con-el-statgraphics-upv/</loc>
     <lastmod>2014-11-06T20:45:38+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/2014/11/06/distribuciones-de-frecuencias-unidimensionales-tablas-de-frecuencias-upv-1/</loc>
-    <lastmod>2014-11-06T20:45:09+00:00</lastmod>
   </url>
   
   <url>
@@ -3884,18 +5347,8 @@
   </url>
   
   <url>
-    <loc>/blog/2014/11/06/medidas-que-caracterizan-una-distribucion-de-frecuencias-upv-1/</loc>
-    <lastmod>2014-11-06T20:44:29+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/blog/2014/11/06/medidas-que-caracterizan-una-distribucion-de-frecuencias-upv/</loc>
     <lastmod>2014-11-06T20:44:29+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/2014/11/06/regresion-lineal-introduccion-teorica-upv-1/</loc>
-    <lastmod>2014-11-06T20:44:23+00:00</lastmod>
   </url>
   
   <url>
@@ -3904,28 +5357,13 @@
   </url>
   
   <url>
-    <loc>/blog/2014/11/06/analisis-de-dos-muestras-procedentes-de-poblaciones-normales-upv-1/</loc>
-    <lastmod>2014-11-06T20:44:15+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/blog/2014/11/06/analisis-de-dos-muestras-procedentes-de-poblaciones-normales-upv/</loc>
     <lastmod>2014-11-06T20:44:15+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/2014/11/06/regresion-lineal-calculos-con-el-statrgaphics-y-analisis-de-resultados-upv-1/</loc>
-    <lastmod>2014-11-06T20:44:05+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/blog/2014/11/06/regresion-lineal-calculos-con-el-statrgaphics-y-analisis-de-resultados-upv/</loc>
     <lastmod>2014-11-06T20:44:05+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/2014/11/06/introduccion-al-contraste-de-hipotesis-upv-1/</loc>
-    <lastmod>2014-11-06T20:43:26+00:00</lastmod>
   </url>
   
   <url>
@@ -3942,11 +5380,6 @@
     <loc>/tags/espacios-muestrales-finitos/</loc>
     <lastmod>2014-11-06T19:44:28+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/blog/2014/11/06/espacios-muestrales-finitos-1/</loc>
-    <lastmod>2014-11-06T19:44:28+00:00</lastmod>
   </url>
   
   <url>
@@ -3973,11 +5406,6 @@
   </url>
   
   <url>
-    <loc>/blog/2014/11/06/introduccion-a-la-probabilidad-upv-1/</loc>
-    <lastmod>2014-11-06T19:43:18+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/blog/2014/11/06/introduccion-a-la-probabilidad-upv/</loc>
     <lastmod>2014-11-06T19:43:18+00:00</lastmod>
   </url>
@@ -3995,11 +5423,6 @@
   </url>
   
   <url>
-    <loc>/blog/2014/11/06/teorema-de-la-particion-y-bayes-upv-1/</loc>
-    <lastmod>2014-11-06T19:41:34+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/blog/2014/11/06/teorema-de-la-particion-y-bayes-upv/</loc>
     <lastmod>2014-11-06T19:41:34+00:00</lastmod>
   </url>
@@ -4008,6 +5431,32 @@
     <loc>/tags/teorema-partici%C3%B3n/</loc>
     <lastmod>2014-11-06T19:41:34+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2014/10/30/econometria-contrastes-de-hipotesis-individuales-mercedes-carmona/</loc>
+    <lastmod>2014-10-30T12:38:54+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2014/10/30/econometria-la-modelizacion-econometrica-mercedes-carmona/</loc>
+    <lastmod>2014-10-30T12:38:54+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2014/10/16/fundamentos-de-estadistica-variables-discretas-conchi-perez/</loc>
+    <lastmod>2014-10-16T14:05:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/variables-discretas/</loc>
+    <lastmod>2014-10-16T14:05:21+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2014/10/16/fundamentos-de-estadistica-independencia-estadistica-conchi-perez/</loc>
+    <lastmod>2014-10-16T14:04:22+00:00</lastmod>
   </url>
   
   <url>
@@ -4036,25 +5485,14 @@
   </url>
   
   <url>
+    <loc>/categories/usal/</loc>
+    <lastmod>2014-10-06T09:06:40+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/blog/2014/10/06/descriptiva/</loc>
     <lastmod>2014-10-06T08:45:03+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/2014/09/30/factorizacion-de-polinomios-1/</loc>
-    <lastmod>2014-09-30T20:16:02+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/ra%C3%ADces-de-un-polinomio/</loc>
-    <lastmod>2014-09-30T20:16:02+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/soluciones-de-un-polinomio/</loc>
-    <lastmod>2014-09-30T20:16:02+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -4131,12 +5569,6 @@
   </url>
   
   <url>
-    <loc>/tags/empresariales/</loc>
-    <lastmod>2014-09-28T11:48:22+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/fracci%C3%B3n/</loc>
     <lastmod>2014-09-28T11:48:22+00:00</lastmod>
     <priority>0</priority>
@@ -4185,12 +5617,6 @@
   
   <url>
     <loc>/tags/criterios/</loc>
-    <lastmod>2014-07-31T00:00:10+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/derivada/</loc>
     <lastmod>2014-07-31T00:00:10+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -4421,11 +5847,6 @@
   </url>
   
   <url>
-    <loc>/blog/2014/07/26/recta-tangente-2-upv-1/</loc>
-    <lastmod>2014-07-26T14:56:58+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/blog/2014/07/26/recta-tangente-2-upv/</loc>
     <lastmod>2014-07-26T14:56:58+00:00</lastmod>
   </url>
@@ -4443,6 +5864,35 @@
   </url>
   
   <url>
+    <loc>/blog/2014/07/21/matematicas-para-la-empresa-i-tema-3-ejercicio-2-alfonso-rosa/</loc>
+    <lastmod>2014-07-21T07:43:16+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/cramer/</loc>
+    <lastmod>2014-07-21T07:43:16+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/ecuaciones-lineales/</loc>
+    <lastmod>2014-07-21T07:43:16+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/regla-de-cramer/</loc>
+    <lastmod>2014-07-21T07:43:16+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/sistema-de-ecuaciones/</loc>
+    <lastmod>2014-07-21T07:43:16+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/blog/2014/07/16/tecnicas-estadisticas-grado-en-turismo/</loc>
     <lastmod>2014-07-16T10:56:04+00:00</lastmod>
   </url>
@@ -4450,6 +5900,29 @@
   <url>
     <loc>/categories/ubu/</loc>
     <lastmod>2014-07-16T10:56:04+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2014/07/09/medidas-de-concentracion/</loc>
+    <lastmod>2014-07-09T11:25:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/carrascal/</loc>
+    <lastmod>2014-07-09T11:25:15+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/concentraci%C3%B3n/</loc>
+    <lastmod>2014-07-09T11:25:15+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/medidas/</loc>
+    <lastmod>2014-07-09T11:25:15+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4541,12 +6014,6 @@
   <url>
     <loc>/blog/2014/06/25/regla-de-cramer-14-14-upv/</loc>
     <lastmod>2014-06-25T22:15:06+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/cramer/</loc>
-    <lastmod>2014-06-25T22:15:06+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -4737,264 +6204,61 @@
   
   <url>
     <loc>/tags/an%C3%A1lisis-varianza/</loc>
-    <lastmod>2014-06-12T17:04:05+00:00</lastmod>
+    <lastmod>2014-06-11T12:47:40+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/blog/2014/06/12/resultados-anova-de-un-factor-de-medidas-repetidas-parte-5-6/</loc>
-    <lastmod>2014-06-12T17:04:05+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/uv/</loc>
-    <lastmod>2014-06-12T17:04:05+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/muvie/</loc>
-    <lastmod>2014-06-12T17:04:05+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/medidas-repetidas/</loc>
-    <lastmod>2014-06-12T17:04:05+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/serra/</loc>
-    <lastmod>2014-06-12T17:04:05+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/sfpie/</loc>
-    <lastmod>2014-06-12T17:04:05+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/statistic/</loc>
-    <lastmod>2014-06-12T17:04:05+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/blog/2014/06/12/escritura-de-los-resultados-anova-de-un-factor-de-medidas-repetidas-parte-6-6/</loc>
-    <lastmod>2014-06-12T17:03:48+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/2014/06/12/introduccion-ii-anova-de-un-factor-de-medidas-repetidas-parte-3-6/</loc>
-    <lastmod>2014-06-12T17:02:15+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/2014/06/12/ejecucion-prueba-anova-de-un-factor-de-medidas-repetidas-parte-4-6/</loc>
-    <lastmod>2014-06-12T16:58:35+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/2014/06/12/introduccion-i-anova-de-un-factor-de-medidas-repetidas-parte-2-6/</loc>
-    <lastmod>2014-06-12T16:58:09+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/2014/06/12/presentacion-anova-de-un-factor-de-medidas-repetidas-parte-1-6/</loc>
-    <lastmod>2014-06-12T16:57:01+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/2014/06/12/analisis-de-varianza-de-un-factor-anova-parte-2-5/</loc>
-    <lastmod>2014-06-12T16:45:54+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/2014/06/12/analisis-de-varianza-de-un-factor-anova-parte-3-5/</loc>
-    <lastmod>2014-06-12T16:45:54+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/2014/06/12/analisis-de-varianza-de-un-factor-anova-parte-4-5/</loc>
-    <lastmod>2014-06-12T16:45:54+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/diferencia-de-medias/</loc>
-    <lastmod>2014-06-12T16:45:54+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/blog/2014/06/12/analisis-de-varianza-de-un-factor-anova-parte-5-5/</loc>
-    <lastmod>2014-06-12T16:45:41+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/2014/06/12/analisis-de-varianza-de-un-factor-anova-parte-1-5/</loc>
-    <lastmod>2014-06-12T16:43:25+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/2014/06/12/presentacion-anova-factorial-entre-sujetos-parte-1-de-6/</loc>
-    <lastmod>2014-06-12T15:16:27+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/factorial/</loc>
-    <lastmod>2014-06-12T15:16:27+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/blog/2014/06/12/introduccion-i-anova-factorial-entre-sujetos-parte-2-de-6/</loc>
-    <lastmod>2014-06-12T15:15:36+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/2014/06/12/introduccion-ii-anova-factorial-entre-sujetos-parte-3-de-6/</loc>
-    <lastmod>2014-06-12T15:14:17+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/2014/06/12/escritura-de-resultados-anova-factorial-entre-sujetos-parte-6-de-6/</loc>
-    <lastmod>2014-06-12T15:10:19+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/2014/06/12/resultados-anova-factorial-entre-sujetos-parte-5-de-6/</loc>
-    <lastmod>2014-06-12T15:10:08+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/2014/06/12/ejecucion-de-la-prueba-anova-factorial-entre-sujetos-parte-4-de-6/</loc>
-    <lastmod>2014-06-12T15:09:09+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/coeficiente-de-determinaci%C3%B3n/</loc>
-    <lastmod>2014-06-12T14:57:13+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/correlaci%C3%B3n/</loc>
-    <lastmod>2014-06-12T14:57:13+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/blog/2014/06/12/introduccion-ii-correlacion-lineal-simple-2-de-4/</loc>
-    <lastmod>2014-06-12T14:57:13+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/covarianza/</loc>
-    <lastmod>2014-06-12T14:57:13+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/pearson/</loc>
-    <lastmod>2014-06-12T14:57:13+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/blog/2014/06/12/ejecucion-de-la-prueba-correlacion-lineal-simple-3-de-4/</loc>
-    <lastmod>2014-06-12T14:57:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/2014/06/12/introduccion-i-correlacion-lineal-simple-1-de-4/</loc>
-    <lastmod>2014-06-12T14:53:11+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/2014/06/12/escritura-resultados-correlacion-lineal-simple-4-de-4/</loc>
-    <lastmod>2014-06-12T14:51:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/2014/06/12/ejecucion-ii-regresion-lineal-simple-y-multiple-parte-4-de-5/</loc>
-    <lastmod>2014-06-12T14:47:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/an%C3%A1lisis-multivariados/</loc>
-    <lastmod>2014-06-12T14:47:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/blog/2014/06/12/ejecucion-i-regresion-lineal-simple-y-multiple-parte-3-de-5/</loc>
-    <lastmod>2014-06-12T14:41:49+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/2014/06/12/introduccion-ii-regresion-lineal-simple-y-multiple-parte-2-de-5/</loc>
-    <lastmod>2014-06-12T14:39:10+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/2014/06/12/escritura-de-los-resultados-regresion-lineal-simple-y-multiple-parte-5-de-5/</loc>
-    <lastmod>2014-06-12T14:36:13+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/2014/06/12/introduccion-i-regresion-lineal-simple-y-multiple-parte-1-de-5/</loc>
-    <lastmod>2014-06-12T14:35:21+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/2014/06/12/resultados-ii-analisis-de-varianza-factorial-diseno-mixto-anova-4-5/</loc>
-    <lastmod>2014-06-12T14:19:04+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/dise%C3%B1o-mixto/</loc>
-    <lastmod>2014-06-12T14:19:04+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/docentic/</loc>
-    <lastmod>2014-06-12T14:19:04+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/split-plot/</loc>
-    <lastmod>2014-06-12T14:19:04+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/blog/2014/06/12/resultados-i-analisis-de-varianza-factorial-diseno-mixto-anova-3-5/</loc>
-    <lastmod>2014-06-12T14:15:50+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/2014/06/12/escritura-resultados-analisis-de-varianza-factorial-diseno-mixto-anova-5-5/</loc>
-    <lastmod>2014-06-12T14:15:18+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/2014/06/12/introduccion-analisis-de-varianza-factorial-diseno-mixto-anova-1-5/</loc>
-    <lastmod>2014-06-12T14:14:30+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/2014/06/12/ejecucion-analisis-de-varianza-factorial-diseno-mixto-anova-2-5/</loc>
-    <lastmod>2014-06-12T14:13:15+00:00</lastmod>
   </url>
   
   <url>
     <loc>/blog/2014/06/11/resultados-analisis-de-varianza-factorial-medidas-repetidas-anova/</loc>
     <lastmod>2014-06-11T12:47:40+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/uv/</loc>
+    <lastmod>2014-06-11T12:47:40+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/diferencia-de-medias/</loc>
+    <lastmod>2014-06-11T12:47:40+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/docentic/</loc>
+    <lastmod>2014-06-11T12:47:40+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/factorial/</loc>
+    <lastmod>2014-06-11T12:47:40+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/medidas-repetidas/</loc>
+    <lastmod>2014-06-11T12:47:40+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/muvie/</loc>
+    <lastmod>2014-06-11T12:47:40+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/sfpie/</loc>
+    <lastmod>2014-06-11T12:47:40+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/statistic/</loc>
+    <lastmod>2014-06-11T12:47:40+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -5081,6 +6345,12 @@
   </url>
   
   <url>
+    <loc>/tags/serra/</loc>
+    <lastmod>2014-06-11T11:08:28+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/tablas-de-contingencia/</loc>
     <lastmod>2014-06-11T11:03:56+00:00</lastmod>
     <priority>0</priority>
@@ -5136,6 +6406,592 @@
   </url>
   
   <url>
+    <loc>/blog/2014/05/29/matematicas-para-la-empresa-ii-tema-7-ejercicio-2-alfonso-rosa/</loc>
+    <lastmod>2014-05-29T08:30:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/cambio-de-variables/</loc>
+    <lastmod>2014-05-29T08:30:25+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/ejemplos/</loc>
+    <lastmod>2014-05-29T08:30:25+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/inmediatas/</loc>
+    <lastmod>2014-05-29T08:30:25+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/por-partes/</loc>
+    <lastmod>2014-05-29T08:30:25+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2014/05/26/matematicas-para-la-empresa-ii-tema-7-ejercicio-1-alfonso-rosa/</loc>
+    <lastmod>2014-05-26T11:42:12+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/grado/</loc>
+    <lastmod>2014-05-26T11:42:12+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2014/05/26/matematicas-para-la-empresa-ii-tema-6-ejercicio-2-alfonso-rosa/</loc>
+    <lastmod>2014-05-26T11:41:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2014/05/26/matematicas-para-la-empresa-ii-tema-6-ejercicio-1-alfonso-rosa/</loc>
+    <lastmod>2014-05-26T11:41:16+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2014/05/22/matematicas-para-la-empresa-ii-tema-4-ejercicio-3-alfonso-rosa/</loc>
+    <lastmod>2014-05-22T14:49:12+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/derivadas-parciales/</loc>
+    <lastmod>2014-05-22T14:49:12+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/ejemplo/</loc>
+    <lastmod>2014-05-22T14:49:12+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/funciones-impl%C3%ADcitas/</loc>
+    <lastmod>2014-05-22T14:49:12+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/problema/</loc>
+    <lastmod>2014-05-22T14:49:12+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2014/05/22/matematicas-para-la-empresa-ii-tema-2-ejercicio-2-alfonso-rosa/</loc>
+    <lastmod>2014-05-22T14:37:31+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/funci%C3%B3n-de-varias-variables/</loc>
+    <lastmod>2014-05-22T14:37:31+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/l%C3%ADmites-direccionales/</loc>
+    <lastmod>2014-05-22T14:37:31+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/l%C3%ADmites-iterados/</loc>
+    <lastmod>2014-05-22T14:37:31+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/problemas/</loc>
+    <lastmod>2014-05-22T14:37:31+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2014/05/22/matematicas-para-la-empresa-ii-tema-2-ejercicio-3-alfonso-rosa/</loc>
+    <lastmod>2014-05-22T14:37:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2014/05/20/matematicas-para-la-empresa-ii-tema-5-ejercicio-1-alfonso-rosa/</loc>
+    <lastmod>2014-05-20T11:27:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/alfons-rosa/</loc>
+    <lastmod>2014-05-20T11:27:35+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/homogeneidad/</loc>
+    <lastmod>2014-05-20T11:27:35+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2014/05/19/matematicas-para-la-empresa-ii-tema-6-leccion-8-alfonso-rosa/</loc>
+    <lastmod>2014-05-19T11:17:39+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/cociente/</loc>
+    <lastmod>2014-05-19T11:17:39+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/comparaci%C3%B3n/</loc>
+    <lastmod>2014-05-19T11:17:39+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/criterios-suficientes/</loc>
+    <lastmod>2014-05-19T11:17:39+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/raabe/</loc>
+    <lastmod>2014-05-19T11:17:39+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/ra%C3%ADz/</loc>
+    <lastmod>2014-05-19T11:17:39+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/series/</loc>
+    <lastmod>2014-05-19T11:17:39+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2014/05/19/matematicas-para-la-empresa-ii-tema-6-leccion-7-alfonso-rosa/</loc>
+    <lastmod>2014-05-19T11:16:40+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2014/05/19/matematicas-para-la-empresa-ii-tema-6-leccion-6-alfonso-rosa/</loc>
+    <lastmod>2014-05-19T11:15:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2014/05/19/matematicas-para-la-empresa-ii-tema-6-leccion-5-alfonso-rosa/</loc>
+    <lastmod>2014-05-19T11:13:18+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/cauchy/</loc>
+    <lastmod>2014-05-19T11:13:18+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/serie-arm%C3%B3nica/</loc>
+    <lastmod>2014-05-19T11:13:18+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2014/05/19/matematicas-para-la-empresa-ii-tema-5-leccion-4-alfonso-rosa/</loc>
+    <lastmod>2014-05-19T11:10:53+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/funciones-homog%C3%A9neas/</loc>
+    <lastmod>2014-05-19T11:10:53+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/grado-de-homogeneidad/</loc>
+    <lastmod>2014-05-19T11:10:53+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2014/05/16/matematicas-para-la-empresa-ii-tema-6-leccion-4-alfonso-rosa/</loc>
+    <lastmod>2014-05-16T08:46:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/geom%C3%A9trica/</loc>
+    <lastmod>2014-05-16T08:46:32+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2014/05/16/matematicas-para-la-empresa-ii-tema-6-leccion-3-alfonso-rosa/</loc>
+    <lastmod>2014-05-16T07:51:12+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/convergentes/</loc>
+    <lastmod>2014-05-16T07:51:12+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/divergentes/</loc>
+    <lastmod>2014-05-16T07:51:12+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/oscilantes/</loc>
+    <lastmod>2014-05-16T07:51:12+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/sucesiones/</loc>
+    <lastmod>2014-05-16T07:51:12+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2014/05/16/matematicas-para-la-empresa-ii-tema-6-leccion-2-alfonso-rosa/</loc>
+    <lastmod>2014-05-16T07:50:13+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2014/05/16/matematicas-para-la-empresa-ii-tema-6-leccion-1-alfonso-rosa/</loc>
+    <lastmod>2014-05-16T07:48:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/acotadas/</loc>
+    <lastmod>2014-05-16T07:48:03+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2014/05/07/matematicas-para-la-empresa-ii-tema-5-leccion-3-alfonso-rosa/</loc>
+    <lastmod>2014-05-07T09:56:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/teorema-de-euler/</loc>
+    <lastmod>2014-05-07T09:56:11+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2014/05/07/matematicas-para-la-empresa-ii-tema-5-leccion-2-alfonso-rosa/</loc>
+    <lastmod>2014-05-07T09:54:31+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/rendimientos-a-escala/</loc>
+    <lastmod>2014-05-07T09:54:31+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2014/05/07/matematicas-para-la-empresa-ii-tema-5-leccion-1-alfonso-rosa/</loc>
+    <lastmod>2014-05-07T09:52:40+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2014/05/07/esquema-multiplicativo-desestacionalizaci%C3%B3n-y-prediccion/</loc>
+    <lastmod>2014-05-07T07:05:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/desestacionalizaci%C3%B3n/</loc>
+    <lastmod>2014-05-07T07:05:29+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/multiplicativo/</loc>
+    <lastmod>2014-05-07T07:05:29+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2014/05/07/esquema-aditivo-desestacionalizaci%C3%B3n-y-predicci%C3%B3n/</loc>
+    <lastmod>2014-05-07T07:04:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/aditivo/</loc>
+    <lastmod>2014-05-07T07:04:03+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2014/05/07/el-componente-estacional-en-un-esquema-multiplicativo/</loc>
+    <lastmod>2014-05-07T07:01:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/componente/</loc>
+    <lastmod>2014-05-07T07:01:59+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/estacional/</loc>
+    <lastmod>2014-05-07T07:01:59+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2014/05/07/el-componente-estacional-en-un-esquema-aditivo/</loc>
+    <lastmod>2014-05-07T07:00:43+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/estadistica/</loc>
+    <lastmod>2014-05-07T07:00:43+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2014/05/07/primera-aproximaci%C3%B3n-a-la-tendencia/</loc>
+    <lastmod>2014-05-07T06:59:04+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/tendencia/</loc>
+    <lastmod>2014-05-07T06:59:04+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2014/03/27/matematicas-para-la-empresa-ii-tema-2-ejercicio-1-alfonso-rosa/</loc>
+    <lastmod>2014-03-27T13:51:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2014/03/25/domingo-j-lorenzo-ejemplo-uso-numeros-indices/</loc>
+    <lastmod>2014-03-25T21:05:31+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2014/03/25/matematicas-para-la-empresa-ii-tema-1-ejercicio-1-alfonso-rosa/</loc>
+    <lastmod>2014-03-25T16:09:07+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2014/03/25/matematicas-para-la-empresa-ii-tema-1-ejercicio-2-alfonso-rosa/</loc>
+    <lastmod>2014-03-25T16:09:07+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2014/03/25/matematicas-para-la-empresa-ii-tema-1-ejercicio-3-alfonso-rosa/</loc>
+    <lastmod>2014-03-25T16:09:07+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2014/03/25/matematicas-para-la-empresa-ii-tema-3-leccion-10-alfonso-rosa/</loc>
+    <lastmod>2014-03-25T16:09:07+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2014/03/25/matematicas-para-la-empresa-ii-tema-3-leccion-7-alfonso-rosa/</loc>
+    <lastmod>2014-03-25T16:09:07+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2014/03/25/matematicas-para-la-empresa-ii-tema-3-leccion-9-alfonso-rosa/</loc>
+    <lastmod>2014-03-25T16:09:07+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/composici%C3%B3n-de-funciones/</loc>
+    <lastmod>2014-03-25T16:09:07+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/curvas-de-nivel/</loc>
+    <lastmod>2014-03-25T16:09:07+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/derivdad-de-la-composici%C3%B3n/</loc>
+    <lastmod>2014-03-25T16:09:07+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/diferenciabilidad/</loc>
+    <lastmod>2014-03-25T16:09:07+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/diferencial/</loc>
+    <lastmod>2014-03-25T16:09:07+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/funciones-de-varias-variables/</loc>
+    <lastmod>2014-03-25T16:09:07+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/gradiente/</loc>
+    <lastmod>2014-03-25T16:09:07+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2014/03/25/matematicas-para-la-empresa-ii-tema-3-leccion-8-alfonso-rosa/</loc>
+    <lastmod>2014-03-25T16:09:06+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2014/03/24/matematicas-para-la-empresa-ii-tema-3-leccion-5-alfonso-rosa/</loc>
+    <lastmod>2014-03-24T12:59:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/derivada-direccional/</loc>
+    <lastmod>2014-03-24T12:59:35+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/vector-gradiente/</loc>
+    <lastmod>2014-03-24T12:59:35+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2014/03/20/matematicas-para-la-empresa-ii-tema-3-leccion-6-alfonso-rosa/</loc>
+    <lastmod>2014-03-20T18:18:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/derivadas-cruzadas/</loc>
+    <lastmod>2014-03-20T18:18:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/derivadas-de-segundo-orden/</loc>
+    <lastmod>2014-03-20T18:18:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/matriz-hessiana/</loc>
+    <lastmod>2014-03-20T18:18:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2014/03/20/matematicas-para-la-empresa-ii-tema-3-leccion-4-alfonso-rosa/</loc>
+    <lastmod>2014-03-20T18:05:38+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2014/03/20/matematicas-para-la-empresa-ii-tema-3-leccion-3-alfonso-rosa/</loc>
+    <lastmod>2014-03-20T18:04:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/parciales/</loc>
+    <lastmod>2014-03-20T18:04:20+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/varias-variables-independientes/</loc>
+    <lastmod>2014-03-20T18:04:20+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2014/03/20/matematicas-para-la-empresa-ii-tema-3-leccion-2-alfonso-rosa/</loc>
+    <lastmod>2014-03-20T18:02:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2014/03/20/matematicas-para-la-empresa-ii-tema-3-leccion-1-alfonso-rosa/</loc>
+    <lastmod>2014-03-20T18:02:12+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/sistemas-de-ecuaciones/</loc>
+    <lastmod>2014-03-20T18:02:12+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2014/03/20/matematicas-para-la-empresa-ii-tema-4-ejercicio-2-alfonso-rosa/</loc>
+    <lastmod>2014-03-20T18:01:07+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2014/03/17/matematicas-para-la-empresa-ii-tema-3-ejercicio-3-alfonso-rosa/</loc>
+    <lastmod>2014-03-17T08:07:24+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2014/03/17/matematicas-para-la-empresa-ii-tema-4-ejercicio-1-alfonso-rosa/</loc>
+    <lastmod>2014-03-17T08:07:24+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2014/03/17/matematicas-para-la-empresa-ii-tema-3-ejercicio-4-alfonso-rosa/</loc>
+    <lastmod>2014-03-17T08:07:24+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/existencia/</loc>
+    <lastmod>2014-03-17T08:07:24+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/funciones-vectoriales/</loc>
+    <lastmod>2014-03-17T08:07:24+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/funci%C3%B3n-impl%C3%ADcita/</loc>
+    <lastmod>2014-03-17T08:07:24+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/hessiano/</loc>
+    <lastmod>2014-03-17T08:07:24+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/jacobiano/</loc>
+    <lastmod>2014-03-17T08:07:24+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/segundo-orden/</loc>
+    <lastmod>2014-03-17T08:07:24+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/2%C2%BA-bachillerato/</loc>
     <lastmod>2014-03-12T11:09:03+00:00</lastmod>
     <priority>0</priority>
@@ -5143,12 +6999,6 @@
   
   <url>
     <loc>/tags/matriz-adjunta/</loc>
-    <lastmod>2014-03-12T11:09:03+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/matriz-inversa/</loc>
     <lastmod>2014-03-12T11:09:03+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -5177,9 +7027,25 @@
   </url>
   
   <url>
+    <loc>/tags/matriz-inversa/</loc>
+    <lastmod>2014-03-12T11:09:03+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/%C3%A1lgebra/</loc>
     <lastmod>2014-03-12T11:09:03+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2014/03/12/matematicas-para-la-empresa-ii-tema-3-ejercicio-1-alfonso-rosa/</loc>
+    <lastmod>2014-03-12T08:59:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2014/03/12/matematicas-para-la-empresa-ii-tema-3-ejercicio-2-alfonso-rosa/</loc>
+    <lastmod>2014-03-12T08:59:18+00:00</lastmod>
   </url>
   
   <url>
@@ -5247,11 +7113,6 @@
   </url>
   
   <url>
-    <loc>/blog/2014/03/05/integracion-por-partes-herramienta-fundamental-ii-20-21-upv-1/</loc>
-    <lastmod>2014-03-05T20:45:47+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/blog/2014/03/05/integracion-por-partes-herramienta-fundamental-ii-20-21-upv/</loc>
     <lastmod>2014-03-05T20:45:47+00:00</lastmod>
   </url>
@@ -5271,12 +7132,6 @@
   <url>
     <loc>/blog/2014/03/03/toma-de-decisiones-con-incertidumbre-caso-practico/</loc>
     <lastmod>2014-03-03T17:10:43+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/ejemplo/</loc>
-    <lastmod>2014-03-03T17:10:43+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -5320,6 +7175,227 @@
   </url>
   
   <url>
+    <loc>/blog/2014/02/25/matematicas-para-la-empresa-ii-tema-2-leccion-6-alfonso-rosa/</loc>
+    <lastmod>2014-02-25T09:55:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/varias-variables/</loc>
+    <lastmod>2014-02-25T09:55:45+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2014/02/25/matematicas-para-la-empresa-ii-tema-2-leccion-7-alfonso-rosa/</loc>
+    <lastmod>2014-02-25T09:52:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2014/02/24/matematicas-para-la-empresa-ii-tema-2-leccion-3-alfonso-rosa/</loc>
+    <lastmod>2014-02-24T18:01:24+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/alfoso-rosa/</loc>
+    <lastmod>2014-02-24T18:01:24+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/direccional/</loc>
+    <lastmod>2014-02-24T18:01:24+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/l%C3%ADmite/</loc>
+    <lastmod>2014-02-24T18:01:24+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2014/02/24/matematicas-para-la-empresa-ii-tema-2-leccion-5-alfonso-rosa/</loc>
+    <lastmod>2014-02-24T18:01:04+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2014/02/24/matematicas-para-la-empresa-ii-tema-2-leccion-4-alfonso-rosa/</loc>
+    <lastmod>2014-02-24T18:00:29+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/direccionales/</loc>
+    <lastmod>2014-02-24T18:00:29+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/l%C3%ADmites/</loc>
+    <lastmod>2014-02-24T18:00:29+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2014/02/24/matematicas-para-la-empresa-ii-tema-2-leccion-2-alfonso-rosa/</loc>
+    <lastmod>2014-02-24T17:59:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2014/02/24/matematicas-para-la-empresa-ii-tema-2-leccion-1-alfonso-rosa/</loc>
+    <lastmod>2014-02-24T17:58:22+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/derecha/</loc>
+    <lastmod>2014-02-24T17:58:22+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/izquierda/</loc>
+    <lastmod>2014-02-24T17:58:22+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2014/02/20/matematicas-para-la-empresa-ii-tema-1-leccion-1-alfonso-rosa/</loc>
+    <lastmod>2014-02-20T16:56:51+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2014/02/20/matematicas-para-la-empresa-ii-tema-1-leccion-2-alfonso-rosa/</loc>
+    <lastmod>2014-02-20T16:56:51+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2014/02/20/matematicas-para-la-empresa-ii-tema-1-leccion-3-alfonso-rosa/</loc>
+    <lastmod>2014-02-20T16:56:51+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2014/02/20/matematicas-para-la-empresa-ii-tema-1-leccion-4-alfonso-rosa/</loc>
+    <lastmod>2014-02-20T16:56:51+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2014/02/20/matematicas-para-la-empresa-ii-tema-1-leccion-5-alfonso-rosa/</loc>
+    <lastmod>2014-02-20T16:56:51+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2014/02/20/matematicas-para-la-empresa-ii-tema-1-leccion-6-alfonso-rosa/</loc>
+    <lastmod>2014-02-20T16:56:51+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/curvas-de-indiferencia/</loc>
+    <lastmod>2014-02-20T16:56:51+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/diferencia/</loc>
+    <lastmod>2014-02-20T16:56:51+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/exponenciales/</loc>
+    <lastmod>2014-02-20T16:56:51+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/funciones-de-varias-variables-reales/</loc>
+    <lastmod>2014-02-20T16:56:51+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/funciones-reales/</loc>
+    <lastmod>2014-02-20T16:56:51+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/funciones-trigonom%C3%A9tricas/</loc>
+    <lastmod>2014-02-20T16:56:51+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/funci%C3%B3n-componente/</loc>
+    <lastmod>2014-02-20T16:56:51+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/igualdad/</loc>
+    <lastmod>2014-02-20T16:56:51+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/isocuantas/</loc>
+    <lastmod>2014-02-20T16:56:51+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/logar%C3%ADtmicas/</loc>
+    <lastmod>2014-02-20T16:56:51+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/operaciones-con-funciones/</loc>
+    <lastmod>2014-02-20T16:56:51+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/producto-por-escalar/</loc>
+    <lastmod>2014-02-20T16:56:51+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/proyecciones/</loc>
+    <lastmod>2014-02-20T16:56:51+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/racionales/</loc>
+    <lastmod>2014-02-20T16:56:51+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/representaci%C3%B3n/</loc>
+    <lastmod>2014-02-20T16:56:51+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/utilidad/</loc>
+    <lastmod>2014-02-20T16:56:51+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/variable-dependiente/</loc>
+    <lastmod>2014-02-20T16:56:51+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/variable-independiente/</loc>
+    <lastmod>2014-02-20T16:56:51+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/localizacio%CC%81n/</loc>
     <lastmod>2014-02-17T10:40:32+00:00</lastmod>
     <priority>0</priority>
@@ -5348,17 +7424,6 @@
   </url>
   
   <url>
-    <loc>/tags/varias-variables/</loc>
-    <lastmod>2014-02-15T20:16:25+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/blog/2014/02/15/aplicacion-de-herramientas-sustitucion-e-integracion-por-partes-21-21-upv-1/</loc>
-    <lastmod>2014-02-15T00:12:31+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/blog/2014/02/15/aplicacion-de-herramientas-sustitucion-e-integracion-por-partes-21-21-upv/</loc>
     <lastmod>2014-02-15T00:12:31+00:00</lastmod>
   </url>
@@ -5382,30 +7447,14 @@
   </url>
   
   <url>
-    <loc>/tags/variables/</loc>
-    <lastmod>2014-02-15T00:12:31+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/cambio-de-variable/</loc>
     <lastmod>2014-02-15T00:04:13+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/blog/2014/02/15/cambio-de-variable-os-susticucion-herramienta-fundamental-i-19-21-upv-1/</loc>
-    <lastmod>2014-02-15T00:04:13+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/blog/2014/02/15/cambio-de-variable-os-susticucion-herramienta-fundamental-i-19-21-upv/</loc>
     <lastmod>2014-02-15T00:04:13+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/2014/02/14/calculo-de-areas-mas-complejas-ii-18-21-upv-1/</loc>
-    <lastmod>2014-02-14T23:56:47+00:00</lastmod>
   </url>
   
   <url>
@@ -5415,12 +7464,6 @@
   
   <url>
     <loc>/tags/complejas/</loc>
-    <lastmod>2014-02-14T23:56:47+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/integrales/</loc>
     <lastmod>2014-02-14T23:56:47+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -5438,19 +7481,8 @@
   </url>
   
   <url>
-    <loc>/blog/2014/02/14/calculo-de-areas-complejas-i-17-21-upv-1/</loc>
-    <lastmod>2014-02-14T23:53:43+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/blog/2014/02/14/calculo-de-areas-complejas-i-17-21-upv/</loc>
     <lastmod>2014-02-14T23:53:43+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/integral-definida/</loc>
-    <lastmod>2014-02-14T23:53:43+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -5477,8 +7509,38 @@
   </url>
   
   <url>
-    <loc>/blog/2014/01/22/bases-matematicas-integrales-presentacion-1-21-upv-1/</loc>
-    <lastmod>2014-01-22T21:51:58+00:00</lastmod>
+    <loc>/blog/2014/01/27/matematicas-para-la-empresa-i-tema-5-leccion-7-alfonso-rosa/</loc>
+    <lastmod>2014-01-27T09:56:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/autovalores/</loc>
+    <lastmod>2014-01-27T09:56:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/autovectores/</loc>
+    <lastmod>2014-01-27T09:56:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/diagonalizaci%C3%B3n/</loc>
+    <lastmod>2014-01-27T09:56:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/valores-propios/</loc>
+    <lastmod>2014-01-27T09:56:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/vectores-propios/</loc>
+    <lastmod>2014-01-27T09:56:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -5499,13 +7561,519 @@
   </url>
   
   <url>
+    <loc>/blog/2014/01/22/matematicas-para-la-empresa-i-tema-5-ejercicio-4-alfonso-rosa/</loc>
+    <lastmod>2014-01-22T16:12:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/potencia-en%C3%A9sima/</loc>
+    <lastmod>2014-01-22T16:12:25+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2014/01/21/matematicas-para-la-empresa-i-tema-5-ejercicio-3-alfonso-rosa/</loc>
+    <lastmod>2014-01-21T09:56:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/matriz-sim%C3%A9trica/</loc>
+    <lastmod>2014-01-21T09:56:48+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2014/01/15/matematicas-para-la-empresa-i-tema-5-ejercicio-2-alfonso-rosa/</loc>
+    <lastmod>2014-01-15T16:27:13+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/diagonalizar/</loc>
+    <lastmod>2014-01-15T16:27:13+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/matriz-de-paso/</loc>
+    <lastmod>2014-01-15T16:27:13+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2014/01/15/matematicas-para-la-empresa-i-tema-5-ejercicio-1-alfonso-rosa/</loc>
+    <lastmod>2014-01-15T16:26:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/estudiar/</loc>
+    <lastmod>2014-01-15T16:26:02+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/valores-propios-repetidos/</loc>
+    <lastmod>2014-01-15T16:26:02+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2013/12/27/matematicas-para-la-empresa-i-tema-5-leccion-10-alfonso-rosa/</loc>
+    <lastmod>2013-12-27T07:30:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/sim%C3%A9tricas/</loc>
+    <lastmod>2013-12-27T07:30:03+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2013/12/27/matematicas-para-la-empresa-i-tema-5-leccion-9-alfonso-rosa/</loc>
+    <lastmod>2013-12-27T07:28:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2013/12/27/matematicas-para-la-empresa-i-tema-5-leccion-6-alfonso-rosa/</loc>
+    <lastmod>2013-12-27T07:24:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/matrices-semejantes/</loc>
+    <lastmod>2013-12-27T07:24:14+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2013/12/27/matematicas-para-la-empresa-i-tema-5-leccion-5-alfonso-rosa/</loc>
+    <lastmod>2013-12-27T07:23:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/matriz-diagonal/</loc>
+    <lastmod>2013-12-27T07:23:01+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2013/12/27/matematicas-para-la-empresa-i-tema-5-leccion-3-alfonso-rosa/</loc>
+    <lastmod>2013-12-27T07:19:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/obtenci%C3%B3n/</loc>
+    <lastmod>2013-12-27T07:19:35+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/repetidos/</loc>
+    <lastmod>2013-12-27T07:19:35+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2013/12/27/matematicas-para-la-empresa-i-tema-5-leccion-2-alfonso-rosa/</loc>
+    <lastmod>2013-12-27T07:18:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2013/12/27/matematicas-para-la-empresa-i-tema-5-leccion-1-alfonso-rosa/</loc>
+    <lastmod>2013-12-27T07:17:06+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2013/12/17/matematicas-para-la-empresa-i-tema-4-ejercicio-8-alfonso-rosa/</loc>
+    <lastmod>2013-12-17T17:53:41+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/aplicaci%C3%B3n-lineal/</loc>
+    <lastmod>2013-12-17T17:53:41+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/discusi%C3%B3n/</loc>
+    <lastmod>2013-12-17T17:53:41+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2013/12/17/matematicas-para-la-empresa-i-tema-4-ejercicio-7-alfonso-rosa/</loc>
+    <lastmod>2013-12-17T17:52:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/epimorfismo/</loc>
+    <lastmod>2013-12-17T17:52:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2013/12/17/matematicas-para-la-empresa-i-tema-4-ejercicio-6-alfonso-rosa/</loc>
+    <lastmod>2013-12-17T17:50:43+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/suprayectiva/</loc>
+    <lastmod>2013-12-17T17:50:43+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2013/12/17/matematicas-para-la-empresa-i-tema-4-ejercicio-5-alfonso-rosa/</loc>
+    <lastmod>2013-12-17T17:48:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2013/12/12/matematicas-para-la-empresa-i-tema-4-ejercicio-4-alfonso-rosa/</loc>
+    <lastmod>2013-12-12T11:52:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/matriz-asociada/</loc>
+    <lastmod>2013-12-12T11:52:10+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2013/12/12/matematicas-para-la-empresa-i-tema-4-ejercicio-3-alfonso-rosa/</loc>
+    <lastmod>2013-12-12T11:50:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/kernel/</loc>
+    <lastmod>2013-12-12T11:50:57+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/n%C3%BAcleo/</loc>
+    <lastmod>2013-12-12T11:50:57+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2013/12/12/matematicas-para-la-empresa-i-tema-4-ejercicio-2-alfonso-rosa/</loc>
+    <lastmod>2013-12-12T11:48:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/demostrar/</loc>
+    <lastmod>2013-12-12T11:48:17+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2013/12/12/matematicas-para-la-empresa-i-tema-4-ejercicio-1-alfonso-rosa/</loc>
+    <lastmod>2013-12-12T11:47:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2013/12/11/matematicas-para-la-empresa-i-tema-4-leccion-4-alfonso-rosa/</loc>
+    <lastmod>2013-12-11T10:25:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/aplicaciones-lineales/</loc>
+    <lastmod>2013-12-11T10:25:15+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2013/12/11/matematicas-para-la-empresa-i-tema-4-leccion-3-alfonso-rosa/</loc>
+    <lastmod>2013-12-11T10:23:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/biyectiva/</loc>
+    <lastmod>2013-12-11T10:23:25+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/inyectiva/</loc>
+    <lastmod>2013-12-11T10:23:25+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/isomorfismo/</loc>
+    <lastmod>2013-12-11T10:23:25+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/monomorfismo/</loc>
+    <lastmod>2013-12-11T10:23:25+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/sobreyectiva/</loc>
+    <lastmod>2013-12-11T10:23:25+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2013/12/11/matematicas-para-la-empresa-i-tema-4-leccion-1-alfonso-rosa/</loc>
+    <lastmod>2013-12-11T10:21:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/endomorfismo/</loc>
+    <lastmod>2013-12-11T10:21:15+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/operador-lineal/</loc>
+    <lastmod>2013-12-11T10:21:15+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2013/12/11/matematicas-para-la-empresa-i-tema-4-leccion-2-alfonso-rosa/</loc>
+    <lastmod>2013-12-11T10:20:31+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2013/12/03/matematicas-para-la-empresa-i-tema-3-ejercicio-5-alfonso-rosa/</loc>
+    <lastmod>2013-12-03T12:12:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/sistema-compatible/</loc>
+    <lastmod>2013-12-03T12:12:52+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/sistema-de-ecuaciones-lineales/</loc>
+    <lastmod>2013-12-03T12:12:52+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2013/12/03/matematicas-para-la-empresa-i-tema-3-ejercicio-4-alfonso-rosa/</loc>
+    <lastmod>2013-12-03T12:12:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/compatible-indeterminado/</loc>
+    <lastmod>2013-12-03T12:12:48+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/resolver/</loc>
+    <lastmod>2013-12-03T12:12:48+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2013/12/03/matematicas-para-la-empresa-i-tema-3-ejercicio-3-alfonso-rosa/</loc>
+    <lastmod>2013-12-03T12:12:43+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/jordan/</loc>
+    <lastmod>2013-12-03T12:12:43+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/blog/2013/12/02/integracion-cambio-variable-i/</loc>
     <lastmod>2013-12-02T00:24:29+00:00</lastmod>
   </url>
   
   <url>
+    <loc>/blog/2013/11/26/matematicas-para-la-empresa-i-tema-3-ejercicio-1-alfonso-rosa/</loc>
+    <lastmod>2013-11-26T17:39:03+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/blog/2013/11/24/integracion-por-partes-ii/</loc>
     <lastmod>2013-11-24T11:51:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2013/11/22/curso-mooc-ucam-analisis-estadistico-con-r-epilogo/</loc>
+    <lastmod>2013-11-22T17:30:42+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/an%C3%A1lisis-estad%C3%ADstico-con-r/</loc>
+    <lastmod>2013-11-22T17:30:42+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/jorge-l%C3%B3pez-ucam/</loc>
+    <lastmod>2013-11-22T17:30:42+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/unidad-mooc/</loc>
+    <lastmod>2013-11-22T17:30:42+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2013/11/22/matematicas-para-la-empresa-i-tema-3-leccion-6-alfonso-rosa/</loc>
+    <lastmod>2013-11-22T10:28:24+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/resoluci%C3%B3n-sistemas-compatibles-indeterminados/</loc>
+    <lastmod>2013-11-22T10:28:24+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2013/11/22/matematicas-para-la-empresa-i-tema-3-leccion-5-alfonso-rosa/</loc>
+    <lastmod>2013-11-22T10:27:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/polimedi/</loc>
+    <lastmod>2013-11-22T10:27:27+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/triangularizar/</loc>
+    <lastmod>2013-11-22T10:27:27+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2013/11/21/matematicas-para-la-empresa-i-tema-3-leccion-4-alfonso-rosa/</loc>
+    <lastmod>2013-11-21T16:59:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/compatible/</loc>
+    <lastmod>2013-11-21T16:59:48+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/soluciones/</loc>
+    <lastmod>2013-11-21T16:59:48+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2013/11/21/matematicas-para-la-empresa-i-tema-3-leccion3-alfonso-rosa/</loc>
+    <lastmod>2013-11-21T16:58:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/determinado/</loc>
+    <lastmod>2013-11-21T16:58:49+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/indeterminado/</loc>
+    <lastmod>2013-11-21T16:58:49+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2013/11/21/matematicas-para-la-empresa-i-tema-3-leccion-2-alfonso-rosa/</loc>
+    <lastmod>2013-11-21T16:57:38+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2013/11/21/matematicas-para-la-empresa-i-tema-3-leccion-1-alfonso-rosa/</loc>
+    <lastmod>2013-11-21T16:53:33+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/coeficientes/</loc>
+    <lastmod>2013-11-21T16:53:33+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/t%C3%A9rmino-independiente/</loc>
+    <lastmod>2013-11-21T16:53:33+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2013/11/18/matematicas-para-la-empresa-i-tema-2-ejercicio-7-alfonso-rosa/</loc>
+    <lastmod>2013-11-18T16:36:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/vectores-linealmente-independientes/</loc>
+    <lastmod>2013-11-18T16:36:35+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2013/11/18/matematicas-para-la-empresa-i-tema-2-ejercicio-8-alfonso-rosa/</loc>
+    <lastmod>2013-11-18T16:20:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/determinante/</loc>
+    <lastmod>2013-11-18T16:20:32+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2013/11/15/matematicas-para-la-empresa-i-tema-2-ejercicio-5-alfonso-rosa/</loc>
+    <lastmod>2013-11-15T11:52:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2013/11/14/matematicas-para-la-empresa-i-tema-2-ejercicio-4-alfonso-rosa/</loc>
+    <lastmod>2013-11-14T11:00:43+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/ecuaciones-matriciales/</loc>
+    <lastmod>2013-11-14T11:00:43+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2013/11/14/matematicas-para-la-empresa-i-tema-2-ejercicio-3-alfonso-rosa/</loc>
+    <lastmod>2013-11-14T10:59:12+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/base-ortonormal/</loc>
+    <lastmod>2013-11-14T10:59:12+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/matriz-ortogonal/</loc>
+    <lastmod>2013-11-14T10:59:12+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2013/11/14/matematicas-para-la-empresa-i-tema-2-ejercicio-1-alfonso-rosa/</loc>
+    <lastmod>2013-11-14T10:28:42+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/probelas/</loc>
+    <lastmod>2013-11-14T10:28:42+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/sumar/</loc>
+    <lastmod>2013-11-14T10:28:42+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -5526,143 +8094,139 @@
   </url>
   
   <url>
-    <loc>/blog/2013/11/07/analisis-de-la-relacion-entre-dos-variables-cualitativas-chi-cuadrado-significacion-modulo-4/</loc>
-    <lastmod>2013-11-07T21:24:08+00:00</lastmod>
+    <loc>/blog/2013/11/12/matematicas-para-la-empresa-i-tema-2-leccion-3-alfonso-rosa/</loc>
+    <lastmod>2013-11-12T08:14:56+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/causas-significaci%C3%B3n/</loc>
-    <lastmod>2013-11-07T21:24:08+00:00</lastmod>
+    <loc>/tags/antisim%C3%A9trica/</loc>
+    <lastmod>2013-11-12T08:14:56+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/coma/</loc>
-    <lastmod>2013-11-07T21:24:08+00:00</lastmod>
+    <loc>/tags/idempotente/</loc>
+    <lastmod>2013-11-12T08:14:56+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/cursos-masivos/</loc>
-    <lastmod>2013-11-07T21:24:08+00:00</lastmod>
+    <loc>/tags/matriz-traspuesta/</loc>
+    <lastmod>2013-11-12T08:14:56+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/departamento-estad%C3%ADstica/</loc>
-    <lastmod>2013-11-07T21:24:08+00:00</lastmod>
+    <loc>/tags/sim%C3%A9trica/</loc>
+    <lastmod>2013-11-12T08:14:56+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/estadistica-para-investigadores/</loc>
-    <lastmod>2013-11-07T21:24:08+00:00</lastmod>
+    <loc>/blog/2013/11/12/matematicas-para-la-empresa-i-tema-2-leccion-5-alfonso-rosa/</loc>
+    <lastmod>2013-11-12T08:14:42+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/calcular-determinante/</loc>
+    <lastmod>2013-11-12T08:14:42+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/estad%C3%ADstica-descriptiva/</loc>
-    <lastmod>2013-11-07T21:24:08+00:00</lastmod>
+    <loc>/tags/menor-complementario/</loc>
+    <lastmod>2013-11-12T08:14:42+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/medicina/</loc>
-    <lastmod>2013-11-07T21:24:08+00:00</lastmod>
+    <loc>/blog/2013/11/11/matematicas-para-la-empresa-i-tema-2-leccion-7-alfonso-rosa/</loc>
+    <lastmod>2013-11-11T17:22:39+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/rango-de-una-matriz/</loc>
+    <lastmod>2013-11-11T17:22:39+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/miriadax/</loc>
-    <lastmod>2013-11-07T21:24:08+00:00</lastmod>
+    <loc>/tags/submatriz/</loc>
+    <lastmod>2013-11-11T17:22:39+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/modulo-4/</loc>
-    <lastmod>2013-11-07T21:24:08+00:00</lastmod>
+    <loc>/blog/2013/11/11/matematicas-para-la-empresa-i-tema-2-leccion-6-alfonso-rosa/</loc>
+    <lastmod>2013-11-11T17:21:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/adjunto/</loc>
+    <lastmod>2013-11-11T17:21:27+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/m%C3%B3dulo-4/</loc>
-    <lastmod>2013-11-07T21:24:08+00:00</lastmod>
+    <loc>/blog/2013/11/11/matematicas-para-la-empresa-i-tema-2-leccion-4-alfonso-rosa/</loc>
+    <lastmod>2013-11-11T17:19:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/matriz-cuadrada/</loc>
+    <lastmod>2013-11-11T17:19:27+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/purificaci%C3%B3n/</loc>
-    <lastmod>2013-11-07T21:24:08+00:00</lastmod>
+    <loc>/tags/traza/</loc>
+    <lastmod>2013-11-11T17:19:27+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/purificaci%C3%B3n-galindo/</loc>
-    <lastmod>2013-11-07T21:24:08+00:00</lastmod>
+    <loc>/blog/2013/11/08/matematicas-para-la-empresa-i-tema-2-leccion-2-alfonso-rosa/</loc>
+    <lastmod>2013-11-08T09:22:36+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/producto-de-matrices/</loc>
+    <lastmod>2013-11-08T09:22:36+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/universidad-de-salamanca/</loc>
-    <lastmod>2013-11-07T21:24:08+00:00</lastmod>
+    <loc>/tags/suma-de-matrices/</loc>
+    <lastmod>2013-11-08T09:22:36+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/usal/</loc>
-    <lastmod>2013-11-07T21:24:08+00:00</lastmod>
+    <loc>/blog/2013/11/08/matematicas-para-la-empresa-i-tema-2-leccion-1-alfonso-rosa/</loc>
+    <lastmod>2013-11-08T09:22:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/diagonal/</loc>
+    <lastmod>2013-11-08T09:22:21+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/usalmedia/</loc>
-    <lastmod>2013-11-07T21:24:08+00:00</lastmod>
+    <loc>/tags/rectangular/</loc>
+    <lastmod>2013-11-08T09:22:21+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/usalmooc/</loc>
-    <lastmod>2013-11-07T21:24:08+00:00</lastmod>
+    <loc>/tags/triangular/</loc>
+    <lastmod>2013-11-08T09:22:21+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/blog/2013/11/07/analisis-de-relacion-entre-dos-variables-cuantitativas-coeficiente-de-regresion-modulo-3/</loc>
-    <lastmod>2013-11-07T21:23:50+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/coeficiente-de-regresi%C3%B3n/</loc>
-    <lastmod>2013-11-07T21:23:50+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/m%C3%B3dulo-3/</loc>
-    <lastmod>2013-11-07T21:23:50+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/blog/2013/11/07/estadistica-descriptiva-medidas-de-sintesis-ii-modulo-2/</loc>
-    <lastmod>2013-11-07T21:23:37+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/medidas-de-s%C3%ADntesis/</loc>
-    <lastmod>2013-11-07T21:23:37+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/modulo-2/</loc>
-    <lastmod>2013-11-07T21:23:37+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/tablas-y-graficos/</loc>
-    <lastmod>2013-11-07T21:23:37+00:00</lastmod>
+    <loc>/tags/vector/</loc>
+    <lastmod>2013-11-08T09:22:21+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -5672,7 +8236,61 @@
   </url>
   
   <url>
+    <loc>/tags/coma/</loc>
+    <lastmod>2013-11-07T21:23:18+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/cursos-masivos/</loc>
+    <lastmod>2013-11-07T21:23:18+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/departamento-estad%C3%ADstica/</loc>
+    <lastmod>2013-11-07T21:23:18+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/estadistica-para-investigadores/</loc>
+    <lastmod>2013-11-07T21:23:18+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/estad%C3%ADstica-descriptiva/</loc>
+    <lastmod>2013-11-07T21:23:18+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/medicina/</loc>
+    <lastmod>2013-11-07T21:23:18+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/miriadax/</loc>
+    <lastmod>2013-11-07T21:23:18+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/m%C3%B3dulo-5/</loc>
+    <lastmod>2013-11-07T21:23:18+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/purificaci%C3%B3n/</loc>
+    <lastmod>2013-11-07T21:23:18+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/purificaci%C3%B3n-galindo/</loc>
     <lastmod>2013-11-07T21:23:18+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -5690,31 +8308,32 @@
   </url>
   
   <url>
-    <loc>/tags/variables-cualitativa-y-cuantitativa/</loc>
+    <loc>/tags/universidad-de-salamanca/</loc>
     <lastmod>2013-11-07T21:23:18+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/blog/2013/11/07/estadistica-descriptiva-tablas-estadisticas-y-tratamiento-grafico-modulo-1/</loc>
-    <lastmod>2013-11-07T21:22:50+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/m%C3%B3dulo-1/</loc>
-    <lastmod>2013-11-07T21:22:50+00:00</lastmod>
+    <loc>/tags/usal/</loc>
+    <lastmod>2013-11-07T21:23:18+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/representaci%C3%B3n-datos/</loc>
-    <lastmod>2013-11-07T21:22:50+00:00</lastmod>
+    <loc>/tags/usalmedia/</loc>
+    <lastmod>2013-11-07T21:23:18+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/representaci%C3%B3n-en-tablas/</loc>
-    <lastmod>2013-11-07T21:22:50+00:00</lastmod>
+    <loc>/tags/usalmooc/</loc>
+    <lastmod>2013-11-07T21:23:18+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/variables-cualitativa-y-cuantitativa/</loc>
+    <lastmod>2013-11-07T21:23:18+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -5771,28 +8390,8 @@
   </url>
   
   <url>
-    <loc>/blog/2013/11/07/test-no-parametricos-test-de-wilcoxon-modulo-6/</loc>
-    <lastmod>2013-11-07T21:21:56+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/2013/11/07/test-no-parametricos-u-de-mann-whitney-modulo-6/</loc>
-    <lastmod>2013-11-07T21:21:35+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/2013/11/07/analisis-de-la-relacion-entre-dos-variables-cualitativas-test-chi-cuadrado-modulo-4/</loc>
-    <lastmod>2013-11-07T21:21:22+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/2013/11/07/estadistica-descriptiva-medidas-de-sintesis-i-modulo-2/</loc>
-    <lastmod>2013-11-07T21:20:55+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/modulo/</loc>
-    <lastmod>2013-11-07T21:20:55+00:00</lastmod>
+    <loc>/tags/pearson/</loc>
+    <lastmod>2013-11-07T21:22:13+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -5802,8 +8401,268 @@
   </url>
   
   <url>
-    <loc>/blog/2013/10/12/anova-introduccion-upv-1/</loc>
-    <lastmod>2013-10-12T03:51:57+00:00</lastmod>
+    <loc>/blog/2013/11/06/matematicas-para-la-empresa-i-ejercicio-3-base-y-dimension-alfonso-rosa/</loc>
+    <lastmod>2013-11-06T10:04:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2013/11/06/matematicas-para-la-empresa-i-ejercicio-4-cambio-de-coordenadas-alfonso-rosa/</loc>
+    <lastmod>2013-11-06T10:04:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2013/11/06/matematicas-para-la-empresa-i-ejercicio-5-ortogonalidad-alfonso-rosa/</loc>
+    <lastmod>2013-11-06T10:04:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2013/11/06/matematicas-para-la-empresa-i-ejercicio-6-base-ortonormal-alfonso-rosa/</loc>
+    <lastmod>2013-11-06T10:04:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/base/</loc>
+    <lastmod>2013-11-06T10:04:01+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/cambio-de-coordenadas/</loc>
+    <lastmod>2013-11-06T10:04:01+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/dimensi%C3%B3n/</loc>
+    <lastmod>2013-11-06T10:04:01+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/espacio-vectorial/</loc>
+    <lastmod>2013-11-06T10:04:01+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/ortogonalidad/</loc>
+    <lastmod>2013-11-06T10:04:01+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/sistema-generador/</loc>
+    <lastmod>2013-11-06T10:04:01+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/subespacio/</loc>
+    <lastmod>2013-11-06T10:04:01+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/vector-unitario/</loc>
+    <lastmod>2013-11-06T10:04:01+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2013/11/04/fundamentos-de-estadistica-estadisticos-descriptivos-conchi-perez/</loc>
+    <lastmod>2013-11-04T18:23:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/conchi-c%C3%A1rceles/</loc>
+    <lastmod>2013-11-04T18:23:19+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/descriptivos/</loc>
+    <lastmod>2013-11-04T18:23:19+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2013/11/04/fundamentos-de-estadistica-indices-de-precios-complejos-ponderados-conchi-perez/</loc>
+    <lastmod>2013-11-04T18:23:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/complejos/</loc>
+    <lastmod>2013-11-04T18:23:15+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/conchi-p%C3%A9rez/</loc>
+    <lastmod>2013-11-04T18:23:15+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/indice-de-precios/</loc>
+    <lastmod>2013-11-04T18:23:15+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/ponderados/</loc>
+    <lastmod>2013-11-04T18:23:15+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2013/11/04/matematicas-para-la-empresa-i-ejercicio-2-subespacios-vectoriales-alfonso-rosa/</loc>
+    <lastmod>2013-11-04T10:29:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/b%C3%A1sica/</loc>
+    <lastmod>2013-11-04T10:29:57+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/matem%C3%A1ticas-para-la-empresa/</loc>
+    <lastmod>2013-11-04T10:29:57+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/subespacios-vectoriales/</loc>
+    <lastmod>2013-11-04T10:29:57+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2013/11/04/matematicas-para-la-empresa-i-ejercicio-1-independencia-lineal-alfonso-rosa/</loc>
+    <lastmod>2013-11-04T10:28:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/independencia-lineal/</loc>
+    <lastmod>2013-11-04T10:28:21+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2013/10/24/matematicas-para-la-empresa-i-tema-1-leccion-9-alfonso-rosa/</loc>
+    <lastmod>2013-10-24T12:20:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/alfonso-rosa-ucam/</loc>
+    <lastmod>2013-10-24T12:20:35+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/ortonormalidad/</loc>
+    <lastmod>2013-10-24T12:20:35+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2013/10/24/matematicas-para-la-empresa-i-tema-1-leccion-8-alfonso-rosa/</loc>
+    <lastmod>2013-10-24T12:19:42+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/longitud/</loc>
+    <lastmod>2013-10-24T12:19:42+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/m%C3%B3dulo/</loc>
+    <lastmod>2013-10-24T12:19:42+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/norma/</loc>
+    <lastmod>2013-10-24T12:19:42+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/producto-escalar/</loc>
+    <lastmod>2013-10-24T12:19:42+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2013/10/24/matematicas-para-la-empresa-i-tema-1-leccion-7-alfonso-rosa/</loc>
+    <lastmod>2013-10-24T12:18:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2013/10/24/matematicas-para-la-empresa-i-tema-1-leccion-6-alfonso-rosa/</loc>
+    <lastmod>2013-10-24T12:17:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/coordenadas/</loc>
+    <lastmod>2013-10-24T12:17:15+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2013/10/24/matematicas-para-la-empresa-i-tema-1-leccion-5-alfonso-rosa/</loc>
+    <lastmod>2013-10-24T12:16:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/base-can%C3%B3nica/</loc>
+    <lastmod>2013-10-24T12:16:19+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/base-de-rn/</loc>
+    <lastmod>2013-10-24T12:16:19+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2013/10/24/matematicas-para-la-empresa-i-tema-1-leccion-4-alfonso-rosa/</loc>
+    <lastmod>2013-10-24T12:15:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/cominbinacion-lineal/</loc>
+    <lastmod>2013-10-24T12:15:27+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/dependencia-lineal/</loc>
+    <lastmod>2013-10-24T12:15:27+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/independecia-lineal/</loc>
+    <lastmod>2013-10-24T12:15:27+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2013/10/18/matematicas-para-la-empresa-i-tema-1-leccion-3-alfonso-rosa/</loc>
+    <lastmod>2013-10-18T07:33:47+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2013/10/18/matematicas-para-la-empresa-i-tema-1-leccion-2-alfonso-rosa/</loc>
+    <lastmod>2013-10-18T07:32:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2013/10/18/matematicas-para-la-empresa-i-tema-1-leccion-1-alfonso-rosa/</loc>
+    <lastmod>2013-10-18T07:32:18+00:00</lastmod>
   </url>
   
   <url>
@@ -5824,11 +8683,6 @@
   </url>
   
   <url>
-    <loc>/blog/2013/10/12/inferencia-respecto-a-una-poblacion-normal-estudio-de-la-hipotesis-mm0-upv-1/</loc>
-    <lastmod>2013-10-12T03:49:58+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/blog/2013/10/12/inferencia-respecto-a-una-poblacion-normal-estudio-de-la-hipotesis-mm0-upv/</loc>
     <lastmod>2013-10-12T03:49:58+00:00</lastmod>
   </url>
@@ -5836,12 +8690,6 @@
   <url>
     <loc>/tags/test-de-hipotesis/</loc>
     <lastmod>2013-10-12T03:49:58+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/distribuciones/</loc>
-    <lastmod>2013-10-12T03:45:53+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -5858,28 +8706,13 @@
   </url>
   
   <url>
-    <loc>/blog/2013/10/12/funcion-de-densidad-y-funcion-de-distribucion-upv-1/</loc>
-    <lastmod>2013-10-12T03:45:53+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/blog/2013/10/12/funcion-de-densidad-y-funcion-de-distribucion-upv/</loc>
     <lastmod>2013-10-12T03:45:53+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/2013/10/12/probabilidad-condicional-upv-1/</loc>
-    <lastmod>2013-10-12T03:44:07+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/blog/2013/10/12/probabilidad-condicional-upv/</loc>
     <lastmod>2013-10-12T03:44:07+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/2013/10/12/teorema-de-la-probabilidad-total-upv-1/</loc>
-    <lastmod>2013-10-12T03:43:43+00:00</lastmod>
   </url>
   
   <url>
@@ -5891,11 +8724,6 @@
     <loc>/tags/teorema-probabilidad-total/</loc>
     <lastmod>2013-10-12T03:43:43+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/blog/2013/10/12/comparacion-de-dos-poblaciones-normales-analisis-de-varianza-upv-1/</loc>
-    <lastmod>2013-10-12T03:42:37+00:00</lastmod>
   </url>
   
   <url>
@@ -5916,11 +8744,6 @@
   </url>
   
   <url>
-    <loc>/blog/2013/10/12/comparacion-de-dos-poblaciones-normales-diferencia-de-medias-upv-1/</loc>
-    <lastmod>2013-10-12T03:41:32+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/blog/2013/10/12/comparacion-de-dos-poblaciones-normales-diferencia-de-medias-upv/</loc>
     <lastmod>2013-10-12T03:41:32+00:00</lastmod>
   </url>
@@ -5929,11 +8752,6 @@
     <loc>/tags/dos-poblaciones-normales/</loc>
     <lastmod>2013-10-12T03:41:32+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/blog/2013/10/12/contraste-de-hipotesis-sobre-los-parametros-del-modelo-mediante-la-utilizacion-del-estadistico-upv-1/</loc>
-    <lastmod>2013-10-12T03:40:36+00:00</lastmod>
   </url>
   
   <url>
@@ -5954,8 +8772,31 @@
   </url>
   
   <url>
-    <loc>/tags/estadistica/</loc>
-    <lastmod>2013-10-08T07:56:48+00:00</lastmod>
+    <loc>/blog/2013/10/09/curso-mooc-ucam-en-miriadax-bienvenido-al-curso/</loc>
+    <lastmod>2013-10-09T15:23:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/aprende-an%C3%A1lisis-de-datos-con-r/</loc>
+    <lastmod>2013-10-09T15:23:58+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/curso-b%C3%A1sico-econom%C3%ADa/</loc>
+    <lastmod>2013-10-09T15:23:58+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/josep-mart%C3%ADnez-polo/</loc>
+    <lastmod>2013-10-09T15:23:58+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/mooc_ucam/</loc>
+    <lastmod>2013-10-09T15:23:58+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -5966,19 +8807,8 @@
   </url>
   
   <url>
-    <loc>/blog/2013/10/08/universidad-de-salamanca-dpto-estadistica-la-combinatoria-1/</loc>
-    <lastmod>2013-10-08T07:56:48+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/blog/2013/10/08/universidad-de-salamanca-dpto-estadistica-la-combinatoria/</loc>
     <lastmod>2013-10-08T07:56:48+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/university/</loc>
-    <lastmod>2013-10-08T07:56:48+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -6001,6 +8831,12 @@
   
   <url>
     <loc>/tags/entrevista/</loc>
+    <lastmod>2013-10-08T07:56:48+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/espa%C3%B1a/</loc>
     <lastmod>2013-10-08T07:56:48+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -6089,12 +8925,6 @@
   </url>
   
   <url>
-    <loc>/tags/grado/</loc>
-    <lastmod>2013-09-04T10:41:09+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/blog/2013/08/19/estadisticaudima/</loc>
     <lastmod>2013-08-19T10:21:06+00:00</lastmod>
   </url>
@@ -6175,18 +9005,6 @@
   </url>
   
   <url>
-    <loc>/tags/l%C3%ADmite/</loc>
-    <lastmod>2013-06-18T09:44:14+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/teorema/</loc>
-    <lastmod>2013-06-18T09:44:14+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/an%C3%A1lisis/</loc>
     <lastmod>2013-06-18T09:44:14+00:00</lastmod>
     <priority>0</priority>
@@ -6207,12 +9025,6 @@
   <url>
     <loc>/blog/2013/06/18/umh1263-2012-13-lec028-practica-teorema-central-del-limite/</loc>
     <lastmod>2013-06-18T09:44:14+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/distribuci%C3%B3n/</loc>
-    <lastmod>2013-06-17T12:36:15+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -6308,12 +9120,6 @@
   </url>
   
   <url>
-    <loc>/tags/series/</loc>
-    <lastmod>2013-06-13T05:59:09+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/temporales/</loc>
     <lastmod>2013-06-13T05:59:09+00:00</lastmod>
     <priority>0</priority>
@@ -6384,12 +9190,6 @@
   </url>
   
   <url>
-    <loc>/tags/probabilidades/</loc>
-    <lastmod>2013-05-21T06:43:24+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/aleatorias/</loc>
     <lastmod>2013-05-21T06:43:24+00:00</lastmod>
     <priority>0</priority>
@@ -6436,19 +9236,7 @@
   </url>
   
   <url>
-    <loc>/tags/tendencia/</loc>
-    <lastmod>2013-05-21T06:24:36+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/aditivos/</loc>
-    <lastmod>2013-05-21T06:24:36+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/componente/</loc>
     <lastmod>2013-05-21T06:24:36+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -6488,67 +9276,75 @@
   </url>
   
   <url>
-    <loc>/tags/van/</loc>
-    <lastmod>2013-05-17T12:01:15+00:00</lastmod>
+    <loc>/tags/ciencia/</loc>
+    <lastmod>2013-05-20T17:19:52+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/vnanoper/</loc>
-    <lastmod>2013-05-17T12:01:15+00:00</lastmod>
+    <loc>/tags/docencia/</loc>
+    <lastmod>2013-05-20T17:19:52+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/financieras/</loc>
-    <lastmod>2013-05-17T12:01:15+00:00</lastmod>
+    <loc>/tags/educacion/</loc>
+    <lastmod>2013-05-20T17:19:52+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/inter%C3%A9s/</loc>
-    <lastmod>2013-05-17T12:01:15+00:00</lastmod>
+    <loc>/tags/educativos/</loc>
+    <lastmod>2013-05-20T17:19:52+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/umh5030/</loc>
-    <lastmod>2013-05-17T12:01:15+00:00</lastmod>
+    <loc>/tags/ingenieria/</loc>
+    <lastmod>2013-05-20T17:19:52+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/blog/2013/05/17/umh5030-2013-14-lec001-conceptos-basicos-con-excel-1-2/</loc>
-    <lastmod>2013-05-17T12:01:15+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/pr%C3%A9stamos/</loc>
-    <lastmod>2013-05-17T11:56:58+00:00</lastmod>
+    <loc>/tags/innovacion/</loc>
+    <lastmod>2013-05-20T17:19:52+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/tir/</loc>
-    <lastmod>2013-05-17T11:56:58+00:00</lastmod>
+    <loc>/tags/madrid/</loc>
+    <lastmod>2013-05-20T17:19:52+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/tirnoper/</loc>
-    <lastmod>2013-05-17T11:56:58+00:00</lastmod>
+    <loc>/tags/politecnica/</loc>
+    <lastmod>2013-05-20T17:19:52+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/matem%C3%A1ticas-financieras/</loc>
-    <lastmod>2013-05-17T11:56:58+00:00</lastmod>
+    <loc>/tags/polit%C3%A9cnica/</loc>
+    <lastmod>2013-05-20T17:19:52+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/blog/2013/05/17/umh5030-2013-14-lec002-conceptos-basicos-con-excel-2-2/</loc>
-    <lastmod>2013-05-17T11:56:58+00:00</lastmod>
+    <loc>/tags/seminarios/</loc>
+    <lastmod>2013-05-20T17:19:52+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/upm/</loc>
+    <lastmod>2013-05-20T17:19:52+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/videos/</loc>
+    <lastmod>2013-05-20T17:19:52+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -6564,18 +9360,6 @@
   <url>
     <loc>/blog/2013/05/07/teorema-central-del-li%CC%81mite-02-04/</loc>
     <lastmod>2013-05-07T22:07:34+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/distribuci%C3%B3n-binomial/</loc>
-    <lastmod>2013-05-07T21:18:42+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/distribuci%C3%B3n-normal/</loc>
-    <lastmod>2013-05-07T21:18:42+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -6793,18 +9577,6 @@
   </url>
   
   <url>
-    <loc>/tags/complejos/</loc>
-    <lastmod>2013-04-09T13:03:15+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/n%C3%BAmeros/</loc>
-    <lastmod>2013-04-09T13:03:15+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/blog/2013/04/09/umh1263-2012-13-lec010-numeros-%C3%ADndice-complejos/</loc>
     <lastmod>2013-04-09T13:03:15+00:00</lastmod>
   </url>
@@ -6894,12 +9666,6 @@
   </url>
   
   <url>
-    <loc>/tags/empresas/</loc>
-    <lastmod>2013-03-26T23:16:15+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/blog/2013/03/26/umh3067-2012-13-lec002-modelos-de-rls/</loc>
     <lastmod>2013-03-26T23:16:15+00:00</lastmod>
   </url>
@@ -6946,12 +9712,6 @@
   </url>
   
   <url>
-    <loc>/tags/tasas/</loc>
-    <lastmod>2013-03-21T07:31:55+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/blog/2013/03/21/umh1263-2012-13-lec009-practica-numeros-indice-simples/</loc>
     <lastmod>2013-03-21T07:31:55+00:00</lastmod>
   </url>
@@ -6959,12 +9719,6 @@
   <url>
     <loc>/tags/variaci%C3%B3n/</loc>
     <lastmod>2013-03-21T07:31:55+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/descriptiva/</loc>
-    <lastmod>2013-03-20T13:46:44+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -7021,12 +9775,6 @@
   </url>
   
   <url>
-    <loc>/tags/asimetr%C3%ADa/</loc>
-    <lastmod>2013-03-19T16:27:34+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/blog/2013/03/19/funciones-estadi%CC%81sticas-en-excel-06-07-forma/</loc>
     <lastmod>2013-03-19T16:27:34+00:00</lastmod>
   </url>
@@ -7045,12 +9793,6 @@
   
   <url>
     <loc>/tags/coeficiente-de-variaci%C3%B3n/</loc>
-    <lastmod>2013-03-19T16:19:08+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/desviaci%C3%B3n-t%C3%ADpica/</loc>
     <lastmod>2013-03-19T16:19:08+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -7075,18 +9817,6 @@
   <url>
     <loc>/blog/2013/03/19/funciones-estadi%CC%81sticas-en-excel-04-07-posic-no-central/</loc>
     <lastmod>2013-03-19T16:03:47+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/moda/</loc>
-    <lastmod>2013-03-19T16:03:47+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/percentiles/</loc>
-    <lastmod>2013-03-19T16:03:47+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -7119,12 +9849,6 @@
   <url>
     <loc>/blog/2013/03/16/funciones-de-varias-variables-en-derive/</loc>
     <lastmod>2013-03-16T14:10:26+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/curvas-de-nivel/</loc>
-    <lastmod>2013-03-16T14:10:26+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -7242,12 +9966,6 @@
   </url>
   
   <url>
-    <loc>/tags/base/</loc>
-    <lastmod>2013-03-11T13:40:40+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/cambios/</loc>
     <lastmod>2013-03-11T13:40:40+00:00</lastmod>
     <priority>0</priority>
@@ -7327,12 +10045,6 @@
   </url>
   
   <url>
-    <loc>/tags/derivaci%C3%B3n/</loc>
-    <lastmod>2013-03-01T20:01:11+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/blog/2013/02/26/econometria-estacionariedad-en-varianza-4transformacion-de-la-variable/</loc>
     <lastmod>2013-02-26T22:30:20+00:00</lastmod>
   </url>
@@ -7362,12 +10074,6 @@
   <url>
     <loc>/blog/2013/02/26/econometria-estacionariedad-en-varianza-1-metodo-grafico/</loc>
     <lastmod>2013-02-26T21:27:01+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/series-temporales/</loc>
-    <lastmod>2013-02-26T21:27:01+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -7557,12 +10263,6 @@
   </url>
   
   <url>
-    <loc>/tags/distribuci%C3%B3n-condicionada/</loc>
-    <lastmod>2013-02-22T14:18:09+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/tabla-de-contingencia/</loc>
     <lastmod>2013-02-22T14:18:09+00:00</lastmod>
     <priority>0</priority>
@@ -7603,12 +10303,6 @@
   
   <url>
     <loc>/tags/univariante/</loc>
-    <lastmod>2013-02-22T14:17:47+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/variable-continua/</loc>
     <lastmod>2013-02-22T14:17:47+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -7770,12 +10464,6 @@
   </url>
   
   <url>
-    <loc>/tags/desestacionalizaci%C3%B3n/</loc>
-    <lastmod>2013-01-22T17:22:29+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/medias-m%C3%B3viles/</loc>
     <lastmod>2013-01-22T17:22:29+00:00</lastmod>
     <priority>0</priority>
@@ -7784,12 +10472,6 @@
   <url>
     <loc>/blog/2013/01/22/practica-series-temporales-07-12-desestacionalizacio%CC%81n-esquema-multiplicativo/</loc>
     <lastmod>2013-01-22T17:22:29+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/ponderados/</loc>
-    <lastmod>2013-01-22T16:53:48+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -7873,32 +10555,8 @@
   </url>
   
   <url>
-    <loc>/tags/concentraci%C3%B3n/</loc>
-    <lastmod>2013-01-22T10:19:45+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/gini/</loc>
-    <lastmod>2013-01-22T10:19:45+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/lorenz/</loc>
-    <lastmod>2013-01-22T10:19:45+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/blog/2013/01/22/practica-variable-unidimensional-continua-06-06-medidas-de-concentracio%CC%81n/</loc>
     <lastmod>2013-01-22T10:19:45+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/cuartiles/</loc>
-    <lastmod>2013-01-22T10:18:04+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -8099,19 +10757,7 @@
   </url>
   
   <url>
-    <loc>/tags/aplicaciones-lineales/</loc>
-    <lastmod>2012-12-04T15:07:13+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/espacios-vectoriales/</loc>
-    <lastmod>2012-12-04T15:07:13+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/problemas/</loc>
     <lastmod>2012-12-04T15:07:13+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -8198,6 +10844,53 @@
   <url>
     <loc>/tags/sanitat/</loc>
     <lastmod>2012-07-20T06:26:31+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2012/01/18/modelo-de-regresion-lineal-multiple/</loc>
+    <lastmod>2012-01-18T05:44:36+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/uvigo/</loc>
+    <lastmod>2012-01-18T05:44:36+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/galicia/</loc>
+    <lastmod>2012-01-18T05:44:36+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/universidad-de-vigo/</loc>
+    <lastmod>2012-01-18T05:44:36+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/universidade-de-vigo/</loc>
+    <lastmod>2012-01-18T05:44:36+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/uvigo/</loc>
+    <lastmod>2012-01-18T05:44:36+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/uvigo-universidad-de-vigo-universidad-universidade-de-vigo-vigo-galicia-uvigo-universidad-de-vigo-universidad-universidade-de-vigo-vigo-galicia/</loc>
+    <lastmod>2012-01-18T05:44:36+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/vigo/</loc>
+    <lastmod>2012-01-18T05:44:36+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -8291,34 +10984,13 @@
   </url>
   
   <url>
-    <loc>/blog/2011/11/28/teorema-de-bayes-upv-1/</loc>
-    <lastmod>2011-11-28T21:05:09+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/blog/2011/11/28/teorema-de-bayes-upv/</loc>
     <lastmod>2011-11-28T21:05:09+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/teorema-de-bayes/</loc>
-    <lastmod>2011-11-28T21:05:09+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/blog/2011/11/28/distribucion-normal-conceptos-y-propiedades-upv-1/</loc>
-    <lastmod>2011-11-28T21:00:17+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/blog/2011/11/28/distribucion-normal-conceptos-y-propiedades-upv/</loc>
     <lastmod>2011-11-28T21:00:17+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/2011/11/28/distribuciones-en-el-muestreo-conceptos-generales-upv-1/</loc>
-    <lastmod>2011-11-28T20:58:15+00:00</lastmod>
   </url>
   
   <url>
@@ -8333,24 +11005,8 @@
   </url>
   
   <url>
-    <loc>/tags/muestreo/</loc>
-    <lastmod>2011-11-28T20:58:15+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/blog/2011/11/28/distribuciones-en-el-muestreo-distribucion-de-la-media-muestral-upv-1/</loc>
-    <lastmod>2011-11-28T20:55:15+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/blog/2011/11/28/distribuciones-en-el-muestreo-distribucion-de-la-media-muestral-upv/</loc>
     <lastmod>2011-11-28T20:55:15+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/2011/11/28/probabilidad-concepto-y-propiedades-upv-1/</loc>
-    <lastmod>2011-11-28T20:54:28+00:00</lastmod>
   </url>
   
   <url>
@@ -8394,11 +11050,6 @@
   </url>
   
   <url>
-    <loc>/blog/2011/09/26/distribucion-binomial-upv-1/</loc>
-    <lastmod>2011-09-26T23:35:02+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/blog/2011/09/26/distribucion-binomial-upv/</loc>
     <lastmod>2011-09-26T23:35:02+00:00</lastmod>
   </url>
@@ -8410,31 +11061,9 @@
   </url>
   
   <url>
-    <loc>/blog/2011/09/26/distribucion-normal-upv-1/</loc>
-    <lastmod>2011-09-26T23:33:58+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/normal-reducida/</loc>
-    <lastmod>2011-09-26T23:33:58+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/variables-aleatotias-continuas/</loc>
-    <lastmod>2011-09-26T23:33:58+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/distribucion/</loc>
     <lastmod>2011-09-26T10:45:52+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/blog/2011/09/26/distribucion-geometrica-upv-1/</loc>
-    <lastmod>2011-09-26T10:45:52+00:00</lastmod>
   </url>
   
   <url>
@@ -8449,18 +11078,8 @@
   </url>
   
   <url>
-    <loc>/blog/2011/09/26/distribucion-de-poisson-upv-1/</loc>
-    <lastmod>2011-09-26T10:44:26+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/blog/2011/09/26/distribucion-de-poisson-upv/</loc>
     <lastmod>2011-09-26T10:44:26+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/2011/09/21/distribuci%C3%B3n-t-de-student-upv-1/</loc>
-    <lastmod>2011-09-21T17:43:08+00:00</lastmod>
   </url>
   
   <url>
@@ -8472,29 +11091,6 @@
     <loc>/tags/student/</loc>
     <lastmod>2011-09-21T17:43:08+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/investigaci%C3%B3n-aplicada/</loc>
-    <lastmod>2011-07-13T08:50:02+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/investigaci%C3%B3n-cuantitativa-cualitativa/</loc>
-    <lastmod>2011-07-13T08:50:02+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/t%C3%A9cnicas-de-investigaci%C3%B3n/</loc>
-    <lastmod>2011-07-13T08:50:02+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/blog/2011/07/13/unir-que-es-la-investigacion-cuantitativa-cualitativa-1/</loc>
-    <lastmod>2011-07-13T08:50:02+00:00</lastmod>
   </url>
   
   <url>
@@ -8532,12 +11128,6 @@
   </url>
   
   <url>
-    <loc>/tags/frecuencia/</loc>
-    <lastmod>2011-05-24T15:11:29+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/internaciona/</loc>
     <lastmod>2011-05-24T15:11:29+00:00</lastmod>
     <priority>0</priority>
@@ -8547,11 +11137,6 @@
     <loc>/tags/investigaci%C3%B3n/</loc>
     <lastmod>2011-05-24T15:11:29+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/blog/2011/05/12/grado-ade-leccion-convenciones-de-fechas-en-finanzas-matematicas-economia-unir-2014-1/</loc>
-    <lastmod>2011-05-12T15:10:46+00:00</lastmod>
   </url>
   
   <url>
@@ -8572,24 +11157,20 @@
   </url>
   
   <url>
+    <loc>/tags/financieras/</loc>
+    <lastmod>2011-05-12T15:10:46+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/masters/</loc>
     <lastmod>2011-05-12T15:10:46+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/blog/2011/05/12/grado-ade-leccion-el-valor-temporal-del-dinero-matematicas-economia-unir-2014-1/</loc>
-    <lastmod>2011-05-12T15:08:19+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/blog/2011/05/12/grado-ade-leccion-el-valor-temporal-del-dinero-matematicas-economia-unir-2014/</loc>
     <lastmod>2011-05-12T15:08:19+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/2011/05/12/grado-ade-leccion-calculo-integral-matematicas-economia-unir-1/</loc>
-    <lastmod>2011-05-12T15:06:15+00:00</lastmod>
   </url>
   
   <url>
@@ -8612,6 +11193,47 @@
   <url>
     <loc>/tags/integral-inmediata/</loc>
     <lastmod>2011-05-12T15:06:15+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/matem%C3%A1ticas-financieras/</loc>
+    <lastmod>2011-05-12T15:06:15+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/uem/</loc>
+    <lastmod>2011-02-01T10:39:38+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2011/02/01/uem-personal-matematicas-empresariales/</loc>
+    <lastmod>2011-02-01T10:39:38+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/matematicas-empresariales/</loc>
+    <lastmod>2011-02-01T10:39:38+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/uem/</loc>
+    <lastmod>2011-02-01T10:39:38+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/uem-personal/</loc>
+    <lastmod>2011-02-01T10:39:38+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/universidad-europea-de-madrid/</loc>
+    <lastmod>2011-02-01T10:39:38+00:00</lastmod>
     <priority>0</priority>
   </url>
   

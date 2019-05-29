@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Decimal on Unitube</title>
+    <link>/tags/decimal/</link>
+    <description>Recent content in Decimal on Unitube</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 23 Oct 2015 13:09:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/decimal/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2. Introducción al sistema decimal</title>
+      <link>/blog/2015/10/23/2-introduccion-al-sistema-decimal/</link>
+      <pubDate>Fri, 23 Oct 2015 13:09:00 +0000</pubDate>
+      
+      <guid>/blog/2015/10/23/2-introduccion-al-sistema-decimal/</guid>
+      <description>Este vídeo explica los fundamentos del sistema de numeración decimal que tenemos hoy en día.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

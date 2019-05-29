@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>curva de Lorenz on Unitube</title>
+    <link>/tags/curva-de-lorenz/</link>
+    <description>Recent content in curva de Lorenz on Unitube</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 19 Jun 2015 08:28:08 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/curva-de-lorenz/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ejercicio 1 examen 8/6/15 de descriptiva</title>
+      <link>/blog/2015/06/19/ejercicio-1-examen-8-6-15-de-descriptiva/</link>
+      <pubDate>Fri, 19 Jun 2015 08:28:08 +0000</pubDate>
+      
+      <guid>/blog/2015/06/19/ejercicio-1-examen-8-6-15-de-descriptiva/</guid>
+      <description>Equidad, curva de Lorenz, índice de Gini
+  </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,26 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Muestreo on Uvide</title>
+    <title>muestreo on Unitube</title>
     <link>/tags/muestreo/</link>
-    <description>Recent content in Muestreo on Uvide</description>
+    <description>Recent content in muestreo on Unitube</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Mon, 28 Nov 2011 20:58:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Feb 2015 07:43:28 +0000</lastBuildDate>
     
 	<atom:link href="/tags/muestreo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Distribuciones en el muestreo. Conceptos generales |  | UPV</title>
-      <link>/blog/2011/11/28/distribuciones-en-el-muestreo-conceptos-generales-upv-1/</link>
-      <pubDate>Mon, 28 Nov 2011 20:58:15 +0000</pubDate>
+      <title>06. MUESTREO ESTADÍSTICO</title>
+      <link>/blog/2015/02/16/06-muestreo-estad%C3%ADstico/</link>
+      <pubDate>Mon, 16 Feb 2015 07:43:28 +0000</pubDate>
       
-      <guid>/blog/2011/11/28/distribuciones-en-el-muestreo-conceptos-generales-upv-1/</guid>
-      <description>Título: Distribuciones en el muestreo. Conceptos generales
-Descripción: Se definen los Conceptos generales en el estudio de las Distribuciones en el muestreo.
-Autor/a: Cabrera García Suitberto
- Universitat Politècnica de València UPV: https://www.upv.es Más vídeos en: https://www.youtube.com/valenciaupv Accede a nuestros MOOC: https://upvx.es    </description>
+      <guid>/blog/2015/02/16/06-muestreo-estad%C3%ADstico/</guid>
+      <description> MUESTREO ESTADÍSTICO. Métodos y Técnicas de Investigación. Miguel Vicente Mariño. Universidad de Valladolid.    </description>
     </item>
     
     <item>
@@ -31,18 +28,6 @@ Autor/a: Cabrera García Suitberto
       <guid>/blog/2011/11/28/distribuciones-en-el-muestreo-conceptos-generales-upv/</guid>
       <description>Título: Distribuciones en el muestreo. Conceptos generales
 Descripción: Se definen los Conceptos generales en el estudio de las Distribuciones en el muestreo.
-Autor/a: Cabrera García Suitberto
- Universitat Politècnica de València UPV: https://www.upv.es Más vídeos en: https://www.youtube.com/valenciaupv Accede a nuestros MOOC: https://upvx.es    </description>
-    </item>
-    
-    <item>
-      <title>Distribuciones en el muestreo. Distribución de la media muestral |  | UPV</title>
-      <link>/blog/2011/11/28/distribuciones-en-el-muestreo-distribucion-de-la-media-muestral-upv-1/</link>
-      <pubDate>Mon, 28 Nov 2011 20:55:15 +0000</pubDate>
-      
-      <guid>/blog/2011/11/28/distribuciones-en-el-muestreo-distribucion-de-la-media-muestral-upv-1/</guid>
-      <description>Título: Distribuciones en el muestreo. Distribución de la media muestral
-Descripción: Se analiza la Distribución de la media muestral.
 Autor/a: Cabrera García Suitberto
  Universitat Politècnica de València UPV: https://www.upv.es Más vídeos en: https://www.youtube.com/valenciaupv Accede a nuestros MOOC: https://upvx.es    </description>
     </item>

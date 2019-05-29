@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>homogeneidad on Unitube</title>
+    <link>/tags/homogeneidad/</link>
+    <description>Recent content in homogeneidad on Unitube</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 20 May 2014 11:27:35 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/homogeneidad/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Matemáticas para la Empresa II - Tema 5. Ejercicio 1 - Alfonso Rosa</title>
+      <link>/blog/2014/05/20/matematicas-para-la-empresa-ii-tema-5-ejercicio-1-alfonso-rosa/</link>
+      <pubDate>Tue, 20 May 2014 11:27:35 +0000</pubDate>
+      
+      <guid>/blog/2014/05/20/matematicas-para-la-empresa-ii-tema-5-ejercicio-1-alfonso-rosa/</guid>
+      <description>http://www.ucam.edu/estudios/grados/ade-semipresencial
+Departamento: Facultad de Ciencias Jurídicas y Empresariales Titulación: Grado en Administración y Dirección de Empresas
+Grado de homogeneidad
+  </description>
+    </item>
+    
+  </channel>
+</rss>

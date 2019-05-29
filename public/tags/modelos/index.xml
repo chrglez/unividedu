@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Modelos on Uvide</title>
+    <title>Modelos on Unitube</title>
     <link>/tags/modelos/</link>
-    <description>Recent content in Modelos on Uvide</description>
+    <description>Recent content in Modelos on Unitube</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Sat, 20 Oct 2018 11:43:48 +0000</lastBuildDate>
@@ -18,16 +18,6 @@
       
       <guid>/blog/2018/10/20/iii-consulta-al-profesor-como-estimar-modelos-lineales-en-excel/</guid>
       <description>II. Como usar y realizar predicción con la función Estimacion.Lineal de Excel, respuestas del profesor Víctor R. López a cuestiones de los alumnos: María y Diego.
-  </description>
-    </item>
-    
-    <item>
-      <title>6. Captura de Datos y Estimación (E-views 1). Introducción a la Econometría VI (VRLR)</title>
-      <link>/blog/2017/10/06/6-captura-de-datos-y-estimacion-e-views-1-introduccion-a-la-econometria-vi-vrlr-1/</link>
-      <pubDate>Fri, 06 Oct 2017 16:37:43 +0000</pubDate>
-      
-      <guid>/blog/2017/10/06/6-captura-de-datos-y-estimacion-e-views-1-introduccion-a-la-econometria-vi-vrlr-1/</guid>
-      <description>Sexto vídeo de la colección de Introducción a la Econometría por el Profesor Víctor Raúl López Ruiz (VRLR) donde se explica la captura de datos o importación y Estimación con E-views.
   </description>
     </item>
     
