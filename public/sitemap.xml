@@ -323,12 +323,6 @@
   </url>
   
   <url>
-    <loc>/tags/becas-universidad/</loc>
-    <lastmod>2018-04-27T12:02:41+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/emprendimiento-valencia/</loc>
     <lastmod>2018-04-27T12:02:41+00:00</lastmod>
     <priority>0</priority>
@@ -353,6 +347,12 @@
   
   <url>
     <loc>/tags/grado-ade-para-emprendedores/</loc>
+    <lastmod>2018-04-27T12:02:41+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/becas-universidad/</loc>
     <lastmod>2018-04-27T12:02:41+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -426,18 +426,18 @@
   </url>
   
   <url>
+    <loc>/tags/autocorrelaci%C3%B3n/</loc>
+    <lastmod>2018-03-04T19:05:38+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/blog/2018/03/04/iii-mme-eliminando-autocorrelacion/</loc>
     <lastmod>2018-03-04T19:05:38+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/victor-raul-l%C3%B3pez-ruiz/</loc>
-    <lastmod>2018-03-04T19:05:38+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/autocorrelaci%C3%B3n/</loc>
     <lastmod>2018-03-04T19:05:38+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -803,6 +803,12 @@
   </url>
   
   <url>
+    <loc>/tags/big-data/</loc>
+    <lastmod>2017-05-19T08:07:01+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/deep-learning/</loc>
     <lastmod>2017-05-19T08:07:01+00:00</lastmod>
     <priority>0</priority>
@@ -851,12 +857,6 @@
   
   <url>
     <loc>/tags/wordcloud/</loc>
-    <lastmod>2017-05-19T08:07:01+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/big-data/</loc>
     <lastmod>2017-05-19T08:07:01+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2659,12 +2659,6 @@
   </url>
   
   <url>
-    <loc>/tags/producci%C3%B3n/</loc>
-    <lastmod>2016-04-28T16:52:10+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/requerimientos/</loc>
     <lastmod>2016-04-28T16:52:10+00:00</lastmod>
     <priority>0</priority>
@@ -2684,6 +2678,12 @@
   
   <url>
     <loc>/tags/operaciones/</loc>
+    <lastmod>2016-04-28T16:52:10+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/producci%C3%B3n/</loc>
     <lastmod>2016-04-28T16:52:10+00:00</lastmod>
     <priority>0</priority>
   </url>
