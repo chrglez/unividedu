@@ -1,7 +1,7 @@
 ---
 banner: img/banners/umh1263-2012-13-lec008-numeros-indice-introduccion-y-conceptos-basicos.jpg
 categories:
-- NA
+- UMH
 date: 2013-03-11T13:40:40.000Z
 tags:
 - UMH

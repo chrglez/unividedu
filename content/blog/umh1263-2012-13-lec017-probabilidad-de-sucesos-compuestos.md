@@ -1,7 +1,7 @@
 ---
 banner: img/banners/umh1263-2012-13-lec017-probabilidad-de-sucesos-compuestos.jpg
 categories:
-- NA
+- UMH
 date: 2013-05-21T06:40:49.000Z
 tags:
 - UMH

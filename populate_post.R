@@ -56,7 +56,7 @@ for (i in 1:5) {
   post <- c(post, pos)
 }
 
-post <- c(post,501:nrow(yt))
+
 #set.seed(1234)
 yt_filtered <- yt %>% slice(post) %>% select(acrom, enlace)
 #yt_filtered <- yt %>% select(acrom, enlace)
@@ -92,10 +92,10 @@ if (is.null(img)) img <- datos$items$snippet$thumbnails$standard$url
 if (is.null(img)) img <- datos$items$snippet$thumbnails$default$url
 
 print(img)
-temp <- tempfile()
-download.file(img, temp, mode = "wb")
-imFile <- image_read(temp)
-resized <- image_scale(imFile,'1000x750!' )
+##temp <- tempfile()
+##download.file(img, temp, mode = "wb")
+##imFile <- image_read(temp)
+##resized <- image_scale(imFile,'1000x750!' )
 path <- 'static/img/banners/'
 # name_file <- paste0(paste(c('banner',
 #                    Filter(function (x) nchar(x)>3,
@@ -117,17 +117,17 @@ name_file <- title %>% str_split(',', simplify = T) %>% `[[`(1) %>%
 
 print(name_file)
 
-if (name_file %in% list.files(path)) {
-  if (str_detect(name_file,'-\\d.jpg')) {
-    num <- str_extract(name_file,'-\\d.jpg') %>% str_extract('\\d') %>% as.integer()
-    name_file <- str_replace(name_file,'-\\d.jpg',str_c('-',num + 1,'.jpg'))
-    } else {
-    name_file <- str_replace(name_file,'.jpg','-1.jpg')
-    }
-  }
+# if (name_file %in% list.files(path)) {
+#   if (str_detect(name_file,'-\\d.jpg')) {
+#     num <- str_extract(name_file,'-\\d.jpg') %>% str_extract('\\d') %>% as.integer()
+#     name_file <- str_replace(name_file,'-\\d.jpg',str_c('-',num + 1,'.jpg'))
+#     } else {
+#     name_file <- str_replace(name_file,'.jpg','-1.jpg')
+#     }
+#   }
 
 
-image_write(resized,paste0(path,name_file))
+# image_write(resized,paste0(path,name_file))
 
 
 text <- paste0("---\nbanner: ",

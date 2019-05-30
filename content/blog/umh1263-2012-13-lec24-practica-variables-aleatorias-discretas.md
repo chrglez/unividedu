@@ -1,7 +1,7 @@
 ---
 banner: img/banners/umh1263-2012-13-lec24-practica-variables-aleatorias-discretas.jpg
 categories:
-- NA
+- UMH
 date: 2013-06-14T10:44:17.000Z
 tags:
 - UMH

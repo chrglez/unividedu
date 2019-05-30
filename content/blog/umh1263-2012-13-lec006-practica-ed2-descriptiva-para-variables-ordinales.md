@@ -1,7 +1,7 @@
 ---
 banner: img/banners/umh1263-2012-13-lec006-practica-ed2-descriptiva-para-variables-ordinales.jpg
 categories:
-- NA
+- UMH
 date: 2013-03-07T08:15:15.000Z
 tags:
 - UMH

@@ -1,7 +1,7 @@
 ---
 banner: img/banners/lec0041-repaso-a-los-modelos-lineales-umh1480.jpg
 categories:
-- NA
+- UMH
 date: 2016-02-29T14:30:35.000Z
 tags:
 - UMH

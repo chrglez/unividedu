@@ -1,7 +1,7 @@
 ---
 banner: img/banners/lec001-el-analisis-multivariante-y-el-marketing-umh1480.jpg
 categories:
-- NA
+- UMH
 date: 2016-02-16T11:01:11.000Z
 tags:
 - UMH

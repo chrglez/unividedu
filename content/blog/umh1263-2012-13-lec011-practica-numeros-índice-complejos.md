@@ -1,7 +1,7 @@
 ---
 banner: img/banners/umh1263-2012-13-lec011-practica-numeros-índice-complejos.jpg
 categories:
-- NA
+- UMH
 date: 2013-03-27T08:29:48.000Z
 tags:
 - UMH

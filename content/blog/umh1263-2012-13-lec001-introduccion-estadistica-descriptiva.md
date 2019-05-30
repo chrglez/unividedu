@@ -1,7 +1,7 @@
 ---
 banner: img/banners/umh1263-2012-13-lec001-introduccion-estadistica-descriptiva.jpg
 categories:
-- NA
+- UMH
 date: 2013-02-20T14:45:49.000Z
 tags:
 - UMH

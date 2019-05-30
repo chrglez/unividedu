@@ -1,7 +1,7 @@
 ---
 banner: img/banners/lec000-presentacion-de-tecnicas-estadisticas-para-la-investigacion-de-mercados-umh1480.jpg
 categories:
-- NA
+- UMH
 date: 2016-02-11T11:06:00.000Z
 tags:
 - UMH

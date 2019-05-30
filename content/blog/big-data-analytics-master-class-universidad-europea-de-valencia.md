@@ -1,7 +1,7 @@
 ---
 banner: img/banners/big-data-analytics-master-class-universidad-europea-de-valencia.jpg
 categories:
-- NA
+- UEV
 date: 2016-06-23T08:05:33.000Z
 tags:
 - Big Data

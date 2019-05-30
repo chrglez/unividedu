@@ -1,7 +1,7 @@
 ---
 banner: img/banners/ejercicio-3-segunda-semana-febrero-2017-matematica-fiannciera-grado-ade-uned.jpg
 categories:
-- NA
+- UNED
 date: 2017-02-20T17:44:09.000Z
 tags:
 - 

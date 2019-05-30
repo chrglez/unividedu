@@ -1,7 +1,7 @@
 ---
 banner: img/banners/tema-transversal-3-big-data-&-machine-learning.jpg
 categories:
-- NA
+- UMH
 date: 2017-05-19T08:07:01.000Z
 tags:
 - UMH

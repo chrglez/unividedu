@@ -1,7 +1,7 @@
 ---
 banner: img/banners/umh1263-2012-13-lec013-practicas-series-temporales.jpg
 categories:
-- NA
+- UMH
 date: 2013-04-15T08:29:23.000Z
 tags:
 - UMH

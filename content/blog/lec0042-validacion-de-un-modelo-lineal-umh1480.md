@@ -1,7 +1,7 @@
 ---
 banner: img/banners/lec0042-validacion-de-un-modelo-lineal-umh1480.jpg
 categories:
-- NA
+- UMH
 date: 2016-02-19T08:50:30.000Z
 tags:
 - UMH

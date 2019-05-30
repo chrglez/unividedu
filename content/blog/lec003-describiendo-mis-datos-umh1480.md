@@ -1,7 +1,7 @@
 ---
 banner: img/banners/lec003-describiendo-mis-datos-umh1480.jpg
 categories:
-- NA
+- UMH
 date: 2016-02-16T11:05:27.000Z
 tags:
 - UMH

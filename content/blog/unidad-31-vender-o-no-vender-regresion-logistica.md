@@ -1,7 +1,7 @@
 ---
 banner: img/banners/unidad-31-vender-o-no-vender-regresion-logistica.jpg
 categories:
-- NA
+- UMH
 date: 2017-05-02T08:15:09.000Z
 tags:
 - UMH

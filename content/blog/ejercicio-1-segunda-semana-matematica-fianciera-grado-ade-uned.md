@@ -1,7 +1,7 @@
 ---
 banner: img/banners/ejercicio-1-segunda-semana-matematica-fianciera-grado-ade-uned.jpg
 categories:
-- NA
+- UNED
 date: 2017-02-20T19:05:06.000Z
 tags:
 - 

@@ -722,12 +722,6 @@
   </url>
   
   <url>
-    <loc>/categories/na/</loc>
-    <lastmod>2017-05-30T06:06:28+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/neural-networks/</loc>
     <lastmod>2017-05-30T06:06:28+00:00</lastmod>
     <priority>0</priority>
@@ -742,6 +736,12 @@
   <url>
     <loc>/blog/2017/05/30/tema-transversal-32-redes-neuronales-artificiales/</loc>
     <lastmod>2017-05-30T06:06:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/umh/</loc>
+    <lastmod>2017-05-30T06:06:28+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -983,6 +983,106 @@
   <url>
     <loc>/blog/2017/04/07/resolucion-de-ejercicios-ancova-3%C2%AA-parte/</loc>
     <lastmod>2017-04-07T09:15:44+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2017/04/04/estadistica-estatal-ine-aude-4-6/</loc>
+    <lastmod>2017-04-04T05:43:41+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/upm/</loc>
+    <lastmod>2017-04-04T05:43:41+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/ciencia/</loc>
+    <lastmod>2017-04-04T05:43:41+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/clases/</loc>
+    <lastmod>2017-04-04T05:43:41+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/docencia/</loc>
+    <lastmod>2017-04-04T05:43:41+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/educacion/</loc>
+    <lastmod>2017-04-04T05:43:41+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/educativos/</loc>
+    <lastmod>2017-04-04T05:43:41+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/espa%C3%B1a/</loc>
+    <lastmod>2017-04-04T05:43:41+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/ingenieria/</loc>
+    <lastmod>2017-04-04T05:43:41+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/innovacion/</loc>
+    <lastmod>2017-04-04T05:43:41+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/madrid/</loc>
+    <lastmod>2017-04-04T05:43:41+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/politecnica/</loc>
+    <lastmod>2017-04-04T05:43:41+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/polit%C3%A9cnica/</loc>
+    <lastmod>2017-04-04T05:43:41+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/seminarios/</loc>
+    <lastmod>2017-04-04T05:43:41+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/upm/</loc>
+    <lastmod>2017-04-04T05:43:41+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/videos/</loc>
+    <lastmod>2017-04-04T05:43:41+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2017/04/04/20170224-05-estadistica-municipal-aude-5-6/</loc>
+    <lastmod>2017-04-04T05:43:35+00:00</lastmod>
   </url>
   
   <url>
@@ -1266,13 +1366,13 @@
   </url>
   
   <url>
-    <loc>/tags/unir/</loc>
+    <loc>/categories/unir/</loc>
     <lastmod>2017-02-24T11:35:24+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/unir/</loc>
+    <loc>/tags/unir/</loc>
     <lastmod>2017-02-24T11:35:24+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1327,6 +1427,12 @@
   <url>
     <loc>/blog/2017/02/20/ejercicio-2-2%C2%AA-parte-examen-febrero-2017-2%C2%AA-semana-matematica-financiera-grado-en-ade-uned/</loc>
     <lastmod>2017-02-20T20:57:06+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/uned/</loc>
+    <lastmod>2017-02-20T20:57:06+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -1461,12 +1567,6 @@
   
   <url>
     <loc>/tags/asesor/</loc>
-    <lastmod>2017-01-17T19:59:01+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/clases/</loc>
     <lastmod>2017-01-17T19:59:01+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1960,13 +2060,13 @@
   </url>
   
   <url>
-    <loc>/tags/uib/</loc>
+    <loc>/categories/uib/</loc>
     <lastmod>2016-09-22T12:53:17+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/uib/</loc>
+    <loc>/tags/uib/</loc>
     <lastmod>2016-09-22T12:53:17+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2610,6 +2710,12 @@
   </url>
   
   <url>
+    <loc>/categories/uev/</loc>
+    <lastmod>2016-06-23T08:05:33+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/universidad-europea/</loc>
     <lastmod>2016-06-23T08:05:33+00:00</lastmod>
     <priority>0</priority>
@@ -3191,13 +3297,13 @@
   </url>
   
   <url>
-    <loc>/tags/viu/</loc>
+    <loc>/categories/viu/</loc>
     <lastmod>2015-12-29T12:09:25+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/viu/</loc>
+    <loc>/tags/viu/</loc>
     <lastmod>2015-12-29T12:09:25+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -3522,13 +3628,13 @@
   </url>
   
   <url>
-    <loc>/tags/uoc/</loc>
+    <loc>/categories/uoc/</loc>
     <lastmod>2015-10-24T09:35:01+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/uoc/</loc>
+    <loc>/tags/uoc/</loc>
     <lastmod>2015-10-24T09:35:01+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -8401,6 +8507,12 @@
   </url>
   
   <url>
+    <loc>/tags/base/</loc>
+    <lastmod>2013-11-06T10:04:01+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/blog/2013/11/06/matematicas-para-la-empresa-i-ejercicio-3-base-y-dimension-alfonso-rosa/</loc>
     <lastmod>2013-11-06T10:04:01+00:00</lastmod>
   </url>
@@ -8418,12 +8530,6 @@
   <url>
     <loc>/blog/2013/11/06/matematicas-para-la-empresa-i-ejercicio-6-base-ortonormal-alfonso-rosa/</loc>
     <lastmod>2013-11-06T10:04:01+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/base/</loc>
-    <lastmod>2013-11-06T10:04:01+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -8831,12 +8937,6 @@
   
   <url>
     <loc>/tags/entrevista/</loc>
-    <lastmod>2013-10-08T07:56:48+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/espa%C3%B1a/</loc>
     <lastmod>2013-10-08T07:56:48+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -9276,75 +9376,67 @@
   </url>
   
   <url>
-    <loc>/tags/ciencia/</loc>
-    <lastmod>2013-05-20T17:19:52+00:00</lastmod>
+    <loc>/tags/van/</loc>
+    <lastmod>2013-05-17T12:01:15+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/docencia/</loc>
-    <lastmod>2013-05-20T17:19:52+00:00</lastmod>
+    <loc>/tags/vnanoper/</loc>
+    <lastmod>2013-05-17T12:01:15+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/educacion/</loc>
-    <lastmod>2013-05-20T17:19:52+00:00</lastmod>
+    <loc>/tags/financieras/</loc>
+    <lastmod>2013-05-17T12:01:15+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/educativos/</loc>
-    <lastmod>2013-05-20T17:19:52+00:00</lastmod>
+    <loc>/tags/inter%C3%A9s/</loc>
+    <lastmod>2013-05-17T12:01:15+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/ingenieria/</loc>
-    <lastmod>2013-05-20T17:19:52+00:00</lastmod>
+    <loc>/tags/umh5030/</loc>
+    <lastmod>2013-05-17T12:01:15+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/innovacion/</loc>
-    <lastmod>2013-05-20T17:19:52+00:00</lastmod>
+    <loc>/blog/2013/05/17/umh5030-2013-14-lec001-conceptos-basicos-con-excel-1-2/</loc>
+    <lastmod>2013-05-17T12:01:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/pr%C3%A9stamos/</loc>
+    <lastmod>2013-05-17T11:56:58+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/madrid/</loc>
-    <lastmod>2013-05-20T17:19:52+00:00</lastmod>
+    <loc>/tags/tir/</loc>
+    <lastmod>2013-05-17T11:56:58+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/politecnica/</loc>
-    <lastmod>2013-05-20T17:19:52+00:00</lastmod>
+    <loc>/tags/tirnoper/</loc>
+    <lastmod>2013-05-17T11:56:58+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/polit%C3%A9cnica/</loc>
-    <lastmod>2013-05-20T17:19:52+00:00</lastmod>
+    <loc>/tags/matem%C3%A1ticas-financieras/</loc>
+    <lastmod>2013-05-17T11:56:58+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/seminarios/</loc>
-    <lastmod>2013-05-20T17:19:52+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/upm/</loc>
-    <lastmod>2013-05-20T17:19:52+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/videos/</loc>
-    <lastmod>2013-05-20T17:19:52+00:00</lastmod>
-    <priority>0</priority>
+    <loc>/blog/2013/05/17/umh5030-2013-14-lec002-conceptos-basicos-con-excel-2-2/</loc>
+    <lastmod>2013-05-17T11:56:58+00:00</lastmod>
   </url>
   
   <url>
@@ -10649,6 +10741,12 @@
   </url>
   
   <url>
+    <loc>/categories/deusto/</loc>
+    <lastmod>2012-12-18T11:59:21+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/hd/</loc>
     <lastmod>2012-12-18T11:59:21+00:00</lastmod>
     <priority>0</priority>
@@ -11157,12 +11255,6 @@
   </url>
   
   <url>
-    <loc>/tags/financieras/</loc>
-    <lastmod>2011-05-12T15:10:46+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/masters/</loc>
     <lastmod>2011-05-12T15:10:46+00:00</lastmod>
     <priority>0</priority>
@@ -11192,12 +11284,6 @@
   
   <url>
     <loc>/tags/integral-inmediata/</loc>
-    <lastmod>2011-05-12T15:06:15+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/matem%C3%A1ticas-financieras/</loc>
     <lastmod>2011-05-12T15:06:15+00:00</lastmod>
     <priority>0</priority>
   </url>

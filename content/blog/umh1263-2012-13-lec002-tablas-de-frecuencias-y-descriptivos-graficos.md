@@ -1,7 +1,7 @@
 ---
 banner: img/banners/umh1263-2012-13-lec002-tablas-de-frecuencias-y-descriptivos-graficos.jpg
 categories:
-- NA
+- UMH
 date: 2013-02-22T08:37:07.000Z
 tags:
 - UMH

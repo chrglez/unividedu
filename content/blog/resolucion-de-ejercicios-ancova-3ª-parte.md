@@ -1,7 +1,7 @@
 ---
 banner: img/banners/resolucion-de-ejercicios-ancova-3ª-parte.jpg
 categories:
-- NA
+- UMH
 date: 2017-04-07T09:15:44.000Z
 tags:
 - UMH

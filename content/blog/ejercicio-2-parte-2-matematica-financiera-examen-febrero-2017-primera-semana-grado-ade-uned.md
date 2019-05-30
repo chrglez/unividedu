@@ -1,7 +1,7 @@
 ---
 banner: img/banners/ejercicio-2-parte-2-matematica-financiera-examen-febrero-2017-primera-semana-grado-ade-uned.jpg
 categories:
-- NA
+- UNED
 date: 2017-02-17T22:08:30.000Z
 tags:
 - 

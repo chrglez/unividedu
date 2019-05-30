@@ -1,7 +1,7 @@
 ---
 banner: img/banners/umh3067-2012-13-lec002-modelos-de-rls.jpg
 categories:
-- NA
+- UMH
 date: 2013-03-26T23:16:15.000Z
 tags:
 - UMH

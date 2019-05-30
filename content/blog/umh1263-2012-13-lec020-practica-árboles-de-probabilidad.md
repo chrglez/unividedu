@@ -1,7 +1,7 @@
 ---
 banner: img/banners/umh1263-2012-13-lec020-practica-árboles-de-probabilidad.jpg
 categories:
-- NA
+- UMH
 date: 2013-06-13T13:05:06.000Z
 tags:
 - UMH

@@ -1,7 +1,7 @@
 ---
 banner: img/banners/umh1263-2012-13-lec003-que-es-el-ine-obtener-informacion.jpg
 categories:
-- NA
+- UMH
 date: 2013-02-26T13:21:15.000Z
 tags:
 - UMH

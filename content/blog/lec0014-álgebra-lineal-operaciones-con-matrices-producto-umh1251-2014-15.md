@@ -1,7 +1,7 @@
 ---
 banner: img/banners/lec0014-álgebra-lineal-operaciones-con-matrices-producto-umh1251-2014-15.jpg
 categories:
-- NA
+- UMH
 date: 2014-09-30T10:16:09.000Z
 tags:
 - UMH

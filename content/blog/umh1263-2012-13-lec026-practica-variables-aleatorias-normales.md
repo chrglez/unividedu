@@ -1,7 +1,7 @@
 ---
 banner: img/banners/umh1263-2012-13-lec026-practica-variables-aleatorias-normales.jpg
 categories:
-- NA
+- UMH
 date: 2013-06-17T12:36:15.000Z
 tags:
 - UMH

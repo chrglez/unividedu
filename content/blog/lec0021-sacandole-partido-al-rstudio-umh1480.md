@@ -1,7 +1,7 @@
 ---
 banner: img/banners/lec0021-sacandole-partido-al-rstudio-umh1480.jpg
 categories:
-- NA
+- UMH
 date: 2016-02-16T09:24:33.000Z
 tags:
 - UMH

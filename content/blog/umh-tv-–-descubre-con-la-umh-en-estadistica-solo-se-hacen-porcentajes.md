@@ -1,7 +1,7 @@
 ---
 banner: img/banners/umh-tv-–-descubre-con-la-umh-en-estadistica-solo-se-hacen-porcentajes.jpg
 categories:
-- NA
+- UMH
 date: 2016-12-23T08:02:40.000Z
 tags:
 - UMH

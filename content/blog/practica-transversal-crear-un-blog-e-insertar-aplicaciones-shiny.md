@@ -1,7 +1,7 @@
 ---
 banner: img/banners/practica-transversal-crear-un-blog-e-insertar-aplicaciones-shiny.jpg
 categories:
-- NA
+- UMH
 date: 2017-05-02T07:44:48.000Z
 tags:
 - UMH

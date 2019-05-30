@@ -1,7 +1,7 @@
 ---
 banner: img/banners/lec0011-álgebra-lineal-vectores-umh1251-2014-15.jpg
 categories:
-- NA
+- UMH
 date: 2014-09-30T09:55:55.000Z
 tags:
 - UMH

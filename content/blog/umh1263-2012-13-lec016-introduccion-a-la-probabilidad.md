@@ -1,7 +1,7 @@
 ---
 banner: img/banners/umh1263-2012-13-lec016-introduccion-a-la-probabilidad.jpg
 categories:
-- NA
+- UMH
 date: 2013-05-07T06:10:25.000Z
 tags:
 - UMH

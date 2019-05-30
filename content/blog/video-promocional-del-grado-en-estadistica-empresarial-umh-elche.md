@@ -1,7 +1,7 @@
 ---
 banner: img/banners/video-promocional-del-grado-en-estadistica-empresarial-umh-elche.jpg
 categories:
-- NA
+- UMH
 date: 2013-09-04T10:41:09.000Z
 tags:
 - UMH

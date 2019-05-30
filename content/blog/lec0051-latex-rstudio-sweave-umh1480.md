@@ -1,7 +1,7 @@
 ---
 banner: img/banners/lec0051-latex-rstudio-sweave-umh1480.jpg
 categories:
-- NA
+- UMH
 date: 2016-03-02T11:32:35.000Z
 tags:
 - UMH

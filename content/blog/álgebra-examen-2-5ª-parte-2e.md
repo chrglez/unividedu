@@ -1,7 +1,7 @@
 ---
 banner: img/banners/álgebra-examen-2-5ª-parte-2e.jpg
 categories:
-- NA
+- UNED
 date: 2012-12-11T15:01:17.000Z
 tags:
 - álgebra

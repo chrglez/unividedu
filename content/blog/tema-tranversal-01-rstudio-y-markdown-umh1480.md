@@ -1,7 +1,7 @@
 ---
 banner: img/banners/tema-tranversal-01-rstudio-y-markdown-umh1480.jpg
 categories:
-- NA
+- UMH
 date: 2017-02-24T08:09:29.000Z
 tags:
 - UMH

@@ -1,7 +1,7 @@
 ---
 banner: img/banners/unidad-04-árboles-de-decision-y-regresion-mostrando-caminos-hacia-el-exito.jpg
 categories:
-- NA
+- UMH
 date: 2017-05-15T07:06:27.000Z
 tags:
 - UMH

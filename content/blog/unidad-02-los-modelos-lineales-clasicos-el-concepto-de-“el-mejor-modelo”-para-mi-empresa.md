@@ -1,7 +1,7 @@
 ---
 banner: img/banners/unidad-02-los-modelos-lineales-clasicos-el-concepto-de-“el-mejor-modelo”-para-mi-empresa.jpg
 categories:
-- NA
+- UMH
 date: 2017-03-17T13:04:15.000Z
 tags:
 - UMH

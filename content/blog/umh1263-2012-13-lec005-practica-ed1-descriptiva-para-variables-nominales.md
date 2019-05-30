@@ -1,7 +1,7 @@
 ---
 banner: img/banners/umh1263-2012-13-lec005-practica-ed1-descriptiva-para-variables-nominales.jpg
 categories:
-- NA
+- UMH
 date: 2013-03-07T08:19:35.000Z
 tags:
 - UMH

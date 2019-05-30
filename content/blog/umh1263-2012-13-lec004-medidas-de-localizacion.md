@@ -1,7 +1,7 @@
 ---
 banner: img/banners/umh1263-2012-13-lec004-medidas-de-localizacion.jpg
 categories:
-- NA
+- UMH
 date: 2013-03-11T13:41:50.000Z
 tags:
 - UMH

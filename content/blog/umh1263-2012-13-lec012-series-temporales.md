@@ -1,7 +1,7 @@
 ---
 banner: img/banners/umh1263-2012-13-lec012-series-temporales.jpg
 categories:
-- NA
+- UMH
 date: 2013-05-21T06:24:36.000Z
 tags:
 - UMH

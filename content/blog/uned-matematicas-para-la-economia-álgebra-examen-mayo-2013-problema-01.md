@@ -1,7 +1,7 @@
 ---
 banner: img/banners/uned-matematicas-para-la-economia-álgebra-examen-mayo-2013-problema-01.jpg
 categories:
-- NA
+- UNED
 date: 2013-08-04T12:11:19.000Z
 tags:
 - UNED

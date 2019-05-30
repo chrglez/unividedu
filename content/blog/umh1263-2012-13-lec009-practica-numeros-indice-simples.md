@@ -1,7 +1,7 @@
 ---
 banner: img/banners/umh1263-2012-13-lec009-practica-numeros-indice-simples.jpg
 categories:
-- NA
+- UMH
 date: 2013-03-21T07:31:55.000Z
 tags:
 - UMH

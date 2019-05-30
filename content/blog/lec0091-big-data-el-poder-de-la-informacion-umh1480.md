@@ -1,7 +1,7 @@
 ---
 banner: img/banners/lec0091-big-data-el-poder-de-la-informacion-umh1480.jpg
 categories:
-- NA
+- UMH
 date: 2016-04-21T13:51:06.000Z
 tags:
 - UMH

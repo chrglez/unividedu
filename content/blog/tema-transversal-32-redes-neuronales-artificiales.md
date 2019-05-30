@@ -1,7 +1,7 @@
 ---
 banner: img/banners/tema-transversal-32-redes-neuronales-artificiales.jpg
 categories:
-- NA
+- UMH
 date: 2017-05-30T06:06:28.000Z
 tags:
 - UMH

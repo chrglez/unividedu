@@ -1,7 +1,7 @@
 ---
 banner: img/banners/lec0012-álgebra-lineal-matrices-umh1251-2014-15.jpg
 categories:
-- NA
+- UMH
 date: 2014-09-30T10:10:01.000Z
 tags:
 - UMH

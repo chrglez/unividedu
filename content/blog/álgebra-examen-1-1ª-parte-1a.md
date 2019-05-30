@@ -1,7 +1,7 @@
 ---
 banner: img/banners/álgebra-examen-1-1ª-parte-1a.jpg
 categories:
-- NA
+- UNED
 date: 2012-12-04T13:21:51.000Z
 tags:
 - álgebra

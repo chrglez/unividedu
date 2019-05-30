@@ -1,7 +1,7 @@
 ---
 banner: img/banners/umh1263-2012-13-lec014-prediccion-con-series-temporales-ajuste-de-tendencia-y-estacionalidad.jpg
 categories:
-- NA
+- UMH
 date: 2013-06-13T05:59:09.000Z
 tags:
 - UMH

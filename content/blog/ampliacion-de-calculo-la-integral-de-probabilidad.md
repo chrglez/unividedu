@@ -1,7 +1,7 @@
 ---
 banner: img/banners/ampliacion-de-calculo-la-integral-de-probabilidad.jpg
 categories:
-- NA
+- UPM
 date: 2013-05-20T17:19:52.000Z
 tags:
 - universidad

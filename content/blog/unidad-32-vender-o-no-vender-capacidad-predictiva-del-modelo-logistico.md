@@ -1,7 +1,7 @@
 ---
 banner: img/banners/unidad-32-vender-o-no-vender-capacidad-predictiva-del-modelo-logistico.jpg
 categories:
-- NA
+- UMH
 date: 2017-05-10T06:25:40.000Z
 tags:
 - UMH

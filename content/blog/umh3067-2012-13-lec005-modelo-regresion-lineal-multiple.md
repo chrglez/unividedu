@@ -1,7 +1,7 @@
 ---
 banner: img/banners/umh3067-2012-13-lec005-modelo-regresion-lineal-multiple.jpg
 categories:
-- NA
+- UMH
 date: 2013-06-03T06:46:08.000Z
 tags:
 - UMH

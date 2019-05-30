@@ -1,7 +1,7 @@
 ---
 banner: img/banners/umh1263-2012-13-lec007-practica-ed3-descriptiva-para-variables-numericas.jpg
 categories:
-- NA
+- UMH
 date: 2013-03-20T13:46:44.000Z
 tags:
 - UMH

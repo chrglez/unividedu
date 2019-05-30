@@ -1,7 +1,7 @@
 ---
 banner: img/banners/lec0013-álgebra-lineal-operaciones-con-matrices-suma-umh1251-2014-15.jpg
 categories:
-- NA
+- UMH
 date: 2014-09-30T10:12:10.000Z
 tags:
 - UMH

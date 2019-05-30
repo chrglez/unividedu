@@ -1,7 +1,7 @@
 ---
 banner: img/banners/umh3067-2012-13-lec001-el-proyecto-r.jpg
 categories:
-- NA
+- UMH
 date: 2013-03-26T23:01:56.000Z
 tags:
 - UMH

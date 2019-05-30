@@ -1,7 +1,7 @@
 ---
 banner: img/banners/avances-en-tecnicas-de-localizacion-discreta.jpg
 categories:
-- NA
+- UMH
 date: 2015-09-18T11:45:49.000Z
 tags:
 - UMH

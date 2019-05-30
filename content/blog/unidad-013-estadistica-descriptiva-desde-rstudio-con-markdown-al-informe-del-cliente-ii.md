@@ -1,7 +1,7 @@
 ---
 banner: img/banners/unidad-013-estadistica-descriptiva-desde-rstudio-con-markdown-al-informe-del-cliente-ii.jpg
 categories:
-- NA
+- UMH
 date: 2017-03-06T07:06:46.000Z
 tags:
 - UMH

@@ -1,7 +1,7 @@
 ---
 banner: img/banners/umh1263-2012-13-lec028-practica-teorema-central-del-limite.jpg
 categories:
-- NA
+- UMH
 date: 2013-06-18T09:44:14.000Z
 tags:
 - UMH

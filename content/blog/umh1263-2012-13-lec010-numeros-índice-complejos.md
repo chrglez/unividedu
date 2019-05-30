@@ -1,7 +1,7 @@
 ---
 banner: img/banners/umh1263-2012-13-lec010-numeros-índice-complejos.jpg
 categories:
-- NA
+- UMH
 date: 2013-04-09T13:03:15.000Z
 tags:
 - UMH

@@ -1,7 +1,7 @@
 ---
 banner: img/banners/lec0052-markdow-rstudio-y-la-estadistica-descriptiva-umh1480.jpg
 categories:
-- NA
+- UMH
 date: 2016-03-02T12:44:42.000Z
 tags:
 - UMH

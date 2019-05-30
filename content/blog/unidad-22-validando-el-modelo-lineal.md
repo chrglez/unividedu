@@ -1,7 +1,7 @@
 ---
 banner: img/banners/unidad-22-validando-el-modelo-lineal.jpg
 categories:
-- NA
+- UMH
 date: 2017-03-20T06:39:47.000Z
 tags:
 - UMH

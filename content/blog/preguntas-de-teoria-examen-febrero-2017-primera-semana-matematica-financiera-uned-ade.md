@@ -1,7 +1,7 @@
 ---
 banner: img/banners/preguntas-de-teoria-examen-febrero-2017-primera-semana-matematica-financiera-uned-ade.jpg
 categories:
-- NA
+- UNED
 date: 2017-02-18T11:30:07.000Z
 tags:
 - 
